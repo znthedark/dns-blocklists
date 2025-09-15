@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757923320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757965140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Sep 2025 08:02 UTC
-; Version: 2025.0915.0802.38
+; Last modified: 15 Sep 2025 19:39 UTC
+; Version: 2025.0915.1939.19
 ; Syntax: RPZ
-; Number of entries: 22226
+; Number of entries: 22218
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1713,8 +1713,6 @@ altadefinizione01.click CNAME .
 *.altadefinizione01.click CNAME .
 cb01.click CNAME .
 *.cb01.click CNAME .
-daddylivehd1.click CNAME .
-*.daddylivehd1.click CNAME .
 deporte-libre.click CNAME .
 *.deporte-libre.click CNAME .
 dlhd.click CNAME .
@@ -2613,6 +2611,8 @@ aklivetv.com CNAME .
 *.aklivetv.com CNAME .
 alabout.com CNAME .
 *.alabout.com CNAME .
+tracker.alaskantf.com CNAME .
+*.tracker.alaskantf.com CNAME .
 alfanotv.com CNAME .
 *.alfanotv.com CNAME .
 alifanet.com CNAME .
@@ -12191,8 +12191,6 @@ because.moe CNAME .
 *.because.moe CNAME .
 tracker.cangku.moe CNAME .
 *.tracker.cangku.moe CNAME .
-cross.moe CNAME .
-*.cross.moe CNAME .
 tracker.doko.moe CNAME .
 *.tracker.doko.moe CNAME .
 lucke.fenesisu.moe CNAME .
@@ -14767,6 +14765,8 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
+tracker.tnl.one CNAME .
+*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -17847,8 +17847,6 @@ ch3oh.ru CNAME .
 *.ch3oh.ru CNAME .
 kissanime.com.ru CNAME .
 *.kissanime.com.ru CNAME .
-mp3.couver.ru CNAME .
-*.mp3.couver.ru CNAME .
 cracks.ru CNAME .
 *.cracks.ru CNAME .
 cutiegirl.ru CNAME .
@@ -19399,10 +19397,6 @@ cricfree.to CNAME .
 *.cricfree.to CNAME .
 crichd.to CNAME .
 *.crichd.to CNAME .
-d123movies.to CNAME .
-*.d123movies.to CNAME .
-darkbox.to CNAME .
-*.darkbox.to CNAME .
 darklight.to CNAME .
 *.darklight.to CNAME .
 darksite.to CNAME .
@@ -20135,8 +20129,6 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tracker.xn--djrq4gl4hvoi.top CNAME .
-*.tracker.xn--djrq4gl4hvoi.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757919480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757961120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Sep 2025 06:58 UTC
-; Version: 2025.0915.0658.26
+; Last modified: 15 Sep 2025 18:32 UTC
+; Version: 2025.0915.1832.03
 ; Syntax: RPZ
-; Number of entries: 12892
+; Number of entries: 12882
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2428,8 +2428,6 @@ digbig.com CNAME .
 *.digbig.com CNAME .
 digg.com CNAME .
 *.digg.com CNAME .
-service.digintalagency.com CNAME .
-*.service.digintalagency.com CNAME .
 directedurls.com CNAME .
 *.directedurls.com CNAME .
 divsly.com CNAME .
@@ -2506,8 +2504,6 @@ enlaces.entrelasgestiones.com CNAME .
 *.enlaces.entrelasgestiones.com CNAME .
 erannis.com CNAME .
 *.erannis.com CNAME .
-erthdaily.com CNAME .
-*.erthdaily.com CNAME .
 eru2earn.com CNAME .
 *.eru2earn.com CNAME .
 eru789.com CNAME .
@@ -5776,8 +5772,6 @@ curlm.in CNAME .
 *.curlm.in CNAME .
 cutts.in CNAME .
 *.cutts.in CNAME .
-cyte.in CNAME .
-*.cyte.in CNAME .
 dainik-b.in CNAME .
 *.dainik-b.in CNAME .
 deepcore.in CNAME .
@@ -6408,8 +6402,6 @@ doturl.io CNAME .
 *.doturl.io CNAME .
 dtsx.io CNAME .
 *.dtsx.io CNAME .
-easycut.io CNAME .
-*.easycut.io CNAME .
 edl.io CNAME .
 *.edl.io CNAME .
 egrid.io CNAME .
@@ -12596,8 +12588,6 @@ akunvip.win CNAME .
 *.akunvip.win CNAME .
 cashurl.win CNAME .
 *.cashurl.win CNAME .
-dogelexus.win CNAME .
-*.dogelexus.win CNAME .
 gacoer.win CNAME .
 *.gacoer.win CNAME .
 liga.win CNAME .

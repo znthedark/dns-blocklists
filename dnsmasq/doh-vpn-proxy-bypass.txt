@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 08:09 UTC
-# Version: 2025.0915.0809.33
+# Last modified: 15 Sep 2025 19:46 UTC
+# Version: 2025.0915.1946.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5221
+# Number of entries: 5206
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -209,7 +209,6 @@ local=/airdns.org/
 local=/airvpn.org/
 local=/cooldude.ajhurst.org/
 local=/study.ajhurst.org/
-local=/adguard.ajinga.net/
 local=/dns.akbxr.com/
 local=/akunssh.net/
 local=/dns.albony.xyz/
@@ -868,11 +867,9 @@ local=/dns.7sec.com.br/
 local=/anonymous-proxy.com.de/
 local=/2he1he.atf.com.np/
 local=/funmathquestions.bibektimsina.com.np/
-local=/data.c-abogados.com.ar/
 local=/dns.ceai.com.tw/
 local=/budget.chodos.com.ar/
 local=/dns.cloud88.com.au/
-local=/about.cmbazan.com.ar/
 local=/state.lab.covi.com.ar/
 local=/croxyproxy.com.in/
 local=/echan.faizinternational.com.np/
@@ -891,9 +888,7 @@ local=/doge.intinet.com.ar/
 local=/12bucklemyshoe.kalbas.com.vn/
 local=/humankindisafailure.kindy4kids.com.au/
 local=/swordmachines.laxmikarmacharya.com.np/
-local=/auditing.lepetitprince.com.np/
 local=/logisticsacademy.logistica.com.mx/
-local=/encryption.madereramilano.com.ar/
 local=/grid.brain.marcenes.com.br/
 local=/packetyo.nanbang.com.tr/
 local=/cluzeha.neikos.com.mx/
@@ -911,7 +906,6 @@ local=/dns.weixin.qq.com.cn/
 local=/nya.qualitypaperindustries.com.np/
 local=/america.record-point.com.au/
 local=/dns.redhosting.com.ar/
-local=/chat-isinterstellargood.safira.com.my/
 local=/stfu.sagarshrestha1999.com.np/
 local=/core.atom.san-ss.com.ar/
 local=/mathvideos.sharmaraju.com.np/
@@ -1017,16 +1011,14 @@ local=/vynox.ctx.cl/
 local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/curd.io/
-local=/cozy.cuza16.ro/
 local=/cv-unfiltered.xyz/
 local=/dns.cwlys.com/
 local=/cyberghostvpn.com/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
-local=/cynntex.fun/
+local=/dns.cybertonic.tech/
 local=/dns.cynthialabs.net/
-local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
 local=/d4.re/
 local=/dns.d4d.moe/
@@ -1127,7 +1119,6 @@ local=/dns.sb/
 local=/dns.watch/
 local=/deep-sea.dns.navy/
 local=/lawless-zone.dns.army/
-local=/wolf-zone.dns.army/
 local=/dns.dns-53.com/
 local=/dns.dns-53.uk/
 local=/dns.dns-53.us/
@@ -1244,7 +1235,6 @@ local=/dns1.dnscrypt.ca/
 local=/do.dnscrypt.uk/
 local=/doh.dnscrypt.uk/
 local=/v.dnscrypt.uk/
-local=/dnsenc.com/
 local=/dnsforfamily.com/
 local=/dnsforge.de/
 local=/dnsguard.pub/
@@ -1338,7 +1328,6 @@ local=/vpn.dzarlax.dev/
 local=/dzhot.us/
 local=/vpngermany.dzzz.info/
 local=/dnscache.e-utp.net/
-local=/please-please-please-watch-you-or.dexter.e1racecar.com/
 local=/earnapp.com/
 local=/earth-vpn.net/
 local=/earthvpn.com/
@@ -1371,7 +1360,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1384,7 +1372,6 @@ local=/dns.eliv.kr/
 local=/emban-networks.com/
 local=/emeraldeyex.dev/
 local=/rutgerslineup.emtbiceland.is/
-local=/status.emtbiceland.is/
 local=/en-proxy.com/
 local=/encrypt.me/
 local=/endente.com/
@@ -2648,7 +2635,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/recap.class.nadiaplatform.com/
@@ -5221,7 +5207,6 @@ local=/zonevpn.com/
 local=/zoogvpn.com/
 local=/zorrovpn.io/
 local=/calculus.zothow.com/
-local=/zougloub.eu/
 local=/zpath.net/
 local=/zpn.im/
 local=/zproxy.de/

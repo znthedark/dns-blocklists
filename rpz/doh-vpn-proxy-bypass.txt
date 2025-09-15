@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757923740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757965560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Sep 2025 08:09 UTC
-; Version: 2025.0915.0809.33
+; Last modified: 15 Sep 2025 19:46 UTC
+; Version: 2025.0915.1946.41
 ; Syntax: RPZ
-; Number of entries: 10442
+; Number of entries: 10412
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -208,18 +208,12 @@ h4g3z1-doh-vpn-proxy-bypass.web.app CNAME .
 *.h4g3z1-doh-vpn-proxy-bypass.web.app CNAME .
 wirevpn.app CNAME .
 *.wirevpn.app CNAME .
-data.c-abogados.com.ar CNAME .
-*.data.c-abogados.com.ar CNAME .
 budget.chodos.com.ar CNAME .
 *.budget.chodos.com.ar CNAME .
-about.cmbazan.com.ar CNAME .
-*.about.cmbazan.com.ar CNAME .
 state.lab.covi.com.ar CNAME .
 *.state.lab.covi.com.ar CNAME .
 doge.intinet.com.ar CNAME .
 *.doge.intinet.com.ar CNAME .
-encryption.madereramilano.com.ar CNAME .
-*.encryption.madereramilano.com.ar CNAME .
 dns.redhosting.com.ar CNAME .
 *.dns.redhosting.com.ar CNAME .
 core.atom.san-ss.com.ar CNAME .
@@ -244,8 +238,6 @@ friends-are.awesome.yukon.ar CNAME .
 *.friends-are.awesome.yukon.ar CNAME .
 lawless-zone.dns.army CNAME .
 *.lawless-zone.dns.army CNAME .
-wolf-zone.dns.army CNAME .
-*.wolf-zone.dns.army CNAME .
 hugeph.art CNAME .
 *.hugeph.art CNAME .
 math.spotifyfans.art CNAME .
@@ -1626,8 +1618,6 @@ ns2.recursive.dnsbycomodo.com CNAME .
 *.ns2.recursive.dnsbycomodo.com CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
-dnsenc.com CNAME .
-*.dnsenc.com CNAME .
 dnsforfamily.com CNAME .
 *.dnsforfamily.com CNAME .
 doh.dnslify.com CNAME .
@@ -1678,8 +1668,6 @@ duapps.com CNAME .
 *.duapps.com CNAME .
 resolver2.dyndnsinternetguide.com CNAME .
 *.resolver2.dyndnsinternetguide.com CNAME .
-please-please-please-watch-you-or.dexter.e1racecar.com CNAME .
-*.please-please-please-watch-you-or.dexter.e1racecar.com CNAME .
 earnapp.com CNAME .
 *.earnapp.com CNAME .
 earthvpn.com CNAME .
@@ -1708,8 +1696,6 @@ dns.edgeburnmedia.com CNAME .
 *.dns.edgeburnmedia.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2668,8 +2654,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 recap.class.nadiaplatform.com CNAME .
 *.recap.class.nadiaplatform.com CNAME .
 nanoproxy.com CNAME .
@@ -5534,8 +5518,6 @@ workhost.eu CNAME .
 *.workhost.eu CNAME .
 wtools.eu CNAME .
 *.wtools.eu CNAME .
-zougloub.eu CNAME .
-*.zougloub.eu CNAME .
 dns.expert CNAME .
 *.dns.expert CNAME .
 vpn.express CNAME .
@@ -5638,8 +5620,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -6380,8 +6360,6 @@ cryptostorm.is CNAME .
 *.cryptostorm.is CNAME .
 rutgerslineup.emtbiceland.is CNAME .
 *.rutgerslineup.emtbiceland.is CNAME .
-status.emtbiceland.is CNAME .
-*.status.emtbiceland.is CNAME .
 use.f4.is CNAME .
 *.use.f4.is CNAME .
 dns.flatuslifir.is CNAME .
@@ -6868,12 +6846,8 @@ www-p.reaper.mx CNAME .
 *.www-p.reaper.mx CNAME .
 modernlogic.iceage.com.my CNAME .
 *.modernlogic.iceage.com.my CNAME .
-chat-isinterstellargood.safira.com.my CNAME .
-*.chat-isinterstellargood.safira.com.my CNAME .
 advanced.name CNAME .
 *.advanced.name CNAME .
-rammerhead.d-n-s.name CNAME .
-*.rammerhead.d-n-s.name CNAME .
 hidemy.name CNAME .
 *.hidemy.name CNAME .
 dns.reckoningslug.name CNAME .
@@ -6924,8 +6898,6 @@ affcdn.net CNAME .
 *.affcdn.net CNAME .
 ahadns.net CNAME .
 *.ahadns.net CNAME .
-adguard.ajinga.net CNAME .
-*.adguard.ajinga.net CNAME .
 akunssh.net CNAME .
 *.akunssh.net CNAME .
 dnsnl.alekberg.net CNAME .
@@ -8180,8 +8152,6 @@ yug-has-a-big-butt.faizinternational.com.np CNAME .
 *.yug-has-a-big-butt.faizinternational.com.np CNAME .
 swordmachines.laxmikarmacharya.com.np CNAME .
 *.swordmachines.laxmikarmacharya.com.np CNAME .
-auditing.lepetitprince.com.np CNAME .
-*.auditing.lepetitprince.com.np CNAME .
 nya.qualitypaperindustries.com.np CNAME .
 *.nya.qualitypaperindustries.com.np CNAME .
 stfu.sagarshrestha1999.com.np CNAME .
@@ -9332,8 +9302,6 @@ proxysluts.coral-shop.ro CNAME .
 *.proxysluts.coral-shop.ro CNAME .
 core.mind.corega.ro CNAME .
 *.core.mind.corega.ro CNAME .
-cozy.cuza16.ro CNAME .
-*.cozy.cuza16.ro CNAME .
 doge.dinprima.ro CNAME .
 *.doge.dinprima.ro CNAME .
 galacticspace.galaxysoft.ro CNAME .
@@ -9670,6 +9638,8 @@ jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 *.jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
+dns.cybertonic.tech CNAME .
+*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 easyproxy.tech CNAME .

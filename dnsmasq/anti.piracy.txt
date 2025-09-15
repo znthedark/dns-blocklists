@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 08:02 UTC
-# Version: 2025.0915.0802.38
+# Last modified: 15 Sep 2025 19:39 UTC
+# Version: 2025.0915.1939.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11113
+# Number of entries: 11109
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -497,6 +497,7 @@ local=/akiba-online.com/
 local=/akkadukka.com/
 local=/aklivetv.com/
 local=/alabout.com/
+local=/tracker.alaskantf.com/
 local=/aletorrenty.pl/
 local=/alex-warez.ru/
 local=/alexlan.org/
@@ -2183,7 +2184,6 @@ local=/couchtuner.show/
 local=/couchtuner.space/
 local=/couchtuner0.com/
 local=/courseclub.me/
-local=/mp3.couver.ru/
 local=/cpasbien.bz/
 local=/cpasbien.ch/
 local=/cpasbien.cm/
@@ -2313,7 +2313,6 @@ local=/crnaberza.com/
 local=/crocdb.net/
 local=/crocovid.com/
 local=/crohasit.net/
-local=/cross.moe/
 local=/crosstowntorrents.org/
 local=/crotorrents.com/
 local=/crownbit.cc/
@@ -2376,11 +2375,9 @@ local=/cztorrent.net/
 local=/d-addicts.com/
 local=/d-s.io/
 local=/d0000d.com/
-local=/d123movies.to/
 local=/d4download.com/
 local=/bingoportal.da.ru/
 local=/daddylive.sx/
-local=/daddylivehd1.click/
 local=/daddylivestream.com/
 local=/daddyny.com/
 local=/dadyflix.co/
@@ -2397,7 +2394,6 @@ local=/dark-angel.ws/
 local=/darkanime.stream/
 local=/darkarea.pl/
 local=/darkbooter.com/
-local=/darkbox.to/
 local=/darkdata.net/
 local=/darkino.co/
 local=/darklight.to/
@@ -9077,6 +9073,7 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
+local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -10770,7 +10767,6 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
-local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 08:09 UTC
-# Version: 2025.0915.0809.07
+# Last modified: 15 Sep 2025 19:46 UTC
+# Version: 2025.0915.1946.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1480
+# Number of entries: 1475
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -82,7 +82,6 @@ local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
 local=/ahoj.email/
-local=/adguard.ajinga.net/
 local=/dns.akbxr.com/
 local=/dns.albony.xyz/
 local=/dnsnl.alekberg.net/
@@ -309,7 +308,7 @@ local=/dns.csswg.org/
 local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
-local=/cynntex.fun/
+local=/dns.cybertonic.tech/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
@@ -474,7 +473,6 @@ local=/dns1.dnscrypt.ca/
 local=/do.dnscrypt.uk/
 local=/doh.dnscrypt.uk/
 local=/v.dnscrypt.uk/
-local=/dnsenc.com/
 local=/dnsforfamily.com/
 local=/dnsforge.de/
 local=/dnsguard.pub/
@@ -540,7 +538,6 @@ local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -939,7 +936,6 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -1486,7 +1482,6 @@ local=/dns.zemows.industries/
 local=/adguard-kartoffel.zernico.de/
 local=/dns.zfsystem.tech/
 local=/doh.zknt.org/
-local=/zougloub.eu/
 local=/dns.zui.lol/
 local=/httpdns.zybang.com/
 local=/dns.zzuhacker.cn/
