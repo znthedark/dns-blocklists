@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757965140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758009720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Sep 2025 19:39 UTC
-; Version: 2025.0915.1939.19
+; Last modified: 16 Sep 2025 08:02 UTC
+; Version: 2025.0916.0802.15
 ; Syntax: RPZ
-; Number of entries: 22218
+; Number of entries: 22202
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4315,8 +4315,6 @@ flarefiles.com CNAME .
 *.flarefiles.com CNAME .
 flashfilms-hd.com CNAME .
 *.flashfilms-hd.com CNAME .
-flashnetbd.com CNAME .
-*.flashnetbd.com CNAME .
 flextorrents.com CNAME .
 *.flextorrents.com CNAME .
 flibustier64.com CNAME .
@@ -4337,8 +4335,6 @@ fmovies3.com CNAME .
 *.fmovies3.com CNAME .
 fmoviesz-to.com CNAME .
 *.fmoviesz-to.com CNAME .
-fmytv.com CNAME .
-*.fmytv.com CNAME .
 fn-bd.com CNAME .
 *.fn-bd.com CNAME .
 fnetctg.com CNAME .
@@ -4881,8 +4877,6 @@ ikkyonline.com CNAME .
 *.ikkyonline.com CNAME .
 ilgeniodellostreaming.com CNAME .
 *.ilgeniodellostreaming.com CNAME .
-illimite-streaming.com CNAME .
-*.illimite-streaming.com CNAME .
 illuminatenboard.com CNAME .
 *.illuminatenboard.com CNAME .
 ilovetorrents.com CNAME .
@@ -15613,8 +15607,6 @@ fzmoviez.org CNAME .
 *.fzmoviez.org CNAME .
 galacticcentral.org CNAME .
 *.galacticcentral.org CNAME .
-game-films.org CNAME .
-*.game-films.org CNAME .
 gamedrive.org CNAME .
 *.gamedrive.org CNAME .
 gamegui.org CNAME .
@@ -18375,8 +18367,6 @@ fmovies.se CNAME .
 *.fmovies.se CNAME .
 idope.se CNAME .
 *.idope.se CNAME .
-ilgeniodellostreaming.se CNAME .
-*.ilgeniodellostreaming.se CNAME .
 m4ufree.se CNAME .
 *.m4ufree.se CNAME .
 movieuniverse.se CNAME .
@@ -19529,8 +19519,6 @@ hdo.to CNAME .
 *.hdo.to CNAME .
 hdonline.to CNAME .
 *.hdonline.to CNAME .
-hdtoday.to CNAME .
-*.hdtoday.to CNAME .
 hianime.to CNAME .
 *.hianime.to CNAME .
 hicartoon.to CNAME .
@@ -20129,6 +20117,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tracker.xn--djrq4gl4hvoi.top CNAME .
+*.tracker.xn--djrq4gl4hvoi.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .
@@ -21149,8 +21139,6 @@ egydead.video CNAME .
 *.egydead.video CNAME .
 filmstreaming.video CNAME .
 *.filmstreaming.video CNAME .
-guardaserie.video CNAME .
-*.guardaserie.video CNAME .
 jkanime.video CNAME .
 *.jkanime.video CNAME .
 kissasian.video CNAME .
@@ -21945,8 +21933,6 @@ gdrivemovies.xyz CNAME .
 *.gdrivemovies.xyz CNAME .
 gidonline.xyz CNAME .
 *.gidonline.xyz CNAME .
-gmovies.xyz CNAME .
-*.gmovies.xyz CNAME .
 guardaserie.xyz CNAME .
 *.guardaserie.xyz CNAME .
 hd4.xyz CNAME .
@@ -21963,8 +21949,6 @@ idope.xyz CNAME .
 *.idope.xyz CNAME .
 ilgeniodellostreaming.xyz CNAME .
 *.ilgeniodellostreaming.xyz CNAME .
-ilovetoplay.xyz CNAME .
-*.ilovetoplay.xyz CNAME .
 ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .

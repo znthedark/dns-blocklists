@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 18:32 UTC
-# Version: 2025.0915.1832.03
+# Last modified: 16 Sep 2025 06:53 UTC
+# Version: 2025.0916.0653.26
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6441
+# Number of entries: 6447
 #
 *.0.gp
 *.00m.in
@@ -1412,6 +1412,7 @@
 *.dainik-b.in
 *.dajdam.rs
 *.dalinksavad.eu
+*.damoro.ro
 *.dandy.dental
 *.datalisa.id
 *.datalotrk.com
@@ -1854,7 +1855,6 @@
 *.flx.to
 *.fly.yt
 *.fly2.ws
-*.fly4win.com
 *.flyra.link
 *.flys.pw
 *.flyurl.net
@@ -1943,7 +1943,6 @@
 *.gamegift24.com
 *.gamegta.com
 *.gamerzchoices.com
-*.ganalytics.net
 *.gandi.link
 *.garuda.homes
 *.garyvee.com
@@ -2647,6 +2646,7 @@
 *.kgayz.org
 *.kgs.link
 *.kgs.yt
+*.kgs88.co
 *.kham.tw
 *.khan.co
 *.khtm.ir
@@ -2853,6 +2853,7 @@
 *.lil.ee
 *.lil.ge
 *.lil.so
+*.lil.vc
 *.lillink.xyz
 *.lilllil.ru
 *.lilnk.to
@@ -3485,6 +3486,7 @@
 *.mut.lu
 *.mute-fill-mood.life
 *.muth.io
+*.mv88.lat
 *.mvmtwatch.co
 *.mxa.us
 *.mxdisk.in
@@ -3797,6 +3799,7 @@
 *.dbf.org.in
 *.miniurl.org.in
 *.short.organicweb.top
+*.oriurl.com
 *.orll.cc
 *.orlo.uk
 *.orp.io
@@ -5028,6 +5031,7 @@
 *.studioki.re
 *.stuf.in
 *.su.pr
+*.sua.me
 *.suakhoacamlam.com
 *.sub.direct
 *.sub2unlock.net
@@ -5423,6 +5427,7 @@
 *.trib.in
 *.trick.ly
 *.trieuview.life
+*.trim.cx
 *.trim.one
 *.trim-url.com
 *.trimlink.ai
@@ -5990,6 +5995,7 @@
 *.way.to
 *.way3.in
 *.waysto.be
+*.wayurl.com
 *.waze.link
 *.wb.md
 *.wb1.eu

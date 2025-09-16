@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 19:46 UTC
-# Version: 2025.0915.1946.14
+# Last modified: 16 Sep 2025 08:09 UTC
+# Version: 2025.0916.0809.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1633
+# Number of entries: 1636
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -193,6 +193,7 @@
 0.0.0.0 ore-dns.bitdefender.net
 0.0.0.0 tky-dns.bitdefender.net
 0.0.0.0 dns.bitservices.io
+0.0.0.0 adguard.bitteeinbyte.de
 0.0.0.0 dns-tls.bitwiseshift.net
 0.0.0.0 2.dnscrypt-cert.blahdns.com
 0.0.0.0 doh.blahdns.com
@@ -378,7 +379,7 @@
 0.0.0.0 cubedns.com
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
-0.0.0.0 dns.cybertonic.tech
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -640,6 +641,7 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -649,6 +651,7 @@
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -695,7 +698,6 @@
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
-0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
@@ -1640,6 +1642,7 @@
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 dns.zfsystem.tech
 0.0.0.0 doh.zknt.org
+0.0.0.0 zougloub.eu
 0.0.0.0 dns.zui.lol
 0.0.0.0 httpdns.zybang.com
 0.0.0.0 dns.zzuhacker.cn

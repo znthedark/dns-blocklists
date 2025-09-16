@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 18:32 UTC
-# Version: 2025.0915.1832.03
+# Last modified: 16 Sep 2025 06:53 UTC
+# Version: 2025.0916.0653.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6441
+# Number of entries: 6447
 #
 local=/0.gp/
 local=/00m.in/
@@ -1412,6 +1412,7 @@ local=/dailym.ai/
 local=/dainik-b.in/
 local=/dajdam.rs/
 local=/dalinksavad.eu/
+local=/damoro.ro/
 local=/dandy.dental/
 local=/datalisa.id/
 local=/datalotrk.com/
@@ -1854,7 +1855,6 @@ local=/fluub.de/
 local=/flx.to/
 local=/fly.yt/
 local=/fly2.ws/
-local=/fly4win.com/
 local=/flyra.link/
 local=/flys.pw/
 local=/flyurl.net/
@@ -1943,7 +1943,6 @@ local=/gallerylink.info/
 local=/gamegift24.com/
 local=/gamegta.com/
 local=/gamerzchoices.com/
-local=/ganalytics.net/
 local=/gandi.link/
 local=/garuda.homes/
 local=/garyvee.com/
@@ -2647,6 +2646,7 @@ local=/kg.games/
 local=/kgayz.org/
 local=/kgs.link/
 local=/kgs.yt/
+local=/kgs88.co/
 local=/kham.tw/
 local=/khan.co/
 local=/khtm.ir/
@@ -2853,6 +2853,7 @@ local=/likes.fans/
 local=/lil.ee/
 local=/lil.ge/
 local=/lil.so/
+local=/lil.vc/
 local=/lillink.xyz/
 local=/lilllil.ru/
 local=/lilnk.to/
@@ -3485,6 +3486,7 @@ local=/t.musixmatch.com/
 local=/mut.lu/
 local=/mute-fill-mood.life/
 local=/muth.io/
+local=/mv88.lat/
 local=/mvmtwatch.co/
 local=/mxa.us/
 local=/mxdisk.in/
@@ -3797,6 +3799,7 @@ local=/cms.org.uk/
 local=/dbf.org.in/
 local=/miniurl.org.in/
 local=/short.organicweb.top/
+local=/oriurl.com/
 local=/orll.cc/
 local=/orlo.uk/
 local=/orp.io/
@@ -5028,6 +5031,7 @@ local=/stts.in/
 local=/studioki.re/
 local=/stuf.in/
 local=/su.pr/
+local=/sua.me/
 local=/suakhoacamlam.com/
 local=/sub.direct/
 local=/sub2unlock.net/
@@ -5423,6 +5427,7 @@ local=/trib.al/
 local=/trib.in/
 local=/trick.ly/
 local=/trieuview.life/
+local=/trim.cx/
 local=/trim.one/
 local=/trim-url.com/
 local=/trimlink.ai/
@@ -5990,6 +5995,7 @@ local=/waveurl.net/
 local=/way.to/
 local=/way3.in/
 local=/waysto.be/
+local=/wayurl.com/
 local=/waze.link/
 local=/wb.md/
 local=/wb1.eu/

@@ -7407,13 +7407,6 @@
       }
     },
     {
-      "PK": "gg123.vip",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gigarocket.net",
       "action": {
         "do": 0,
@@ -7618,13 +7611,6 @@
     },
     {
       "PK": "greecemar.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "greekstatus.shop",
       "action": {
         "do": 0,
         "status": 1

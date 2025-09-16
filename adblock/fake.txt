@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Sep 2025 18:29 UTC
-! Version: 2025.0915.1829.53
+! Last modified: 16 Sep 2025 06:51 UTC
+! Version: 2025.0916.0651.20
 ! Syntax: AdBlock
-! Number of entries: 14019
+! Number of entries: 13990
 !
 ||01broker.com^
 ||01crypto.com^
@@ -235,6 +235,7 @@
 ||ahbrennholz.com^
 ||ahdoftime.com^
 ||ahealthcare.online^
+||ahhaaaa.shop^
 ||hausgartenshop.ahpgqd.top^
 ||ahtavin.com^
 ||ahwui.xyz^
@@ -3902,7 +3903,6 @@
 ||eukram.com^
 ||eukrypto.site^
 ||eulaufrader.de^
-||euliduen.com^
 ||eumarketstores.com^
 ||eumartinitoko.de^
 ||eumeds.net^
@@ -3961,14 +3961,12 @@
 ||eusuperstores.com^
 ||euvalentinogaravani.de^
 ||ev-farm.com^
-||evaam.de^
 ||evaluma.de^
 ||evane.store^
 ||evans-online.de^
 ||evansdplaw.com^
 ||evatrailer.com^
 ||evbam.com^
-||evbestsk.shop^
 ||evelo.shop^
 ||eveningdressesonsale.com^
 ||eventos-sp.com^
@@ -4077,7 +4075,6 @@
 ||fahrradcitat.de^
 ||fahrraddeneurabatt.com^
 ||fahrradergeschaft.com^
-||fahrradhandel-ahrens.de^
 ||fahrradhandel-behrendt.de^
 ||fahrradhandel-hartmann.de^
 ||fahrradhandel-kramer.de^
@@ -4210,7 +4207,6 @@
 ||favoritedrugstore.com^
 ||favoriteguitar.com^
 ||favoritelakeside.com^
-||favsouls.com^
 ||faymoon.com^
 ||fbconseil-pro.com^
 ||fbsmen.com^
@@ -4262,7 +4258,6 @@
 ||ferlinwaffen.com^
 ||fermonnvertrieb.com^
 ||fernandesequipamentos.com^
-||fernarbeit-klein.de^
 ||fernbedienung-schalter.de^
 ||ferne-schied.de^
 ||ferplastdeutschland.shop^
@@ -4302,9 +4297,7 @@
 ||filloutlet.com^
 ||filmara.de^
 ||filmmentol.com^
-||filmstvz.com^
 ||fr.finaguide.com^
-||finance-pioneers.de^
 ||financial-broker.com^
 ||financialbinary.com^
 ||financialexpressbank.com^
@@ -4318,7 +4311,6 @@
 ||finanzexpress-online.com^
 ||finanzportalonline.com^
 ||finanzwelt.pro^
-||finasport.de^
 ||finaxanlage.de^
 ||finchmarkets.com^
 ||findedeinrad.de^
@@ -4352,6 +4344,7 @@
 ||firstpargaph.com^
 ||fischenladen.com^
 ||fischenmarken.com^
+||fischerfashion.com^
 ||fischermodehaus.com^
 ||fischermodemunchen.de^
 ||fischerr.de^
@@ -4500,7 +4493,6 @@
 ||formalot.com^
 ||formanacupuncture.com^
 ||formationy.com^
-||formo-handel24.de^
 ||formsmarthome.de^
 ||formula-handel.de^
 ||forstwirtschaftsholz.com^
@@ -4528,7 +4520,6 @@
 ||fourteen-mediatop13.com^
 ||fox-handel.de^
 ||foxhandel.de^
-||foxracing-eu-online.shop^
 ||foxrm.fr^
 ||fr-drbright.net^
 ||frachtaglogistics.com^
@@ -4581,7 +4572,6 @@
 ||frenzyfoodie.com^
 ||frequencyl.com^
 ||frerichsers.de^
-||fresellaet.best^
 ||freshmarkt24.com^
 ||fressnapfs.shop^
 ||frettchen-fun.de^
@@ -4674,7 +4664,6 @@
 ||fxcast.com^
 ||fxcm-group.io^
 ||fxcmanagement.com^
-||fximperial.io^
 ||fxlivecrypto-option.net^
 ||fxsep.com^
 ||fxwinning.net^
@@ -4725,7 +4714,6 @@
 ||gainful-markets.com^
 ||platform.gainfulmarkets-tech.com^
 ||gainpipstrade.com^
-||gaklarnm.shop^
 ||gala-gruppe.com^
 ||gala-waldbau.de^
 ||galaktischshop.com^
@@ -4804,7 +4792,6 @@
 ||garten-wohnwelt24.de^
 ||gartenaccessoiresshop.com^
 ||gartenannie.eu^
-||gartenbaukunster.de^
 ||gartenbedarf-ehlers.de^
 ||gartenbedarfbillig.com^
 ||gartenbillig.com^
@@ -4851,7 +4838,6 @@
 ||gashi-tech.de^
 ||gastebetten.de^
 ||gastro-max-profi.com^
-||gastrosabicas.com^
 ||gatar-baumarkt.de^
 ||gatar-trading.de^
 ||gatar-versand.de^
@@ -4875,7 +4861,6 @@
 ||gefellerts.de^
 ||geflowing.de^
 ||geigenbau-bartsch.shop^
-||geisttlebt.com^
 ||gekaholz.shop^
 ||geld-ausleihen.com^
 ||geldway.com^
@@ -5000,7 +4985,6 @@
 ||getsnowsports.com^
 ||getsphinx.de^
 ||getsportsgo.com^
-||vignetten.gettookun.com^
 ||getvoltbox.com^
 ||getvoltplug.com^
 ||getwavemax.com^
@@ -5060,7 +5044,6 @@
 ||glaciva-de.com^
 ||gladevelop.com^
 ||gladfelt.com^
-||gladgoodar.shop^
 ||gladiatorzoo.com^
 ||glam-bay.de^
 ||glamantibeauty.com^
@@ -5191,7 +5174,6 @@
 ||goodguanvs.click^
 ||goodideatrade.com^
 ||goodjobfull.com^
-||goodjutear.live^
 ||goodlike.de^
 ||goodmedsshops.com^
 ||goodpinky.com^
@@ -5199,7 +5181,6 @@
 ||goodstuffsport.com^
 ||goodstufftool.com^
 ||goodtunask.best^
-||googleseriess.com^
 ||googoshopping.com^
 ||goohu.de^
 ||goos-heizoel.de^
@@ -5444,7 +5425,6 @@
 ||hamburg-hotel.net^
 ||hamburg-modehaus.de^
 ||hamburger-versand.de^
-||hamburger-verzand.de^
 ||hamburgfashionclub.de^
 ||hamsterkiste.de^
 ||hamuelmaschinen.com^
@@ -5490,8 +5470,6 @@
 ||hanwagdeutschland.com^
 ||hanwagfabrikverkauf.com^
 ||hanwagoutletstore.com^
-||hanwagrabatt.de^
-||hanyvlgs.shop^
 ||hapfox.de^
 ||happy-shopy.de^
 ||happyalo-deutschland.de^
@@ -5511,7 +5489,6 @@
 ||harlankids.xyz^
 ||harleydavidsondeutschland.de^
 ||harleysaleoutlets.com^
-||harmonicasa.com^
 ||harmonie-fuhrerschein.de^
 ||harmoniouy.com^
 ||harper-berlin.com^
@@ -5629,12 +5606,12 @@
 ||heimgenuss.shop^
 ||heimharmonie.de^
 ||heimisches-holz.com^
-||heimjob-online.de^
 ||heimjob-vermittlung.de^
 ||heimjobfinder.de^
 ||heimjobnetz.de^
 ||heimkino-partner.shop^
 ||heimkuchenwaren.com^
+||heimliebe24.de^
 ||heimprofis.de^
 ||klarjm.heimsvdc.xyz^
 ||heimwerkende.de^
@@ -5845,7 +5822,6 @@
 ||hjmyfzzw.com^
 ||hkm-sport.shop^
 ||hkp-biofuels.com^
-||hlcdnqbu.shop^
 ||hlelu.com^
 ||hlene.com^
 ||hlpflavouring.com^
@@ -5916,7 +5892,6 @@
 ||holzpuzzlez.com^
 ||holzqualitat.de^
 ||holzraun.com^
-||holzspieltraum.com^
 ||holzstreif.de^
 ||holzti.com^
 ||holzwerkzeugekaufen.com^
@@ -5932,7 +5907,6 @@
 ||homedecofactory.com^
 ||homedecorbetter.com^
 ||homedecorfine.com^
-||homedecorforgermeny.com^
 ||homedecorgreat.com^
 ||homedepart.com^
 ||homefler.com^
@@ -6029,7 +6003,6 @@
 ||hsn-handel.de^
 ||hsn24.de^
 ||hsndeals.com^
-||htdek.com^
 ||hte-handel.de^
 ||hte-is.com^
 ||htfrasen.com^
@@ -6091,9 +6064,7 @@
 ||hurtiglane-shop.com^
 ||hushpuppiesdeutschland.com^
 ||husmode.de^
-||hustlenation.store^
 ||huypoithey.com^
-||hvts-handel.de^
 ||hvts-handel.online^
 ||hwsbrennholz.com^
 ||hwsdescontos.com^

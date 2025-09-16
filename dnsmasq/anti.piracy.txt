@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 19:39 UTC
-# Version: 2025.0915.1939.19
+# Last modified: 16 Sep 2025 08:02 UTC
+# Version: 2025.0916.0802.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11109
+# Number of entries: 11101
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3668,7 +3668,6 @@ local=/flashbit.cc/
 local=/flashfilmes.org/
 local=/flashfilms-hd.com/
 local=/flashfilms-hd.top/
-local=/flashnetbd.com/
 local=/flashtorrents.org/
 local=/flemmix.sbs/
 local=/flenix.net/
@@ -3759,7 +3758,6 @@ local=/fmoviesz.to/
 local=/fmoviesz-to.com/
 local=/fmoviez.org/
 local=/fmwhatsapp.net/
-local=/fmytv.com/
 local=/fn-bd.com/
 local=/fnetctg.com/
 local=/fnfonlinebd.com/
@@ -4000,7 +3998,6 @@ local=/galtro.fr/
 local=/gamato.info/
 local=/game-2u.com/
 local=/game-files.net/
-local=/game-films.org/
 local=/game-torrent.info/
 local=/game3rb.com/
 local=/gamebounty.world/
@@ -4159,7 +4156,6 @@ local=/glotorrents.pw/
 local=/gm-realm.net/
 local=/tracker.gmi.gd/
 local=/gmovies.cc/
-local=/gmovies.xyz/
 local=/gmt-max.org/
 local=/gnetworkbd.com/
 local=/gnula.life/
@@ -4342,7 +4338,6 @@ local=/guardaserie.top/
 local=/guardaserie.toys/
 local=/guardaserie.us/
 local=/guardaserie.vg/
-local=/guardaserie.video/
 local=/guardaserie.vip/
 local=/guardaserie.watch/
 local=/guardaserie.website/
@@ -4509,7 +4504,6 @@ local=/hdstream.cool/
 local=/tracker.hdstreet.club/
 local=/tracker.hdtime.org/
 local=/hdtoday.cc/
-local=/hdtoday.to/
 local=/hdtoday.tv/
 local=/hdtodaytv.tv/
 local=/hdtorrents.it/
@@ -4739,7 +4733,6 @@ local=/ilgeniodellostreaming.quest/
 local=/ilgeniodellostreaming.re/
 local=/ilgeniodellostreaming.sale/
 local=/ilgeniodellostreaming.sbs/
-local=/ilgeniodellostreaming.se/
 local=/ilgeniodellostreaming.site/
 local=/ilgeniodellostreaming.skin/
 local=/ilgeniodellostreaming.stream/
@@ -4756,12 +4749,10 @@ local=/ilgeniodellostreaming.wf/
 local=/ilgeniodellostreaming.wiki/
 local=/ilgeniodellostreaming.ws/
 local=/ilgeniodellostreaming.xyz/
-local=/illimite-streaming.com/
 local=/illimitestreaming.co/
 local=/illimitestreaming.fr/
 local=/illuminatenboard.com/
 local=/ilovekino.online/
-local=/ilovetoplay.xyz/
 local=/ilovetorrents.com/
 local=/ilsearch.com/
 local=/imastudios.com/
@@ -10767,6 +10758,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 18:31 UTC
-# Version: 2025.0915.1831.38
+# Last modified: 16 Sep 2025 06:53 UTC
+# Version: 2025.0916.0653.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2134
+# Number of entries: 2132
 #
 local=/000a.de/
 local=/000free.us/
@@ -1077,7 +1077,6 @@ local=/get-blogging.com/
 local=/getblogs.net/
 local=/getenjoyment.net/
 local=/getresponsesite.com/
-local=/gg123.vip/
 local=/gigarocket.net/
 local=/gilde.in/
 local=/gildenseite.de/
@@ -1109,7 +1108,6 @@ local=/great-site.net/
 local=/greatnow.com/
 local=/grecofioredesigns.shop/
 local=/greecemar.shop/
-local=/greekstatus.shop/
 local=/grwebsite.com/
 local=/gta.team/
 local=/gtempurl.com/

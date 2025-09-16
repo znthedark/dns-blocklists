@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757961120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758005580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Sep 2025 18:32 UTC
-; Version: 2025.0915.1832.03
+; Last modified: 16 Sep 2025 06:53 UTC
+; Version: 2025.0916.0653.26
 ; Syntax: RPZ
-; Number of entries: 12882
+; Number of entries: 12894
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1578,6 +1578,8 @@ kbit.co CNAME .
 *.kbit.co CNAME .
 kfrc.co CNAME .
 *.kfrc.co CNAME .
+kgs88.co CNAME .
+*.kgs88.co CNAME .
 khan.co CNAME .
 *.khan.co CNAME .
 kirr.co CNAME .
@@ -2558,8 +2560,6 @@ flowcode.com CNAME .
 *.flowcode.com CNAME .
 flowhits.com CNAME .
 *.flowhits.com CNAME .
-fly4win.com CNAME .
-*.fly4win.com CNAME .
 fneezet.com CNAME .
 *.fneezet.com CNAME .
 fnoogy.com CNAME .
@@ -3244,6 +3244,8 @@ opent2.com CNAME .
 *.opent2.com CNAME .
 opportunityonlinebusiness.com CNAME .
 *.opportunityonlinebusiness.com CNAME .
+oriurl.com CNAME .
+*.oriurl.com CNAME .
 osexuw.com CNAME .
 *.osexuw.com CNAME .
 oslash.com CNAME .
@@ -4190,6 +4192,8 @@ w3dv.com CNAME .
 *.w3dv.com CNAME .
 wangzhanzhubo.com CNAME .
 *.wangzhanzhubo.com CNAME .
+wayurl.com CNAME .
+*.wayurl.com CNAME .
 wceo.com CNAME .
 *.wceo.com CNAME .
 wdpcq.com CNAME .
@@ -4384,6 +4388,8 @@ protected.cx CNAME .
 *.protected.cx CNAME .
 tox.cx CNAME .
 *.tox.cx CNAME .
+trim.cx CNAME .
+*.trim.cx CNAME .
 vix.cx CNAME .
 *.vix.cx CNAME .
 x3.cx CNAME .
@@ -7226,6 +7232,8 @@ add.lat CNAME .
 *.add.lat CNAME .
 kua.lat CNAME .
 *.kua.lat CNAME .
+mv88.lat CNAME .
+*.mv88.lat CNAME .
 shrt.lat CNAME .
 *.shrt.lat CNAME .
 tik.lat CNAME .
@@ -9032,6 +9040,8 @@ spoo.me CNAME .
 *.spoo.me CNAME .
 stfly.me CNAME .
 *.stfly.me CNAME .
+sua.me CNAME .
+*.sua.me CNAME .
 suoc.me CNAME .
 *.suoc.me CNAME .
 surl.me CNAME .
@@ -9522,8 +9532,6 @@ url-shortener.freebusinessapps.net CNAME .
 *.url-shortener.freebusinessapps.net CNAME .
 ftnt.net CNAME .
 *.ftnt.net CNAME .
-ganalytics.net CNAME .
-*.ganalytics.net CNAME .
 gatustox.net CNAME .
 *.gatustox.net CNAME .
 gbpg.net CNAME .
@@ -10742,6 +10750,8 @@ s.cdw.ro CNAME .
 *.s.cdw.ro CNAME .
 curl.ro CNAME .
 *.curl.ro CNAME .
+damoro.ro CNAME .
+*.damoro.ro CNAME .
 fi.ro CNAME .
 *.fi.ro CNAME .
 fsu.ro CNAME .
@@ -12434,6 +12444,8 @@ ezc.vc CNAME .
 *.ezc.vc CNAME .
 goo.vc CNAME .
 *.goo.vc CNAME .
+lil.vc CNAME .
+*.lil.vc CNAME .
 linkr.vc CNAME .
 *.linkr.vc CNAME .
 seq.vc CNAME .

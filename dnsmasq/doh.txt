@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 19:46 UTC
-# Version: 2025.0915.1946.14
+# Last modified: 16 Sep 2025 08:09 UTC
+# Version: 2025.0916.0809.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1475
+# Number of entries: 1478
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -160,6 +160,7 @@ local=/nvi-dns.bitdefender.net/
 local=/ore-dns.bitdefender.net/
 local=/tky-dns.bitdefender.net/
 local=/dns.bitservices.io/
+local=/adguard.bitteeinbyte.de/
 local=/dns-tls.bitwiseshift.net/
 local=/2.dnscrypt-cert.blahdns.com/
 local=/doh.blahdns.com/
@@ -308,7 +309,7 @@ local=/dns.csswg.org/
 local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
-local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
@@ -529,6 +530,7 @@ local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -538,6 +540,7 @@ local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -584,7 +587,6 @@ local=/fidelius.top/
 local=/dns.filipccz.eu/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
-local=/dns.flightspace.net/
 local=/dns01.flm9.net/
 local=/ns1.flodns.net/
 local=/ns2.flodns.net/
@@ -1482,6 +1484,7 @@ local=/dns.zemows.industries/
 local=/adguard-kartoffel.zernico.de/
 local=/dns.zfsystem.tech/
 local=/doh.zknt.org/
+local=/zougloub.eu/
 local=/dns.zui.lol/
 local=/httpdns.zybang.com/
 local=/dns.zzuhacker.cn/
