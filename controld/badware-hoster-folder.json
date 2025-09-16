@@ -6812,6 +6812,13 @@
       }
     },
     {
+      "PK": "framer.app",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "free-blogz.com",
       "action": {
         "do": 0,

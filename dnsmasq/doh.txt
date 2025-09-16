@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Sep 2025 08:09 UTC
-# Version: 2025.0916.0809.34
+# Last modified: 16 Sep 2025 19:42 UTC
+# Version: 2025.0916.1942.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1478
+# Number of entries: 1477
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -309,6 +309,7 @@ local=/dns.csswg.org/
 local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
+local=/dns.cybertonic.tech/
 local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
@@ -530,7 +531,6 @@ local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -813,7 +813,6 @@ local=/eu1.dns.lavate.ch/
 local=/us1.dns.lavate.ch/
 local=/iterator.lazada.com/
 local=/adguard1.leadmon.net/
-local=/adguard.leadseason.eu/
 local=/adblock.leenit.kr/
 local=/yarp.lefolgoc.net/
 local=/br.servers.legat.ml/
@@ -913,7 +912,6 @@ local=/dns.moonssif.com/
 local=/morbitzer.de/
 local=/dns.mrkaran.dev/
 local=/msr177.com/
-local=/dns.msxnet.ru/
 local=/dns.mtoo.vip/
 local=/ns.mtsoln.com/
 local=/dns.mullvad.net/
@@ -938,6 +936,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

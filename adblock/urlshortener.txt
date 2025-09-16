@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Sep 2025 06:53 UTC
-! Version: 2025.0916.0653.26
+! Last modified: 16 Sep 2025 18:28 UTC
+! Version: 2025.0916.1828.21
 ! Syntax: AdBlock
-! Number of entries: 6447
+! Number of entries: 6440
 !
 ||0.gp^
 ||00m.in^
@@ -2488,7 +2488,6 @@
 ||iterasi.net^
 ||iti.bz^
 ||itiny.in^
-||itiy.in^
 ||itly.in^
 ||itm.im^
 ||itop.so^
@@ -2692,7 +2691,6 @@
 ||kliksaya.co^
 ||klink.red^
 ||klmf.ly^
-||klykn.me^
 ||kmcpwe.online^
 ||kmi.mobi^
 ||kmr1.org^
@@ -2742,7 +2740,6 @@
 ||kurv.gr^
 ||kurz.jetzt^
 ||kurzelinks.de^
-||kut.rs^
 ||kutt.it^
 ||kuttify.com^
 ||kuty.us^
@@ -2883,7 +2880,6 @@
 ||link-cut.com^
 ||link-me.vip^
 ||link-trim.in^
-||link-zy.com^
 ||link1s.com^
 ||link1s.net^
 ||link1s.top^
@@ -3301,8 +3297,6 @@
 ||mechani.sm^
 ||meck.co^
 ||medicalmarijuana.vip^
-||medusa88.online^
-||medusa88.store^
 ||meetu.ps^
 ||megalink.pro^
 ||megalink.vip^
@@ -3399,7 +3393,6 @@
 ||mnge.it^
 ||u1.mnge.co^
 ||mnot.es^
-||mntrmeme.com^
 ||mo.ma^
 ||mobilelife.me^
 ||mobiusracing.us^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758005580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758047280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Sep 2025 06:53 UTC
-; Version: 2025.0916.0653.26
+; Last modified: 16 Sep 2025 18:28 UTC
+; Version: 2025.0916.1828.21
 ; Syntax: RPZ
-; Number of entries: 12894
+; Number of entries: 12880
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2880,8 +2880,6 @@ lincyt.com CNAME .
 *.lincyt.com CNAME .
 link-cut.com CNAME .
 *.link-cut.com CNAME .
-link-zy.com CNAME .
-*.link-zy.com CNAME .
 link1s.com CNAME .
 *.link1s.com CNAME .
 linkaff.com CNAME .
@@ -3118,8 +3116,6 @@ mmbr4d.com CNAME .
 *.mmbr4d.com CNAME .
 mmo-it.com CNAME .
 *.mmo-it.com CNAME .
-mntrmeme.com CNAME .
-*.mntrmeme.com CNAME .
 mondoagram.com CNAME .
 *.mondoagram.com CNAME .
 moourl.com CNAME .
@@ -5836,8 +5832,6 @@ invy.in CNAME .
 *.invy.in CNAME .
 itiny.in CNAME .
 *.itiny.in CNAME .
-itiy.in CNAME .
-*.itiy.in CNAME .
 itly.in CNAME .
 *.itly.in CNAME .
 jsl1.in CNAME .
@@ -8798,8 +8792,6 @@ klck.me CNAME .
 *.klck.me CNAME .
 kliksaja.me CNAME .
 *.kliksaja.me CNAME .
-klykn.me CNAME .
-*.klykn.me CNAME .
 knnt.me CNAME .
 *.knnt.me CNAME .
 kootah.me CNAME .
@@ -10014,8 +10006,6 @@ kliks.online CNAME .
 *.kliks.online CNAME .
 kmcpwe.online CNAME .
 *.kmcpwe.online CNAME .
-medusa88.online CNAME .
-*.medusa88.online CNAME .
 mjp88.online CNAME .
 *.mjp88.online CNAME .
 publicearn.online CNAME .
@@ -10800,8 +10790,6 @@ sk.in.rs CNAME .
 *.sk.in.rs CNAME .
 jz.rs CNAME .
 *.jz.rs CNAME .
-kut.rs CNAME .
-*.kut.rs CNAME .
 p1.rs CNAME .
 *.p1.rs CNAME .
 qd.rs CNAME .
@@ -11366,8 +11354,6 @@ chogan.store CNAME .
 *.chogan.store CNAME .
 dogelexusin.store CNAME .
 *.dogelexusin.store CNAME .
-medusa88.store CNAME .
-*.medusa88.store CNAME .
 pedalhub.store CNAME .
 *.pedalhub.store CNAME .
 tj-bet88.store CNAME .

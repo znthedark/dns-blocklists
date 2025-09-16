@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Sep 2025 08:09 UTC
-# Version: 2025.0916.0809.34
+# Last modified: 16 Sep 2025 19:42 UTC
+# Version: 2025.0916.1942.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1636
+# Number of entries: 1635
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -379,6 +379,7 @@
 0.0.0.0 cubedns.com
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
+0.0.0.0 dns.cybertonic.tech
 0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
@@ -641,7 +642,6 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -928,7 +928,6 @@
 0.0.0.0 us1.dns.lavate.ch
 0.0.0.0 iterator.lazada.com
 0.0.0.0 adguard1.leadmon.net
-0.0.0.0 adguard.leadseason.eu
 0.0.0.0 adblock.leenit.kr
 0.0.0.0 yarp.lefolgoc.net
 0.0.0.0 br.servers.legat.ml
@@ -1032,7 +1031,6 @@
 0.0.0.0 www.morbitzer.de
 0.0.0.0 dns.mrkaran.dev
 0.0.0.0 msr177.com
-0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip
 0.0.0.0 ns.mtsoln.com
 0.0.0.0 dns.mullvad.net
@@ -1064,6 +1062,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
