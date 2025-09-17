@@ -2408,6 +2408,13 @@
       }
     },
     {
+      "PK": "grapheneos.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.gratis",
       "action": {
         "do": 0,
@@ -3641,6 +3648,13 @@
     },
     {
       "PK": "misskey.dog",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "miteru.site",
       "action": {
         "do": 1,
         "status": 1

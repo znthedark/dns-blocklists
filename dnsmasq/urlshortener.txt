@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Sep 2025 18:28 UTC
-# Version: 2025.0916.1828.21
+# Last modified: 17 Sep 2025 06:51 UTC
+# Version: 2025.0917.0651.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6440
+# Number of entries: 6446
 #
 local=/0.gp/
 local=/00m.in/
@@ -1042,6 +1042,7 @@ local=/caro.sl/
 local=/cart.mn/
 local=/casashort.live/
 local=/cash4share.com/
+local=/link.cashcard.id/
 local=/cashurl.win/
 local=/casinurl.io/
 local=/casio.link/
@@ -1292,6 +1293,7 @@ local=/creativ.li/
 local=/credicard.biz/
 local=/creeds.io/
 local=/kutt.crmgroup.ru/
+local=/crn.re/
 local=/croc.global/
 local=/cropped.xyz/
 local=/crvw.ru/
@@ -2441,6 +2443,7 @@ local=/link.intract.io/
 local=/intrescom.org/
 local=/intuit.me/
 local=/intwitspin.motorcycles/
+local=/inui.in/
 local=/invent.ge/
 local=/invpy.com/
 local=/invy.in/
@@ -2958,6 +2961,7 @@ local=/linkjitu.site/
 local=/linkjoy.org/
 local=/linkjp.org/
 local=/linkjust.com/
+local=/linkkece.com/
 local=/linkku.me/
 local=/linkku-bp.com/
 local=/linkku-kr.com/
@@ -4155,6 +4159,7 @@ local=/qut.to/
 local=/qutt.me/
 local=/qutt.us/
 local=/qvc.co/
+local=/qwli.pro/
 local=/qxa.me/
 local=/qxp.cz/
 local=/qxp.sk/
@@ -6255,6 +6260,7 @@ local=/yalink.ru/
 local=/s.yam.com/
 local=/yamantap.me/
 local=/yamechanic.com/
+local=/yan.ua/
 local=/yap.im/
 local=/yas.fyi/
 local=/yaso.su/

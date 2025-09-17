@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Sep 2025 18:26 UTC
-! Version: 2025.0916.1826.14
+! Last modified: 17 Sep 2025 06:49 UTC
+! Version: 2025.0917.0649.38
 ! Syntax: AdBlock
-! Number of entries: 13995
+! Number of entries: 13972
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1385,7 +1385,6 @@
 ||bforbinary.com^
 ||bforbroker.com^
 ||bforex.com^
-||bftb.org^
 ||bfxoption.com^
 ||bgconsult.ch^
 ||bgtcchem.shop^
@@ -2549,6 +2548,7 @@
 ||commencu.com^
 ||commercewealth.com^
 ||commiodity.com^
+||commodityk.com^
 ||commodityt.com^
 ||commodore-power-shop.de^
 ||communicatk.com^
@@ -3066,6 +3066,7 @@
 ||derekoutlet.de^
 ||derfairmieter.de^
 ||derimoservices.com^
+||derivainasm.com^
 ||derkaminofenhandel.de^
 ||derkatzenshop.de^
 ||dermao.com^
@@ -3408,6 +3409,7 @@
 ||dualtronpower.shop^
 ||duavital.com^
 ||dubaifix.eu^
+||dubaihoteluae.com^
 ||ducherower.de^
 ||duft-blumen.de^
 ||duftbaum.store^
@@ -3901,6 +3903,7 @@
 ||officiellejordan.eu.com^
 ||eu-class.com^
 ||eu-first.com^
+||eu-meds.online^
 ||eu-sezane.com^
 ||eu-top-meds.com^
 ||eu-unityfahrschule.com^
@@ -6091,6 +6094,7 @@
 ||hybridfahrrader.com^
 ||hydrip.de^
 ||hygienecleanshop.com^
+||hyip.com^
 ||hype-hoodies.com^
 ||hypelaced.co^
 ||hypersneakers.online^
@@ -6262,6 +6266,7 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
+||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -7667,6 +7672,7 @@
 ||lwex02.com^
 ||lynch-care.com^
 ||lynx-ai.pro^
+||lypgm.com^
 ||ma-kaminholz.de^
 ||maaapsale.shop^
 ||mabanco.com^
@@ -8464,7 +8470,6 @@
 ||mtquality.com^
 ||muaythaisite.com^
 ||mubassa.com^
-||muckbootdanmark.com^
 ||muckbootsosterreich.at^
 ||muckbootsoutletstore.de^
 ||muckbootssuomi.com^
@@ -8547,10 +8552,8 @@
 ||mynanosparkle.com^
 ||myneosurfcard.com^
 ||mynewpink.com^
-||myonepieceshop.de^
 ||myonlyshop.de^
 ||myperiodproject.com^
-||mypldauier.com^
 ||myselftrade.com^
 ||springfield.mysellauth.com^
 ||myshania.de^
@@ -8682,7 +8685,6 @@
 ||nationalstemcellbank.org^
 ||nativediscount.com^
 ||natur-held.de^
-||natura-zuda.de^
 ||naturaevo.com^
 ||naturalcosmeticssales.com^
 ||naturallyh.com^
@@ -8699,7 +8701,6 @@
 ||naturkraft-express.de^
 ||naturtechgarten.com^
 ||naturwaerme-karow.de^
-||naumann-versand.com^
 ||nauticaromania.com^
 ||nauticasdeutschland.de^
 ||nauticaukwebsite.com^
@@ -8787,6 +8788,7 @@
 ||neutrino-energy-coin.com^
 ||neveda-berlin.de^
 ||nevermindshoes.com^
+||nevrtheles.com^
 ||new-climbing.com^
 ||new-outdoors.com^
 ||newatfirst.com^
@@ -8869,14 +8871,12 @@
 ||nikesuomishop.com^
 ||niknfactory.com^
 ||nilamiwelp.com^
-||nileloveet.live^
 ||nilnook.de^
 ||nime24.de^
 ||nina-nicole.de^
 ||ninamodehaus.de^
 ||ninelife.at^
 ||ninelife.de^
-||nineraiment.com^
 ||ninjachemise.com^
 ||ninoplay.de^
 ||ninthcit.de^
@@ -9002,7 +9002,6 @@
 ||ntaior.com^
 ||nte-logistics.com^
 ||ntischoolpune.org^
-||ntnalrso.shop^
 ||ntonio.de^
 ||ntvnewsnet.com^
 ||nubaskin.de^
@@ -9022,7 +9021,6 @@
 ||nxsfund.com^
 ||nylsinv.com^
 ||nze.com^
-||nzvew.life^
 ||oakdalerotary.org^
 ||oakprimefinance.com^
 ||oasis-handel.de^
@@ -9070,7 +9068,6 @@
 ||oelup.de^
 ||oelzone.de^
 ||oesterreichischeapotheke.com^
-||oestfundpro.com^
 ||ofendeutschland.com^
 ||ofenholzprofi.de^
 ||ofenrohr.eu^
@@ -9082,7 +9079,6 @@
 ||offerpaint.com^
 ||offershop.xyz^
 ||offerstylehome.com^
-||offerusboxing.com^
 ||offhomedecor.com^
 ||officeboxonline.com^
 ||officesuppliedirect.com^
@@ -9118,7 +9114,6 @@
 ||oilparadies.de^
 ||oilprofit.io^
 ||oins.shop^
-||oirudinkep.com^
 ||okbon.de^
 ||okboptions.com^
 ||okelektropooleur.shop^
@@ -9180,7 +9175,6 @@
 ||oneglobal-advr.com^
 ||oneschuhe.de^
 ||oneslfnomea.net^
-||onestopliven.com^
 ||onetteches.de^
 ||onetwotrade.com^
 ||onex-corporation.com^
@@ -9196,7 +9190,6 @@
 ||onkel-nolte.de^
 ||online-apotek.no^
 ||online-fahrradwelt.com^
-||online-firmenfinder.com^
 ||online-jobs.pro^
 ||online-kreditangebot.com^
 ||online-ph.com^
@@ -9227,7 +9220,6 @@
 ||onlinepharmx.com^
 ||onlinepharmz.com^
 ||onlinereorg.com^
-||onlinerezeptfrei.de^
 ||onlinernews.click^
 ||onlinetopgarden.com^
 ||onlineusbike.com^
@@ -9260,9 +9252,7 @@
 ||onschuhewien.at^
 ||onshoes-de.shop^
 ||more2water.onshopbase.com^
-||onsports.shop^
 ||onthonehand.com^
-||ontimelive.com^
 ||ooctaviat.store^
 ||oofos--canada.com^
 ||oofos-sandals.net^
@@ -9300,7 +9290,6 @@
 ||optiplacements.com^
 ||opttradecopy.live^
 ||opzx.de^
-||orange-cruitway.online^
 ||orba24.de^
 ||orbanicsport.com^
 ||order-cs.eu^
@@ -9321,7 +9310,6 @@
 ||origincrypto.com^
 ||orizo.de^
 ||orlandkredit.com^
-||orlend.com^
 ||orlimex-versand.de^
 ||orpeagroup.com^
 ||orroshop.com^
@@ -9431,7 +9419,6 @@
 ||outletmilitarymodel.com^
 ||outletnewhome.com^
 ||outletnewin.com^
-||outletpetus.com^
 ||outletpickleball.com^
 ||outletrevel.com^
 ||outletsadv.com^
@@ -9458,7 +9445,6 @@
 ||owalaaustria.at^
 ||owalaaustrla.at^
 ||owaladeutschland.de^
-||owcup.com^
 ||owkrhql.com^
 ||oxfordall.shop^
 ||oxfordmarkets.com^
@@ -9601,7 +9587,6 @@
 ||pelletopia.de^
 ||pelletsgeschaft.com^
 ||pelletshoponline.com^
-||pelletundholz.com^
 ||pelopel.com^
 ||pelzfreunde.com^
 ||penalovemk.best^
@@ -9697,19 +9682,16 @@
 ||phytrix1.com^
 ||pibok.de^
 ||picgoy.com^
-||pickario.de^
 ||pickleballoffer.com^
 ||pickledfoodonline.com^
 ||picom-nfz.de^
 ||pictureoutdooor.com^
-||piendl-brennholz.de^
 ||pierone-de.com^
 ||pieroneverkauf.com^
 ||pieronistore.com^
 ||pierrebuy.com^
 ||pierrecardindeutschland.de^
 ||pilemeds.com^
-||pillen-apo.de^
 ||pillen-apotheke.de^
 ||pillen-bestellen-rezeptfrei.de^
 ||pillen-rezeptfrei-online.de^
@@ -9767,7 +9749,6 @@
 ||plattenopaneele.de^
 ||plattenspielerde.de^
 ||platztellershop.com^
-||plavonpvcdemak.com^
 ||play-stores.de^
 ||playbabytoys.com^
 ||playful-design.com^
@@ -9849,7 +9830,6 @@
 ||popsnowsports.com^
 ||popsportsale.com^
 ||popular-camping.com^
-||popustennis.com^
 ||porfave.de^
 ||porlabs.com^
 ||porte-monnaie.de^
@@ -10030,6 +10010,7 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
+||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -10079,7 +10060,6 @@
 ||apothekerezeptfrei-1.puzl.com^
 ||gartenmuster.pvnlvp.ink^
 ||pvqkcuin.shop^
-||pyro-effects.com^
 ||pyro-expression.com^
 ||pzinformatica.com^
 ||qartelshop.com^
@@ -10317,7 +10297,6 @@
 ||reifensverkauf.com^
 ||reifkogel24.de^
 ||reignsprime.com^
-||reindesign-garten.de^
 ||reineblume.de^
 ||reinholdrasenmaher.com^
 ||reinigung-experten.at^
@@ -10359,7 +10338,6 @@
 ||renado.de^
 ||renatainformatica.com^
 ||renew-cstmrs.com^
-||rengstl-transport.de^
 ||rennkurbelde.com^
 ||rennradergravel.com^
 ||rennraderprada.com^
@@ -10373,7 +10351,6 @@
 ||replica-uhren.cc^
 ||replicahause.is^
 ||replicakaufen.de^
-||replicasrelojes.to^
 ||replicaswatches.vip^
 ||replicauhren.be^
 ||replicauhren.kaufen^
@@ -10406,11 +10383,9 @@
 ||retter-de.shop^
 ||returnpotentialonline.com^
 ||reubenco.com^
-||reveilove.com^
 ||reviewpunt.nl^
 ||revitaprost.eu^
 ||revnuhelter.com^
-||revolutionfsl.com^
 ||revolutionracecam.com^
 ||revolutionraceinc.com^
 ||revolutionraceshop.com^
@@ -11482,6 +11457,7 @@
 ||sparprime.com^
 ||sparwahnsinn24.de^
 ||spd-mossautal.de^
+||specializeg.com^
 ||specialmenswear.com^
 ||specialselling.com^
 ||specialtytraderssale.shop^
@@ -13398,6 +13374,7 @@
 ||warenhausdeutschland.com^
 ||warenwelt-eu.com^
 ||warevo.de^
+||warmeholzhaus.com^
 ||klarrl.warmexw.buzz^
 ||warmholz.de^
 ||warmood.ch^

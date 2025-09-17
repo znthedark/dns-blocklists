@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Sep 2025 18:28 UTC
-# Version: 2025.0916.1828.21
+# Last modified: 17 Sep 2025 06:51 UTC
+# Version: 2025.0917.0651.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6440
+# Number of entries: 6446
 #
 *.0.gp
 *.00m.in
@@ -1042,6 +1042,7 @@
 *.cart.mn
 *.casashort.live
 *.cash4share.com
+*.link.cashcard.id
 *.cashurl.win
 *.casinurl.io
 *.casio.link
@@ -1292,6 +1293,7 @@
 *.credicard.biz
 *.creeds.io
 *.kutt.crmgroup.ru
+*.crn.re
 *.croc.global
 *.cropped.xyz
 *.crvw.ru
@@ -2441,6 +2443,7 @@
 *.intrescom.org
 *.intuit.me
 *.intwitspin.motorcycles
+*.inui.in
 *.invent.ge
 *.invpy.com
 *.invy.in
@@ -2958,6 +2961,7 @@
 *.linkjoy.org
 *.linkjp.org
 *.linkjust.com
+*.linkkece.com
 *.linkku.me
 *.linkku-bp.com
 *.linkku-kr.com
@@ -4155,6 +4159,7 @@
 *.qutt.me
 *.qutt.us
 *.qvc.co
+*.qwli.pro
 *.qxa.me
 *.qxp.cz
 *.qxp.sk
@@ -6255,6 +6260,7 @@
 *.s.yam.com
 *.yamantap.me
 *.yamechanic.com
+*.yan.ua
 *.yap.im
 *.yas.fyi
 *.yaso.su

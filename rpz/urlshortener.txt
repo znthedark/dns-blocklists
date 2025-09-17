@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758047280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758091860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Sep 2025 18:28 UTC
-; Version: 2025.0916.1828.21
+; Last modified: 17 Sep 2025 06:51 UTC
+; Version: 2025.0917.0651.44
 ; Syntax: RPZ
-; Number of entries: 12880
+; Number of entries: 12892
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2934,6 +2934,8 @@ linkiti.com CNAME .
 *.linkiti.com CNAME .
 linkjust.com CNAME .
 *.linkjust.com CNAME .
+linkkece.com CNAME .
+*.linkkece.com CNAME .
 linkku-bp.com CNAME .
 *.linkku-bp.com CNAME .
 linkku-kr.com CNAME .
@@ -5514,6 +5516,8 @@ awobio.id CNAME .
 *.awobio.id CNAME .
 bca.id CNAME .
 *.bca.id CNAME .
+link.cashcard.id CNAME .
+*.link.cashcard.id CNAME .
 clickurl.id CNAME .
 *.clickurl.id CNAME .
 datalisa.id CNAME .
@@ -5828,6 +5832,8 @@ ilang.in CNAME .
 *.ilang.in CNAME .
 ilix.in CNAME .
 *.ilix.in CNAME .
+inui.in CNAME .
+*.inui.in CNAME .
 invy.in CNAME .
 *.invy.in CNAME .
 itiny.in CNAME .
@@ -10486,6 +10492,8 @@ nathanaeldan.pro CNAME .
 *.nathanaeldan.pro CNAME .
 qlink.pro CNAME .
 *.qlink.pro CNAME .
+qwli.pro CNAME .
+*.qwli.pro CNAME .
 rajaolympus.pro CNAME .
 *.rajaolympus.pro CNAME .
 rbxurl.pro CNAME .
@@ -10658,6 +10666,8 @@ cfl.re CNAME .
 *.cfl.re CNAME .
 cli.re CNAME .
 *.cli.re CNAME .
+crn.re CNAME .
+*.crn.re CNAME .
 dsh.re CNAME .
 *.dsh.re CNAME .
 elle.re CNAME .
@@ -12076,6 +12086,8 @@ yji.tw CNAME .
 *.yji.tw CNAME .
 fupi.co.tz CNAME .
 *.fupi.co.tz CNAME .
+yan.ua CNAME .
+*.yan.ua CNAME .
 0a0.uk CNAME .
 *.0a0.uk CNAME .
 4tw.uk CNAME .

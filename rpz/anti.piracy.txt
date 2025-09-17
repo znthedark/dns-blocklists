@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758051300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758095760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Sep 2025 19:35 UTC
-; Version: 2025.0916.1935.21
+; Last modified: 17 Sep 2025 07:56 UTC
+; Version: 2025.0917.0756.30
 ; Syntax: RPZ
-; Number of entries: 22166
+; Number of entries: 22154
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1419,8 +1419,6 @@ oxtorrent.cc CNAME .
 *.oxtorrent.cc CNAME .
 pcmirror.cc CNAME .
 *.pcmirror.cc CNAME .
-pirate-proxy.cc CNAME .
-*.pirate-proxy.cc CNAME .
 piratebay.cc CNAME .
 *.piratebay.cc CNAME .
 pirateproxy.cc CNAME .
@@ -2601,6 +2599,8 @@ aklivetv.com CNAME .
 *.aklivetv.com CNAME .
 alabout.com CNAME .
 *.alabout.com CNAME .
+tracker.alaskantf.com CNAME .
+*.tracker.alaskantf.com CNAME .
 alfanotv.com CNAME .
 *.alfanotv.com CNAME .
 alifanet.com CNAME .
@@ -5665,8 +5665,6 @@ natorrent.com CNAME .
 *.natorrent.com CNAME .
 naturalbd.com CNAME .
 *.naturalbd.com CNAME .
-nbabite.com CNAME .
-*.nbabite.com CNAME .
 nbafullhd.com CNAME .
 *.nbafullhd.com CNAME .
 nbahdreplay.com CNAME .
@@ -5741,8 +5739,6 @@ nextgenroms.com CNAME .
 *.nextgenroms.com CNAME .
 nextwarez.com CNAME .
 *.nextwarez.com CNAME .
-nflbite.com CNAME .
-*.nflbite.com CNAME .
 nflhunter.com CNAME .
 *.nflhunter.com CNAME .
 nflstreams100.com CNAME .
@@ -11955,6 +11951,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -12209,8 +12207,6 @@ juststream.mom CNAME .
 *.juststream.mom CNAME .
 pelisflix20.mom CNAME .
 *.pelisflix20.mom CNAME .
-privatemoviez.mom CNAME .
-*.privatemoviez.mom CNAME .
 solarmovie.mom CNAME .
 *.solarmovie.mom CNAME .
 tantifilm.mom CNAME .
@@ -13697,8 +13693,6 @@ pianyuan.net CNAME .
 *.pianyuan.net CNAME .
 piecejointe.net CNAME .
 *.piecejointe.net CNAME .
-tracker.pimp4003.net CNAME .
-*.tracker.pimp4003.net CNAME .
 pinoytorrents.net CNAME .
 *.pinoytorrents.net CNAME .
 piracyproxy.net CNAME .
@@ -14773,6 +14767,8 @@ vegamovies.onl CNAME .
 *.123moviesme.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
+aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
+*.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -16075,8 +16071,6 @@ pelisplus.org CNAME .
 *.pelisplus.org CNAME .
 phook.org CNAME .
 *.phook.org CNAME .
-pianosheets.org CNAME .
-*.pianosheets.org CNAME .
 picotorrent.org CNAME .
 *.picotorrent.org CNAME .
 pirate-bay-proxy.org CNAME .
@@ -19633,8 +19627,6 @@ nflstreams.to CNAME .
 *.nflstreams.to CNAME .
 ngb.to CNAME .
 *.ngb.to CNAME .
-nhlstreams.to CNAME .
-*.nhlstreams.to CNAME .
 nitro.to CNAME .
 *.nitro.to CNAME .
 nmac.to CNAME .
@@ -20543,8 +20535,6 @@ rapidzona.tv CNAME .
 *.rapidzona.tv CNAME .
 rebellyon.tv CNAME .
 *.rebellyon.tv CNAME .
-redditsoccerstreams.tv CNAME .
-*.redditsoccerstreams.tv CNAME .
 regarder-serie.tv CNAME .
 *.regarder-serie.tv CNAME .
 retrovision.tv CNAME .
@@ -22013,8 +22003,6 @@ psarips.xyz CNAME .
 *.psarips.xyz CNAME .
 putlockerfull.xyz CNAME .
 *.putlockerfull.xyz CNAME .
-quest4play.xyz CNAME .
-*.quest4play.xyz CNAME .
 redditsoccerstreams.xyz CNAME .
 *.redditsoccerstreams.xyz CNAME .
 redwarez.xyz CNAME .

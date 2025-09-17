@@ -372,19 +372,27 @@ IPv4 lists in [plain IP format](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklist
 
 ### :new: **Newly Registered Domains (NRD)** <a name="nrd"></a>
 
-Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. However, relying on NRDs alone risks false positives since legitimate organizations also register new domains for branding or infrastructure.
+Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection.
         
+> [!WARNING]
+> These lists are very large and resource-intensive. They may cause high memory usage and contain false positives, since some legitimate domains are newly registered. Use with caution and whitelist critical services as needed.
+             
+> [!CAUTION]
+> Use at your own risk. The NRD lists are provided as-is, without guarantees, support, or a process for removing false positives.
+          
 | Time<br>period | Format<br>AdBlock | Format<br>Domains |         
 |:--------------:|:-----------------:|:-----------------:|
 | 7 days ago to yesterday    | [CDN](lnkgh_a/nrd7.txt) [GL](lnkgl_a/nrd7.txt) [CB](lnkjd_a/nrd7.txt) | [CDN](lnkgh_d/nrd7.txt) [GL](lnkgl_d/nrd7.txt) [CB](lnkjd_d/nrd7.txt) |
 | 14 days ago to 8 days ago  | [CDN](lnkgh_a/nrd14-8.txt) [GL](lnkgl_a/nrd14-8.txt) [CB](lnkjd_a/nrd14-8.txt) | [CDN](lnkgh_d/nrd14-8.txt) [GL](lnkgl_d/nrd14-8.txt) [CB](lnkjd_d/nrd14-8.txt) |
-| 21 days ago to 15 days ago | | |
+| 21 days ago to 15 days ago<br>(not all included yet) | [CDN](lnkgh_a/nrd21-15.txt) [GL](lnkgl_a/nrd21-15.txt) [CB](lnkjd_a/nrd21-15.txt) | [CDN](lnkgh_d/nrd21-15.txt) [GL](lnkgl_d/nrd21-15.txt) [CB](lnkjd_d/nrd21-15.txt) |
 | 28 days ago to 22 days ago | | |
 | 35 days ago to 29 days ago | | |
              
 > [!NOTE]
 > To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.
-
+           
+The base data for these lists is provided by [Stamus Labs](https://www.stamus-networks.com/stamus-labs/subscribe-to-threat-intel-feed).
+         
 ---
 
 ### :outbox_tray: **DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!** <a name="bypass"></a>
