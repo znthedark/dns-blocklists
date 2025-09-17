@@ -5019,6 +5019,13 @@
       }
     },
     {
+      "PK": "roguecorp.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "rokomari.store",
       "action": {
         "do": 1,
@@ -5253,6 +5260,13 @@
       "PK": "*.shop",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "shopapps.site",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

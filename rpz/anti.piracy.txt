@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758095760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758138360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Sep 2025 07:56 UTC
-; Version: 2025.0917.0756.30
+; Last modified: 17 Sep 2025 19:46 UTC
+; Version: 2025.0917.1946.02
 ; Syntax: RPZ
-; Number of entries: 22154
+; Number of entries: 22138
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6441,8 +6441,6 @@ royal-orleans.com CNAME .
 *.royal-orleans.com CNAME .
 rpgonly.com CNAME .
 *.rpgonly.com CNAME .
-rsoccerstreams.com CNAME .
-*.rsoccerstreams.com CNAME .
 runwaybroadband.com CNAME .
 *.runwaybroadband.com CNAME .
 russianfilmhub.com CNAME .
@@ -7217,8 +7215,6 @@ torrentonly.com CNAME .
 *.torrentonly.com CNAME .
 torrentoyunindir.com CNAME .
 *.torrentoyunindir.com CNAME .
-tracker.torrentparty.com CNAME .
-*.tracker.torrentparty.com CNAME .
 torrentpond.com CNAME .
 *.torrentpond.com CNAME .
 torrentportal.com CNAME .
@@ -9379,8 +9375,6 @@ seriesonline.gg CNAME .
 *.seriesonline.gg CNAME .
 streameast.gg CNAME .
 *.streameast.gg CNAME .
-torrent9.gg CNAME .
-*.torrent9.gg CNAME .
 tracker.tritan.gg CNAME .
 *.tracker.tritan.gg CNAME .
 yesmovies.gg CNAME .
@@ -9815,8 +9809,6 @@ serialnumber.in CNAME .
 *.serialnumber.in CNAME .
 simplestream.in CNAME .
 *.simplestream.in CNAME .
-skidrowgames.in CNAME .
-*.skidrowgames.in CNAME .
 softwarehomes.in CNAME .
 *.softwarehomes.in CNAME .
 stresser.in CNAME .
@@ -11951,8 +11943,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -14767,8 +14757,6 @@ vegamovies.onl CNAME .
 *.123moviesme.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
-aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
-*.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -14887,8 +14875,6 @@ rojadirectahd.online CNAME .
 *.rojadirectahd.online CNAME .
 seriesonlinebr.online CNAME .
 *.seriesonlinebr.online CNAME .
-seriesonlinegratis.online CNAME .
-*.seriesonlinegratis.online CNAME .
 seuedu.online CNAME .
 *.seuedu.online CNAME .
 shahidrazi.online CNAME .
@@ -18291,8 +18277,6 @@ cb01.school CNAME .
 *.cb01.school CNAME .
 vegamovies.school CNAME .
 *.vegamovies.school CNAME .
-streamingcommunity.schule CNAME .
-*.streamingcommunity.schule CNAME .
 vegamovies.schule CNAME .
 *.vegamovies.schule CNAME .
 123moviess.se CNAME .

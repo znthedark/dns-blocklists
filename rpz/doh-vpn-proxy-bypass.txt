@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758096240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758137100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Sep 2025 08:04 UTC
-; Version: 2025.0917.0804.39
+; Last modified: 17 Sep 2025 19:25 UTC
+; Version: 2025.0917.1925.09
 ; Syntax: RPZ
-; Number of entries: 10352
+; Number of entries: 10332
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -382,8 +382,6 @@ grid.brain.marcenes.com.br CNAME .
 *.grid.brain.marcenes.com.br CNAME .
 mrcrossmathhelp.oresumodaopera.com.br CNAME .
 *.mrcrossmathhelp.oresumodaopera.com.br CNAME .
-chat.digimaster.srv.br CNAME .
-*.chat.digimaster.srv.br CNAME .
 mabuktogel.builders CNAME .
 *.mabuktogel.builders CNAME .
 polisitogel.builders CNAME .
@@ -608,8 +606,8 @@ sitenable.ch CNAME .
 *.sitenable.ch CNAME .
 surfshark.ch CNAME .
 *.surfshark.ch CNAME .
-switch.ch CNAME .
-*.switch.ch CNAME .
+dns.switch.ch CNAME .
+*.dns.switch.ch CNAME .
 adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 onion.city CNAME .
@@ -692,8 +690,6 @@ prr.toma.cl CNAME .
 *.prr.toma.cl CNAME .
 chart.train.topone.cl CNAME .
 *.chart.train.topone.cl CNAME .
-sushi.tosochilemat.cl CNAME .
-*.sushi.tosochilemat.cl CNAME .
 illegals-in-my-yard.trustmi.cl CNAME .
 *.illegals-in-my-yard.trustmi.cl CNAME .
 mathsfun.undergames.cl CNAME .
@@ -888,8 +884,6 @@ repocket.co CNAME .
 *.repocket.co CNAME .
 securevpn.co CNAME .
 *.securevpn.co CNAME .
-counseling.skamaria.co CNAME .
-*.counseling.skamaria.co CNAME .
 skyssh.co CNAME .
 *.skyssh.co CNAME .
 spedo.co CNAME .
@@ -950,8 +944,6 @@ httpdns.c.163.com CNAME .
 *.httpdns.c.163.com CNAME .
 httpdns.music.163.com CNAME .
 *.httpdns.music.163.com CNAME .
-16yd.com CNAME .
-*.16yd.com CNAME .
 1banproxy.com CNAME .
 *.1banproxy.com CNAME .
 1clickvpn.com CNAME .
@@ -1684,8 +1676,6 @@ dns.edgeburnmedia.com CNAME .
 *.dns.edgeburnmedia.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -3310,8 +3300,6 @@ deep-hawk-892.shuttleproxy.com CNAME .
 *.deep-hawk-892.shuttleproxy.com CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-merge.silvaharo.com CNAME .
-*.merge.silvaharo.com CNAME .
 northhigh.simplecharity.com CNAME .
 *.northhigh.simplecharity.com CNAME .
 the.simplecharity.com CNAME .
@@ -3340,8 +3328,6 @@ sitesunblocked.com CNAME .
 *.sitesunblocked.com CNAME .
 siteunlock2you.com CNAME .
 *.siteunlock2you.com CNAME .
-study.skamaria.com CNAME .
-*.study.skamaria.com CNAME .
 skydragoness.com CNAME .
 *.skydragoness.com CNAME .
 website-by-zain.slandaro.com CNAME .
@@ -5588,6 +5574,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -6076,8 +6064,6 @@ suedeproxy.info CNAME .
 *.suedeproxy.info CNAME .
 surfbytes.info CNAME .
 *.surfbytes.info CNAME .
-its-spatter.blood-spatter.tcm-studios.info CNAME .
-*.its-spatter.blood-spatter.tcm-studios.info CNAME .
 vpn.technicule.info CNAME .
 *.vpn.technicule.info CNAME .
 thebestproxy.info CNAME .
@@ -9346,8 +9332,6 @@ dns.serdcebolit.ru CNAME .
 *.dns.serdcebolit.ru CNAME .
 dns1.serdcebolit.ru CNAME .
 *.dns1.serdcebolit.ru CNAME .
-shells.shokodeal.ru CNAME .
-*.shells.shokodeal.ru CNAME .
 pigs.siglent.ru CNAME .
 *.pigs.siglent.ru CNAME .
 guard.sntrk.ru CNAME .
@@ -9422,8 +9406,6 @@ osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 paradise-human.shop CNAME .
 *.paradise-human.shop CNAME .
-inspiration.stationerycrafts.shop CNAME .
-*.inspiration.stationerycrafts.shop CNAME .
 polisitogel.show CNAME .
 *.polisitogel.show CNAME .
 cnamerannmertest.ints.f5.si CNAME .
@@ -9584,8 +9566,6 @@ jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 *.jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.cybertonic.tech CNAME .
-*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 easyproxy.tech CNAME .

@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7342
+cdn.trackjs.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7309
 cn.find.api.micloud.xiaomi.net
 eu.find.api.micloud.xiaomi.net

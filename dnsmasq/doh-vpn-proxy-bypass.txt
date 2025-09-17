@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Sep 2025 08:04 UTC
-# Version: 2025.0917.0804.39
+# Last modified: 17 Sep 2025 19:25 UTC
+# Version: 2025.0917.1925.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5176
+# Number of entries: 5166
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -59,7 +59,6 @@ local=/goal.music.1337.cx/
 local=/dns.13evl.com/
 local=/httpdns.c.163.com/
 local=/httpdns.music.163.com/
-local=/16yd.com/
 local=/doh.18bit.cn/
 local=/cloud.198.games/
 local=/1and1-dns.de/
@@ -1018,7 +1017,7 @@ local=/cyberghostvpn.com/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
-local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/d4.re/
@@ -1361,7 +1360,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -3598,7 +3596,6 @@ local=/shieldproxy.net/
 local=/httpdns.n.shifen.com/
 local=/dns.shimul.me/
 local=/do.shimul.me/
-local=/shells.shokodeal.ru/
 local=/shopping-website.us/
 local=/shopproxy.net/
 local=/adguard.shoupperuser.com/
@@ -3612,7 +3609,6 @@ local=/doh.sidnlabs.nl/
 local=/pigs.siglent.ru/
 local=/dns.silen.org/
 local=/dns.silentlybren.com/
-local=/merge.silvaharo.com/
 local=/northhigh.simplecharity.com/
 local=/the.simplecharity.com/
 local=/create.simpleplantdesign.com/
@@ -3655,8 +3651,6 @@ local=/siteunlock2you.com/
 local=/sitework.info/
 local=/ofer.ox.sjtech.org/
 local=/iproyal.sjv.io/
-local=/counseling.skamaria.co/
-local=/study.skamaria.com/
 local=/skibidislicers.xyz/
 local=/lol.skibiditoi.lat/
 local=/dns.skrep.eu/
@@ -3728,7 +3722,6 @@ local=/squidmall.vip/
 local=/squidproxyserver.com/
 local=/squirrelvpn.com/
 local=/sriedmueadguard.casa/
-local=/chat.digimaster.srv.br/
 local=/adbox-v8.srv64.de/
 local=/adguard.sscw.win/
 local=/ssh-free.com/
@@ -4180,7 +4173,6 @@ local=/dns.startupstack.tech/
 local=/starvpn.com/
 local=/idea.graph.statboss.com/
 local=/staticnetcontent.com/
-local=/inspiration.stationerycrafts.shop/
 local=/stayhidden.net/
 local=/stealthvpn.com/
 local=/stealthy.co/
@@ -4269,7 +4261,7 @@ local=/rammerhead-10.swanndvr.net/
 local=/swapip.com/
 local=/swiftshieldvpn.com/
 local=/swissvpn.net/
-local=/switch.ch/
+local=/dns.switch.ch/
 local=/switchvpn.com/
 local=/switchvpn.net/
 local=/swordvpn.com/
@@ -4294,7 +4286,6 @@ local=/talk2m.com/
 local=/httpdns.danuoyi.tbcache.com/
 local=/tbjr6.com/
 local=/tbunet.com/
-local=/its-spatter.blood-spatter.tcm-studios.info/
 local=/tcpvpn.com/
 local=/dns1.techeasy.org/
 local=/vpn.technicule.info/
@@ -4438,7 +4429,6 @@ local=/torrentproxy.net/
 local=/torservers.net/
 local=/torsona.com/
 local=/torvpn.com/
-local=/sushi.tosochilemat.cl/
 local=/totallyacdn.com/
 local=/totalvpn.com/
 local=/doh.totoro.pub/

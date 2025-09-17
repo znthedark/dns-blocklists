@@ -435,6 +435,41 @@
       }
     },
     {
+      "PK": "analytics.adjust.cn",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.adjust.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.adjust.io",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.adjust.net.in",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.adjust.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics.barnebys.sh",
       "action": {
         "do": 1,

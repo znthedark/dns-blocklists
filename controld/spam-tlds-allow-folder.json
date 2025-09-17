@@ -3536,6 +3536,13 @@
       }
     },
     {
+      "PK": "roguecorp.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "rokomari.store",
       "action": {
         "do": 1,
@@ -3705,6 +3712,13 @@
     },
     {
       "PK": "shitposter.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "shopapps.site",
       "action": {
         "do": 1,
         "status": 1
