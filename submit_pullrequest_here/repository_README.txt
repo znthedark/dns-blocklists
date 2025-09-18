@@ -1,4 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
+<a href="https://github.com/sponsors/hagezi" target="_blank"><img src="https://img.shields.io/badge/Sponsor-♥️-orange" alt="Support via GitHub Sponsors" /></a>
 
 ## :zap: DNS Blocklists - For a better internet!
 
@@ -35,10 +36,11 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 21. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
 22. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
 23. [Online DNS Services](#dnsservices)
-24. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
+24. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsor Me](https://github.com/sponsors/hagezi)
 25. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
-26. [Sources](sources.md)
-27. [Contact](#contact)
+26. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
+27. [Sources](sources.md)
+28. [Contact](#contact)
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
@@ -818,9 +820,9 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 [DNSBUNKER.org](https://dnsbunker.org/) is a hardened, privacy-first DNS resolver located in Germany. Designed to block ads, malware, and surveillance - with zero logs, zero compromise.
               
-| Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC |
-|:-----------|:---------------|:------------------|
-| Pro plus + TIF + TIF IPs + DoH Bypass + Allowlist Referral | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` |
+| Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC | Apple |
+|:-----------|:---------------|:------------------|:--------|
+| Pro plus + TIF + DoH Bypass + Allowlist Referral + Safebrowsing | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758138420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758178140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Sep 2025 19:47 UTC
-; Version: 2025.0917.1947.00
+; Last modified: 18 Sep 2025 06:49 UTC
+; Version: 2025.0918.0649.00
 ; Syntax: RPZ
-; Number of entries: 13010
+; Number of entries: 12996
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4006,8 +4006,6 @@ newsletter.urcelia.com CNAME .
 *.newsletter.urcelia.com CNAME .
 url2s.com CNAME .
 *.url2s.com CNAME .
-url2xx.com CNAME .
-*.url2xx.com CNAME .
 url7x.com CNAME .
 *.url7x.com CNAME .
 url84.com CNAME .
@@ -4220,8 +4218,6 @@ vshorturl.com CNAME .
 *.vshorturl.com CNAME .
 vslinks.com CNAME .
 *.vslinks.com CNAME .
-vtity.com CNAME .
-*.vtity.com CNAME .
 vurl.com CNAME .
 *.vurl.com CNAME .
 vurlz.com CNAME .
@@ -4266,8 +4262,6 @@ wpshort.com CNAME .
 *.wpshort.com CNAME .
 wptrckr.com CNAME .
 *.wptrckr.com CNAME .
-wrdsdaily.com CNAME .
-*.wrdsdaily.com CNAME .
 on.wsj.com CNAME .
 *.on.wsj.com CNAME .
 wtfurl.com CNAME .
@@ -4342,8 +4336,6 @@ zeusurl.com CNAME .
 *.zeusurl.com CNAME .
 zguarou.com CNAME .
 *.zguarou.com CNAME .
-zieud.com CNAME .
-*.zieud.com CNAME .
 zight.com CNAME .
 *.zight.com CNAME .
 zigilink.com CNAME .
@@ -9856,8 +9848,6 @@ url.vhearts.net CNAME .
 *.url.vhearts.net CNAME .
 viprupiah138.net CNAME .
 *.viprupiah138.net CNAME .
-viptango77.net CNAME .
-*.viptango77.net CNAME .
 vtred.net CNAME .
 *.vtred.net CNAME .
 vturl.net CNAME .
@@ -11894,8 +11884,6 @@ thrill.to CNAME .
 *.thrill.to CNAME .
 tnw.to CNAME .
 *.tnw.to CNAME .
-trimmer.to CNAME .
-*.trimmer.to CNAME .
 trydevi.to CNAME .
 *.trydevi.to CNAME .
 tzu.to CNAME .
@@ -12736,8 +12724,6 @@ ss777.win CNAME .
 *.ss777.win CNAME .
 tinyurl.win CNAME .
 *.tinyurl.win CNAME .
-twitspin.win CNAME .
-*.twitspin.win CNAME .
 vpn2.win CNAME .
 *.vpn2.win CNAME .
 jetzt.work CNAME .

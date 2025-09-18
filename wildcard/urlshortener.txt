@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Sep 2025 19:47 UTC
-# Version: 2025.0917.1947.00
+# Last modified: 18 Sep 2025 06:49 UTC
+# Version: 2025.0918.0649.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6505
+# Number of entries: 6498
 #
 *.0.gp
 *.00m.in
@@ -5482,7 +5482,6 @@
 *.trim-url.com
 *.trimlink.ai
 *.trimlink.net
-*.trimmer.to
 *.trims.me
 *.trimurl.co
 *.trimurls.com
@@ -5551,7 +5550,6 @@
 *.twi.im
 *.twi.kz
 *.twirl.at
-*.twitspin.win
 *.twitterpan.com
 *.twitthis.com
 *.twiturl.de
@@ -5692,7 +5690,6 @@
 *.url2.in
 *.url2a.site
 *.url2s.com
-*.url2xx.com
 *.url302x.icu
 *.url302x.top
 *.url4.eu
@@ -5949,7 +5946,6 @@
 *.viprupiah138.net
 *.vipshortener.com
 *.vipslot4d.site
-*.viptango77.net
 *.viraatlabs.com
 *.viraln.co
 *.virl.com
@@ -5994,7 +5990,6 @@
 *.vslinks.com
 *.vt802.us
 *.shorturl.vtcode.vn
-*.vtity.com
 *.vtns.io
 *.vtred.co
 *.vtred.net
@@ -6193,7 +6188,6 @@
 *.wraply.io
 *.wrctr.co
 *.wrd.cm
-*.wrdsdaily.com
 *.wrem.it
 *.wrp.fyi
 *.wru.kr
@@ -6432,7 +6426,6 @@
 *.zi.ma
 *.zi.pe
 *.ziadi.co
-*.zieud.com
 *.zig.ht
 *.zight.com
 *.zigilink.com
