@@ -54,7 +54,7 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
 | :green_book:[Light](#light)             | 83917<br>42814     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | 222117<br>113918     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | 267422<br>133835         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :ledger:[Pro](#pro)              | 386773<br>198997         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 414815<br>213414 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :closed_book:[Ultimate](#ultimate)    | 504177<br>282163 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
@@ -133,7 +133,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 > **Blocking type:** Balanced            
 > This list version should only very rarely lead to restrictions. It is suitable for environments where there is an admin nearby who can unblock something. My personal recommendation for mostly problem-free adblocking with good privacy protection.
 
-**Entries:** 267422 domains/hosts - 29714 compressed hosts - 133835 compressed domains
+**Entries:** 386773 domains/hosts - 42975 compressed hosts - 198997 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -280,12 +280,9 @@ A blocklist for annoying and malicious pop-up ads.
 
 |             | Light          | Normal         | Pro            | Pro++          | Ultimate       | TIF      |
 |:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------:|
-| Included in | :x: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: | :yellow_square: |
+| Included in | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: | :x: |
 
 :green_circle: yes :yellow_square: partially :x: no
-
-> [!NOTE]
-> Fully included in Pro++ and Ultimate. Partially in Pro. In the combination of the Pro and additionally the Threat Intelligence Feeds (TIF) Medium or Full, all domains from the Pop-Up Ads list are included. This means that if you use the Pro and also the TIF medium or full, you no longer need to add this list separately.
 
 **Entries:** 106845 compressed domains
 
@@ -309,7 +306,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 799763 domains/hosts - 88863 compressed hosts - 675411 compressed domains
+**Entries:** 451430 domains/hosts - 50159 compressed hosts - 387029 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -332,7 +329,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 362819 compressed domains
+**Entries:** 270937 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -352,7 +349,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 142446 compressed domains
+**Entries:** 132245 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
