@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Sep 2025 18:30 UTC
-# Version: 2025.0917.1830.21
+# Last modified: 18 Sep 2025 18:26 UTC
+# Version: 2025.0918.1826.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2133
+# Number of entries: 2158
 #
 local=/000a.de/
 local=/000free.us/
@@ -83,6 +83,7 @@ local=/1asphost.com/
 local=/1colony.com/
 local=/1fr1.net/
 local=/1freewebspace.com/
+local=/1gb.ru/
 local=/1hwy.com/
 local=/1shop.de/
 local=/1sthost.org/
@@ -111,6 +112,7 @@ local=/24.mu/
 local=/24.nl/
 local=/24.tl/
 local=/258.at/
+local=/260mb.net/
 local=/270.at/
 local=/2all.de/
 local=/2fh.co/
@@ -581,7 +583,9 @@ local=/bravejournal.com/
 local=/bravejournal.net/
 local=/bravenet.com/
 local=/bravepages.com/
+local=/bravesites.com/
 local=/brazilbill.shop/
+local=/brizy.site/
 local=/bstyledstore.shop/
 local=/bugs3.com/
 local=/builderall.net/
@@ -594,7 +598,28 @@ local=/buyoutblog.com/
 local=/bx5.de/
 local=/byet.host/
 local=/byethost.com/
+local=/byethost10.com/
+local=/byethost11.com/
+local=/byethost12.com/
+local=/byethost13.com/
+local=/byethost14.com/
+local=/byethost15.com/
+local=/byethost16.com/
+local=/byethost17.com/
+local=/byethost18.com/
+local=/byethost2.com/
+local=/byethost22.com/
+local=/byethost24.com/
 local=/byethost3.com/
+local=/byethost31.com/
+local=/byethost32.com/
+local=/byethost33.com/
+local=/byethost4.com/
+local=/byethost5.com/
+local=/byethost6.com/
+local=/byethost7.com/
+local=/byethost8.com/
+local=/byethost9.com/
 local=/byto.de/
 local=/bz.tc/
 local=/c.la/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758133800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758219960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Sep 2025 18:30 UTC
-; Version: 2025.0917.1830.21
+; Last modified: 18 Sep 2025 18:26 UTC
+; Version: 2025.0918.1826.28
 ; Syntax: RPZ
-; Number of entries: 4266
+; Number of entries: 4316
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -823,6 +823,8 @@ bravenet.com CNAME .
 *.bravenet.com CNAME .
 bravepages.com CNAME .
 *.bravepages.com CNAME .
+bravesites.com CNAME .
+*.bravesites.com CNAME .
 bugs3.com CNAME .
 *.bugs3.com CNAME .
 business-minagne.com CNAME .
@@ -833,8 +835,50 @@ buyoutblog.com CNAME .
 *.buyoutblog.com CNAME .
 byethost.com CNAME .
 *.byethost.com CNAME .
+byethost10.com CNAME .
+*.byethost10.com CNAME .
+byethost11.com CNAME .
+*.byethost11.com CNAME .
+byethost12.com CNAME .
+*.byethost12.com CNAME .
+byethost13.com CNAME .
+*.byethost13.com CNAME .
+byethost14.com CNAME .
+*.byethost14.com CNAME .
+byethost15.com CNAME .
+*.byethost15.com CNAME .
+byethost16.com CNAME .
+*.byethost16.com CNAME .
+byethost17.com CNAME .
+*.byethost17.com CNAME .
+byethost18.com CNAME .
+*.byethost18.com CNAME .
+byethost2.com CNAME .
+*.byethost2.com CNAME .
+byethost22.com CNAME .
+*.byethost22.com CNAME .
+byethost24.com CNAME .
+*.byethost24.com CNAME .
 byethost3.com CNAME .
 *.byethost3.com CNAME .
+byethost31.com CNAME .
+*.byethost31.com CNAME .
+byethost32.com CNAME .
+*.byethost32.com CNAME .
+byethost33.com CNAME .
+*.byethost33.com CNAME .
+byethost4.com CNAME .
+*.byethost4.com CNAME .
+byethost5.com CNAME .
+*.byethost5.com CNAME .
+byethost6.com CNAME .
+*.byethost6.com CNAME .
+byethost7.com CNAME .
+*.byethost7.com CNAME .
+byethost8.com CNAME .
+*.byethost8.com CNAME .
+byethost9.com CNAME .
+*.byethost9.com CNAME .
 caixa-soportecliente.com CNAME .
 *.caixa-soportecliente.com CNAME .
 canalblog.com CNAME .
@@ -3163,6 +3207,8 @@ one4u.0lx.net CNAME .
 *.1x.net CNAME .
 22web.net CNAME .
 *.22web.net CNAME .
+260mb.net CNAME .
+*.260mb.net CNAME .
 2kool4u.net CNAME .
 *.2kool4u.net CNAME .
 3blogger.net CNAME .
@@ -3725,6 +3771,8 @@ blogspot.rs CNAME .
 *.blogspot.rs CNAME .
 mycpanel.rs CNAME .
 *.mycpanel.rs CNAME .
+1gb.ru CNAME .
+*.1gb.ru CNAME .
 3dn.ru CNAME .
 *.3dn.ru CNAME .
 bazefrost.ru CNAME .
@@ -4017,6 +4065,8 @@ zepatifcommerce.shop CNAME .
 *.9x.si CNAME .
 blogspot.si CNAME .
 *.blogspot.si CNAME .
+brizy.site CNAME .
+*.brizy.site CNAME .
 business.site CNAME .
 *.business.site CNAME .
 canva.site CNAME .

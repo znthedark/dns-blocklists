@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Sep 2025 07:58 UTC
-# Version: 2025.0918.0758.54
+# Last modified: 18 Sep 2025 19:54 UTC
+# Version: 2025.0918.1954.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5963
+# Number of entries: 5972
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1017,6 +1017,7 @@ local=/cyberghostvpn.com/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
+local=/dns.cybertonic.tech/
 local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
@@ -1305,7 +1306,9 @@ local=/huawaakiskokoa.duckdns.org/
 local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
+local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
+local=/tungdnsne.duckdns.org/
 local=/blahaj.duia.us/
 local=/butidontwanttacos.duia.us/
 local=/dualpower.duia.eu/
@@ -1358,7 +1361,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1508,6 +1510,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1643,6 +1646,7 @@ local=/cluster-1.gac.edu/
 local=/bu-abdulla.gafton.eu/
 local=/galacticspace.galaxysoft.ro/
 local=/dns.gamban.com/
+local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
 local=/gamers-nor.com/
 local=/work.quiz.gamersuk.org/
@@ -2609,6 +2613,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/recap.class.nadiaplatform.com/
@@ -3093,9 +3098,13 @@ local=/printruns.us/
 local=/printtools.us/
 local=/privacy.io/
 local=/hungary.privacy-dns.pw/
+local=/india.privacy-dns.pw/
 local=/las-vegas.privacy-dns.pw/
 local=/luxembourg.privacy-dns.pw/
 local=/romania.privacy-dns.pw/
+local=/sweden.privacy-dns.pw/
+local=/switzerland.privacy-dns.pw/
+local=/united-arab-emirates.privacy-dns.pw/
 local=/privacyprotector.eu/
 local=/privado.io/
 local=/dns.privado.ovh/
