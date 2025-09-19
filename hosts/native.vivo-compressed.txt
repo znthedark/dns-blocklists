@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 23:20 UTC
-# Version: 2025.0905.2320.52
+# Last modified: 19 Sep 2025 19:23 UTC
+# Version: 2025.0919.1923.15
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 26
 #
@@ -26,12 +26,12 @@
 0.0.0.0 kz-onrt-stsdk.vivoglobal.com kz-ort-stsdk.vivoglobal.com kz-p.vivoglobal.com kz-pnrt-stsdk.vivoglobal.com kz-prt-stsdk.vivoglobal.com kz-romsp-unifyconfig.vivoglobal.com kz-st-exappupgrade.vivoglobal.com kz-st-sl.vivoglobal.com kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com kz-timesync.vivoglobal.com kz-vcode-api.vivoglobal.com kz-vcode-od.vivoglobal.com kz-vcode-or.vivoglobal.com monitor-stsdk.vivoglobal.com mx-cota.vivoglobal.com mx-domaincfg.vivoglobal.com mx-err-up.vivoglobal.com
 0.0.0.0 mx-onrt-stsdk.vivoglobal.com mx-ort-stsdk.vivoglobal.com mx-p.vivoglobal.com mx-pnrt-stsdk.vivoglobal.com mx-romsp-unifyconfig.vivoglobal.com mx-st-sl.vivoglobal.com mx-stsdk.vivoglobal.com mx-timesync.vivoglobal.com mx-vcode-api.vivoglobal.com
-0.0.0.0 mx-vcode-od.vivoglobal.com mx-vcode-or.vivoglobal.com onrt-stsdk.vivoglobal.com ort-stsdk.vivoglobal.com pnrt-stsdk.vivoglobal.com prt-stsdk.vivoglobal.com ro-up.vivoglobal.com ru-commonitor-stsdk.vivoglobal.com ru-comonrt-stsdk.vivoglobal.com
-0.0.0.0 ru-comort-stsdk.vivoglobal.com ru-compnrt-stsdk.vivoglobal.com ru-comprt-stsdk.vivoglobal.com ru-cota.vivoglobal.com ru-err-up.vivoglobal.com ru-exstsdk.vivoglobal.com ru-monitor-stsdk.vivoglobal.com ru-onrt-stsdk.vivoglobal.com ru-ort-stsdk.vivoglobal.com
-0.0.0.0 ru-os-config-appstore.vivoglobal.com ru-p.vivoglobal.com ru-pnrt-stsdk.vivoglobal.com ru-prt-stsdk.vivoglobal.com ru-romsp-unifyconfig.vivoglobal.com ru-st-exappupgrade.vivoglobal.com ru-st-sl.vivoglobal.com ru-stsdk.vivoglobal.com ru-third-appstore.vivoglobal.com
-0.0.0.0 ru-timesync.vivoglobal.com ru-vcode-api.vivoglobal.com ru-vcode-od.vivoglobal.com ru-vcode-or.vivoglobal.com sca-cota.vivoglobal.com sca-domaincfg.vivoglobal.com sca-err-up.vivoglobal.com sca-onrt-stsdk.vivoglobal.com sca-ort-stsdk.vivoglobal.com
-0.0.0.0 sca-p.vivoglobal.com sca-pnrt-stsdk.vivoglobal.com sca-romsp-unifyconfig.vivoglobal.com sca-st-sl.vivoglobal.com sca-stsdk.vivoglobal.com sca-timesync.vivoglobal.com sca-vcode-api.vivoglobal.com sca-vcode-od.vivoglobal.com sca-vcode-or.vivoglobal.com
-0.0.0.0 sg-cfg-stsdk.vivoglobal.com stsdk.vivoglobal.com onrt.stsdk.vivoglobal.com ort.stsdk.vivoglobal.com pnrt.stsdk.vivoglobal.com prt.stsdk.vivoglobal.com tr-album-api.vivoglobal.com tr-cota.vivoglobal.com tr-domaincfg.vivoglobal.com
-0.0.0.0 tr-err-up.vivoglobal.com tr-gdpr-vgc-datacenter.vivoglobal.com tr-onrt-stsdk.vivoglobal.com tr-ort-stsdk.vivoglobal.com tr-p.vivoglobal.com tr-pnrt-stsdk.vivoglobal.com tr-romsp-unifyconfig.vivoglobal.com tr-st-sl.vivoglobal.com tr-st-sysupgrade.vivoglobal.com
-0.0.0.0 tr-stsdk.vivoglobal.com tr-sysupgrade-api.vivoglobal.com tr-timesync.vivoglobal.com tr-vcode-api.vivoglobal.com tr-vcode-od.vivoglobal.com tr-vcode-or.vivoglobal.com tr-weather.vivoglobal.com err.up.vivoglobal.com xn-ex-adreq-asa-c5b.vivoglobal.com
-0.0.0.0 za-p.vivoglobal.com zasc-cota.vivoglobal.com zasc-romsp-unifyconfig.vivoglobal.com zasc-vcode-api.vivoglobal.com zasc-vcode-od.vivoglobal.com zasc-vcode-or.vivoglobal.com h4g3z1-native.vivo.web.app vhs.wwstat.com 
+0.0.0.0 mx-vcode-od.vivoglobal.com mx-vcode-or.vivoglobal.com onrt-stsdk.vivoglobal.com ort-stsdk.vivoglobal.com pnrt-stsdk.vivoglobal.com prt-stsdk.vivoglobal.com ro-up.vivoglobal.com ru-analyzer-appstore.vivoglobal.com ru-commonitor-stsdk.vivoglobal.com
+0.0.0.0 ru-comonrt-stsdk.vivoglobal.com ru-comort-stsdk.vivoglobal.com ru-compnrt-stsdk.vivoglobal.com ru-comprt-stsdk.vivoglobal.com ru-cota.vivoglobal.com ru-err-up.vivoglobal.com ru-exstsdk.vivoglobal.com ru-monitor-stsdk.vivoglobal.com ru-onrt-stsdk.vivoglobal.com
+0.0.0.0 ru-ort-stsdk.vivoglobal.com ru-os-config-appstore.vivoglobal.com ru-p.vivoglobal.com ru-pnrt-stsdk.vivoglobal.com ru-prt-stsdk.vivoglobal.com ru-romsp-unifyconfig.vivoglobal.com ru-st-exappupgrade.vivoglobal.com ru-st-sl.vivoglobal.com ru-stsdk.vivoglobal.com
+0.0.0.0 ru-third-appstore.vivoglobal.com ru-timesync.vivoglobal.com ru-vcode-api.vivoglobal.com ru-vcode-od.vivoglobal.com ru-vcode-or.vivoglobal.com sca-cota.vivoglobal.com sca-domaincfg.vivoglobal.com sca-err-up.vivoglobal.com sca-onrt-stsdk.vivoglobal.com
+0.0.0.0 sca-ort-stsdk.vivoglobal.com sca-p.vivoglobal.com sca-pnrt-stsdk.vivoglobal.com sca-romsp-unifyconfig.vivoglobal.com sca-st-sl.vivoglobal.com sca-stsdk.vivoglobal.com sca-timesync.vivoglobal.com sca-vcode-api.vivoglobal.com sca-vcode-od.vivoglobal.com
+0.0.0.0 sca-vcode-or.vivoglobal.com sg-cfg-stsdk.vivoglobal.com stsdk.vivoglobal.com onrt.stsdk.vivoglobal.com ort.stsdk.vivoglobal.com pnrt.stsdk.vivoglobal.com prt.stsdk.vivoglobal.com tr-album-api.vivoglobal.com tr-cota.vivoglobal.com
+0.0.0.0 tr-domaincfg.vivoglobal.com tr-err-up.vivoglobal.com tr-gdpr-vgc-datacenter.vivoglobal.com tr-onrt-stsdk.vivoglobal.com tr-ort-stsdk.vivoglobal.com tr-p.vivoglobal.com tr-pnrt-stsdk.vivoglobal.com tr-romsp-unifyconfig.vivoglobal.com tr-st-sl.vivoglobal.com
+0.0.0.0 tr-st-sysupgrade.vivoglobal.com tr-stsdk.vivoglobal.com tr-sysupgrade-api.vivoglobal.com tr-timesync.vivoglobal.com tr-vcode-api.vivoglobal.com tr-vcode-od.vivoglobal.com tr-vcode-or.vivoglobal.com tr-weather.vivoglobal.com err.up.vivoglobal.com
+0.0.0.0 xn-ex-adreq-asa-c5b.vivoglobal.com za-p.vivoglobal.com zasc-cota.vivoglobal.com zasc-romsp-unifyconfig.vivoglobal.com zasc-vcode-api.vivoglobal.com zasc-vcode-od.vivoglobal.com zasc-vcode-or.vivoglobal.com h4g3z1-native.vivo.web.app vhs.wwstat.com

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Sep 2025 08:07 UTC
-# Version: 2025.0919.0807.29
+# Last modified: 19 Sep 2025 19:17 UTC
+# Version: 2025.0919.1917.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 37557
+# Number of entries: 37558
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -1463,6 +1463,7 @@ local=/200tsars.com/
 local=/201vulkanvegas.com/
 local=/202.bet/
 local=/2021vip.com/
+local=/images.20241213.com/
 local=/2024jogos.win/
 local=/2024worldseriesofpoker.club/
 local=/2024xemwc.com/
@@ -4166,6 +4167,7 @@ local=/aaajili357.com/
 local=/aaajili567.com/
 local=/aaajili678.com/
 local=/aaajili7.net/
+local=/aaajili80.com/
 local=/aaajiliactivity.com/
 local=/aaajiliapp.com/
 local=/aaajl.vip/
@@ -31527,6 +31529,7 @@ local=/slotsgarden.club/
 local=/slotsgarden.com/
 local=/slotsgardencasino.club/
 local=/slotsgardenh.com/
+local=/slotsgem.com/
 local=/slotsgem1.com/
 local=/slotsgemcasinoaustralia.org/
 local=/slotsggmaxwinzona.monster/
@@ -34060,8 +34063,6 @@ local=/tradingindicators.store/
 local=/tradingnews.io/
 local=/tradition-casinos.com/
 local=/traditioncasinos.net/
-local=/api4.trakipsg.net/
-local=/api6.trakipsg.net/
 local=/trans88.biz/
 local=/transaction.agency/
 local=/transfercoin.io/

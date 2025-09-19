@@ -2038,13 +2038,6 @@
       }
     },
     {
-      "PK": "stag.bssmini.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "staging-analyze.pt.xiaomi.com",
       "action": {
         "do": 0,

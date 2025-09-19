@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758269220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758309420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Sep 2025 08:07 UTC
-; Version: 2025.0919.0807.29
+; Last modified: 19 Sep 2025 19:17 UTC
+; Version: 2025.0919.1917.11
 ; Syntax: RPZ
-; Number of entries: 75114
+; Number of entries: 75116
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -15343,6 +15343,8 @@ pixel-us.1winsa.com CNAME .
 *.201vulkanvegas.com CNAME .
 2021vip.com CNAME .
 *.2021vip.com CNAME .
+images.20241213.com CNAME .
+*.images.20241213.com CNAME .
 2024xemwc.com CNAME .
 *.2024xemwc.com CNAME .
 2061179.com CNAME .
@@ -18717,6 +18719,8 @@ aaajili567.com CNAME .
 *.aaajili567.com CNAME .
 aaajili678.com CNAME .
 *.aaajili678.com CNAME .
+aaajili80.com CNAME .
+*.aaajili80.com CNAME .
 aaajiliactivity.com CNAME .
 *.aaajiliactivity.com CNAME .
 aaajiliapp.com CNAME .
@@ -42745,6 +42749,8 @@ slotsgarden.com CNAME .
 *.slotsgarden.com CNAME .
 slotsgardenh.com CNAME .
 *.slotsgardenh.com CNAME .
+slotsgem.com CNAME .
+*.slotsgem.com CNAME .
 slotsgem1.com CNAME .
 *.slotsgem1.com CNAME .
 slotshammer.com CNAME .
@@ -57507,10 +57513,6 @@ totortp.net CNAME .
 *.totortp.net CNAME .
 traditioncasinos.net CNAME .
 *.traditioncasinos.net CNAME .
-api4.trakipsg.net CNAME .
-*.api4.trakipsg.net CNAME .
-api6.trakipsg.net CNAME .
-*.api6.trakipsg.net CNAME .
 traviet.net CNAME .
 *.traviet.net CNAME .
 trueluck.net CNAME .

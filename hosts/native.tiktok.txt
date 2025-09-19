@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 23:18 UTC
-# Version: 2025.0905.2318.06
+# Last modified: 19 Sep 2025 19:20 UTC
+# Version: 2025.0919.1920.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 371
+# Number of entries: 376
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -99,6 +99,7 @@
 0.0.0.0 ads-frontier.tiktok.com
 0.0.0.0 ads-imapi.tiktok.com
 0.0.0.0 ads-measurement.tiktok.com
+0.0.0.0 ads-ru.tiktok.com
 0.0.0.0 ads-service.tiktok.com
 0.0.0.0 12691274.ads-service.tiktok.com
 0.0.0.0 em7903.ads-service.tiktok.com
@@ -111,12 +112,16 @@
 0.0.0.0 analytics-attribution.tiktok.com
 0.0.0.0 analytics-attribution-va.tiktok.com
 0.0.0.0 analytics-exp-i18n.tiktok.com
+0.0.0.0 analytics-exp-ru.tiktok.com
 0.0.0.0 analytics-exp-sg.tiktok.com
 0.0.0.0 analytics-i18n.tiktok.com
+0.0.0.0 analytics-ru.tiktok.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-test.tiktok.com
 0.0.0.0 analytics-useast2a.tiktok.com
 0.0.0.0 analytics-v6.tiktok.com
+0.0.0.0 analytics16-normal.tiktok.com
+0.0.0.0 analytics16-normal-alisg.tiktok.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 ads.in.tiktok.com
 0.0.0.0 location.tiktok.com

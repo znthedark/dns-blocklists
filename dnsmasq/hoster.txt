@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Sep 2025 06:51 UTC
-# Version: 2025.0919.0651.29
+# Last modified: 19 Sep 2025 19:11 UTC
+# Version: 2025.0919.1911.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2174
+# Number of entries: 2175
 #
 local=/000a.de/
 local=/000free.us/
@@ -1241,6 +1241,7 @@ local=/image-perth.org/
 local=/imblogs.net/
 local=/imess.net/
 local=/imtokne.vip/
+local=/imweb.me/
 local=/in.gp/
 local=/in24.de/
 local=/inbox24.eu/

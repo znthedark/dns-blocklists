@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 23:18 UTC
-# Version: 2025.0905.2318.50
+# Last modified: 19 Sep 2025 19:21 UTC
+# Version: 2025.0919.1921.17
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 463
+# Number of entries: 468
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -99,6 +99,7 @@ ads-crm.tiktok.com
 ads-frontier.tiktok.com
 ads-imapi.tiktok.com
 ads-measurement.tiktok.com
+ads-ru.tiktok.com
 ads-service.tiktok.com
 12691274.ads-service.tiktok.com
 em7903.ads-service.tiktok.com
@@ -111,12 +112,16 @@ analytics.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics-exp-i18n.tiktok.com
+analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
 analytics-i18n.tiktok.com
+analytics-ru.tiktok.com
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
 analytics-useast2a.tiktok.com
 analytics-v6.tiktok.com
+analytics16-normal.tiktok.com
+analytics16-normal-alisg.tiktok.com
 business-api.tiktok.com
 ads.in.tiktok.com
 location.tiktok.com

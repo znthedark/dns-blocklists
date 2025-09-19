@@ -2030,13 +2030,6 @@
       }
     },
     {
-      "PK": "fmhy.ml",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.foo",
       "action": {
         "do": 0,

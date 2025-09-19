@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 23:18 UTC
-# Version: 2025.0905.2318.06
+# Last modified: 19 Sep 2025 19:20 UTC
+# Version: 2025.0919.1920.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 366
+# Number of entries: 371
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -97,6 +97,7 @@ local=/ads-crm.tiktok.com/
 local=/ads-frontier.tiktok.com/
 local=/ads-imapi.tiktok.com/
 local=/ads-measurement.tiktok.com/
+local=/ads-ru.tiktok.com/
 local=/ads-service.tiktok.com/
 local=/ads-sg.tiktok.com/
 local=/ads-useast2a.tiktok.com/
@@ -106,12 +107,16 @@ local=/analytics.tiktok.com/
 local=/analytics-attribution.tiktok.com/
 local=/analytics-attribution-va.tiktok.com/
 local=/analytics-exp-i18n.tiktok.com/
+local=/analytics-exp-ru.tiktok.com/
 local=/analytics-exp-sg.tiktok.com/
 local=/analytics-i18n.tiktok.com/
+local=/analytics-ru.tiktok.com/
 local=/analytics-sg.tiktok.com/
 local=/analytics-test.tiktok.com/
 local=/analytics-useast2a.tiktok.com/
 local=/analytics-v6.tiktok.com/
+local=/analytics16-normal.tiktok.com/
+local=/analytics16-normal-alisg.tiktok.com/
 local=/business-api.tiktok.com/
 local=/ads.in.tiktok.com/
 local=/location.tiktok.com/

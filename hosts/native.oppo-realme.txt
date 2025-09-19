@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 09:51 UTC
-# Version: 2025.0826.0951.32
+# Last modified: 19 Sep 2025 19:23 UTC
+# Version: 2025.0919.1923.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 441
+# Number of entries: 440
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -128,7 +128,6 @@
 0.0.0.0 storedl3f.nearme.com.cn
 0.0.0.0 storedl4f.nearme.com.cn
 0.0.0.0 storedl5f.nearme.com.cn
-0.0.0.0 storedl82cc6d1f.nearme.com.cn
 0.0.0.0 finosfin.com
 0.0.0.0 www.finosfin.com
 0.0.0.0 appconf-ocs-eu.heytapdl.com

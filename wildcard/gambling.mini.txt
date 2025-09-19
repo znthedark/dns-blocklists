@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Sep 2025 08:07 UTC
-# Version: 2025.0919.0807.29
+# Last modified: 19 Sep 2025 19:17 UTC
+# Version: 2025.0919.1917.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 37557
+# Number of entries: 37558
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -1463,6 +1463,7 @@
 *.201vulkanvegas.com
 *.202.bet
 *.2021vip.com
+*.images.20241213.com
 *.2024jogos.win
 *.2024worldseriesofpoker.club
 *.2024xemwc.com
@@ -4166,6 +4167,7 @@
 *.aaajili567.com
 *.aaajili678.com
 *.aaajili7.net
+*.aaajili80.com
 *.aaajiliactivity.com
 *.aaajiliapp.com
 *.aaajl.vip
@@ -31527,6 +31529,7 @@
 *.slotsgarden.com
 *.slotsgardencasino.club
 *.slotsgardenh.com
+*.slotsgem.com
 *.slotsgem1.com
 *.slotsgemcasinoaustralia.org
 *.slotsggmaxwinzona.monster
@@ -34060,8 +34063,6 @@
 *.tradingnews.io
 *.tradition-casinos.com
 *.traditioncasinos.net
-*.api4.trakipsg.net
-*.api6.trakipsg.net
 *.trans88.biz
 *.transaction.agency
 *.transfercoin.io

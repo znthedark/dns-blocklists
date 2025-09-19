@@ -1380,13 +1380,6 @@
       }
     },
     {
-      "PK": "fmhy.ml",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "forecast.solar",
       "action": {
         "do": 1,

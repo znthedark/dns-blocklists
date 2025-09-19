@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Sep 2025 06:49 UTC
-# Version: 2025.0919.0649.48
+# Last modified: 19 Sep 2025 19:26 UTC
+# Version: 2025.0919.1926.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13972
+# Number of entries: 13967
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1389,6 +1389,7 @@ local=/bfmmarkets.com/
 local=/bforbinary.com/
 local=/bforbroker.com/
 local=/bforex.com/
+local=/bftb.org/
 local=/bfxoption.com/
 local=/bgconsult.ch/
 local=/bgtcchem.shop/
@@ -3914,7 +3915,6 @@ local=/us.nl.eu.org/
 local=/officiellejordan.eu.com/
 local=/eu-class.com/
 local=/eu-first.com/
-local=/eu-meds.online/
 local=/eu-sezane.com/
 local=/eu-top-meds.com/
 local=/eu-unityfahrschule.com/
@@ -4494,7 +4494,6 @@ local=/fondluck.com/
 local=/fontis-livret.com/
 local=/foodixs.com/
 local=/footballcamp.at/
-local=/footbf.com/
 local=/footjoy-suomi.com/
 local=/footjoycanada.net/
 local=/footjoygolfshoesuk.com/
@@ -4998,6 +4997,7 @@ local=/gesundheitapotheke.de/
 local=/gesundheits-apo.com/
 local=/gesundheitskontrolle.com/
 local=/get-adel.de/
+local=/get-akusoli.com/
 local=/get-curaball.com/
 local=/get-huusk.com/
 local=/get-hydrogenwaterbottle.com/
@@ -5235,7 +5235,6 @@ local=/gotrax.store/
 local=/gotrixa.de/
 local=/gourmandebusy.com/
 local=/gourmetecke.com/
-local=/govern1.com/
 local=/gp-photo.shop/
 local=/gplate.de/
 local=/gpslocatorphone.com/
@@ -6003,6 +6002,7 @@ local=/hot-mystery-deals.xyz/
 local=/hot-shopping.com/
 local=/hotchillies.shop/
 local=/hotel-brand-promotion.com/
+local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
@@ -6284,7 +6284,6 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
-local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -9285,7 +9284,6 @@ local=/onschuheschweizoutlet.com/
 local=/onschuhewien.at/
 local=/onshoes-de.shop/
 local=/more2water.onshopbase.com/
-local=/onthonehand.com/
 local=/ooctaviat.store/
 local=/oofos--canada.com/
 local=/oofos-sandals.net/
@@ -10283,7 +10281,6 @@ local=/reality-golf.com/
 local=/realmadridassets.com/
 local=/realmadridcf.de/
 local=/realstock.es/
-local=/realyiyi.com/
 local=/reardlesof.com/
 local=/rebateoutdoorpro.com/
 local=/rebateoutsportus.com/
@@ -12578,7 +12575,6 @@ local=/transethylene.com/
 local=/transferk.com/
 local=/transfertrain.de/
 local=/transformeri.com/
-local=/transieny.com/
 local=/transparentk.com/
 local=/transparentw.com/
 local=/trapstaraustria.at/
@@ -13723,7 +13719,6 @@ local=/ruckgabe.wwmode.de/
 local=/wwwhamsterkiste.de/
 local=/x-clarity.com/
 local=/x-wallart.com/
-local=/x-watches.co/
 local=/x-water.shop/
 local=/x24customs.de/
 local=/xaperni.com/

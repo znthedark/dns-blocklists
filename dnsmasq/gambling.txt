@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Sep 2025 08:03 UTC
-# Version: 2025.0919.0803.37
+# Last modified: 19 Sep 2025 19:13 UTC
+# Version: 2025.0919.1913.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 183364
+# Number of entries: 183363
 #
 local=/0-bdmbet.com/
 local=/0-bet.com/
@@ -99663,7 +99663,6 @@ local=/gamblergoal.com/
 local=/gamblerguide.org/
 local=/gamblerguideonline.com/
 local=/gamblerid.com/
-local=/gamblernepal.com/
 local=/gamblerplanet.com/
 local=/gamblers.casino/
 local=/gamblers.org/
