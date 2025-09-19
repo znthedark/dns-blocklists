@@ -22,6 +22,13 @@
       }
     },
     {
+      "PK": "000nethost.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "000space.com",
       "action": {
         "do": 0,
@@ -29,7 +36,28 @@
       }
     },
     {
+      "PK": "000webapp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "000webhost.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "000webhost.fr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "000webhost.info",
       "action": {
         "do": 0,
         "status": 1
@@ -44,6 +72,13 @@
     },
     {
       "PK": "000webhotapp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "000worldwide.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4593,7 +4628,21 @@
       }
     },
     {
+      "PK": "c0.pl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ca.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cabanova.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5153,6 +5202,13 @@
       }
     },
     {
+      "PK": "creatorlink.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "creatuforo.com",
       "action": {
         "do": 0,
@@ -5224,6 +5280,13 @@
     },
     {
       "PK": "ct8.pl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ctempurl.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5734,6 +5797,13 @@
       }
     },
     {
+      "PK": "dothome.co.kr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "download.ac",
       "action": {
         "do": 0,
@@ -5868,6 +5938,13 @@
     },
     {
       "PK": "e-docssig.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "e-kei.pl",
       "action": {
         "do": 0,
         "status": 1
@@ -6665,6 +6742,13 @@
       }
     },
     {
+      "PK": "fleek.co",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "fleek.cool",
       "action": {
         "do": 0,
@@ -7058,6 +7142,13 @@
     },
     {
       "PK": "freecities.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "freecluster.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -8114,7 +8205,21 @@
       }
     },
     {
+      "PK": "hostland.pro",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hostmeans.shop",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hostseba.com",
       "action": {
         "do": 0,
         "status": 1
@@ -11951,6 +12056,13 @@
     },
     {
       "PK": "site90.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sitebeat.crazydomains.com",
       "action": {
         "do": 0,
         "status": 1

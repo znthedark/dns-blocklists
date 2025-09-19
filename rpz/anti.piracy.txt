@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758224640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758269220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Sep 2025 19:44 UTC
-; Version: 2025.0918.1944.40
+; Last modified: 19 Sep 2025 08:07 UTC
+; Version: 2025.0919.0807.49
 ; Syntax: RPZ
 ; Number of entries: 22090
 ;
@@ -11917,8 +11917,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -20023,6 +20021,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tracker.xn--djrq4gl4hvoi.top CNAME .
+*.tracker.xn--djrq4gl4hvoi.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .

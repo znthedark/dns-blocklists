@@ -1,5 +1,9 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/7357
+id.tinypass.com
+buy.tinypass.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4941
 cdn.convertbox.com
 app.convertbox.com

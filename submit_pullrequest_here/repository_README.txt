@@ -201,7 +201,7 @@ Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RA
 
 ### :closed_book: **Multi ULTIMATE** - **Aggressive protection** <a name="ultimate"></a>
 
-Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Cryptojacking and other "Crap".
+Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other "Crap".
 
 > [!NOTE]
 > **Blocking type:** Aggressive              
@@ -504,6 +504,9 @@ A blocklist for blocking known hosters that also host badware via user content t
 > This list blocks the root domains of all hosting providers that occasionally appear in threat intelligence feeds due to malicious subdomains. Please be aware that this will also block legitimate sites hosted by these providers. Consider this carefully before using the list.
 >                 
 > When using this list, users are responsible for unblocking any required subdomains themselves.
+ 
+> [!CAUTION]
+> Blocking entire hosting providers is impractical in normal environments and may disrupt legitimate services. In sensitive environments, however, stricter blocking can be justified to maximize security.
 
 |             | Light | Normal | Pro | Pro++ | Ultimate | TIF |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|:---:|

@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 Sep 2025 18:26 UTC
-! Version: 2025.0918.1826.52
+! Last modified: 19 Sep 2025 06:52 UTC
+! Version: 2025.0919.0652.00
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3182,6 +3182,7 @@
 @@||u.mavrev.com^
 @@||mawar500.cc^
 @@||maxiurl.com^
+@@||maxlink.lol^
 @@||maxlink.ly^
 @@||maxurl.app^
 @@||maxvan.co^
@@ -5235,6 +5236,7 @@
 @@||to8.cc^
 @@||toclick.link^
 @@||tog.li^
+@@||togel123amp.xyz^
 @@||tohle.de^
 @@||toi.in^
 @@||l.tok.tv^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758219960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758264660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Sep 2025 18:26 UTC
-; Version: 2025.0918.1826.28
+; Last modified: 19 Sep 2025 06:51 UTC
+; Version: 2025.0919.0651.29
 ; Syntax: RPZ
-; Number of entries: 4316
+; Number of entries: 4348
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -303,20 +303,28 @@ blogspot.com.co CNAME .
 *.blogspot.com.co CNAME .
 webnode.com.co CNAME .
 *.webnode.com.co CNAME .
+fleek.co CNAME .
+*.fleek.co CNAME .
 shop.co CNAME .
 *.shop.co CNAME .
 synergize.co CNAME .
 *.synergize.co CNAME .
 webnode.co CNAME .
 *.webnode.co CNAME .
+000nethost.com CNAME .
+*.000nethost.com CNAME .
 000space.com CNAME .
 *.000space.com CNAME .
+000webapp.com CNAME .
+*.000webapp.com CNAME .
 000webhost.com CNAME .
 *.000webhost.com CNAME .
 000webhostapp.com CNAME .
 *.000webhostapp.com CNAME .
 000webhotapp.com CNAME .
 *.000webhotapp.com CNAME .
+000worldwide.com CNAME .
+*.000worldwide.com CNAME .
 00author.com CNAME .
 *.00author.com CNAME .
 00band.com CNAME .
@@ -879,6 +887,8 @@ byethost8.com CNAME .
 *.byethost8.com CNAME .
 byethost9.com CNAME .
 *.byethost9.com CNAME .
+cabanova.com CNAME .
+*.cabanova.com CNAME .
 caixa-soportecliente.com CNAME .
 *.caixa-soportecliente.com CNAME .
 canalblog.com CNAME .
@@ -923,6 +933,8 @@ coolfreepages.com CNAME .
 *.coolfreepages.com CNAME .
 cprapid.com CNAME .
 *.cprapid.com CNAME .
+sitebeat.crazydomains.com CNAME .
+*.sitebeat.crazydomains.com CNAME .
 creablog.com CNAME .
 *.creablog.com CNAME .
 creacionblog.com CNAME .
@@ -937,6 +949,8 @@ cryptofinancetrack.com CNAME .
 *.cryptofinancetrack.com CNAME .
 csublogs.com CNAME .
 *.csublogs.com CNAME .
+ctempurl.com CNAME .
+*.ctempurl.com CNAME .
 cyberbree.com CNAME .
 *.cyberbree.com CNAME .
 daftpage.com CNAME .
@@ -1281,6 +1295,8 @@ hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
 hostkda.com CNAME .
 *.hostkda.com CNAME .
+hostseba.com CNAME .
+*.hostseba.com CNAME .
 howeweb.com CNAME .
 *.howeweb.com CNAME .
 hoxty.com CNAME .
@@ -2421,6 +2437,8 @@ community24.eu CNAME .
 *.community24.eu CNAME .
 edu.eu CNAME .
 *.edu.eu CNAME .
+freecluster.eu CNAME .
+*.freecluster.eu CNAME .
 im-internet.eu CNAME .
 *.im-internet.eu CNAME .
 inbox24.eu CNAME .
@@ -2465,6 +2483,8 @@ webnode.fi CNAME .
 *.webnode.fi CNAME .
 shop.fm CNAME .
 *.shop.fm CNAME .
+000webhost.fr CNAME .
+*.000webhost.fr CNAME .
 aceblog.fr CNAME .
 *.aceblog.fr CNAME .
 blog.fr CNAME .
@@ -2813,6 +2833,8 @@ xblog.in CNAME .
 *.xblog.in CNAME .
 xml.in CNAME .
 *.xml.in CNAME .
+000webhost.info CNAME .
+*.000webhost.info CNAME .
 flirten.info CNAME .
 *.flirten.info CNAME .
 humorme.info CNAME .
@@ -2975,6 +2997,8 @@ eu.ki CNAME .
 *.0pe.kr CNAME .
 blogspot.kr CNAME .
 *.blogspot.kr CNAME .
+dothome.co.kr CNAME .
+*.dothome.co.kr CNAME .
 webnode.kr CNAME .
 *.webnode.kr CNAME .
 c.la CNAME .
@@ -3261,6 +3285,8 @@ centerblog.net CNAME .
 *.centerblog.net CNAME .
 comunidades.net CNAME .
 *.comunidades.net CNAME .
+creatorlink.net CNAME .
+*.creatorlink.net CNAME .
 cryptonight.net CNAME .
 *.cryptonight.net CNAME .
 cwqso.net CNAME .
@@ -3691,6 +3717,8 @@ blogspot.pl CNAME .
 *.blogspot.pl CNAME .
 c.pl CNAME .
 *.c.pl CNAME .
+c0.pl CNAME .
+*.c0.pl CNAME .
 cba.pl CNAME .
 *.cba.pl CNAME .
 cfolks.pl CNAME .
@@ -3703,6 +3731,8 @@ ddl2.pl CNAME .
 *.ddl2.pl CNAME .
 de.pl CNAME .
 *.de.pl CNAME .
+e-kei.pl CNAME .
+*.e-kei.pl CNAME .
 fora.pl CNAME .
 *.fora.pl CNAME .
 o7.pl CNAME .
@@ -3731,6 +3761,8 @@ xuu.pl CNAME .
 *.xuu.pl CNAME .
 y0.pl CNAME .
 *.y0.pl CNAME .
+hostland.pro CNAME .
+*.hostland.pro CNAME .
 site.pro CNAME .
 *.site.pro CNAME .
 biz.ps CNAME .

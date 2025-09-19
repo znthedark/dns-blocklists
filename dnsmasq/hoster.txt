@@ -4,17 +4,22 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Sep 2025 18:26 UTC
-# Version: 2025.0918.1826.28
+# Last modified: 19 Sep 2025 06:51 UTC
+# Version: 2025.0919.0651.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2158
+# Number of entries: 2174
 #
 local=/000a.de/
 local=/000free.us/
+local=/000nethost.com/
 local=/000space.com/
+local=/000webapp.com/
 local=/000webhost.com/
+local=/000webhost.fr/
+local=/000webhost.info/
 local=/000webhostapp.com/
 local=/000webhotapp.com/
+local=/000worldwide.com/
 local=/00author.com/
 local=/00band.com/
 local=/00books.com/
@@ -624,7 +629,9 @@ local=/byto.de/
 local=/bz.tc/
 local=/c.la/
 local=/c.pl/
+local=/c0.pl/
 local=/ca.gp/
+local=/cabanova.com/
 local=/cafeblog.hu/
 local=/caixa-soportecliente.com/
 local=/canalblog.com/
@@ -689,6 +696,7 @@ local=/blogspot.co.ke/
 local=/blogspot.co.nz/
 local=/blogspot.co.uk/
 local=/blogspot.co.za/
+local=/dothome.co.kr/
 local=/tripod.lycos.co.uk/
 local=/thamboli.co.za/
 local=/threembb.co.uk/
@@ -754,10 +762,12 @@ local=/coolpage.biz/
 local=/corolain.ru/
 local=/cowblog.fr/
 local=/cprapid.com/
+local=/sitebeat.crazydomains.com/
 local=/creablog.com/
 local=/creacionblog.com/
 local=/creamclothinginc.shop/
 local=/createblog.com/
+local=/creatorlink.net/
 local=/creatuforo.com/
 local=/crossurl.shop/
 local=/crypto-market-world.com/
@@ -768,6 +778,7 @@ local=/csb.app/
 local=/csdazzle.shop/
 local=/csublogs.com/
 local=/ct8.pl/
+local=/ctempurl.com/
 local=/cubavalue.shop/
 local=/cum.fi/
 local=/cwcity.de/
@@ -861,6 +872,7 @@ local=/dvd.lc/
 local=/dynamicboard.de/
 local=/e.gp/
 local=/e-docssig.com/
+local=/e-kei.pl/
 local=/e-monsite.com/
 local=/easy4blog.com/
 local=/easyfreehosting.com/
@@ -973,6 +985,7 @@ local=/fitegirlsboutique.shop/
 local=/fitnell.com/
 local=/flashbuilder.net/
 local=/flazio.com/
+local=/fleek.co/
 local=/fleek.cool/
 local=/flf.li/
 local=/flirten.info/
@@ -1030,6 +1043,7 @@ local=/freeasphost.net/
 local=/freebase.hu/
 local=/freeblog.biz/
 local=/freecities.com/
+local=/freecluster.eu/
 local=/freeforums.net/
 local=/freeforums.org/
 local=/freehomepage.com/
@@ -1178,7 +1192,9 @@ local=/hostinger.de/
 local=/hostingfailov.com/
 local=/hostingsiteforfree.com/
 local=/hostkda.com/
+local=/hostland.pro/
 local=/hostmeans.shop/
+local=/hostseba.com/
 local=/hot.lc/
 local=/hotloss.shop/
 local=/hotusa.org/

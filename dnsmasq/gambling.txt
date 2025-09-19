@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Sep 2025 19:40 UTC
-# Version: 2025.0918.1940.43
+# Last modified: 19 Sep 2025 08:03 UTC
+# Version: 2025.0919.0803.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 183361
+# Number of entries: 183364
 #
 local=/0-bdmbet.com/
 local=/0-bet.com/
@@ -14247,7 +14247,6 @@ local=/1xjuara.com/
 local=/1xking88.com/
 local=/1xkorea.com/
 local=/1xkye.xyz/
-local=/1xlite-0328259.top/
 local=/1xlite-035825.top/
 local=/1xlite-04636.top/
 local=/1xlite-071412.top/
@@ -57223,6 +57222,7 @@ local=/afhkvf9.buzz/
 local=/afk-spin.casino/
 local=/afk77go.xyz/
 local=/afktoto99.asia/
+local=/afktotodragon.com/
 local=/afktotomaju.com/
 local=/afn5nk4.buzz/
 local=/aforextrading.com/
@@ -122584,6 +122584,7 @@ local=/learnyzen.com/
 local=/leatherblackjack.club/
 local=/lebakunique.id/
 local=/lebenslotse.koeln/
+local=/lebihasikmaindiclickbet88.xyz/
 local=/lebiwei88.com/
 local=/lebom.app/
 local=/lebull.pt/
@@ -151818,6 +151819,7 @@ local=/rtpakunjp.com/
 local=/rtpakuratpokerace99.site/
 local=/rtpakuratsnicasino.xyz/
 local=/rtpamin4d.click/
+local=/rtparwgc.vip/
 local=/rtpasli.net/
 local=/rtpaslitoto.xyz/
 local=/rtpastra77.pro/
@@ -167893,6 +167895,7 @@ local=/urdmpd.bid/
 local=/uri-casino.com/
 local=/url130.com/
 local=/urlcasino.xyz/
+local=/urlshortcb88.com/
 local=/ursacasino.com/
 local=/ursacasinofinland.com/
 local=/ursinho123.com/

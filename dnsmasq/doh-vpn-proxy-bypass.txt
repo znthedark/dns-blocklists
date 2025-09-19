@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Sep 2025 19:54 UTC
-# Version: 2025.0918.1954.11
+# Last modified: 19 Sep 2025 08:14 UTC
+# Version: 2025.0919.0814.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5972
+# Number of entries: 5968
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1017,8 +1017,6 @@ local=/cyberghostvpn.com/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
-local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/d4.re/
@@ -1510,7 +1508,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2613,7 +2610,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/recap.class.nadiaplatform.com/
