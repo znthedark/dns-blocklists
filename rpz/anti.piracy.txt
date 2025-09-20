@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758356160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758397620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Sep 2025 08:16 UTC
-; Version: 2025.0920.0816.35
+; Last modified: 20 Sep 2025 19:47 UTC
+; Version: 2025.0920.1947.16
 ; Syntax: RPZ
-; Number of entries: 22158
+; Number of entries: 22176
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1611,6 +1611,8 @@ kickass2.ch CNAME .
 *.kickass2.ch CNAME .
 levidia.ch CNAME .
 *.levidia.ch CNAME .
+librezerba.ch CNAME .
+*.librezerba.ch CNAME .
 nowvideo.ch CNAME .
 *.nowvideo.ch CNAME .
 openloadmovies.ch CNAME .
@@ -2421,6 +2423,8 @@ eurostreaming.college CNAME .
 *.1movietv.com CNAME .
 1xstream.com CNAME .
 *.1xstream.com CNAME .
+1zib.com CNAME .
+*.1zib.com CNAME .
 20links.com CNAME .
 *.20links.com CNAME .
 22-hd.com CNAME .
@@ -2751,6 +2755,8 @@ anycracks.com CNAME .
 *.anycracks.com CNAME .
 anzaq.com CNAME .
 *.anzaq.com CNAME .
+apk-zone-101.com CNAME .
+*.apk-zone-101.com CNAME .
 apk4all.com CNAME .
 *.apk4all.com CNAME .
 apk4fun.com CNAME .
@@ -6603,8 +6609,6 @@ sharkstresser.com CNAME .
 *.sharkstresser.com CNAME .
 shimory.com CNAME .
 *.shimory.com CNAME .
-shipofharkinian.com CNAME .
-*.shipofharkinian.com CNAME .
 shogiroom.com CNAME .
 *.shogiroom.com CNAME .
 shokweb.com CNAME .
@@ -10899,6 +10903,8 @@ casacinema.life CNAME .
 *.casacinema.life CNAME .
 cb01.life CNAME .
 *.cb01.life CNAME .
+changhong.life CNAME .
+*.changhong.life CNAME .
 doodstream.life CNAME .
 *.doodstream.life CNAME .
 filmpertutti.life CNAME .
@@ -14745,6 +14751,8 @@ vegamovies.onl CNAME .
 *.123movies.online CNAME .
 123moviesme.online CNAME .
 *.123moviesme.online CNAME .
+191954.online CNAME .
+*.191954.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
 altadefinizione.online CNAME .
@@ -18863,6 +18871,8 @@ moviecluphd.store CNAME .
 *.moviecluphd.store CNAME .
 mypanlss.store CNAME .
 *.mypanlss.store CNAME .
+owijfsldkjf.store CNAME .
+*.owijfsldkjf.store CNAME .
 toparena.store CNAME .
 *.toparena.store CNAME .
 veritasforall.store CNAME .
@@ -19133,6 +19143,8 @@ streamingcommunity.team CNAME .
 *.streamingcommunity.team CNAME .
 123movieshub.tech CNAME .
 *.123movieshub.tech CNAME .
+bookfinder.tech CNAME .
+*.bookfinder.tech CNAME .
 cinemaos.tech CNAME .
 *.cinemaos.tech CNAME .
 dood.tech CNAME .
@@ -21749,6 +21761,8 @@ atrack-asia-s1.114913.xyz CNAME .
 *.123movieonline.xyz CNAME .
 1337xto.xyz CNAME .
 *.1337xto.xyz CNAME .
+1zib.xyz CNAME .
+*.1zib.xyz CNAME .
 20090910.xyz CNAME .
 *.20090910.xyz CNAME .
 2381280.xyz CNAME .
@@ -21783,6 +21797,10 @@ bt.3kb.xyz CNAME .
 *.870726.xyz CNAME .
 909190.xyz CNAME .
 *.909190.xyz CNAME .
+9142346511.xyz CNAME .
+*.9142346511.xyz CNAME .
+944118.xyz CNAME .
+*.944118.xyz CNAME .
 960303.xyz CNAME .
 *.960303.xyz CNAME .
 9993721.xyz CNAME .

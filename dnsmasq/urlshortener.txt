@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Sep 2025 06:50 UTC
-# Version: 2025.0920.0650.42
+# Last modified: 20 Sep 2025 18:27 UTC
+# Version: 2025.0920.1827.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6500
+# Number of entries: 6501
 #
 local=/0.gp/
 local=/00m.in/
@@ -2277,6 +2277,7 @@ local=/hodroffs.com/
 local=/hoeg.it/
 local=/hoholah.xyz/
 local=/hoki108.shop/
+local=/hoki1dana.site/
 local=/hoki22crot.com/
 local=/hokidana.vip/
 local=/hokie.co/

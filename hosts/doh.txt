@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Sep 2025 08:27 UTC
-# Version: 2025.0920.0827.06
+# Last modified: 20 Sep 2025 19:53 UTC
+# Version: 2025.0920.1953.37
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1637
 #
@@ -1062,6 +1062,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
@@ -1499,7 +1500,6 @@
 0.0.0.0 dns.thebuckners.org
 0.0.0.0 dns.thegoodsource.net
 0.0.0.0 dns.therifleman.name
-0.0.0.0 blocker.thethorsens.org
 0.0.0.0 doh.thio.me
 0.0.0.0 doh.tiar.app
 0.0.0.0 dot.tiar.app

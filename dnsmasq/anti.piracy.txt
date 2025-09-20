@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Sep 2025 08:16 UTC
-# Version: 2025.0920.0816.35
+# Last modified: 20 Sep 2025 19:47 UTC
+# Version: 2025.0920.1947.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11079
+# Number of entries: 11088
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -172,6 +172,7 @@ local=/141jav.com/
 local=/147job.com/
 local=/16mag.net/
 local=/17890714.ru/
+local=/191954.online/
 local=/1cinevood.kim/
 local=/1clickdown.com/
 local=/1ddl.org/
@@ -205,6 +206,8 @@ local=/1trance.org/
 local=/1watch-free.cc/
 local=/1watch-free.me/
 local=/1xstream.com/
+local=/1zib.com/
+local=/1zib.xyz/
 local=/2-lib.org/
 local=/20090910.xyz/
 local=/20links.com/
@@ -392,6 +395,8 @@ local=/8millimeters.com/
 local=/8putlocker.com/
 local=/8wsm.com/
 local=/909190.xyz/
+local=/9142346511.xyz/
+local=/944118.xyz/
 local=/94hiphop.com/
 local=/960303.xyz/
 local=/9993721.xyz/
@@ -879,6 +884,7 @@ local=/aovivo.pro/
 local=/apebox.tv/
 local=/apk-mod.net/
 local=/apk-store.org/
+local=/apk-zone-101.com/
 local=/apk4all.com/
 local=/apk4free.net/
 local=/apk4free.org/
@@ -1489,6 +1495,7 @@ local=/tracker.bontal.net/
 local=/bookaudiobook.net/
 local=/bookaura.top/
 local=/bookddl.com/
+local=/bookfinder.tech/
 local=/bookgrill.com/
 local=/bookracy.ru/
 local=/books-share.com/
@@ -1807,6 +1814,7 @@ local=/cestrm.xyz/
 local=/cg-gamespc.com/
 local=/cgpeers.com/
 local=/ch3oh.ru/
+local=/changhong.life/
 local=/channelstream.es/
 local=/chayachobi.net/
 local=/chdbits.org/
@@ -5405,6 +5413,7 @@ local=/libgen.rs/
 local=/libgen.st/
 local=/boards.libre.io/
 local=/librefutbol.su/
+local=/librezerba.ch/
 local=/libtorrent.org/
 local=/licensekey.net/
 local=/licensekeys.org/
@@ -6808,6 +6817,7 @@ local=/ovg.cc/
 local=/ns389251.ovh.net/
 local=/vps-dd0a0715.vps.ovh.net/
 local=/ovh-booter.com/
+local=/owijfsldkjf.store/
 local=/oxtorrent.cc/
 local=/oxtorrent.co/
 local=/oxtorrent.com/
@@ -7997,7 +8007,6 @@ local=/shikimori.one/
 local=/shimory.com/
 local=/bittorrent.shinsen-subs.org/
 local=/bt.shinsen-subs.org/
-local=/shipofharkinian.com/
 local=/shiro.is/
 local=/tracker.shittyurl.org/
 local=/udp-tracker.shittyurl.org/

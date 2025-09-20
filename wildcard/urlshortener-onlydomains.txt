@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Sep 2025 06:50 UTC
-# Version: 2025.0920.0650.42
+# Last modified: 20 Sep 2025 18:27 UTC
+# Version: 2025.0920.1827.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 6500
+# Number of entries: 6501
 #
 0.gp
 00m.in
@@ -2277,6 +2277,7 @@ hodroffs.com
 hoeg.it
 hoholah.xyz
 hoki108.shop
+hoki1dana.site
 hoki22crot.com
 hokidana.vip
 hokie.co
