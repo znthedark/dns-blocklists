@@ -595,7 +595,7 @@ A blocklist for blocking Top Most Abused Top Level Domains, merged from [@Yokoff
 
 ---
 
-### :crystal_ball: **DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!** <a name="dnsrebind"></a>
+### :shield: **DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!** <a name="dnsrebind"></a>
 
 DNS Rebind Protection is a security mechanism that prevents attackers from manipulating DNS responses to make a domain resolve to private or local IP addresses, thereby blocking malicious scripts from accessing internal networks through DNS rebinding attacks.
 

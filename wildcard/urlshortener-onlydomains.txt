@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Sep 2025 06:52 UTC
-# Version: 2025.0919.0652.00
+# Last modified: 20 Sep 2025 06:50 UTC
+# Version: 2025.0920.0650.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 6499
+# Number of entries: 6500
 #
 0.gp
 00m.in
@@ -3048,6 +3048,7 @@ linkshortenerfree.com
 linkshorteners.com
 linkshortify.com
 linkshortner.net
+linkshrink.net
 linkshrink.org
 linksimple.io
 linkslice.io
