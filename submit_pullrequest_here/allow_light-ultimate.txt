@@ -1,6 +1,31 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/7367
+breezeflash17.pro
+clearflare66.live
+dewpoint34.wiki
+dobaklife10.com
+foggycrest91.online
+fogtwist21.xyz
+frostwave30.xyz
+frozengust85.pro
+haildrop77.pro
+hailglow59.site
+icemist80.wiki
+lightbeam83.wiki
+lightmist83.live
+mistcloud98.xyz
+raindust78.online
+rainfallpath36.site
+rainveil36.xyz
+rainwhisper40.xyz
+snowblink22.pro
+stormcurve61.site
+stormyfield58.pro
+sunhaze44.site
+sunveil63.live
+
 # https://github.com/hagezi/dns-blocklists/issues/7316
 ct.ddc.paypal.com.fpc.datadome.co
 ddc.paypal.com.fpc.datadome.co
@@ -358,7 +383,7 @@ tdn.da-services.ch
 iot-earbuds-*.allawnos.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2319169147
-optimizationguide-pa.googleapis.com 
+optimizationguide-pa.googleapis.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3993
 kinesis.*.amazonaws.com
@@ -967,7 +992,7 @@ aafp.org
 policy.app.cookieinformation.com
 app.cookieinformation.com
 
-# Real-time Geolocation & Reverse IP Lookup REST API 
+# Real-time Geolocation & Reverse IP Lookup REST API
 api.ipapi.com
 
 # Maps in China apps
@@ -1234,7 +1259,7 @@ auction.co.kr
 # AnimeSuge is a free streaming anime website
 animesuge.to
 
-# Referral - https://github.com/hagezi/dns-blocklists/issues/2222 
+# Referral - https://github.com/hagezi/dns-blocklists/issues/2222
 *.tr.strumentimusicali.net
 *.trk.musvccustom.net
 

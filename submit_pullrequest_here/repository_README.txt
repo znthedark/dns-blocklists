@@ -29,18 +29,19 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 14. [Badware Hoster](#hoster) - Protects against the malicious use of host services!
 15. [URL Shortener](#urlshortener) - Blocks link/URL shortener!
 16. [Most Abused TLDs](#tlds) - Protects against known malicious Top Level Domains!
-17. [Anti Piracy](#piracy) - Protects against piracy!
-18. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
-19. [NSFW](#nsfw) - Protects against adult content!
-20. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
-21. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
-22. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
-23. [Online DNS Services](#dnsservices)
-24. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsor Me](https://github.com/sponsors/hagezi)
-25. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
-26. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
-27. [Sources](sources.md)
-28. [Contact](#contact)
+17. [DNS Rebind Protection](#dnsrebind) - Prevents attackers from resolving domains to local IPs!
+18. [Anti Piracy](#piracy) - Protects against piracy!
+19. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
+20. [NSFW](#nsfw) - Protects against adult content!
+21. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
+22. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
+23. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
+24. [Online DNS Services](#dnsservices)
+25. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsor Me](https://github.com/sponsors/hagezi)
+26. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
+27. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
+28. [Sources](sources.md)
+29. [Contact](#contact)
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
@@ -378,20 +379,30 @@ Newly registered domains (NRDs) are commonly used by threat actors for phishing,
              
 > [!CAUTION]
 > Use at your own risk. The NRD lists are provided as-is, without guarantees, support, or a process for removing false positives.
-          
-| Time<br>period | Format<br>AdBlock | Format<br>Domains |         
-|:--------------:|:-----------------:|:-----------------:|
-| 7 days ago to yesterday    | [GH](lnkgh_a/nrd7.txt) [GL](lnkgl_a/nrd7.txt) [CB](lnkjd_a/nrd7.txt) | [GH](lnkgh_d/nrd7.txt) [GL](lnkgl_d/nrd7.txt) [CB](lnkjd_d/nrd7.txt) |
-| 14 days ago to 8 days ago  | [GH](lnkgh_a/nrd14-8.txt) [GL](lnkgl_a/nrd14-8.txt) [CB](lnkjd_a/nrd14-8.txt) | [GH](lnkgh_d/nrd14-8.txt) [GL](lnkgl_d/nrd14-8.txt) [CB](lnkjd_d/nrd14-8.txt) |
-| 21 days ago to 15 days ago<br>(not all included yet) | [GH](lnkgh_a/nrd21-15.txt) [GL](lnkgl_a/nrd21-15.txt) [CB](lnkjd_a/nrd21-15.txt) | [GH](lnkgh_d/nrd21-15.txt) [GL](lnkgl_d/nrd21-15.txt) [CB](lnkjd_d/nrd21-15.txt) |
-| 28 days ago to 22 days ago | | |
-| 35 days ago to 29 days ago | | |
+            
+Data freshness: nrd_status nrd_age day(s) old
+                
+| Time<br>period | Entries | Format<br>AdBlock | Format<br>Domains |         
+|:--------------:|:--------|:-----------------:|:-----------------:|
+| 7 days ago to yesterday    | nrd7_dh | [GH](lnkgh_a/nrd7.txt) [GL](lnkgl_a/nrd7.txt) [CB](lnkjd_a/nrd7.txt) | [GH](lnkgh_d/nrd7.txt) [GL](lnkgl_d/nrd7.txt) [CB](lnkjd_d/nrd7.txt) |
+| 14 days ago to 8 days ago  | nrd148_dh | [GH](lnkgh_a/nrd14-8.txt) [GL](lnkgl_a/nrd14-8.txt) [CB](lnkjd_a/nrd14-8.txt) | [GH](lnkgh_d/nrd14-8.txt) [GL](lnkgl_d/nrd14-8.txt) [CB](lnkjd_d/nrd14-8.txt) |
+| 21 days ago to 15 days ago<br>(not all included yet) | nrd2115_dh | [GH](lnkgh_a/nrd21-15.txt) [GL](lnkgl_a/nrd21-15.txt) [CB](lnkjd_a/nrd21-15.txt) | [GH](lnkgh_d/nrd21-15.txt) [GL](lnkgl_d/nrd21-15.txt) [CB](lnkjd_d/nrd21-15.txt) |
+| 28 days ago to 22 days ago | nrd2822_dh | | |
+| 35 days ago to 29 days ago | nrd3529_dh | | |
              
 > [!NOTE]
 > To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.
            
-The base data for these lists is provided by [Stamus Labs](https://www.stamus-networks.com/stamus-labs/subscribe-to-threat-intel-feed).
-         
+> [!IMPORTANT]
+> The base data for these lists is provided by [Stamus Labs](https://www.stamus-networks.com/stamus-labs/subscribe-to-threat-intel-feed).  
+> Stamus Labs does not guarantee the provision of daily updates, and in certain instances, data may be delivered after a delay of several days.
+>              
+> If data is missing, it means nothing was received for those days.           
+> Example: If no data comes in for 3 days, the 7‑day file will only show data from the other 4 days.              
+> If no data comes in for a full 7 days, the 7‑day file will be empty.                  
+>                       
+> Current status of the data provided: nrd_status Version nrd_version - nrd_update /  nrd_count domains
+
 ---
 
 ### :outbox_tray: **DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!** <a name="bypass"></a>
@@ -581,6 +592,23 @@ A blocklist for blocking Top Most Abused Top Level Domains, merged from [@Yokoff
 | RPZ | [GH](lnkgh_r/spam-tlds-rpz.txt) [GL](lnkgl_r/spam-tlds-rpz.txt) [CB](lnkjd_r/spam-tlds-rpz.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound<br>Contains only spam TLDs that do not have any exclusions. |
 | RPZ<br>(Aggressive) | [GH](lnkgh_r/spam-tlds-rpz-aggressive.txt) [GL](lnkgl_r/spam-tlds-rpz-aggressive.txt) [CB](lnkjd_r/spam-tlds-rpz-aggressive.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound<br>Contains all spam TLDs, corresponds to the AdGuard and uBlock Origin version without exclusions. |
 | ControlD | [Link](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-combined-folder.json) | ControlD folder |
+
+---
+
+### :crystal_ball: **DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!** <a name="dnsrebind"></a>
+
+DNS Rebind Protection is a security mechanism that prevents attackers from manipulating DNS responses to make a domain resolve to private or local IP addresses, thereby blocking malicious scripts from accessing internal networks through DNS rebinding attacks.
+
+> [!IMPORTANT]
+> This list is only compatible with AdGuard/AdGuard Home and can also be selected in AdGuard DNS.                  
+> Other DNS blockers may include built‑in DNS rebinding protection.            
+>          
+> Since rebinding protection blocks all domains resolving to local IPs, internal hostnames may also be affected.           
+> In AdGuard, you should therefore whitelist your local domains, for example: `@@||fritz.box^`
+
+| Format | Links | Should be used for |
+|:-------|:-----|:----------------|
+| AdGuard | [GH](lnkgh_g/dns-rebind-protection.txt) [GL](lnkgl_g/dns-rebind-protection.txt) [CB](lnkjd_g/dns-rebind-protection.txt) | AdGuard, AdGuard Home |
 
 ---
 
