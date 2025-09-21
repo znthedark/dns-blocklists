@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# AdBlock-Detection on various sites, e.g. https://tarnkappe.info/
+cdntrf.com
+	
 # https://github.com/hagezi/dns-blocklists/issues/7342
 cdn.trackjs.com
 

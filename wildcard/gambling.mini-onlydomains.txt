@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Sep 2025 08:02 UTC
-# Version: 2025.0921.0802.20
+# Last modified: 21 Sep 2025 20:02 UTC
+# Version: 2025.0921.2002.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 37682
+# Number of entries: 37719
 #
 0-casino.info
 000-online-casino.com
@@ -111,6 +111,7 @@
 1-x-bet.com
 1-xbet8.com
 10-hotcasinosuk.com
+1000rifas.com
 1001bets.org
 1001juegos.com
 1006774.com
@@ -4868,6 +4869,7 @@ apolo77ai.click
 aposta.la
 aposta1.com
 apostabets.pro
+apostador.online
 apostaganha.bet
 apostaganha.com
 apostaonline.com
@@ -4905,15 +4907,19 @@ apuestacity.com
 apuestaes.net
 apuestaes.tv
 apuestalegal.ec
+apuestalegal.pe
+apuestas.cl
 apuestas-deportivas.es
 apuestasargentinas.com
 apuestascasinos.cl
 apuestasdecasino.es
 apuestasdeportivas.com
 apuestasdeportivas24.com
+apuestasdeportivas24.org
 apuestasfree.com
 apuestasganadas.com
 apuestashouse.com
+apuestaslegales.co
 apuestasnova.com
 apuestasonline.net
 apuestasonlineargentina.com
@@ -6259,6 +6265,7 @@ casinoclubonline.bet.ar
 codere.bet.ar
 delrio.bet.ar
 guazubet.bet.ar
+jugadon.bet.ar
 playuzu.bet.ar
 pba.sportsbet.bet.ar
 bet-1xsport.com
@@ -6275,6 +6282,7 @@ bet-chain.casino
 bet-chan.casino
 bet-channel.com
 bet-city.casino
+bet-experts.com
 bet-fido.com
 bet-football.com
 bet-hub.com
@@ -6548,6 +6556,7 @@ betcity-india.in
 betcity-promo.ru
 betcityasia.co
 betcityru.com
+betclan.com
 betclic.ci
 betclic.com
 betclic.football
@@ -6571,6 +6580,7 @@ betcris.com
 betcris.do
 betcris.mx
 betcris.pa
+betcris.pe
 betcris.pl
 betcryptocasino.net
 betcscasino.top
@@ -6904,6 +6914,7 @@ betsa.se
 betsafe.com
 betsafe.lt
 betsafe.lv
+betsafe.pe
 betsafecasino.win
 betsafeperu.org
 betsafesports.com
@@ -8695,6 +8706,7 @@ bwbt365ok.com
 bwcp888.com
 bwin.be
 bwin.buzz
+bwin.co
 bwin.com
 bwin.de
 bwin.dk
@@ -8949,6 +8961,7 @@ casagrandebets.com
 casapariurilor.ro
 casarenang.com
 casasdeapuestas.bet
+casasdeapuestas.com
 casasdeapuestasonline.net
 cascadescasino.ca
 casdep.com
@@ -9905,6 +9918,7 @@ casinobally.club
 casinobankingmethods.com
 casinobanzai365.fr
 casinobar778.com
+casinobarcelona.es
 casinobas.info
 casinobaseball.net
 casinobauble.com
@@ -10251,6 +10265,7 @@ casinoemilia.com
 casinoemir.com
 casinoempireclub.com
 casinoencasa.com
+casinoenchile.com
 casinoencyclopedia.com
 casinoendbahis.com
 casinoenespana.com
@@ -12933,6 +12948,7 @@ coldbet-casino-uz.com
 colina777.com
 colleenjordan.com
 collegeeducationnewsllc.com
+colombiacasino.co
 coloniapg.com
 colonycasinomw.com
 coloradolottery.com
@@ -12971,6 +12987,7 @@ colvuter.com
 813bet.com.br
 accadaccarocks.com.au
 apostar.com.ec
+apuestas.com.co
 apuestas.com.ec
 arkadacasino.com.pl
 asi.com.au
@@ -13020,6 +13037,7 @@ casinodeutschland.com.de
 casinogratis.com.ar
 casinoindeutschland.com.de
 casinolive.com.au
+casinomagic.com.ar
 casinoonline.com.ph
 casinoplus.com.ph
 casinosnobrasil.com.br
@@ -13055,6 +13073,7 @@ firebets.com.br
 flashscore.com.br
 fonbet.com.cy
 fortunetiger.com.br
+gana.com.co
 ggpoker.com.ru
 giveaways.com.au
 gojackpot.com.ph
@@ -13155,6 +13174,7 @@ singaporepools.com.sg
 skyracing.com.au
 slotor777.com.ua
 slots.com.ua
+solbet.com.py
 sonic5k.com.br
 spielbank.com.de
 sportchamps.com.au
@@ -13873,6 +13893,7 @@ datasydney.buzz
 datdrop.com
 datingsugar.club
 datosdeparleygratis.com
+datosdeparleygratis.net
 datslots.com
 dausbetspin.space
 davbet.com
@@ -16735,6 +16756,7 @@ getx-casino1076.buzz
 getx-casino1077.buzz
 getzen.cash
 getzoot.us
+gfacct.org
 gftforex.com
 gg.bet
 gg-bet.pro
@@ -17125,7 +17147,7 @@ goatbetsth.com
 goated.com
 goatm88bets.com
 goatzcasino.ch
-apuestas.inh.gob.ve
+inh.gob.ve
 lotenal.gob.mx
 gobambino.com
 gobet.win
@@ -18086,6 +18108,7 @@ hippodromecasino.com
 hippodromeonline.com
 hippozino.com
 hira88.com
+hispanosnba.com
 historyofcruzanrum.com
 hit.club
 hit-club.casino
@@ -22053,6 +22076,7 @@ lotbtk.com
 loteria.cl
 loteriadebogota.com
 loteriadehoy.com
+loteriadesalta.com
 loteriaelnegrito.com
 loterialottomax.com
 loterianacional.com
@@ -22149,6 +22173,7 @@ lottomv.de
 lottonumbers.com
 lottopark.com
 lottopoker.club
+lottoresultados.com
 lottosachsenanhalt.de
 lottosend.com
 lottosonline.com
@@ -22247,6 +22272,7 @@ luckboycasino.com
 luckcasino.ro
 luckcity.casino
 lucki2.casino
+luckia.co
 luckia.es
 luckia.pt
 luckia-casino.top
@@ -23422,6 +23448,7 @@ merhabet-casino777.com
 merhabetcasino.pro
 merhabetcasino.vip
 meridianbet.com
+meridianbet.pe
 meridianbet.rs
 meridianobet.net
 merit-casino.online
@@ -23507,6 +23534,7 @@ mexlucky7.com
 mexlucky8.com
 mexplaycasino.online
 mexspin.casino
+elgruposortario.mforos.com
 mfortune-casinos.com
 mfortunecasinos.com
 mfreespins.com
@@ -23650,6 +23678,7 @@ minsk-uslugi-pr.online
 mintbets.xyz
 mintcasinos.com
 mintstars.com
+miparley.com
 miracle-miracle.com
 miraex6.com
 mirage.com
@@ -25458,6 +25487,7 @@ olimp.com
 olimp-casino-bonus.com
 olimpbet.kz
 olimpcasino-kz.net
+olimpo.bet
 olimpwin.casino
 olislotflagged.blog
 olislotsingapura.blog
@@ -25547,6 +25577,7 @@ onecasinoo.org
 onecasinot.com
 onecasono.com
 oneduncasinonl.com
+onefootball.com
 onefootball88.com
 onegameslink.com
 onehash.com
@@ -28739,6 +28770,7 @@ powbet731198.com
 power-casino-online.com
 power-slots.com
 powerball.com
+powerbet.ro
 powerbet777.com
 powerbets24.ru
 powercasino.cz
@@ -29669,6 +29701,7 @@ restupokeramp.site
 resultados-de-loteria.com
 resultados-futbol.com
 resultados365.com
+resultadosalinstante.com
 resultadostriplezulia.com
 retabet.es
 retiroscasinos.com
@@ -32469,6 +32502,7 @@ sportingindex.com
 sportinglife.com
 sportingnews.com
 sportitaliabet.it
+sportium.com
 sportium.es
 sportium.it
 sportmarket.com
@@ -33308,6 +33342,7 @@ tembak.pro
 tempemedoan.site
 templenile.com
 templeslots.club
+templodeslots.es
 tempobet.com
 tempobetcasino.pro
 tempobetsorunsuzgiris.com
@@ -36768,6 +36803,7 @@ winpokergames8.com
 winport-casino.com
 winportcasino.bet
 winportcasino.com
+winpot.mx
 winprizecasinoboom.com
 winrate777b.click
 winrolla1.com
@@ -37483,6 +37519,7 @@ zafercasino.com
 zalagam.net
 zaloqq88.club
 zalv777.com
+zamba.co
 zambo-bets.shop
 zamsino.com
 zandvoortcasino.com

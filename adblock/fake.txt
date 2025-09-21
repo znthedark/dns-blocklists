@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 21 Sep 2025 06:46 UTC
-! Version: 2025.0921.0646.48
+! Last modified: 21 Sep 2025 18:25 UTC
+! Version: 2025.0921.1825.49
 ! Syntax: AdBlock
-! Number of entries: 14051
+! Number of entries: 14057
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1206,6 +1206,7 @@
 ||bekleidungsde.com^
 ||bekleidungsoutlet.com^
 ||bekos.at^
+||belbachirconcept.com^
 ||belendan.com^
 ||belenkafi.com^
 ||belenkawien.at^
@@ -1810,6 +1811,7 @@
 ||brennholz-world.at^
 ||brennholz-zertifikats.de^
 ||brennholz360.com^
+||brennholz49.de^
 ||brennholzbillharz.shop^
 ||brennholzboersch.com^
 ||brennholzdge.com^
@@ -2096,6 +2098,7 @@
 ||carrelage-paulay.com^
 ||carriageglobal.com^
 ||carrieri-handel.de^
+||carrujos.com^
 ||carshades.at^
 ||ytjef.carsonarchitectsinc.com^
 ||carstruckstoy.com^
@@ -2199,6 +2202,7 @@
 ||chain-reaction.app^
 ||chaitox.com^
 ||chamberm.com^
+||champel-equipment.com^
 ||champion-bulldoggen.com^
 ||championbelgique.com^
 ||championberlin.de^
@@ -7323,6 +7327,7 @@
 ||leinwandbilderxxleur.shop^
 ||leipziger-spielwaren.com^
 ||leisureer.com^
+||lejagarten.de^
 ||lekaren-slovenska24.com^
 ||lekaren-slovenska247.com^
 ||lekarenslovenska.com^
@@ -13014,6 +13019,7 @@
 ||valuablesale.com^
 ||valucase.com^
 ||valuevervehub.com^
+||valuevortexmart.com^
 ||valurabeauty.com^
 ||valurabeauty.de^
 ||valuza.de^

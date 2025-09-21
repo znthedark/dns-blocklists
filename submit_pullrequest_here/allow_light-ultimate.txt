@@ -1,6 +1,13 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/7386
+apps.outfit7.com
+apps2-ru.outfit7.com
+apps2.outfit7.com
+apps2.outfit7.com.edgesuite.net
+apps2-ru.outfit7.com.edgesuite.net
+
 # https://github.com/hagezi/dns-blocklists/issues/7367
 breezeflash17.pro
 clearflare66.live

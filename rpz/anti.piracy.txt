@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758441720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758484920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Sep 2025 08:02 UTC
-; Version: 2025.0921.0802.40
+; Last modified: 21 Sep 2025 20:02 UTC
+; Version: 2025.0921.2002.50
 ; Syntax: RPZ
-; Number of entries: 22184
+; Number of entries: 22226
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1187,6 +1187,8 @@ animesonline.cc CNAME .
 *.animesonline.cc CNAME .
 anix.cc CNAME .
 *.anix.cc CNAME .
+annas-archive.cc CNAME .
+*.annas-archive.cc CNAME .
 autoembed.cc CNAME .
 *.autoembed.cc CNAME .
 tracker.avgv.cc CNAME .
@@ -9441,6 +9443,8 @@ kinox.group CNAME .
 *.kinox.group CNAME .
 vegamovies.group CNAME .
 *.vegamovies.group CNAME .
+annas-archive.gs CNAME .
+*.annas-archive.gs CNAME .
 123movies.guide CNAME .
 *.123movies.guide CNAME .
 3ds.hacks.guide CNAME .
@@ -9583,8 +9587,6 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -10853,6 +10855,8 @@ vegamovies.lgbt CNAME .
 *.vegamovies.lgbt CNAME .
 altadefinizione.li CNAME .
 *.altadefinizione.li CNAME .
+annas-archive.li CNAME .
+*.annas-archive.li CNAME .
 ask4movie.li CNAME .
 *.ask4movie.li CNAME .
 audiobookbay.li CNAME .
@@ -14709,8 +14713,6 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
-tracker.tnl.one CNAME .
-*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -15829,6 +15831,46 @@ mangadex.org CNAME .
 *.mangadex.org CNAME .
 mangamura.org CNAME .
 *.mangamura.org CNAME .
+mbcej.org CNAME .
+*.mbcej.org CNAME .
+mbdny.org CNAME .
+*.mbdny.org CNAME .
+mbeaj.org CNAME .
+*.mbeaj.org CNAME .
+mbfpu.org CNAME .
+*.mbfpu.org CNAME .
+mbhiz.org CNAME .
+*.mbhiz.org CNAME .
+mbimg.org CNAME .
+*.mbimg.org CNAME .
+mbmyj.org CNAME .
+*.mbmyj.org CNAME .
+mbopg.org CNAME .
+*.mbopg.org CNAME .
+mbqgu.org CNAME .
+*.mbqgu.org CNAME .
+mbqtj.org CNAME .
+*.mbqtj.org CNAME .
+mbrtz.org CNAME .
+*.mbrtz.org CNAME .
+mbtba.org CNAME .
+*.mbtba.org CNAME .
+mbtmv.org CNAME .
+*.mbtmv.org CNAME .
+mbuul.org CNAME .
+*.mbuul.org CNAME .
+mbwbm.org CNAME .
+*.mbwbm.org CNAME .
+mbwnp.org CNAME .
+*.mbwnp.org CNAME .
+mbwww.org CNAME .
+*.mbwww.org CNAME .
+mbxma.org CNAME .
+*.mbxma.org CNAME .
+mbzcp.org CNAME .
+*.mbzcp.org CNAME .
+mbznp.org CNAME .
+*.mbznp.org CNAME .
 mcpedl.org CNAME .
 *.mcpedl.org CNAME .
 media-torrent.org CNAME .
@@ -18299,6 +18341,8 @@ amazing-news.se CNAME .
 *.amazing-news.se CNAME .
 animebam.se CNAME .
 *.animebam.se CNAME .
+annas-archive.se CNAME .
+*.annas-archive.se CNAME .
 audiobookbay.se CNAME .
 *.audiobookbay.se CNAME .
 avxhm.se CNAME .
@@ -20085,8 +20129,6 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tracker.xn--djrq4gl4hvoi.top CNAME .
-*.tracker.xn--djrq4gl4hvoi.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .

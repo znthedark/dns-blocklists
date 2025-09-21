@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Sep 2025 06:46 UTC
-# Version: 2025.0921.0646.48
+# Last modified: 21 Sep 2025 18:25 UTC
+# Version: 2025.0921.1825.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14051
+# Number of entries: 14057
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1205,6 +1205,7 @@ local=/bekleidungonstore.com/
 local=/bekleidungsde.com/
 local=/bekleidungsoutlet.com/
 local=/bekos.at/
+local=/belbachirconcept.com/
 local=/belendan.com/
 local=/belenkafi.com/
 local=/belenkawien.at/
@@ -1809,6 +1810,7 @@ local=/brennholz-scheiffele.de/
 local=/brennholz-world.at/
 local=/brennholz-zertifikats.de/
 local=/brennholz360.com/
+local=/brennholz49.de/
 local=/brennholzbillharz.shop/
 local=/brennholzboersch.com/
 local=/brennholzdge.com/
@@ -2095,6 +2097,7 @@ local=/carragamo.com/
 local=/carrelage-paulay.com/
 local=/carriageglobal.com/
 local=/carrieri-handel.de/
+local=/carrujos.com/
 local=/carshades.at/
 local=/ytjef.carsonarchitectsinc.com/
 local=/carstruckstoy.com/
@@ -2198,6 +2201,7 @@ local=/chacosdeutschland.de/
 local=/chain-reaction.app/
 local=/chaitox.com/
 local=/chamberm.com/
+local=/champel-equipment.com/
 local=/champion-bulldoggen.com/
 local=/championbelgique.com/
 local=/championberlin.de/
@@ -7322,6 +7326,7 @@ local=/leins-birkenfeld.de/
 local=/leinwandbilderxxleur.shop/
 local=/leipziger-spielwaren.com/
 local=/leisureer.com/
+local=/lejagarten.de/
 local=/lekaren-slovenska24.com/
 local=/lekaren-slovenska247.com/
 local=/lekarenslovenska.com/
@@ -13013,6 +13018,7 @@ local=/valuablem.com/
 local=/valuablesale.com/
 local=/valucase.com/
 local=/valuevervehub.com/
+local=/valuevortexmart.com/
 local=/valurabeauty.com/
 local=/valurabeauty.de/
 local=/valuza.de/

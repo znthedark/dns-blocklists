@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Sep 2025 08:02 UTC
-# Version: 2025.0921.0802.40
+# Last modified: 21 Sep 2025 20:02 UTC
+# Version: 2025.0921.2002.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11092
+# Number of entries: 11113
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -859,7 +859,11 @@ local=/anix.to/
 local=/anizone.to/
 local=/ankergames.net/
 local=/ankeschwarz.net/
+local=/annas-archive.cc/
+local=/annas-archive.gs/
+local=/annas-archive.li/
 local=/annas-archive.org/
+local=/annas-archive.se/
 local=/anonboot.com/
 local=/anonsecurityteam.com/
 local=/private.anonseed.com/
@@ -2547,7 +2551,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -5695,6 +5698,26 @@ local=/mayi.tw/
 local=/mazedanetworks.net/
 local=/mazepa.to/
 local=/mazetorrents.net/
+local=/mbcej.org/
+local=/mbdny.org/
+local=/mbeaj.org/
+local=/mbfpu.org/
+local=/mbhiz.org/
+local=/mbimg.org/
+local=/mbmyj.org/
+local=/mbopg.org/
+local=/mbqgu.org/
+local=/mbqtj.org/
+local=/mbrtz.org/
+local=/mbtba.org/
+local=/mbtmv.org/
+local=/mbuul.org/
+local=/mbwbm.org/
+local=/mbwnp.org/
+local=/mbwww.org/
+local=/mbxma.org/
+local=/mbzcp.org/
+local=/mbznp.org/
 local=/mcead.com/
 local=/mceapk.com/
 local=/mcnbd.com/
@@ -9081,7 +9104,6 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
-local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -10754,7 +10776,6 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
-local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

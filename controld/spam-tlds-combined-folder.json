@@ -2968,6 +2968,13 @@
       }
     },
     {
+      "PK": "keenetic.name",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "keyboard-test.space",
       "action": {
         "do": 1,
