@@ -1,5 +1,13 @@
 # IPs to be removed from the tif IP list.
 
+# https://github.com/hagezi/dns-blocklists/issues/7379
+77.88.8.1
+77.88.8.2
+77.88.8.3
+77.88.8.7
+77.88.8.8
+77.88.8.88
+
 # app.radiogr.am
 185.53.177.50
 
@@ -196,7 +204,7 @@
 185.199.111.133
 185.199.108.133
 
-# https://github.com/hagezi/dns-blocklists/issues/2263 
+# https://github.com/hagezi/dns-blocklists/issues/2263
 157.90.161.227
 
 # https://github.com/hagezi/dns-blocklists/issues/2259
