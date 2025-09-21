@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Sep 2025 18:25 UTC
-# Version: 2025.0920.1825.09
+# Last modified: 21 Sep 2025 06:46 UTC
+# Version: 2025.0921.0646.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14047
+# Number of entries: 14051
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1402,7 +1402,6 @@ local=/bfmmarkets.com/
 local=/bforbinary.com/
 local=/bforbroker.com/
 local=/bforex.com/
-local=/bftb.org/
 local=/bfxoption.com/
 local=/bgconsult.ch/
 local=/bgtcchem.shop/
@@ -2027,6 +2026,7 @@ local=/canadianhealthcaremalll.com/
 local=/canadianhealthcarepharmacymall.com/
 local=/canadianhealthncaremall.com/
 local=/canadiannewstoday.com/
+local=/canapechic.com/
 local=/canaryrentalvillas.com/
 local=/canaryvacationhome.com/
 local=/canbeloutlet.com/
@@ -3266,7 +3266,6 @@ local=/dishwasherprada.de/
 local=/diskrete-apotheke.de/
 local=/disneykinder.de/
 local=/disruptiva-tech.de/
-local=/distanceg.com/
 local=/distant-lands.com/
 local=/distinguishm.com/
 local=/distributem.com/
@@ -4203,6 +4202,7 @@ local=/fanaticsaleshopify.com/
 local=/fanaticsshopline.com/
 local=/fanaticsusd.com/
 local=/fancygrab.com/
+local=/fanexch.com/
 local=/fanmalls.de/
 local=/fantimo.shop/
 local=/fantomfinanzen.com/
@@ -8793,7 +8793,6 @@ local=/nazaone.com/
 local=/nbynicole.com/
 local=/ncases.com/
 local=/nchen.de/
-local=/ndfinitee.com/
 local=/near-on-chain.de/
 local=/neary.de/
 local=/nebula-witch-power.com/
@@ -9122,7 +9121,6 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -9337,6 +9335,7 @@ local=/onschuheschweizoutlet.com/
 local=/onschuhewien.at/
 local=/onshoes-de.shop/
 local=/more2water.onshopbase.com/
+local=/onthonehand.com/
 local=/ooctaviat.store/
 local=/oofos--canada.com/
 local=/oofos-sandals.net/
@@ -10341,6 +10340,7 @@ local=/reality-golf.com/
 local=/realmadridassets.com/
 local=/realmadridcf.de/
 local=/realstock.es/
+local=/realyiyi.com/
 local=/reardlesof.com/
 local=/rebateoutdoorpro.com/
 local=/rebateoutsportus.com/
@@ -12651,6 +12651,7 @@ local=/transethylene.com/
 local=/transferk.com/
 local=/transfertrain.de/
 local=/transformeri.com/
+local=/transieny.com/
 local=/transparentk.com/
 local=/transparentw.com/
 local=/trapstaraustria.at/
@@ -12762,6 +12763,7 @@ local=/trynori.de/
 local=/tsl-handel.de/
 local=/tsonlinestore.com/
 local=/tsptheshop.com/
+local=/tsssm.com/
 local=/tsv-erste.de/
 local=/ttgun.com/
 local=/ttl-logistik.de/
@@ -13290,6 +13292,7 @@ local=/vitalvigoury.com/
 local=/viva-markets.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
+local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
@@ -13907,6 +13910,7 @@ local=/yokofashionswitzerland.com/
 local=/yoma-versand.de/
 local=/yonexdeutschland.com/
 local=/yoocaa.com/
+local=/yoohal.com/
 local=/yorkbootsshop.de/
 local=/youngbf.com/
 local=/yourgiftshopping.com/

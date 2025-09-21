@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Sep 2025 19:44 UTC
-# Version: 2025.0920.1944.35
+# Last modified: 21 Sep 2025 08:00 UTC
+# Version: 2025.0921.0800.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 90687
+# Number of entries: 90691
 #
 local=/0-bdmbet.com/
 local=/0-casino.info/
@@ -14254,6 +14254,7 @@ local=/agbacasino.com/
 local=/agbaccarat-casino.com/
 local=/agbong88.com/
 local=/agen-5000.com/
+local=/agen228parlay.digital/
 local=/agen228poker.com/
 local=/agen338play.com/
 local=/agen618.com/
@@ -32192,6 +32193,7 @@ local=/clubspoker.com/
 local=/clubvegascasinoapp.com/
 local=/clubvegasslots.com/
 local=/clubvulcan.com/
+local=/clubvulkan-official.vip/
 local=/clubvulkanbetspro.biz/
 local=/clubvulkangambling.com/
 local=/clubworldcasinos.com/
@@ -56314,6 +56316,7 @@ local=/m-vaycasino1027.com/
 local=/m-vaycasino1031.com/
 local=/m-vaycasino1033.com/
 local=/m-vaycasino1034.com/
+local=/m059.com/
 local=/m0953fenf.com/
 local=/m167cw.com/
 local=/m16sports.bet/
@@ -70240,6 +70243,7 @@ local=/promocode-casino.com/
 local=/promocodeforhollywoodbets.club/
 local=/promokodicasino.ru/
 local=/promomenang.com/
+local=/promoolb228.sale/
 local=/promopokerdom.sbs/
 local=/promopusat4d.art/
 local=/promosbets.com/

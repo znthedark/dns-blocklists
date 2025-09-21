@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 20 Sep 2025 18:25 UTC
-! Version: 2025.0920.1825.09
+! Last modified: 21 Sep 2025 06:46 UTC
+! Version: 2025.0921.0646.48
 ! Syntax: AdBlock
-! Number of entries: 14047
+! Number of entries: 14051
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1403,7 +1403,6 @@
 ||bforbinary.com^
 ||bforbroker.com^
 ||bforex.com^
-||bftb.org^
 ||bfxoption.com^
 ||bgconsult.ch^
 ||bgtcchem.shop^
@@ -2028,6 +2027,7 @@
 ||canadianhealthcarepharmacymall.com^
 ||canadianhealthncaremall.com^
 ||canadiannewstoday.com^
+||canapechic.com^
 ||canaryrentalvillas.com^
 ||canaryvacationhome.com^
 ||canbeloutlet.com^
@@ -3267,7 +3267,6 @@
 ||diskrete-apotheke.de^
 ||disneykinder.de^
 ||disruptiva-tech.de^
-||distanceg.com^
 ||distant-lands.com^
 ||distinguishm.com^
 ||distributem.com^
@@ -4204,6 +4203,7 @@
 ||fanaticsshopline.com^
 ||fanaticsusd.com^
 ||fancygrab.com^
+||fanexch.com^
 ||fanmalls.de^
 ||fantimo.shop^
 ||fantomfinanzen.com^
@@ -8794,7 +8794,6 @@
 ||nbynicole.com^
 ||ncases.com^
 ||nchen.de^
-||ndfinitee.com^
 ||near-on-chain.de^
 ||neary.de^
 ||nebula-witch-power.com^
@@ -9123,7 +9122,6 @@
 ||obroker.com^
 ||ocayo.de^
 ||occasionak.com^
-||occasionk.com^
 ||ochsner-agrarhandel.com^
 ||ocinboutique.de^
 ||octa-trade.com^
@@ -9338,6 +9336,7 @@
 ||onschuhewien.at^
 ||onshoes-de.shop^
 ||more2water.onshopbase.com^
+||onthonehand.com^
 ||ooctaviat.store^
 ||oofos--canada.com^
 ||oofos-sandals.net^
@@ -10342,6 +10341,7 @@
 ||realmadridassets.com^
 ||realmadridcf.de^
 ||realstock.es^
+||realyiyi.com^
 ||reardlesof.com^
 ||rebateoutdoorpro.com^
 ||rebateoutsportus.com^
@@ -12652,6 +12652,7 @@
 ||transferk.com^
 ||transfertrain.de^
 ||transformeri.com^
+||transieny.com^
 ||transparentk.com^
 ||transparentw.com^
 ||trapstaraustria.at^
@@ -12763,6 +12764,7 @@
 ||tsl-handel.de^
 ||tsonlinestore.com^
 ||tsptheshop.com^
+||tsssm.com^
 ||tsv-erste.de^
 ||ttgun.com^
 ||ttl-logistik.de^
@@ -13291,6 +13293,7 @@
 ||viva-markets.com^
 ||vivagopro.com^
 ||vivaiabuty.pl^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -13908,6 +13911,7 @@
 ||yoma-versand.de^
 ||yonexdeutschland.com^
 ||yoocaa.com^
+||yoohal.com^
 ||yorkbootsshop.de^
 ||youngbf.com^
 ||yourgiftshopping.com^
