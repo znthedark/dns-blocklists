@@ -42,7 +42,8 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 26. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 27. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
 28. [Sources](sources.md)
-29. [Contact](#contact)
+29. [Disclaimer](#disclaimer)
+30. [Contact](#contact)
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
@@ -381,7 +382,7 @@ Newly registered domains (NRDs) are commonly used by threat actors for phishing,
 > [!CAUTION]
 > Use at your own risk. The NRD lists are provided as-is, without guarantees, support, or a process for removing false positives.
             
-Data freshness: :red_circle: 4 day(s) old
+Data freshness: :warning: 5 day(s) old
                 
 | Time<br>period | Entries | Format<br>AdBlock | Format<br>Domains |         
 |:--------------:|:--------|:-----------------:|:-----------------:|
@@ -402,7 +403,7 @@ Data freshness: :red_circle: 4 day(s) old
 > Example: If no data comes in for 3 days, the 7‑day file will only show data from the other 4 days.              
 > If no data comes in for a full 7 days, the 7‑day file will be empty.                  
 >                       
-> Current status of the data provided: :red_circle: Version 858 - Wed, 17 Sep 2025 04:26:58 UTC /  8126526 domains
+> Current status of the data provided: :warning: Version 858 - Wed, 17 Sep 2025 04:26:58 UTC /  8126526 domains
 
 ---
 
@@ -914,6 +915,21 @@ Help and cooperation of any kind are welcome!
 ### :stars: Stargazers <a name="stargazers"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=hagezi/dns-blocklists&type=Date)](https://star-history.com/#hagezi/dns-blocklists&Date)
+
+---
+
+### :warning: Disclaimer <a name="disclaimer"></a>
+
+> [!IMPORTANT]
+> The provided DNS blocklists are made available free of charge and without any warranty of any kind. The creator or operator of these blocklists assumes no liability for the accuracy, completeness, timeliness, or suitability of the provided information for any particular purpose. In particular, there is no guarantee that all harmful or unwanted domains are captured, or that legitimate domains will not be erroneously blocked.
+>           
+> Use of the DNS blocklists is strictly at the user's own risk. Any direct or indirect liability for material or non-material damages arising from the use or non-use of the provided lists is expressly excluded, unless such damage is demonstrably the result of deliberate or grossly negligent misconduct on the part of the provider.
+>           
+> The lists are intended solely as an additional, non-exclusive security measure and do not replace the user's own responsibility for due diligence or the use of further protective mechanisms (e.g. firewalls, antivirus software, IDS/IPS systems). Compatibility with specific systems, software solutions, or individual deployment scenarios is not guaranteed.
+>            
+> Redistribution and adaptation of the blocklists is permitted within the scope of the applicable open source license terms. It is the user's responsibility to be aware of and comply with the respective license conditions.
+>            
+> By using the DNS blocklists, you expressly acknowledge and accept these terms and conditions.
 
 ---
 
