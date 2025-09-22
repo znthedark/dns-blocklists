@@ -4,9 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Sep 2025 20:09 UTC
-# Version: 2025.0921.2009.08
+# Last modified: 22 Sep 2025 08:21 UTC
+# Version: 2025.0922.0821.44
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 412
 #
@@ -117,7 +118,7 @@
 0.0.0.0 dns.pub dns.sb dns.watch dns64.dns.google doh.dns.sb guigu.dns.army homec92.dns.army public-dns-a.dns.sb public-dns-b.dns.sb
 0.0.0.0 dns.dns-53.com dns.dns-53.uk dns.dns-53.us mikrobill.dns-cloud.net proariel.dns-dynamic.net dns-free.link dns1.dns-ga.de dns2.dns-ga.de dns3.dns-ga.de
 0.0.0.0 doh.dns-ga.de secure-dns.dns-ga.de dns.dns-over-https.com i.dns-over-https.tk dns0.eu kids.dns0.eu open.dns0.eu zero.dns0.eu doh.dns4all.eu
-0.0.0.0 doq64.dns4all.eu dns4me.net au01.dns4me.net au02.dns4me.net ca01.dns4me.net ca02.dns4me.net de01.dns4me.net ie01.dns4me.net jp01.dns4me.net
+0.0.0.0 doq.dns4all.eu dns4me.net au01.dns4me.net au02.dns4me.net ca01.dns4me.net ca02.dns4me.net de01.dns4me.net ie01.dns4me.net jp01.dns4me.net
 0.0.0.0 nz01.dns4me.net sa01.dns4me.net sg01.dns4me.net uk01.dns4me.net us01.dns4me.net us02.dns4me.net adguard-koe.dns64.de dns8.org dns88.site
 0.0.0.0 dnsbunker.org ns1.recursive.dnsbycomodo.com ns2.recursive.dnsbycomodo.com 2.dnscrypt-cert.shield-2.dnsbycomodo.com dnscity.org abe01.dnscry.pt abn01.dnscry.pt adl01.dnscry.pt akl01.dnscry.pt
 0.0.0.0 ams01.dnscry.pt ams02.dnscry.pt ath01.dnscry.pt atl01.dnscry.pt bcn01.dnscry.pt bei01.dnscry.pt blr01.dnscry.pt bne01.dnscry.pt bog01.dnscry.pt

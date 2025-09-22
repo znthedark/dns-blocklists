@@ -4,9 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Sep 2025 20:09 UTC
-# Version: 2025.0921.2009.08
+# Last modified: 22 Sep 2025 08:21 UTC
+# Version: 2025.0922.0821.44
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3256
 #
@@ -820,7 +821,7 @@ local=/dns.dns-over-https.com/
 local=/i.dns-over-https.tk/
 local=/dns0.eu/
 local=/doh.dns4all.eu/
-local=/doq64.dns4all.eu/
+local=/doq.dns4all.eu/
 local=/dns4me.net/
 local=/adguard-koe.dns64.de/
 local=/dns8.org/

@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Sep 2025 19:59 UTC
-# Version: 2025.0921.1959.48
+# Last modified: 22 Sep 2025 08:12 UTC
+# Version: 2025.0922.0812.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 90737
+# Number of entries: 90738
 #
 *.0-bdmbet.com
 *.0-casino.info
@@ -46506,6 +46507,7 @@
 *.ignitioncasino.eu
 *.ignitioncasino.fun
 *.ignitioncasino.lv
+*.ignitioncasino.ooo
 *.ignitioncasino.run
 *.ignitioncasinoaustralia.org
 *.ignitioncasinol.com

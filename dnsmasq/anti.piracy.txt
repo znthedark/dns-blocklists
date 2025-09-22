@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Sep 2025 20:02 UTC
-# Version: 2025.0921.2002.50
+# Last modified: 22 Sep 2025 08:14 UTC
+# Version: 2025.0922.0814.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11113
+# Number of entries: 11114
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -860,7 +861,6 @@ local=/anizone.to/
 local=/ankergames.net/
 local=/ankeschwarz.net/
 local=/annas-archive.cc/
-local=/annas-archive.gs/
 local=/annas-archive.li/
 local=/annas-archive.org/
 local=/annas-archive.se/
@@ -1622,6 +1622,7 @@ local=/bundesliga-streams.net/
 local=/bunkr.tv/
 local=/buny.uk/
 local=/torrent.burgas.org/
+local=/burmese.app/
 local=/burning-series.io/
 local=/burning-series.net/
 local=/burningseries.co/
@@ -9104,6 +9105,7 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
+local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/

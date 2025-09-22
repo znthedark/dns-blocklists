@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Sep 2025 18:25 UTC
-# Version: 2025.0921.1825.49
+# Last modified: 22 Sep 2025 06:50 UTC
+# Version: 2025.0922.0650.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14057
+# Number of entries: 14054
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1403,6 +1404,7 @@ local=/bfmmarkets.com/
 local=/bforbinary.com/
 local=/bforbroker.com/
 local=/bforex.com/
+local=/bftb.org/
 local=/bfxoption.com/
 local=/bgconsult.ch/
 local=/bgtcchem.shop/
@@ -1978,6 +1980,7 @@ local=/cachetone.com/
 local=/cadlicenseseller.com/
 local=/cafe-hardenberg.de/
 local=/cafivo.com/
+local=/cahok.com/
 local=/calcaterrachallenge.com/
 local=/calcioespresso.com/
 local=/calea-trade.de/
@@ -2348,7 +2351,6 @@ local=/climbinglimit.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
-local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -3100,7 +3102,6 @@ local=/deregresoalafuente.com/
 local=/derekoutlet.de/
 local=/derfairmieter.de/
 local=/derimoservices.com/
-local=/derivainasm.com/
 local=/derkaminofenhandel.de/
 local=/derkatzenshop.de/
 local=/dermao.com/
@@ -3445,7 +3446,6 @@ local=/dualtronnpower.de/
 local=/dualtronpower.shop/
 local=/duavital.com/
 local=/dubaifix.eu/
-local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duft-blumen.de/
 local=/duftbaum.store/
@@ -4110,7 +4110,6 @@ local=/fabrika-musik.de/
 local=/fabtechfire.com/
 local=/fabulaberlin.com/
 local=/facepets.es/
-local=/factearn.com/
 local=/factorcoolfinders.com/
 local=/factory-glasses.com/
 local=/factory2021.ru/
@@ -4944,6 +4943,7 @@ local=/genericdoctor.com/
 local=/genericsbot.com/
 local=/generika-profi.shop/
 local=/generika4u.eu/
+local=/generositye.com/
 local=/geneticrypto.com/
 local=/genevabroker.com/
 local=/genialbau.com/
@@ -6157,7 +6157,6 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
-local=/hyip.com/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
 local=/hypersneakers.online/
@@ -7750,6 +7749,7 @@ local=/lvm-capital.com/
 local=/lwex02.com/
 local=/lynch-care.com/
 local=/lynx-ai.pro/
+local=/lypgm.com/
 local=/ma-kaminholz.de/
 local=/maaapsale.shop/
 local=/mabanco.com/
@@ -10106,7 +10106,6 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
-local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/
@@ -12653,7 +12652,6 @@ local=/tranquilm.com/
 local=/tranquiltrove.com/
 local=/trans-almpanis.de/
 local=/transethylene.com/
-local=/transferk.com/
 local=/transfertrain.de/
 local=/transformeri.com/
 local=/transieny.com/

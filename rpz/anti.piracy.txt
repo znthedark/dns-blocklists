@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758484920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758528840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Sep 2025 20:02 UTC
-; Version: 2025.0921.2002.50
+; Last modified: 22 Sep 2025 08:14 UTC
+; Version: 2025.0922.0814.55
 ; Syntax: RPZ
-; Number of entries: 22226
+; Number of entries: 22228
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -183,6 +184,8 @@ bitcine.app CNAME .
 *.bitcine.app CNAME .
 buffstreams.app CNAME .
 *.buffstreams.app CNAME .
+burmese.app CNAME .
+*.burmese.app CNAME .
 cb01.app CNAME .
 *.cb01.app CNAME .
 cineblog01.app CNAME .
@@ -9443,8 +9446,6 @@ kinox.group CNAME .
 *.kinox.group CNAME .
 vegamovies.group CNAME .
 *.vegamovies.group CNAME .
-annas-archive.gs CNAME .
-*.annas-archive.gs CNAME .
 123movies.guide CNAME .
 *.123movies.guide CNAME .
 3ds.hacks.guide CNAME .
@@ -14713,6 +14714,8 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
+tracker.tnl.one CNAME .
+*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
