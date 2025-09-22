@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)<a href="https://github.com/sponsors/hagezi" target="_blank"><img src="https://img.shields.io/badge/Sponsor-♥️-orange" alt="Support via GitHub Sponsors" /></a><a href="https://liberapay.com/hagezi/donate" target="_blank"><img src="https://img.shields.io/liberapay/patrons/hagezi.svg?logo=liberapay" alt="Donate using Liberapay" /></a>[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?logo=patreon&style=flat)](https://www.patreon.com/hagezidns)
+![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)<a href="https://github.com/sponsors/hagezi" target="_blank"><img src="https://img.shields.io/badge/Sponsor-♥️-orange" alt="Support via GitHub Sponsors" /></a>
 
 ## :zap: DNS Blocklists - For a better internet!
 
@@ -901,12 +901,18 @@ The repository is occasionally compressed (reinitialised) to reduce the overall 
 
 #### :dizzy: Support Me <a name="support"></a>
 
-If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!
-
-Give feedback, show me your ideas, report domains to be blocked, report false positive domains and help to keep the internet safe and clean.
-Help and cooperation of any kind are welcome!
-
-**Thanks for your support!**
+If you like this project and find it useful, please leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!
+                      
+Your feedback, ideas, reports of domains to block or false positives, and any kind of collaboration are always welcome to help keep the internet safer and cleaner.
+                     
+This project thrives thanks to an active and supportive community and is provided free of charge with regular updates and maintenance. Donations help cover infrastructure costs and support ongoing development. Contributions are entirely voluntary, and every bit of support is greatly appreciated. 
+                   
+**Thank you for being part of the community!**
+                             
+<a href="https://github.com/sponsors/hagezi" target="_blank"><img src="https://img.shields.io/badge/Sponsor-♥️-orange" alt="Support via GitHub Sponsors" /></a>
+<a href="https://liberapay.com/hagezi/donate" target="_blank"><img src="https://img.shields.io/liberapay/patrons/hagezi.svg?logo=liberapay" alt="Donate using Liberapay" /></a>
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?logo=patreon&style=flat)](https://www.patreon.com/hagezidns)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/hagezi)
 
 ---
 
