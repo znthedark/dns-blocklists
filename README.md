@@ -706,7 +706,7 @@ Blocks adult content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 123880 compressed domains
+**Entries:** 124102 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
