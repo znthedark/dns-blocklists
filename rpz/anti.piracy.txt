@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758528840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758564540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Sep 2025 08:14 UTC
-; Version: 2025.0922.0814.55
+; Last modified: 22 Sep 2025 18:09 UTC
+; Version: 2025.0922.1809.21
 ; Syntax: RPZ
-; Number of entries: 22228
+; Number of entries: 22240
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1600,6 +1600,10 @@ arenabg.ch CNAME .
 *.arenabg.ch CNAME .
 cpasbien.ch CNAME .
 *.cpasbien.ch CNAME .
+open.demonoid.ch CNAME .
+*.open.demonoid.ch CNAME .
+public.demonoid.ch CNAME .
+*.public.demonoid.ch CNAME .
 extratorrents.ch CNAME .
 *.extratorrents.ch CNAME .
 eztv.ch CNAME .
@@ -11068,6 +11072,8 @@ golkoralive.live CNAME .
 *.golkoralive.live CNAME .
 guardaserietv.live CNAME .
 *.guardaserietv.live CNAME .
+gustyshine79.live CNAME .
+*.gustyshine79.live CNAME .
 harleyquinnwidget.live CNAME .
 *.harleyquinnwidget.live CNAME .
 hiperflix.live CNAME .
@@ -14896,6 +14902,8 @@ sporttuna.online CNAME .
 *.sporttuna.online CNAME .
 streamwatch.online CNAME .
 *.streamwatch.online CNAME .
+sunsetline07.online CNAME .
+*.sunsetline07.online CNAME .
 tantifilm.online CNAME .
 *.tantifilm.online CNAME .
 terbit21.online CNAME .
@@ -18714,6 +18722,8 @@ vkstream.site CNAME .
 *.vkstream.site CNAME .
 watchstream.site CNAME .
 *.watchstream.site CNAME .
+windcurve65.site CNAME .
+*.windcurve65.site CNAME .
 youplex.site CNAME .
 *.youplex.site CNAME .
 zorrostream.site CNAME .
@@ -22118,6 +22128,8 @@ streamonsport28.xyz CNAME .
 *.streamonsport28.xyz CNAME .
 streamwoop.xyz CNAME .
 *.streamwoop.xyz CNAME .
+sunfogburst12.xyz CNAME .
+*.sunfogburst12.xyz CNAME .
 teamberga.xyz CNAME .
 *.teamberga.xyz CNAME .
 teatv.xyz CNAME .

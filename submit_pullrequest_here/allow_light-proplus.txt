@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7389
+ipwho.is
+
 # Google Maps Timeline feature
 locationhistory-pa.googleapis.com
 locationhistoryaggregates-pa.googleapis.com

@@ -1,5 +1,13 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7392
+*.i.posthog.com
+internal-*.posthog.com
+us.posthog.com
+posthog-ingress-prod-us-256455477.us-east-1.elb.amazonaws.com
+eu.posthog.com
+posthog-ingress-prod-eu-1819302861.eu-central-1.elb.amazonaws.com
+
 # AdBlock-Detection on various sites, e.g. https://tarnkappe.info/
 cdntrf.com
 	

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Sep 2025 06:50 UTC
-# Version: 2025.0922.0650.59
+# Last modified: 22 Sep 2025 16:37 UTC
+# Version: 2025.0922.1637.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14054
+# Number of entries: 14056
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -443,6 +443,7 @@ local=/am-luxury.de/
 local=/amagliecalcio.com/
 local=/ntqcp9y.amapolaproject.eu/
 local=/amarego.com/
+local=/amaribaby.shop/
 local=/amazenda.com/
 local=/amazonboxus.com/
 local=/amazoncoin.su/
@@ -10897,6 +10898,7 @@ local=/savagexfentyde.com/
 local=/hessnatur.saveeu.shop/
 local=/savela.de/
 local=/savesilomart.com/
+local=/savesprintmart.com/
 local=/savvynix.com/
 local=/sawbehind.com/
 local=/sawfashionnew.com/

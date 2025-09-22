@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Sep 2025 08:21 UTC
-# Version: 2025.0922.0821.44
+# Last modified: 22 Sep 2025 18:15 UTC
+# Version: 2025.0922.1815.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3256
+# Number of entries: 3257
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1125,6 +1125,7 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.edgeworkssystems.ca/
+local=/dns.edgy.network/
 local=/dns.edison42.dev/
 local=/agh.amber.edu.vn/
 local=/dns.tuna.tsinghua.edu.cn/
