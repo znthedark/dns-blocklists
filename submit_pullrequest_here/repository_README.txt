@@ -380,7 +380,7 @@ Newly registered domains (NRDs) are commonly used by threat actors for phishing,
 > [!CAUTION]
 > Use at your own risk. The NRD lists are provided as-is, without guarantees, support, or a process for removing false positives.
             
-Data freshness: nrd_status nrd_age day(s) old
+Data freshness: nrdo_status nrdo_age day(s) old (OpenSquat) - nrd_status nrd_age day(s) old (Stamus Labs)
                 
 | Time<br>period | Entries | Format<br>AdBlock | Format<br>Domains |         
 |:--------------:|:--------|:-----------------:|:-----------------:|
@@ -394,14 +394,16 @@ Data freshness: nrd_status nrd_age day(s) old
 > To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.
            
 > [!IMPORTANT]
-> The base data for these lists is provided by [Stamus Labs](https://www.stamus-networks.com/stamus-labs/subscribe-to-threat-intel-feed).  
-> Stamus Labs does not guarantee the provision of daily updates, and in certain instances, data may be delivered after a delay of several days.
->              
+> The base data for these lists is provided by [Stamus Labs](https://www.stamus-networks.com/stamus-labs/subscribe-to-threat-intel-feed) and [OpenSquat](https://www.opensquat.com/).                
+> Stamus Labs and OpenSquat do not guarantee daily updates, and in some cases, data may be delayed by several days.            
+>               
+> Current status of the data provided:
+> - OpenSquat: nrdo_status - nrdo_update / nrdo_count domains                
+> - Stamus Labs: nrd_status - nrd_update / nrd_count domains                
+>                                          
 > If data is missing, it means nothing was received for those days.           
 > Example: If no data comes in for 3 days, the 7‑day file will only show data from the other 4 days.              
 > If no data comes in for a full 7 days, the 7‑day file will be empty.                  
->                       
-> Current status of the data provided: nrd_status Version nrd_version - nrd_update /  nrd_count domains
 
 ---
 
