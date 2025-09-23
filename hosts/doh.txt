@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Sep 2025 18:15 UTC
-# Version: 2025.0922.1815.59
+# Last modified: 23 Sep 2025 08:12 UTC
+# Version: 2025.0923.0812.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3708
+# Number of entries: 3701
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -975,6 +975,7 @@
 0.0.0.0 zero.dns0.eu
 0.0.0.0 doh.dns4all.eu
 0.0.0.0 doq.dns4all.eu
+0.0.0.0 doq64.dns4all.eu
 0.0.0.0 dns4me.net
 0.0.0.0 au01.dns4me.net
 0.0.0.0 au02.dns4me.net
@@ -1279,7 +1280,6 @@
 0.0.0.0 dorkanddoodle.duckdns.org
 0.0.0.0 eweyo.duckdns.org
 0.0.0.0 genielee.duckdns.org
-0.0.0.0 home27.duckdns.org
 0.0.0.0 jfeoks.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 kalwat.duckdns.org
@@ -1298,7 +1298,6 @@
 0.0.0.0 quanmeme.duckdns.org
 0.0.0.0 salvadoserver.duckdns.org
 0.0.0.0 site-2.duckdns.org
-0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
@@ -1325,7 +1324,6 @@
 0.0.0.0 oostelbos.dynu.com
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1338,7 +1336,6 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.edgeworkssystems.ca
-0.0.0.0 dns.edgy.network
 0.0.0.0 dns.edison42.dev
 0.0.0.0 agh.amber.edu.vn
 0.0.0.0 dns.tuna.tsinghua.edu.cn
@@ -1547,7 +1544,6 @@
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
-0.0.0.0 adguard.gambini.org
 0.0.0.0 d.gametechnet.com
 0.0.0.0 dns.api.gandi.net
 0.0.0.0 dns.beta.gandi.net
@@ -2179,7 +2175,6 @@
 0.0.0.0 flat.loisy.it
 0.0.0.0 nas-fusion.loisy.it
 0.0.0.0 an.loliconapp.top
-0.0.0.0 adguard.londonwebnerd.cloud
 0.0.0.0 doh.dns1.lonet.org
 0.0.0.0 doh.phdns1.lonet.org
 0.0.0.0 doh.phdns2.lonet.org
@@ -3007,7 +3002,6 @@
 0.0.0.0 dns.romain.tech
 0.0.0.0 dns.ronc.ru
 0.0.0.0 dns.root.me
-0.0.0.0 dns.rootlab.top
 0.0.0.0 dns.rotunneling.net
 0.0.0.0 adguard.rowdyengeesje.nl
 0.0.0.0 roycom.win
@@ -3393,7 +3387,6 @@
 0.0.0.0 truta.org
 0.0.0.0 swe.try-dns.com
 0.0.0.0 dns.tryk.app
-0.0.0.0 adg.tshost.no
 0.0.0.0 net.tt6.net
 0.0.0.0 doh.ibr.cs.tu-bs.de
 0.0.0.0 dns.tuankhaiit.com

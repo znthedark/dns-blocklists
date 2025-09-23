@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758309060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758610080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Sep 2025 19:11 UTC
-; Version: 2025.0919.1911.25
+; Last modified: 23 Sep 2025 06:48 UTC
+; Version: 2025.0923.0648.06
 ; Syntax: RPZ
-; Number of entries: 4350
+; Number of entries: 4342
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1093,8 +1094,6 @@ fb-business.com CNAME .
 *.fb-business.com CNAME .
 fblogs.com CNAME .
 *.fblogs.com CNAME .
-fbzsa.com CNAME .
-*.fbzsa.com CNAME .
 fcpages.com CNAME .
 *.fcpages.com CNAME .
 ferreracademy.com CNAME .
@@ -1685,8 +1684,6 @@ simdif.com CNAME .
 *.simdif.com CNAME .
 simplesite.com CNAME .
 *.simplesite.com CNAME .
-sitegoz.com CNAME .
-*.sitegoz.com CNAME .
 sitepalace.com CNAME .
 *.sitepalace.com CNAME .
 siterubix.com CNAME .
@@ -3473,8 +3470,6 @@ xrs.net CNAME .
 *.xrs.net CNAME .
 yourfreehosting.net CNAME .
 *.yourfreehosting.net CNAME .
-yovip.net CNAME .
-*.yovip.net CNAME .
 za.net CNAME .
 *.za.net CNAME .
 fr.nf CNAME .
@@ -4233,8 +4228,6 @@ wapka.top CNAME .
 *.wapka.top CNAME .
 wentiso.top CNAME .
 *.wentiso.top CNAME .
-ygrrvlvvgf.top CNAME .
-*.ygrrvlvvgf.top CNAME .
 blogspot.com.tr CNAME .
 *.blogspot.com.tr CNAME .
 webnode.com.tr CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Sep 2025 18:15 UTC
-# Version: 2025.0922.1815.59
+# Last modified: 23 Sep 2025 08:12 UTC
+# Version: 2025.0923.0812.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3257
+# Number of entries: 3250
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -822,6 +822,7 @@ local=/i.dns-over-https.tk/
 local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/doq.dns4all.eu/
+local=/doq64.dns4all.eu/
 local=/dns4me.net/
 local=/adguard-koe.dns64.de/
 local=/dns8.org/
@@ -1067,7 +1068,6 @@ local=/derekcastle.duckdns.org/
 local=/dorkanddoodle.duckdns.org/
 local=/eweyo.duckdns.org/
 local=/genielee.duckdns.org/
-local=/home27.duckdns.org/
 local=/jfeoks.duckdns.org/
 local=/jurre-home.duckdns.org/
 local=/kalwat.duckdns.org/
@@ -1086,7 +1086,6 @@ local=/punono.duckdns.org/
 local=/quanmeme.duckdns.org/
 local=/salvadoserver.duckdns.org/
 local=/site-2.duckdns.org/
-local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
 local=/wisehomeguard.duckdns.org/
@@ -1112,7 +1111,6 @@ local=/flyloadguard.dynu.net/
 local=/oostelbos.dynu.com/
 local=/quangdo92.dynu.net/
 local=/saomai.dynu.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/adg.dz.ax/
 local=/az.dz4fun.top/
@@ -1125,7 +1123,6 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.edgeworkssystems.ca/
-local=/dns.edgy.network/
 local=/dns.edison42.dev/
 local=/agh.amber.edu.vn/
 local=/dns.tuna.tsinghua.edu.cn/
@@ -1323,7 +1320,6 @@ local=/sm5q237c0.g666gle.me/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
-local=/adguard.gambini.org/
 local=/d.gametechnet.com/
 local=/dns.api.gandi.net/
 local=/dns.beta.gandi.net/
@@ -1868,7 +1864,6 @@ local=/dns.lobbygod.com/
 local=/flat.loisy.it/
 local=/nas-fusion.loisy.it/
 local=/an.loliconapp.top/
-local=/adguard.londonwebnerd.cloud/
 local=/doh.dns1.lonet.org/
 local=/doh.phdns1.lonet.org/
 local=/doh.phdns2.lonet.org/
@@ -2616,7 +2611,6 @@ local=/adg.rokh.biz/
 local=/dns.romain.tech/
 local=/dns.ronc.ru/
 local=/dns.root.me/
-local=/dns.rootlab.top/
 local=/dns.rotunneling.net/
 local=/adguard.rowdyengeesje.nl/
 local=/roycom.win/
@@ -2984,7 +2978,6 @@ local=/dns.trust404.win/
 local=/truta.org/
 local=/swe.try-dns.com/
 local=/dns.tryk.app/
-local=/adg.tshost.no/
 local=/net.tt6.net/
 local=/doh.ibr.cs.tu-bs.de/
 local=/dns.tuankhaiit.com/

@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Sep 2025 19:11 UTC
-# Version: 2025.0919.1911.25
+# Last modified: 23 Sep 2025 06:48 UTC
+# Version: 2025.0923.0648.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2175
+# Number of entries: 2171
 #
 local=/000a.de/
 local=/000free.us/
@@ -967,7 +968,6 @@ local=/fasthoster.de/
 local=/fat-fly.com/
 local=/fb-business.com/
 local=/fblogs.com/
-local=/fbzsa.com/
 local=/fcpages.com/
 local=/fe-boutique.shop/
 local=/ferreracademy.com/
@@ -1754,7 +1754,6 @@ local=/site.pro/
 local=/site123.me/
 local=/site90.net/
 local=/sitego.fr/
-local=/sitegoz.com/
 local=/sitelio.me/
 local=/sitepalace.com/
 local=/siterubix.com/
@@ -2148,7 +2147,6 @@ local=/y.gp/
 local=/y0.pl/
 local=/y55.eu/
 local=/yamanoha.com/
-local=/ygrrvlvvgf.top/
 local=/yi.org/
 local=/yj.ae/
 local=/yola.com/
@@ -2162,7 +2160,6 @@ local=/yourdomain.com/
 local=/yourfreehosting.net/
 local=/yourjavascript.com/
 local=/yousher.com/
-local=/yovip.net/
 local=/yuku.com/
 local=/z.gp/
 local=/za.com/

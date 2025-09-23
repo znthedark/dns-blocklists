@@ -10,11 +10,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Sep 2025 18:27 UTC
-# Version: 2025.0920.1827.15
+# Last modified: 23 Sep 2025 06:48 UTC
+# Version: 2025.0923.0648.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 6501
+# Number of entries: 6490
 #
 0.gp
 00m.in
@@ -594,6 +595,7 @@ arab.news
 arah.in
 arc.ht
 l.archnet.us
+archrival.co
 arclight.live
 ardchk.me
 aresgacor.info
@@ -926,7 +928,6 @@ bp.cool
 on.bp.com
 bp-gc.in
 bpl.kr
-bprl.site
 br4.in
 brad.blue
 bradley-parker.social
@@ -1056,7 +1057,6 @@ cashurl.win
 casinurl.io
 casio.link
 casualient.com
-catbrood.com
 cathaybk.tw
 cathaysec.tw
 s.cawi.it
@@ -1192,7 +1192,6 @@ clktrack.com
 clmp.me
 clockurl.com
 clotplaynews.live
-cloudfare.icu
 cloudku.click
 cloudradar.net
 cloudshrinker.com
@@ -1254,8 +1253,6 @@ cofe.io
 coinbarlink.net
 coinbot.kr
 coinclix.co
-coinpr.info
-coinreal-us.com
 coki.me
 coklat.vip
 urlshort.allcrom.com.br
@@ -1386,7 +1383,6 @@ cutto.io
 cutts.in
 cutturl.xyz
 cutu.me
-cutur.link
 cuturl.com
 cuturl.net
 cutx.me
@@ -1647,7 +1643,6 @@ eazify.net
 ebay.to
 ebbco.ir
 ebbkr.com
-ebooktruyen.info
 eby.onl
 eclink.me
 eclip.se
@@ -1770,7 +1765,6 @@ ez1.cc
 ezbio.me
 ezbz.me
 ezc.vc
-ezclick.me
 ezexzo.link
 ezlc.net
 ezlinkcloaker.com
@@ -2286,6 +2280,7 @@ homes.jp
 hoo.be
 hooturl.com
 hop2.page
+hopework.link
 hopla.to
 hopp.co
 hops.me
@@ -2518,7 +2513,6 @@ kutt.itarian.com
 itdad.info
 iterasi.net
 iti.bz
-itiny.in
 itly.in
 itm.im
 itop.so
@@ -2929,6 +2923,7 @@ linka.li
 linkable.to
 linkaff.com
 linkai.in
+linkaku.homes
 linkaku.pro
 linkallstar.com
 linkalp.com
@@ -3062,12 +3057,14 @@ linksubmit.net
 linksy.io
 linktexas.info
 linktgd.com
+linktgd.net
 linkthis.link
 linkti.mx
 linkto.eu
 linktop.site
 linktr.ee
 linkunshorten.com
+linkurltiny.com
 linkverified.net
 linkvip88.org
 linkvp.com
@@ -3253,6 +3250,7 @@ m4rk.org
 m5.gs
 m5.lt
 maac.io
+macanplay.click
 macau123.link
 lk.macmarketing.us
 maejo.link
@@ -3341,7 +3339,6 @@ mechani.sm
 meck.co
 medicalmarijuana.vip
 meetu.ps
-megalink.pro
 megalink.vip
 meliodaslonesita.live
 melissahotdeals.com
@@ -3602,6 +3599,7 @@ na5.nl
 naa.gg
 nah.uy
 naik-terus.com
+nakama420.xyz
 nal.la
 name.com
 name.ly
@@ -4549,7 +4547,6 @@ s.sencrop.com
 sendgrid.net
 sendme.help
 sendurl.me
-senin.lol
 seocantik.link
 seogilak.lol
 seq.vc
@@ -4737,7 +4734,6 @@ shortorigin.so
 shortpals.online
 shortpro.in
 shortq.link
-shortr.at
 shortracz.com
 shortrl.com
 shortsfly.me
@@ -5192,7 +5188,6 @@ tbrd.co
 tbsi.app
 tcc.io
 tcch.ch
-tckl.party
 tcp.pw
 tcrn.ch
 on.tcs.com
@@ -5284,7 +5279,6 @@ tiger77.monster
 tigerlink.me
 tighturl.com
 tik.la
-tik.lat
 tik.lol
 tik.so
 tiklagit.net
@@ -5346,7 +5340,6 @@ tinyurl.hu
 tinyurl.mobi
 tinyurl.ph
 tinyurl.rocks
-tinyurl.win
 tinyurls.io
 tinyurlshortener.com
 tinyurlwebsite.com
@@ -5555,9 +5548,7 @@ twi.kz
 twirl.at
 twitterpan.com
 twitthis.com
-twiturl.de
 twixar.com
-twlink.ir
 twm5g.co
 two.re
 twou.co
@@ -6080,7 +6071,6 @@ webrc.net
 webshon.com
 webshort.org
 webshortner.com
-webuji4d.life
 webyank4d.live
 webz.cc
 wec.li

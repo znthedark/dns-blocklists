@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Sep 2025 20:08 UTC
-# Version: 2025.0921.2008.45
+# Last modified: 23 Sep 2025 08:11 UTC
+# Version: 2025.0923.0811.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1475
+# Number of entries: 1470
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -356,7 +357,6 @@ local=/dropfiles.net/
 local=/drunkensailor.org/
 local=/dsmtp.com/
 local=/dtdns.com/
-local=/dtdns.net/
 local=/dtdns.org/
 local=/dubya.info/
 local=/dubya.net/
@@ -433,7 +433,6 @@ local=/dynme.ovh/
 local=/dynnamn.ru/
 local=/dynns.com/
 local=/dyns.be/
-local=/dyns.cx/
 local=/dyns.net/
 local=/dynserv.org/
 local=/dynssl.com/
@@ -491,7 +490,6 @@ local=/etowns.org/
 local=/eurotank.ro/
 local=/eva.hk/
 local=/everton.com/
-local=/evils.in/
 local=/expired-dns.com/
 local=/ez-ip.net/
 local=/ezua.com/
@@ -699,7 +697,6 @@ local=/hulichicken.com/
 local=/humorvisite.eu/
 local=/hunnur.com/
 local=/iamallama.com/
-local=/icg.hk/
 local=/ics.tw/
 local=/ideasciviles.com/
 local=/idigo.org/
@@ -839,7 +836,6 @@ local=/jesus.si/
 local=/jetos.com/
 local=/jkub.com/
 local=/joe.dj/
-local=/jomblo.asia/
 local=/jonward.com/
 local=/jumpingcrab.com/
 local=/jundy.org/
