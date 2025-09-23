@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758614760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758656880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Sep 2025 08:06 UTC
-; Version: 2025.0923.0806.30
+; Last modified: 23 Sep 2025 19:48 UTC
+; Version: 2025.0923.1948.53
 ; Syntax: RPZ
-; Number of entries: 21962
+; Number of entries: 21974
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1204,6 +1204,8 @@ codelist.cc CNAME .
 *.codelist.cc CNAME .
 crownbit.cc CNAME .
 *.crownbit.cc CNAME .
+darkvod.cc CNAME .
+*.darkvod.cc CNAME .
 ddl-warez.cc CNAME .
 *.ddl-warez.cc CNAME .
 dopebox.cc CNAME .
@@ -7766,6 +7768,8 @@ bt.wrzru.com CNAME .
 *.bt.wrzru.com CNAME .
 wushare.com CNAME .
 *.wushare.com CNAME .
+wvw-fmovies.com CNAME .
+*.wvw-fmovies.com CNAME .
 wwatchseries.com CNAME .
 *.wwatchseries.com CNAME .
 wwereleases.com CNAME .
@@ -10420,6 +10424,8 @@ tracker.ds.is CNAME .
 *.tracker.ds.is CNAME .
 tracker.empornium.is CNAME .
 *.tracker.empornium.is CNAME .
+fmovies-to.is CNAME .
+*.fmovies-to.is CNAME .
 getpopcorntime.is CNAME .
 *.getpopcorntime.is CNAME .
 gomoviesfree.is CNAME .
@@ -11256,6 +11262,8 @@ tantifilm.locker CNAME .
 *.tantifilm.locker CNAME .
 vegamovies.locker CNAME .
 *.vegamovies.locker CNAME .
+andydayz.lol CNAME .
+*.andydayz.lol CNAME .
 binge.lol CNAME .
 *.binge.lol CNAME .
 casacinema.lol CNAME .
@@ -11800,8 +11808,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -14540,8 +14546,6 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
-tracker.tnl.one CNAME .
-*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -16252,6 +16256,8 @@ themixingbowl.org CNAME .
 *.themixingbowl.org CNAME .
 themovie123.org CNAME .
 *.themovie123.org CNAME .
+themoviehub.org CNAME .
+*.themoviehub.org CNAME .
 thenftbay.org CNAME .
 *.thenftbay.org CNAME .
 thepirate-bay.org CNAME .
@@ -18458,6 +18464,8 @@ putlocker5movies.site CNAME .
 *.putlocker5movies.site CNAME .
 rainfallpath36.site CNAME .
 *.rainfallpath36.site CNAME .
+rainshine28.site CNAME .
+*.rainshine28.site CNAME .
 rojadirectaenvivo.site CNAME .
 *.rojadirectaenvivo.site CNAME .
 rojadirectatvhd.site CNAME .
@@ -20564,6 +20572,8 @@ hd.club.tw CNAME .
 *.hd.club.tw CNAME .
 mayi.tw CNAME .
 *.mayi.tw CNAME .
+mkvcinemas.tw CNAME .
+*.mkvcinemas.tw CNAME .
 rarbg.tw CNAME .
 *.rarbg.tw CNAME .
 vegamovies.tw CNAME .
@@ -21646,6 +21656,8 @@ cinebook.xyz CNAME .
 *.cinebook.xyz CNAME .
 cinemagratis.xyz CNAME .
 *.cinemagratis.xyz CNAME .
+cloudblink91.xyz CNAME .
+*.cloudblink91.xyz CNAME .
 cruzing.xyz CNAME .
 *.cruzing.xyz CNAME .
 datmusic.xyz CNAME .

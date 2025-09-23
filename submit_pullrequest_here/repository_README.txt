@@ -405,6 +405,10 @@ Data freshness: nrdo_status nrdo_age day(s) old (OpenSquat) - nrd_status nrd_age
 > Example: If no data comes in for 3 days, the 7‑day file will only show data from the other 4 days.              
 > If no data comes in for a full 7 days, the 7‑day file will be empty.                  
 
+> [!TIP]
+> In addition to the NRD list formats provided here, the NRDs are also available in other formats in external repositories:
+> - Wildcard (Asterisk): [Cebeerre/dnsblocklists](https://github.com/Cebeerre/dnsblocklists)
+
 ---
 
 ### :outbox_tray: **DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!** <a name="bypass"></a>

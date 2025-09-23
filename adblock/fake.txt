@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Sep 2025 06:46 UTC
-! Version: 2025.0923.0646.30
+! Last modified: 23 Sep 2025 18:25 UTC
+! Version: 2025.0923.1825.29
 ! Syntax: AdBlock
-! Number of entries: 13769
+! Number of entries: 13810
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1008,6 +1008,7 @@
 ||bagscool.com^
 ||eu.bagsvalley.cn^
 ||baguesdefiancailles.com^
+||bahismaksat.com^
 ||bahr-baumarkt.de^
 ||bahr2max-baumarkt.com^
 ||bail-so-gh.shop^
@@ -1939,6 +1940,7 @@
 ||cafe-hardenberg.de^
 ||cafivo.com^
 ||cahok.com^
+||caipzignet.de^
 ||calcaterrachallenge.com^
 ||calcioespresso.com^
 ||calea-trade.de^
@@ -1985,6 +1987,7 @@
 ||canadatrustmed.com^
 ||canadian-cheaprx.com^
 ||canadian-rxpharmacy.com^
+||canadiana.top^
 ||canadianhealthcaremalll.com^
 ||canadianhealthcarepharmacymall.com^
 ||canadianhealthncaremall.com^
@@ -2150,6 +2153,7 @@
 ||eu.cettire.com^
 ||cewfoop.com^
 ||cfhomepillow.com^
+||cftmarite.com^
 ||cfxmarkets.com^
 ||cfxshop.com^
 ||cgctv.com^
@@ -2252,6 +2256,7 @@
 ||clairine.de^
 ||clairyskin.com^
 ||clapopular.com^
+||clara-zurich.com^
 ||claracamila.de^
 ||claracasperjuwelen.de^
 ||clarissaaquino.com^
@@ -2608,6 +2613,7 @@
 ||cookcope.com^
 ||cool-times.shop^
 ||cooling-ace.de^
+||coolsubic.com^
 ||cooludi.com^
 ||coolwaydeutschland.com^
 ||cooponline.de^
@@ -3720,6 +3726,7 @@
 ||endrix-pat.fr^
 ||energeticw.com^
 ||energfahrrad.de^
+||energie-fee.de^
 ||energie-thuleweit.de^
 ||energieheizen.de^
 ||energieheld24.com^
@@ -4220,6 +4227,7 @@
 ||fenna-muller.de^
 ||fennafashion.de^
 ||fensterputzlagerdiscount.shop^
+||fensterundtuer.com^
 ||fenvik-de.com^
 ||feoruo.com^
 ||ferberpainting.de^
@@ -4711,6 +4719,7 @@
 ||gamestopland.com^
 ||gamestp.de^
 ||gameverkauf.de^
+||gamifo.com^
 ||gaming-gorilla.de^
 ||gaming-king.de^
 ||gaming-monster.de^
@@ -5589,6 +5598,7 @@
 ||heiz-oel24.com^
 ||heiz-oel24.net^
 ||heiz-oil.de^
+||heiz-pellets24.com^
 ||heiz-traum.com^
 ||heizenbillig.com^
 ||heizendirekt.de^
@@ -5643,6 +5653,7 @@
 ||heizoil24.de^
 ||heizparadies.de^
 ||heizpellets247.de^
+||heizpro.com^
 ||heizstrahlerprada.de^
 ||heiztankstelle.de^
 ||heiztechnik-kundendienst.at^
@@ -5809,6 +5820,7 @@
 ||hoeglshoes.com^
 ||hofberg-stil.com^
 ||hofer-austria.shop^
+||hofer-wien.co^
 ||hofer-wien.com^
 ||hoferwien.com^
 ||hoff-de.com^
@@ -5840,6 +5852,7 @@
 ||holtz-handel.de^
 ||holz-brennholzhandel.de^
 ||holz-discounter.com^
+||holz-pellets24.com^
 ||holzbaubillig.com^
 ||holzbrenn.de^
 ||holzbriketts-kaufen.com^
@@ -6330,6 +6343,7 @@
 ||iqtradeoptions.com^
 ||ireneackerson.com^
 ||irenemartini.shop^
+||irishsupply.ie^
 ||iroids.nl^
 ||iron-bulls.pro^
 ||irrasch.at^
@@ -6415,6 +6429,7 @@
 ||jellylight.at^
 ||jenniferbehr.shop^
 ||jennychurchill.shop^
+||jensenwork.shop^
 ||jenuss-boutik.de^
 ||jerering.com^
 ||jerseykauf.com^
@@ -6469,6 +6484,7 @@
 ||jolyhom.com^
 ||jomajp.com^
 ||joman-shopping.com^
+||jonla.shop^
 ||joonixshop.com^
 ||jordan-1.org^
 ||jordan-1s.com^
@@ -6702,6 +6718,7 @@
 ||kellgy.com^
 ||kellorra.com^
 ||keltygear.com^
+||kentucky-eu-online.shop^
 ||kersten-maschinenvertriebs-gmbh.de^
 ||at.ketonaktiv.com^
 ||at9.ketonaktiv.com^
@@ -6714,6 +6731,7 @@
 ||keucoverkauf.com^
 ||kevindurantshoes.net^
 ||keyblissboutique.com^
+||keycaps-vibe.com^
 ||kezono.com^
 ||kfg-digital.com^
 ||kfg-digital.net^
@@ -7593,6 +7611,7 @@
 ||luxusleuchten.com^
 ||luxusuhren.to^
 ||luxwatch.store^
+||luxzafashion.com^
 ||luzern-mode.ch^
 ||luzuna.com^
 ||lvm-capital.com^
@@ -7727,6 +7746,7 @@
 ||marcjacobsosterreich.at^
 ||marcjacobssfactoryoutlet.com^
 ||marcoferretti.de^
+||marconzept.com^
 ||marconzept.de^
 ||marcosbrito.com^
 ||marcveriont.de^
@@ -7883,6 +7903,7 @@
 ||medimaxkontakt.de^
 ||medimaxstore.de^
 ||medina24.de^
+||medinelle.com^
 ||mediplus-berlin.de^
 ||medirezept.net^
 ||meditatem.com^
@@ -7931,6 +7952,7 @@
 ||mein-gartentor.de^
 ||mein-gewaechshaus-shop.de^
 ||mein-holz.store^
+||mein-kleinerhuhnerstall.com^
 ||mein-kleines-baby.de^
 ||mein-thermenwartung.at^
 ||mein-vintage-kleid.de^
@@ -8183,6 +8205,7 @@
 ||mode-boutiek.com^
 ||mode-engel.de^
 ||mode-erlebenoutlet.shop^
+||mode-fuerdich.de^
 ||mode-lizzy.com^
 ||mode-lizzy.de^
 ||mode-shop-1.de^
@@ -8404,6 +8427,7 @@
 ||music-musik.de^
 ||musicgearfashion.com^
 ||musichotsale.com^
+||musikgearhub.com^
 ||musikgermany.com^
 ||musikgeschaft.com^
 ||musikhaus-hoffmann.de^
@@ -8896,6 +8920,7 @@
 ||nrgbinary.co^
 ||nrlrqk.shop^
 ||nse-logistics.com^
+||nsp-enterprises.com^
 ||nsw-handel.de^
 ||nsxcapital.com^
 ||ntaior.com^
@@ -9448,6 +9473,9 @@
 ||pdfmaster.app^
 ||peachbruh.com^
 ||peachossom.com^
+||peachyxchic.co^
+||peachyxchic.com^
+||peachyxchic.xyz^
 ||peackfoather.com^
 ||peactop.com^
 ||peakful.co^
@@ -9797,6 +9825,7 @@
 ||presentlyk.com^
 ||presentpanda.de^
 ||presfortake.com^
+||presseausweis-beantragen.at^
 ||prestige-vin.com^
 ||prestonoutlet.com^
 ||prettyaccord.com^
@@ -9906,6 +9935,7 @@
 ||proximityi.com^
 ||prozess-profi.de^
 ||prozesswerk.digital^
+||prs-installateur.at^
 ||psality.com^
 ||psychobunnydeutschland.com^
 ||ptdaily.eu^
@@ -10105,6 +10135,7 @@
 ||rattzekatz.com^
 ||raumausstatter-conrad.shop^
 ||raumdeko-supply.com^
+||raumzauberde.com^
 ||rauschde.site^
 ||rauwolf-tech.de^
 ||ravella-dortmund.de^
@@ -11851,7 +11882,14 @@
 ||talentnexuspro-de.com^
 ||talents-orbit.online^
 ||talents-peak.com^
+||igfiv.talentway-at.com^
+||igj.talentway-at.com^
 ||igk.talentway-at.com^
+||igo.talentway-at.com^
+||igs.talentway-at.com^
+||igx.talentway-at.com^
+||igzd.talentway-at.com^
+||metad.talentway-at.com^
 ||talentxperts.com^
 ||talk-pointoutlet.shop^
 ||tallerfelix.com^
@@ -12329,6 +12367,7 @@
 ||toypremium.com^
 ||toyquality.com^
 ||toys-holiday.com^
+||eldraw.toysaid.baby^
 ||toyshobbiesworld.com^
 ||toystik.com^
 ||toystom.com^
@@ -12967,6 +13006,7 @@
 ||viennastil.at^
 ||vientooffice.de^
 ||vierpfote.de^
+||vigamtransport.com^
 ||vignette-shops.com^
 ||vignobles-terroirs.com^
 ||vigoroussport.com^
@@ -13680,6 +13720,7 @@
 ||zalvori.com^
 ||zamratech-de.com^
 ||zamratech-sf.com^
+||zanvon.com^
 ||zanzea.com^
 ||zapatillasunderarmourchile.com^
 ||zapfie.shop^

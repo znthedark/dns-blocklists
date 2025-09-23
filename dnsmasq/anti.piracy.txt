@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Sep 2025 08:06 UTC
-# Version: 2025.0923.0806.30
+# Last modified: 23 Sep 2025 19:48 UTC
+# Version: 2025.0923.1948.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10981
+# Number of entries: 10987
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -707,6 +707,7 @@ local=/androidp1.com/
 local=/androidrookies.com/
 local=/androidtvbox.ru/
 local=/andropalace.org/
+local=/andydayz.lol/
 local=/ani-mania.com/
 local=/anicloud.domains/
 local=/anicloud.io/
@@ -1978,6 +1979,7 @@ local=/clonebits.org/
 local=/clonehub.org/
 local=/cloudatacdn.com/
 local=/tracker.cloudbase.store/
+local=/cloudblink91.xyz/
 local=/cloudboxes.io/
 local=/cloudtorrents.com/
 local=/cloudvideo.tv/
@@ -2381,6 +2383,7 @@ local=/darksite.to/
 local=/darksky.ws/
 local=/darksoftware.net/
 local=/darkstresser.net/
+local=/darkvod.cc/
 local=/darkw.pl/
 local=/darkwarez.net/
 local=/darkwarez.pl/
@@ -3704,6 +3707,7 @@ local=/fmovies.website/
 local=/fmovies.world/
 local=/fmovies.wtf/
 local=/fmovies-hd.to/
+local=/fmovies-to.is/
 local=/fmovies0.cc/
 local=/fmovies2.cx/
 local=/fmovies247.net/
@@ -5807,6 +5811,7 @@ local=/mkvcinemas.kim/
 local=/mkvcinemas.kiwi/
 local=/mkvcinemas.men/
 local=/mkvcinemas.red/
+local=/mkvcinemas.tw/
 local=/mkvdrama.org/
 local=/mkvking.me/
 local=/mlb24all.ir/
@@ -7364,6 +7369,7 @@ local=/raindust78.online/
 local=/rainfallpath36.site/
 local=/rainierland.is/
 local=/rainierland.to/
+local=/rainshine28.site/
 local=/rainveil36.xyz/
 local=/rainwhisper40.xyz/
 local=/rajaapk.com/
@@ -8607,7 +8613,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -8830,6 +8835,7 @@ local=/themixingbowl.org/
 local=/themovie123.com/
 local=/themovie123.org/
 local=/themoviebay.net/
+local=/themoviehub.org/
 local=/themoviesbay.com/
 local=/themusichutch.com/
 local=/thenetheads.com/
@@ -8981,7 +8987,6 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
-local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -10587,6 +10592,7 @@ local=/wtfnzb.pw/
 local=/wtftrackr.pw/
 local=/wunza.ws/
 local=/wushare.com/
+local=/wvw-fmovies.com/
 local=/wwatchseries.com/
 local=/wwereleases.com/
 local=/u.wwwww.wtf/
