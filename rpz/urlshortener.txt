@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758610080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758711120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Sep 2025 06:48 UTC
-; Version: 2025.0923.0648.31
+; Last modified: 24 Sep 2025 10:52 UTC
+; Version: 2025.0924.1052.23
 ; Syntax: RPZ
-; Number of entries: 12980
+; Number of entries: 12994
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -189,6 +189,8 @@ instagr.am CNAME .
 *.instagr.am CNAME .
 is.am CNAME .
 *.is.am CNAME .
+khudd.am CNAME .
+*.khudd.am CNAME .
 kkstre.am CNAME .
 *.kkstre.am CNAME .
 kl.am CNAME .
@@ -1751,6 +1753,8 @@ r-7.co CNAME .
 *.r-7.co CNAME .
 r-txt.co CNAME .
 *.r-txt.co CNAME .
+ranvz.co CNAME .
+*.ranvz.co CNAME .
 rb6.co CNAME .
 *.rb6.co CNAME .
 rblx.co CNAME .
@@ -2877,6 +2881,8 @@ kisa-link.com CNAME .
 *.kisa-link.com CNAME .
 go.koloua.com CNAME .
 *.go.koloua.com CNAME .
+kontentino.com CNAME .
+*.kontentino.com CNAME .
 go.kotelov.com CNAME .
 *.go.kotelov.com CNAME .
 kppgay.com CNAME .
@@ -3121,6 +3127,8 @@ meterlinks.com CNAME .
 *.meterlinks.com CNAME .
 metro-tmo.com CNAME .
 *.metro-tmo.com CNAME .
+bio.meuhub.com CNAME .
+*.bio.meuhub.com CNAME .
 meumessage.com CNAME .
 *.meumessage.com CNAME .
 mfacproject.com CNAME .
@@ -3181,6 +3189,8 @@ t.musixmatch.com CNAME .
 *.t.musixmatch.com CNAME .
 myanlink.com CNAME .
 *.myanlink.com CNAME .
+mybiourl.com CNAME .
+*.mybiourl.com CNAME .
 mycuttly.com CNAME .
 *.mycuttly.com CNAME .
 mylinksentry.com CNAME .
@@ -3199,8 +3209,6 @@ na2.com CNAME .
 *.na2.com CNAME .
 naik-terus.com CNAME .
 *.naik-terus.com CNAME .
-name.com CNAME .
-*.name.com CNAME .
 narrowurl.com CNAME .
 *.narrowurl.com CNAME .
 on.natgeo.com CNAME .
@@ -6555,6 +6563,8 @@ lkdin.io CNAME .
 *.lkdin.io CNAME .
 lulusin.io CNAME .
 *.lulusin.io CNAME .
+lyzo.io CNAME .
+*.lyzo.io CNAME .
 maac.io CNAME .
 *.maac.io CNAME .
 makyo.io CNAME .
@@ -7689,6 +7699,8 @@ clipmy.link CNAME .
 *.clipmy.link CNAME .
 cute.link CNAME .
 *.cute.link CNAME .
+cutmy.link CNAME .
+*.cutmy.link CNAME .
 cwr.link CNAME .
 *.cwr.link CNAME .
 d138.link CNAME .
@@ -10577,6 +10589,8 @@ shortfy.pro CNAME .
 *.shortfy.pro CNAME .
 shortify.pro CNAME .
 *.shortify.pro CNAME .
+shrtct.pro CNAME .
+*.shrtct.pro CNAME .
 sipetir.pro CNAME .
 *.sipetir.pro CNAME .
 smalllink.pro CNAME .

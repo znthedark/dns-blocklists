@@ -1177,13 +1177,6 @@
       }
     },
     {
-      "PK": "*.non",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.observer",
       "action": {
         "do": 0,

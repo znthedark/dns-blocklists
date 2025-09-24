@@ -128,10 +128,10 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt
 https://raw.githubusercontent.com/DandelionSprout/Swedish-List-for-Adblock-Plus/refs/heads/main/Swedish%20List%20for%20All-Nordic.txt
 https://raw.githubusercontent.com/dbertho/ioc/refs/heads/main/clickfix_web3.csv
 https://raw.githubusercontent.com/dbertho/ioc/refs/heads/main/exacthire.csv

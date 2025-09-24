@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Sep 2025 06:38 UTC
-# Version: 2025.0922.0638.41
+# Last modified: 24 Sep 2025 10:38 UTC
+# Version: 2025.0924.1038.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 1968
+# Number of entries: 1969
 #
 l.1mp.ru
 t.1und1.de
@@ -1232,6 +1232,7 @@ mkto-lon100192.com
 mkto-m0027.com
 mkto-m0106.com
 mkto-m0186.com
+mkto-mlm10010008.com
 mkto-n0168.com
 mkto-n0199.com
 mkto-n0243.com

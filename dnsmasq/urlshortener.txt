@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Sep 2025 06:48 UTC
-# Version: 2025.0923.0648.31
+# Last modified: 24 Sep 2025 10:52 UTC
+# Version: 2025.0924.1052.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6490
+# Number of entries: 6497
 #
 local=/0.gp/
 local=/00m.in/
@@ -1363,6 +1363,7 @@ local=/cutlink.now/
 local=/cutlinker.com/
 local=/cutlly.com/
 local=/cutly.me/
+local=/cutmy.link/
 local=/cutmyurl.com/
 local=/cutqr.com/
 local=/cuts.al/
@@ -2676,6 +2677,7 @@ local=/kgs88.co/
 local=/kham.tw/
 local=/khan.co/
 local=/khtm.ir/
+local=/khudd.am/
 local=/ki.gy/
 local=/kick.is/
 local=/kilat.io/
@@ -2731,6 +2733,7 @@ local=/koinko.in/
 local=/go.koloua.com/
 local=/koninfo.de/
 local=/kont.ly/
+local=/kontentino.com/
 local=/kootah.me/
 local=/kort.ca/
 local=/korta.nu/
@@ -3230,6 +3233,7 @@ local=/lynko.in/
 local=/lynks.in/
 local=/lynkz.in/
 local=/lyt.me/
+local=/lyzo.io/
 local=/lz.com/
 local=/lzd.co/
 local=/lzd.page/
@@ -3354,6 +3358,7 @@ local=/met.to/
 local=/metamark.net/
 local=/meterlinks.com/
 local=/metro-tmo.com/
+local=/bio.meuhub.com/
 local=/meumessage.com/
 local=/mex.su/
 local=/mfacproject.com/
@@ -3537,6 +3542,7 @@ local=/my-link.in/
 local=/my3777.app/
 local=/myanlink.com/
 local=/myaz.tech/
+local=/mybiourl.com/
 local=/mybiz.cc/
 local=/mybiz.ws/
 local=/mybmw.tw/
@@ -3601,7 +3607,6 @@ local=/nah.uy/
 local=/naik-terus.com/
 local=/nakama420.xyz/
 local=/nal.la/
-local=/name.com/
 local=/name.ly/
 local=/nanourl.org/
 local=/narrowurl.com/
@@ -4236,6 +4241,7 @@ local=/rajaolympus.pro/
 local=/rajasurga.link/
 local=/qs.rams-app.com/
 local=/rantenah.com/
+local=/ranvz.co/
 local=/rapurl.com/
 local=/links.rasa.io/
 local=/ravshort.com/
@@ -4802,6 +4808,7 @@ local=/shrt.st/
 local=/shrt.vip/
 local=/shrt-l.ink/
 local=/shrtco.de/
+local=/shrtct.pro/
 local=/shrten.com/
 local=/shrten.us/
 local=/shrtfly.com/

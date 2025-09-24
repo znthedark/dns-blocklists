@@ -386,8 +386,8 @@ Data freshness: nrdo_status nrdo_age day(s) old (OpenSquat) - nrd_status nrd_age
 |:--------------:|:--------|:-----------------:|:-----------------:|
 | 7 days ago to yesterday    | nrd7_dh | [GH](lnkgh_a/nrd7.txt) [GL](lnkgl_a/nrd7.txt) [CB](lnkjd_a/nrd7.txt) | [GH](lnkgh_d/nrd7.txt) [GL](lnkgl_d/nrd7.txt) [CB](lnkjd_d/nrd7.txt) |
 | 14 days ago to 8 days ago  | nrd148_dh | [GH](lnkgh_a/nrd14-8.txt) [GL](lnkgl_a/nrd14-8.txt) [CB](lnkjd_a/nrd14-8.txt) | [GH](lnkgh_d/nrd14-8.txt) [GL](lnkgl_d/nrd14-8.txt) [CB](lnkjd_d/nrd14-8.txt) |
-| 21 days ago to 15 days ago<br>(not all included yet) | nrd2115_dh | [GH](lnkgh_a/nrd21-15.txt) [GL](lnkgl_a/nrd21-15.txt) [CB](lnkjd_a/nrd21-15.txt) | [GH](lnkgh_d/nrd21-15.txt) [GL](lnkgl_d/nrd21-15.txt) [CB](lnkjd_d/nrd21-15.txt) |
-| 28 days ago to 22 days ago | nrd2822_dh | | |
+| 21 days ago to 15 days ago | nrd2115_dh | [GH](lnkgh_a/nrd21-15.txt) [GL](lnkgl_a/nrd21-15.txt) [CB](lnkjd_a/nrd21-15.txt) | [GH](lnkgh_d/nrd21-15.txt) [GL](lnkgl_d/nrd21-15.txt) [CB](lnkjd_d/nrd21-15.txt) |
+| 28 days ago to 22 days ago<br>(not all included yet) | nrd2822_dh | [GH](lnkgh_a/nrd28-22.txt) [GL](lnkgl_a/nrd28-22.txt) [CB](lnkjd_a/nrd28-22.txt) | [GH](lnkgh_d/nrd28-22.txt) [GL](lnkgl_d/nrd28-22.txt) [CB](lnkjd_d/nrd28-22.txt) |
 | 35 days ago to 29 days ago | nrd3529_dh | | |
              
 > [!NOTE]

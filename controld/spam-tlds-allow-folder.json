@@ -1135,6 +1135,13 @@
       }
     },
     {
+      "PK": "edgeone.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "e.foundation",
       "action": {
         "do": 1,

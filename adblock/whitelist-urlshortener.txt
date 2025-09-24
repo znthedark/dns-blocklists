@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Sep 2025 06:48 UTC
-! Version: 2025.0923.0648.31
+! Last modified: 24 Sep 2025 10:52 UTC
+! Version: 2025.0924.1052.23
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1313,6 +1313,7 @@
 @@||cutlinker.com^
 @@||cutlly.com^
 @@||cutly.me^
+@@||cutmy.link^
 @@||cutmyurl.com^
 @@||cutqr.com^
 @@||cutt.eu^
@@ -2581,6 +2582,7 @@
 @@||kham.tw^
 @@||khan.co^
 @@||khtm.ir^
+@@||khudd.am^
 @@||ki.gy^
 @@||kick.is^
 @@||kilat.io^
@@ -2635,6 +2637,7 @@
 @@||go.koloua.com^
 @@||koninfo.de^
 @@||kont.ly^
+@@||kontentino.com^
 @@||kootah.me^
 @@||kort.ca^
 @@||korta.nu^
@@ -3113,6 +3116,7 @@
 @@||lynks.in^
 @@||lynkz.in^
 @@||lyt.me^
+@@||lyzo.io^
 @@||lz.com^
 @@||lzd.co^
 @@||lzd.page^
@@ -3236,6 +3240,7 @@
 @@||metamark.net^
 @@||meterlinks.com^
 @@||metro-tmo.com^
+@@||bio.meuhub.com^
 @@||meumessage.com^
 @@||mex.su^
 @@||mfacproject.com^
@@ -3415,6 +3420,7 @@
 @@||my3777.app^
 @@||myanlink.com^
 @@||myaz.tech^
+@@||mybiourl.com^
 @@||mybiz.cc^
 @@||mybiz.ws^
 @@||mybmw.tw^
@@ -3476,7 +3482,6 @@
 @@||nah.uy^
 @@||naik-terus.com^
 @@||nakama420.xyz^
-@@||name.com^
 @@||name.ly^
 @@||nanourl.org^
 @@||narrowurl.com^
@@ -4092,6 +4097,7 @@
 @@||rajasurga.link^
 @@||qs.rams-app.com^
 @@||rantenah.com^
+@@||ranvz.co^
 @@||rapurl.com^
 @@||links.rasa.io^
 @@||ravshort.com^
@@ -4637,6 +4643,7 @@
 @@||shrt.vip^
 @@||shrt-l.ink^
 @@||shrtco.de^
+@@||shrtct.pro^
 @@||shrten.com^
 @@||shrten.us^
 @@||shrtfly.com^
