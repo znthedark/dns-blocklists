@@ -137,7 +137,7 @@ body:
         Specify the websites or apps through which the domains are accessed.
       render: yaml
     validations:
-      required: false
+      required: true
  
   - type: textarea
     id: reason
