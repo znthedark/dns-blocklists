@@ -198,11 +198,11 @@ body:
     attributes:
       label: Confirmation
       options:
-        - label: I have verified that the domain(s) are blocked by these blocklists and that the issue is not caused by any other additional blocklists in use.
+        - label: I have verified that the domain(s) are blocked by these blocklists and that the issue is not caused by any other additional blocklists in use. The behavior is also not caused by a browser content blocker or similar browser add-ons, nor by browser settings such as an enhanced/strict tracking protection.
           required: true
         - label: I have verified that the unblocking of the domain(s) has not been declined in any existing issue.
           required: true
-        - label: I have provided sufficient details to verify the need for unblocking the domain(s).
+        - label: I have provided sufficient details to verify the need for unblocking the domain(s), including the steps to reproduce the issue.
           required: true
         - label: I did not answer truthfully to any of the above checkboxes.
           required: false
