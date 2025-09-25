@@ -1,5 +1,8 @@
 # Domains to be removed from the nsfw list.
+*.a-ads.com
+*.adspirit.de
 *.archive.org
+*.byte.in.ua
 *.codeberg.org
 *.discord.com
 *.discord.gg
@@ -17,13 +20,16 @@
 *.mein-check-in.de
 *.netflix.net
 *.nflxvideo.net
+*.optad360.io
 *.pastebin.com
+*.pushwoosh.com
 *.redd.it
 *.reddit.com
 *.rentry.co
 *.rsc.cdn77.org
 *.super-agent.com
 *.t.me
+*.twiago.com
 *.unity3d.com
 *.yandex.net
 benefitsatwork.be
@@ -39,7 +45,10 @@ fc2web.com
 invisionzone.com
 jeuxvideo.com
 keenetic.name
+kik.com
+links.com
 marthabeth.com
+midasplayer.com
 mixxx.org
 movieweb.com
 nebenan.de

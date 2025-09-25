@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758716280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758757740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Sep 2025 12:18 UTC
-; Version: 2025.0924.1218.09
+; Last modified: 24 Sep 2025 23:49 UTC
+; Version: 2025.0924.2349.44
 ; Syntax: RPZ
-; Number of entries: 21978
+; Number of entries: 21990
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9484,8 +9484,6 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -10510,6 +10508,8 @@ yt1s.is CNAME .
 *.yt1s.is CNAME .
 ytmp4.is CNAME .
 *.ytmp4.is CNAME .
+bollyflix.ist CNAME .
+*.bollyflix.ist CNAME .
 cineblog01.ist CNAME .
 *.cineblog01.ist CNAME .
 u4.trakx.crim.ist CNAME .
@@ -12062,6 +12062,8 @@ ilgeniodellostreaming.mom CNAME .
 *.ilgeniodellostreaming.mom CNAME .
 juststream.mom CNAME .
 *.juststream.mom CNAME .
+moviesdrive.mom CNAME .
+*.moviesdrive.mom CNAME .
 pelisflix20.mom CNAME .
 *.pelisflix20.mom CNAME .
 solarmovie.mom CNAME .
@@ -14548,6 +14550,8 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
+tracker.tnl.one CNAME .
+*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -14658,6 +14662,8 @@ keepvid.online CNAME .
 *.keepvid.online CNAME .
 kinogo.online CNAME .
 *.kinogo.online CNAME .
+leftist.online CNAME .
+*.leftist.online CNAME .
 leninist.online CNAME .
 *.leninist.online CNAME .
 limetorrents.online CNAME .
@@ -16896,6 +16902,8 @@ megakino.plus CNAME .
 *.megakino.plus CNAME .
 moviesjoy.plus CNAME .
 *.moviesjoy.plus CNAME .
+moviesmod.plus CNAME .
+*.moviesmod.plus CNAME .
 putlockers.plus CNAME .
 *.putlockers.plus CNAME .
 streamingcommunity.plus CNAME .
@@ -17406,6 +17414,10 @@ thepiratebay.rip CNAME .
 *.thepiratebay.rip CNAME .
 tirexo.rip CNAME .
 *.tirexo.rip CNAME .
+topmovies.rip CNAME .
+*.topmovies.rip CNAME .
+uhdmovies.rip CNAME .
+*.uhdmovies.rip CNAME .
 vegamovies.rip CNAME .
 *.vegamovies.rip CNAME .
 vodfilms.rip CNAME .
@@ -17500,6 +17512,8 @@ vegamovies.rocks CNAME .
 *.vegamovies.rocks CNAME .
 watchseries.rocks CNAME .
 *.watchseries.rocks CNAME .
+extramovies.rodeo CNAME .
+*.extramovies.rodeo CNAME .
 123-movies.rs CNAME .
 *.123-movies.rs CNAME .
 actvid.rs CNAME .
@@ -19910,8 +19924,6 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tracker.xn--djrq4gl4hvoi.top CNAME .
-*.tracker.xn--djrq4gl4hvoi.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .

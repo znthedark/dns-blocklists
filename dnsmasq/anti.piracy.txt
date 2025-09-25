@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Sep 2025 12:18 UTC
-# Version: 2025.0924.1218.09
+# Last modified: 24 Sep 2025 23:49 UTC
+# Version: 2025.0924.2349.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10989
+# Number of entries: 10995
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1454,6 +1454,7 @@ local=/bollyflix.credit/
 local=/bollyflix.faith/
 local=/bollyflix.fish/
 local=/bollyflix.fit/
+local=/bollyflix.ist/
 local=/bollyflix.pub/
 local=/bollyflix.run/
 local=/bollyflix.services/
@@ -2513,7 +2514,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -3243,6 +3243,7 @@ local=/exsites.pl/
 local=/ext.to/
 local=/extinf.com/
 local=/extmatrix.com/
+local=/extramovies.rodeo/
 local=/extratime.live/
 local=/extratorrent.ag/
 local=/extratorrent.cc/
@@ -5292,6 +5293,7 @@ local=/leechturk.com/
 local=/leelo.ru/
 local=/leet-tracker.moe/
 local=/leflix.us/
+local=/leftist.online/
 local=/legaltorrents.com/
 local=/legendary-torrents.net/
 local=/legittorrents.info/
@@ -6001,6 +6003,7 @@ local=/moviesb4time.biz/
 local=/moviesbark.com/
 local=/moviesco.cc/
 local=/moviescounterhd.club/
+local=/moviesdrive.mom/
 local=/moviesdvdr.co/
 local=/moviesdvdr.com/
 local=/movieseriestv.net/
@@ -6020,6 +6023,7 @@ local=/moviesmania.info/
 local=/moviesmobile.net/
 local=/moviesmod.dev/
 local=/moviesmod.email/
+local=/moviesmod.plus/
 local=/moviesmod.space/
 local=/moviesnipipay.me/
 local=/moviespur.info/
@@ -8988,6 +8992,7 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
+local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -9034,6 +9039,7 @@ local=/topgmovies.net/
 local=/tophos.org/
 local=/toplist.cz/
 local=/topmovies.cat/
+local=/topmovies.rip/
 local=/topmoviesonline.org/
 local=/topnet.in/
 local=/topnow.se/
@@ -9525,6 +9531,7 @@ local=/piracitoplista.ugu.pl/
 local=/uhdbits.org/
 local=/uhdmovies.cat/
 local=/uhdmovies.fyi/
+local=/uhdmovies.rip/
 local=/uhdmovies.tube/
 local=/uhdmovies.us/
 local=/uhdmv.org/
@@ -10652,7 +10659,6 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
-local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/
