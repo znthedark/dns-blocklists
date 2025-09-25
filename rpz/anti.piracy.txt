@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758757740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758801480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Sep 2025 23:49 UTC
-; Version: 2025.0924.2349.44
+; Last modified: 25 Sep 2025 11:58 UTC
+; Version: 2025.0925.1158.16
 ; Syntax: RPZ
-; Number of entries: 21990
+; Number of entries: 22000
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4634,6 +4634,8 @@ hacksnation.com CNAME .
 *.hacksnation.com CNAME .
 hakwara.com CNAME .
 *.hakwara.com CNAME .
+hanime-cdn.com CNAME .
+*.hanime-cdn.com CNAME .
 hanjutv2020.com CNAME .
 *.hanjutv2020.com CNAME .
 happy-mod.com CNAME .
@@ -5394,6 +5396,8 @@ mmosite.com CNAME .
 *.mmosite.com CNAME .
 mmoviesjoy.com CNAME .
 *.mmoviesjoy.com CNAME .
+mmvh01.com CNAME .
+*.mmvh01.com CNAME .
 mobiplanet4m.com CNAME .
 *.mobiplanet4m.com CNAME .
 mod-yolo.com CNAME .
@@ -11738,6 +11742,8 @@ premiumize.me CNAME .
 *.premiumize.me CNAME .
 primeflix-web.me CNAME .
 *.primeflix-web.me CNAME .
+primesrc.me CNAME .
+*.primesrc.me CNAME .
 putlocker.me CNAME .
 *.putlocker.me CNAME .
 putlocker123.me CNAME .
@@ -18478,6 +18484,8 @@ putlocker-new.site CNAME .
 *.putlocker-new.site CNAME .
 putlocker5movies.site CNAME .
 *.putlocker5movies.site CNAME .
+qqdl.site CNAME .
+*.qqdl.site CNAME .
 rainfallpath36.site CNAME .
 *.rainfallpath36.site CNAME .
 rainshine28.site CNAME .
@@ -19924,6 +19932,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tracker.xn--djrq4gl4hvoi.top CNAME .
+*.tracker.xn--djrq4gl4hvoi.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .

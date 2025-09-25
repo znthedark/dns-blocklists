@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Sep 2025 10:38 UTC
-# Version: 2025.0924.1038.30
+# Last modified: 25 Sep 2025 10:12 UTC
+# Version: 2025.0925.1012.44
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2430
+# Number of entries: 2431
 #
 l.1mp.ru
 t.1und1.de
@@ -559,6 +559,7 @@ suite38.emarsys.net
 suite38-cf.emarsys.net
 suite40.emarsys.net
 suite40-cf.emarsys.net
+suite41.emarsys.net
 suite42.emarsys.net
 suite43.emarsys.net
 suite44.emarsys.net

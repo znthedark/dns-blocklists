@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Sep 2025 23:49 UTC
-# Version: 2025.0924.2349.44
+# Last modified: 25 Sep 2025 11:58 UTC
+# Version: 2025.0925.1158.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10995
+# Number of entries: 11000
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4355,6 +4355,7 @@ local=/torrent-tracker.hama3.net/
 local=/tracker.hama3.net/
 local=/shizzle.hammetjus.nl/
 local=/handygirl.tv/
+local=/hanime-cdn.com/
 local=/hanjutv2020.com/
 local=/happy-mod.com/
 local=/tracker.happyfappy.org/
@@ -5836,6 +5837,7 @@ local=/mmastreams.cc/
 local=/mmosite.com/
 local=/mmoviesjoy.com/
 local=/mmult.ru/
+local=/mmvh01.com/
 local=/mo9999.net/
 local=/mob.org/
 local=/mobdro.to/
@@ -7145,6 +7147,7 @@ local=/prezup.eu/
 local=/primeflix.lol/
 local=/primeflix-web.me/
 local=/primemovies.tv/
+local=/primesrc.me/
 local=/primewire.ac/
 local=/primewire.ag/
 local=/primewire.li/
@@ -7336,6 +7339,7 @@ local=/qbittorrent.org/
 local=/qiq.ws/
 local=/musicmania.ql.lt/
 local=/qoob.name/
+local=/qqdl.site/
 local=/qtstm32fan.ru/
 local=/tracker.qu.ax/
 local=/quantumstress.net/
@@ -10659,6 +10663,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

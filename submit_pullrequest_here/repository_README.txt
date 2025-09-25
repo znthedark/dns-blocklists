@@ -389,8 +389,8 @@ Data freshness:
 | 7 days ago to yesterday    | nrd7_dh | [Link](lnkgh_a/nrd7.txt) [M1](lnkgl_a/nrd7.txt) [M2](lnkjd_a/nrd7.txt) | [Link](lnkgh_d/nrd7.txt) [M1](lnkgl_d/nrd7.txt) [M2](lnkjd_d/nrd7.txt) |
 | 14 days ago to 8 days ago  | nrd148_dh | [Link](lnkgh_a/nrd14-8.txt) [M1](lnkgl_a/nrd14-8.txt) [M2](lnkjd_a/nrd14-8.txt) | [Link](lnkgh_d/nrd14-8.txt) [M1](lnkgl_d/nrd14-8.txt) [M2](lnkjd_d/nrd14-8.txt) |
 | 21 days ago to 15 days ago | nrd2115_dh | [Link](lnkgh_a/nrd21-15.txt) [M1](lnkgl_a/nrd21-15.txt) [M2](lnkjd_a/nrd21-15.txt) | [Link](lnkgh_d/nrd21-15.txt) [M1](lnkgl_d/nrd21-15.txt) [M2](lnkjd_d/nrd21-15.txt) |
-| 28 days ago to 22 days ago<br>(not all included yet) | nrd2822_dh | [Link](lnkgh_a/nrd28-22.txt) [M1](lnkgl_a/nrd28-22.txt) [M2](lnkjd_a/nrd28-22.txt) | [Link](lnkgh_d/nrd28-22.txt) [M1](lnkgl_d/nrd28-22.txt) [M2](lnkjd_d/nrd28-22.txt) |
-| 35 days ago to 29 days ago | nrd3529_dh | | |
+| 28 days ago to 22 days ago | nrd2822_dh | [Link](lnkgh_a/nrd28-22.txt) [M1](lnkgl_a/nrd28-22.txt) [M2](lnkjd_a/nrd28-22.txt) | [Link](lnkgh_d/nrd28-22.txt) [M1](lnkgl_d/nrd28-22.txt) [M2](lnkjd_d/nrd28-22.txt) |
+| 35 days ago to 29 days ago<br>(not all included yet) | nrd3529_dh | [Link](lnkgh_a/nrd35-29.txt) [M1](lnkgl_a/nrd35-29.txt) [M2](lnkjd_a/nrd35-29.txt) | [Link](lnkgh_d/nrd35-29.txt) [M1](lnkgl_d/nrd35-29.txt) [M2](lnkjd_d/nrd35-29.txt) |
              
 > [!NOTE]
 > To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.

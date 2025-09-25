@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Sep 2025 22:24 UTC
-! Version: 2025.0924.2224.49
+! Last modified: 25 Sep 2025 10:25 UTC
+! Version: 2025.0925.1025.27
 ! Syntax: AdBlock
-! Number of entries: 13836
+! Number of entries: 13848
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1430,6 +1430,7 @@
 ||bikemarket.com^
 ||bikenabende.com^
 ||bikepanoplyde.com^
+||bikepartonline.com^
 ||bikepartsale.com^
 ||bikepartsneu.com^
 ||bikeprodukte.com^
@@ -1772,6 +1773,7 @@
 ||brenn-holzde.com^
 ||brennholz-angebot.com^
 ||brennholz-deckarm.de^
+||brennholz-goignerog.at^
 ||brennholz-granulat.com^
 ||brennholz-haus.de^
 ||brennholz-hofmann.de^
@@ -1995,6 +1997,7 @@
 ||canadianhealthcarepharmacymall.com^
 ||canadianhealthncaremall.com^
 ||canadiannewstoday.com^
+||canapechic.com^
 ||canaryrentalvillas.com^
 ||canaryvacationhome.com^
 ||canbeloutlet.com^
@@ -2060,6 +2063,7 @@
 ||carrelage-paulay.com^
 ||carriageglobal.com^
 ||carrieri-handel.de^
+||carrujos.com^
 ||carshades.at^
 ||ytjef.carsonarchitectsinc.com^
 ||carstruckstoy.com^
@@ -3215,6 +3219,7 @@
 ||diskrete-apotheke.de^
 ||disneykinder.de^
 ||disruptiva-tech.de^
+||distanceg.com^
 ||distant-lands.com^
 ||distinguishm.com^
 ||distributem.com^
@@ -4760,6 +4765,7 @@
 ||gardentoolsaleshop.com^
 ||gardentoolssale.com^
 ||gardono-shop.de^
+||gardowork.store^
 ||garduru.de^
 ||garmin-online.com^
 ||garmin-shop.net^
@@ -4828,6 +4834,7 @@
 ||gashi-tech.de^
 ||gastebetten.de^
 ||gastro-max-profi.com^
+||gastronomiebedarf24.com^
 ||gatar-baumarkt.de^
 ||gatar-trading.de^
 ||gatar-versand.de^
@@ -5000,6 +5007,7 @@
 ||giardinoambienti.com^
 ||giecy.com^
 ||giesswein.shop^
+||giesswein--schuhe.com^
 ||giesswein-outdoor.de^
 ||giessweinat.at^
 ||giessweinschuhe.com^
@@ -5457,7 +5465,6 @@
 ||hanseatische-handel.de^
 ||hansen-mode.com^
 ||hansrasenmaher.com^
-||hanti-mat.com^
 ||hanwagdeutschland.com^
 ||hanwagfabrikverkauf.com^
 ||hanwagoutletstore.com^
@@ -5952,6 +5959,7 @@
 ||hot-shopping.com^
 ||hotchillies.shop^
 ||hotel-brand-promotion.com^
+||hotel-ds.com^
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
 ||hotelectronicshop.com^
@@ -6228,6 +6236,7 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
+||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -6373,6 +6382,7 @@
 ||istanha.com^
 ||teufel.discounts.it.com^
 ||euvivosale.it.com^
+||jlindebergseu.it.com^
 ||shopsasfinag.it.com^
 ||it-con.org^
 ||itagprotracker.com^
@@ -8980,6 +8990,7 @@
 ||obroker.com^
 ||ocayo.de^
 ||occasionak.com^
+||occasionk.com^
 ||ochsner-agrarhandel.com^
 ||ocinboutique.de^
 ||octa-trade.com^
@@ -11939,6 +11950,7 @@
 ||tavaresautopecas.com^
 ||tavatta.de^
 ||tavolini.shop^
+||okwave.taxenough.sbs^
 ||taxoflex.de^
 ||taylor-mode.com^
 ||tbdress.com^
@@ -12004,6 +12016,7 @@
 ||teichfilterelektro.com^
 ||teichmann-fashion.de^
 ||teichwunder.com^
+||teknohaus.de^
 ||telapros.de^
 ||telefoonshop.net^
 ||vodafone.telekomdienst.de^
@@ -12212,6 +12225,7 @@
 ||thursdaybootsdeutschland.de^
 ||thursdaybootswien.at^
 ||thursdaycanada.com^
+||tiagocarlosdultrary.shop^
 ||ticketreise.de^
 ||ticketsswap.cz^
 ||tidalsway.ru^
@@ -12464,6 +12478,7 @@
 ||transieny.com^
 ||transparentk.com^
 ||transparentw.com^
+||trapple.de^
 ||trapstaraustria.at^
 ||traumfloorshop.com^
 ||traummeister.de^
@@ -13091,7 +13106,6 @@
 ||viva-markets.com^
 ||vivagopro.com^
 ||vivaiabuty.pl^
-||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -13251,7 +13265,6 @@
 ||warmeholzhaus.com^
 ||klarrl.warmexw.buzz^
 ||warmholz.de^
-||warmood.ch^
 ||warmsettle.com^
 ||warmtepompe.com^
 ||warmwinkelen.com^
@@ -13699,7 +13712,6 @@
 ||yoma-versand.de^
 ||yonexdeutschland.com^
 ||yoocaa.com^
-||yoohal.com^
 ||yorkbootsshop.de^
 ||youngbf.com^
 ||yourgiftshopping.com^
