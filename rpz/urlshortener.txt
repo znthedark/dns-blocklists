@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758711120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758839220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Sep 2025 10:52 UTC
-; Version: 2025.0924.1052.23
+; Last modified: 25 Sep 2025 22:27 UTC
+; Version: 2025.0925.2227.01
 ; Syntax: RPZ
-; Number of entries: 12994
+; Number of entries: 12998
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3327,6 +3327,8 @@ peekstory.com CNAME .
 *.peekstory.com CNAME .
 pegasurl.com CNAME .
 *.pegasurl.com CNAME .
+pencetdulu.com CNAME .
+*.pencetdulu.com CNAME .
 persocheck.com CNAME .
 *.persocheck.com CNAME .
 petesmarketinghub.com CNAME .
@@ -3959,6 +3961,8 @@ ttbad.com CNAME .
 *.ttbad.com CNAME .
 ttrewards.com CNAME .
 *.ttrewards.com CNAME .
+tuasy.com CNAME .
+*.tuasy.com CNAME .
 tunjob.com CNAME .
 *.tunjob.com CNAME .
 turboagram.com CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Sep 2025 10:52 UTC
-# Version: 2025.0924.1052.23
+# Last modified: 25 Sep 2025 22:27 UTC
+# Version: 2025.0925.2227.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6497
+# Number of entries: 6499
 #
 local=/0.gp/
 local=/00m.in/
@@ -3957,6 +3957,7 @@ local=/peen.ca/
 local=/peerwith.me/
 local=/pegasurl.com/
 local=/pekcamke.link/
+local=/pencetdulu.com/
 local=/pens.pe/
 local=/peoplem.ag/
 local=/peppy.link/
@@ -5527,6 +5528,7 @@ local=/ttrewards.com/
 local=/ttt.name/
 local=/ttt.onl/
 local=/tu4.me/
+local=/tuasy.com/
 local=/link.tubi.tv/
 local=/tulinks.online/
 local=/tunepit.net/

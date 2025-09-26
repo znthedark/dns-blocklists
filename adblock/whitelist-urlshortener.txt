@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Sep 2025 10:52 UTC
-! Version: 2025.0924.1052.23
+! Last modified: 25 Sep 2025 22:27 UTC
+! Version: 2025.0925.2227.01
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3824,6 +3824,7 @@
 @@||peerwith.me^
 @@||pegasurl.com^
 @@||pekcamke.link^
+@@||pencetdulu.com^
 @@||pens.pe^
 @@||peoplem.ag^
 @@||peppy.link^
@@ -5350,6 +5351,7 @@
 @@||ttt.name^
 @@||ttt.onl^
 @@||tu4.me^
+@@||tuasy.com^
 @@||link.tubi.tv^
 @@||tulinks.online^
 @@||tunepit.net^
