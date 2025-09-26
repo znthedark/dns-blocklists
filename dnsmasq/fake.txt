@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Sep 2025 22:24 UTC
-# Version: 2025.0925.2224.59
+# Last modified: 26 Sep 2025 10:25 UTC
+# Version: 2025.0926.1025.35
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 13849
 #
@@ -1380,6 +1380,7 @@ local=/bfmmarkets.com/
 local=/bforbinary.com/
 local=/bforbroker.com/
 local=/bforex.com/
+local=/bftb.org/
 local=/bfxoption.com/
 local=/bgconsult.ch/
 local=/bgtcchem.shop/
@@ -5958,7 +5959,6 @@ local=/hot-mystery-deals.xyz/
 local=/hot-shopping.com/
 local=/hotchillies.shop/
 local=/hotel-brand-promotion.com/
-local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
@@ -9711,7 +9711,6 @@ local=/playzoner.com/
 local=/plazafashions.com/
 local=/plclerk.com/
 local=/pleasanthearthsale.com/
-local=/pleasantk.com/
 local=/pleaserchaussure.com/
 local=/pleaserchaussures.com/
 local=/pleaserdeutschland.de/
@@ -12191,6 +12190,7 @@ local=/thinkcarde.com/
 local=/thirdeye-immobilien.at/
 local=/thk-elektro24.de/
 local=/thl-handel.de/
+local=/thomannofficiall.com/
 local=/thomannonlinestore.com/
 local=/thomannz.shop/
 local=/thomas-electronic.shop/

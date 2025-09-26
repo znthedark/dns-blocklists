@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758844080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758887280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Sep 2025 23:48 UTC
-; Version: 2025.0925.2348.51
+; Last modified: 26 Sep 2025 11:48 UTC
+; Version: 2025.0926.1148.55
 ; Syntax: RPZ
-; Number of entries: 22002
+; Number of entries: 22010
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4956,6 +4956,8 @@ jokerlivestream.com CNAME .
 *.jokerlivestream.com CNAME .
 tracker.jonaslsa.com CNAME .
 *.tracker.jonaslsa.com CNAME .
+joyra380som.com CNAME .
+*.joyra380som.com CNAME .
 joytorrent.com CNAME .
 *.joytorrent.com CNAME .
 jstorrent.com CNAME .
@@ -5146,6 +5148,8 @@ liteapke.com CNAME .
 *.liteapke.com CNAME .
 liteapks.com CNAME .
 *.liteapks.com CNAME .
+litemodapk.com CNAME .
+*.litemodapk.com CNAME .
 live-kooora-tv.com CNAME .
 *.live-kooora-tv.com CNAME .
 livepirate.com CNAME .
@@ -8134,6 +8138,8 @@ streameast.cz CNAME .
 *.streameast.cz CNAME .
 streamingcommunity.cz CNAME .
 *.streamingcommunity.cz CNAME .
+streamingcommunityz.cz CNAME .
+*.streamingcommunityz.cz CNAME .
 toplist.cz CNAME .
 *.toplist.cz CNAME .
 vegamovies.cz CNAME .
@@ -10862,6 +10868,8 @@ limetorrents.link CNAME .
 *.limetorrents.link CNAME .
 macapps.link CNAME .
 *.macapps.link CNAME .
+moddedspotify.link CNAME .
+*.moddedspotify.link CNAME .
 mserver.link CNAME .
 *.mserver.link CNAME .
 myflixer.link CNAME .
@@ -17106,6 +17114,8 @@ vegamovies.productions CNAME .
 *.vegamovies.productions CNAME .
 kinox.prof CNAME .
 *.kinox.prof CNAME .
+mkvcinemas.prof CNAME .
+*.mkvcinemas.prof CNAME .
 123movies.promo CNAME .
 *.123movies.promo CNAME .
 altadefinizione01.promo CNAME .
@@ -19932,8 +19942,6 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tracker.xn--djrq4gl4hvoi.top CNAME .
-*.tracker.xn--djrq4gl4hvoi.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .

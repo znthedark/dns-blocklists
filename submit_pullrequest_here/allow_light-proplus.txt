@@ -1,9 +1,5 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
-# https://github.com/hagezi/dns-blocklists/issues/7431
-#dwt.soundcloud.com
-#dwt.soundcloud.com.first-party-js.datadome.co
-
 # https://github.com/hagezi/dns-blocklists/issues/7389
 ipwho.is
 

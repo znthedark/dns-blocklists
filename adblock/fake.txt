@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Sep 2025 22:24 UTC
-! Version: 2025.0925.2224.59
+! Last modified: 26 Sep 2025 10:25 UTC
+! Version: 2025.0926.1025.35
 ! Syntax: AdBlock
 ! Number of entries: 13849
 !
@@ -1381,6 +1381,7 @@
 ||bforbinary.com^
 ||bforbroker.com^
 ||bforex.com^
+||bftb.org^
 ||bfxoption.com^
 ||bgconsult.ch^
 ||bgtcchem.shop^
@@ -5959,7 +5960,6 @@
 ||hot-shopping.com^
 ||hotchillies.shop^
 ||hotel-brand-promotion.com^
-||hotel-ds.com^
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
 ||hotelectronicshop.com^
@@ -9712,7 +9712,6 @@
 ||plazafashions.com^
 ||plclerk.com^
 ||pleasanthearthsale.com^
-||pleasantk.com^
 ||pleaserchaussure.com^
 ||pleaserchaussures.com^
 ||pleaserdeutschland.de^
@@ -12192,6 +12191,7 @@
 ||thirdeye-immobilien.at^
 ||thk-elektro24.de^
 ||thl-handel.de^
+||thomannofficiall.com^
 ||thomannonlinestore.com^
 ||thomannz.shop^
 ||thomas-electronic.shop^

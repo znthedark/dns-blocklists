@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Sep 2025 09:34 UTC
-! Version: 2025.0924.0934.43
+! Last modified: 26 Sep 2025 11:56 UTC
+! Version: 2025.0926.1156.17
 ! Syntax: uBlock
 ! Number of latin TLDs: 280 - non-latin TLDs: 151
 !
@@ -188,7 +188,7 @@
 ||okinawa^$doc
 ||ong^$doc
 ||onl^$doc,domain=~gc.onl
-||online^$doc,domain=~2kweb.online|~adguard-vpn.online|~argon2.online|~blink.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~grapheneos.online|~instructions.online|~manuals.online|~open.online|~photostore24.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online
+||online^$doc,domain=~2kweb.online|~adguard-vpn.online|~argon2.online|~blink.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~grapheneos.online|~incdn.online|~instructions.online|~manuals.online|~open.online|~photostore24.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online
 ||ooo^$doc,domain=~term.ooo|~toast.ooo
 ||partners^$doc,domain=~stripe.partners|~xh.partners
 ||parts^$doc

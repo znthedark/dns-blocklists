@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Sep 2025 23:48 UTC
-# Version: 2025.0925.2348.51
+# Last modified: 26 Sep 2025 11:48 UTC
+# Version: 2025.0926.1148.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11001
+# Number of entries: 11005
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4932,6 +4932,7 @@ local=/jopa.cz/
 local=/tracker.jordan.im/
 local=/journeyman.tv/
 local=/retracker.joxnet.ru/
+local=/joyra380som.com/
 local=/joytorrent.com/
 local=/jpmangas.co/
 local=/jpopsuki.eu/
@@ -5395,6 +5396,7 @@ local=/smart.lionsmart.cc/
 local=/liteapke.com/
 local=/liteapks.com/
 local=/liteapks.mobi/
+local=/litemodapk.com/
 local=/live-kooora-tv.com/
 local=/live-kooora-tv.net/
 local=/live-koora.online/
@@ -5815,6 +5817,7 @@ local=/mkvcinemas.gift/
 local=/mkvcinemas.kim/
 local=/mkvcinemas.kiwi/
 local=/mkvcinemas.men/
+local=/mkvcinemas.prof/
 local=/mkvcinemas.red/
 local=/mkvcinemas.tw/
 local=/mkvdrama.org/
@@ -5854,6 +5857,7 @@ local=/modapkdown.com/
 local=/modcombo.com/
 local=/modded-1.com/
 local=/moddedguru.com/
+local=/moddedspotify.link/
 local=/modder.me/
 local=/moddroid.com/
 local=/moddroid.io/
@@ -8480,6 +8484,7 @@ local=/streamingcommunityz.boats/
 local=/streamingcommunityz.chat/
 local=/streamingcommunityz.city/
 local=/streamingcommunityz.com/
+local=/streamingcommunityz.cz/
 local=/streamingcommunityz.date/
 local=/streamingcommunityz.info/
 local=/streamingdivx.ch/
@@ -10664,7 +10669,6 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
-local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/
