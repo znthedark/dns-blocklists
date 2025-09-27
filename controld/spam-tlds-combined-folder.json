@@ -5012,6 +5012,13 @@
       }
     },
     {
+      "PK": "roble.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "robotzebra.agency",
       "action": {
         "do": 1,

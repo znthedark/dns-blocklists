@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Sep 2025 23:15 UTC
-# Version: 2025.0905.2315.27
+# Last modified: 26 Sep 2025 23:07 UTC
+# Version: 2025.0926.2307.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 321
+# Number of entries: 322
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.co.uk/
@@ -72,6 +73,7 @@ local=/aax-us-ott.amazon-adsystem.amazon.com/
 local=/aax-us-pdx-rtb-adx.amazon-adsystem.com/
 local=/aax-us-pdx-rtb.amazon-adsystem.com/
 local=/aax-us-pdx.amazon-adsystem.com/
+local=/aax-us-west-2-ott.amazon-adsystem.amazon.com/
 local=/aax-us-west-dtb-mobile-events.amazon-adsystem.com/
 local=/aax-us-west-dtb-mobile.amazon-adsystem.com/
 local=/aax-us-west-ott-events.amazon-adsystem.com/

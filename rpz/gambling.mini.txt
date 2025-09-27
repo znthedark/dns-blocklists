@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758887280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758927960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Sep 2025 11:48 UTC
-; Version: 2025.0926.1148.34
+; Last modified: 26 Sep 2025 23:06 UTC
+; Version: 2025.0926.2306.49
 ; Syntax: RPZ
-; Number of entries: 75282
+; Number of entries: 75268
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -12816,8 +12816,6 @@ play.688v.co CNAME .
 *.99bm.co CNAME .
 99mb.co CNAME .
 *.99mb.co CNAME .
-a4k.co CNAME .
-*.a4k.co CNAME .
 ambimgcdn.co CNAME .
 *.ambimgcdn.co CNAME .
 anonymbet.co CNAME .
@@ -21408,8 +21406,6 @@ brainbugsoftware.com CNAME .
 *.brainbugsoftware.com CNAME .
 brainspongeblog.com CNAME .
 *.brainspongeblog.com CNAME .
-brandlinkgolf.com CNAME .
-*.brandlinkgolf.com CNAME .
 brangocasinonz.com CNAME .
 *.brangocasinonz.com CNAME .
 branzinoseattle.com CNAME .
@@ -37936,8 +37932,6 @@ pinupcazino.com CNAME .
 *.pinupcazino.com CNAME .
 pinupsbets.com CNAME .
 *.pinupsbets.com CNAME .
-pipeguardusa.com CNAME .
-*.pipeguardusa.com CNAME .
 pistolo.com CNAME .
 *.pistolo.com CNAME .
 pistolo-casinos.com CNAME .
@@ -40588,8 +40582,6 @@ sbaffiliates.com CNAME .
 *.sbaffiliates.com CNAME .
 sbattler.com CNAME .
 *.sbattler.com CNAME .
-sbccasino.com CNAME .
-*.sbccasino.com CNAME .
 sbetslot.com CNAME .
 *.sbetslot.com CNAME .
 sbfplay99.com CNAME .
@@ -55056,8 +55048,6 @@ ketquasoso.net CNAME .
 *.ketquasoso.net CNAME .
 kickoffbet789.net CNAME .
 *.kickoffbet789.net CNAME .
-kijang888.net CNAME .
-*.kijang888.net CNAME .
 kingjohnnie.net CNAME .
 *.kingjohnnie.net CNAME .
 kingjohnniecasino.net CNAME .
@@ -55976,8 +55966,6 @@ thomo888.net CNAME .
 *.thomo888.net CNAME .
 thomosv388.net CNAME .
 *.thomosv388.net CNAME .
-tiglobal.net CNAME .
-*.tiglobal.net CNAME .
 tipsport.net CNAME .
 *.tipsport.net CNAME .
 tmtcash.net CNAME .
@@ -56342,8 +56330,6 @@ betmgm.nl CNAME .
 *.betmgm.nl CNAME .
 betnation.nl CNAME .
 *.betnation.nl CNAME .
-betspinos.nl CNAME .
-*.betspinos.nl CNAME .
 bingoal.nl CNAME .
 *.bingoal.nl CNAME .
 boomerang-casino1.nl CNAME .

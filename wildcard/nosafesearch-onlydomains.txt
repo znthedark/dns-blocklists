@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Sep 2025 15:11 UTC
-# Version: 2025.0912.1511.33
+# Last modified: 26 Sep 2025 22:59 UTC
+# Version: 2025.0926.2259.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 183
+# Number of entries: 179
 #
 search.0xcb.dev
 search.0xgingi.com
@@ -56,7 +57,6 @@ dogpile.com
 search.dojoro.de
 searx.doofpot.nl
 search.dr460nf1r3.org
-wgl.frail.duckdns.org
 dynabyte.ca
 searx.elukerio.org
 searx.ericaftereric.top
@@ -85,9 +85,7 @@ search.kokomo.cloud
 trovu.komun.org
 search.laksith.dev
 searx.lavatech.top
-librex.me
 searx.linux.pizza
-searx.louifox.house
 lukol.com
 whoogle.lunar.icu
 searx.lwhr.xyz
@@ -107,7 +105,6 @@ search.modalogi.com
 mojeek.com
 searx.monicz.pl
 mwmbl.org
-librex.myroware.eu
 searx.nakhan.net
 search.nebulacentre.net
 neeva.com

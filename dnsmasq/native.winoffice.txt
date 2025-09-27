@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Sep 2025 19:19 UTC
-# Version: 2025.0919.1919.06
+# Last modified: 26 Sep 2025 23:08 UTC
+# Version: 2025.0926.2308.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 414
+# Number of entries: 415
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -326,6 +327,7 @@ local=/avdab-t-corniche-events-relay.trafficmanager.net/
 local=/beacons.trafficmanager.net/
 local=/bf-analytics-tracker-tm.trafficmanager.net/
 local=/bingads.trafficmanager.net/
+local=/ch-asimov-leafs-events-data.trafficmanager.net/
 local=/collection-location-livenet.trafficmanager.net/
 local=/collector-main.trafficmanager.net/
 local=/tracker.flightview.com.trafficmanager.net/

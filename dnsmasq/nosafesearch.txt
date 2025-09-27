@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Sep 2025 15:11 UTC
-# Version: 2025.0912.1511.33
+# Last modified: 26 Sep 2025 22:59 UTC
+# Version: 2025.0926.2259.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 183
+# Number of entries: 179
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -56,7 +57,6 @@ local=/dogpile.com/
 local=/search.dojoro.de/
 local=/searx.doofpot.nl/
 local=/search.dr460nf1r3.org/
-local=/wgl.frail.duckdns.org/
 local=/dynabyte.ca/
 local=/searx.elukerio.org/
 local=/searx.ericaftereric.top/
@@ -85,9 +85,7 @@ local=/search.kokomo.cloud/
 local=/trovu.komun.org/
 local=/search.laksith.dev/
 local=/searx.lavatech.top/
-local=/librex.me/
 local=/searx.linux.pizza/
-local=/searx.louifox.house/
 local=/lukol.com/
 local=/whoogle.lunar.icu/
 local=/searx.lwhr.xyz/
@@ -107,7 +105,6 @@ local=/search.modalogi.com/
 local=/mojeek.com/
 local=/searx.monicz.pl/
 local=/mwmbl.org/
-local=/librex.myroware.eu/
 local=/searx.nakhan.net/
 local=/search.nebulacentre.net/
 local=/neeva.com/

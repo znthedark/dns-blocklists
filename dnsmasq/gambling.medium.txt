@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 11:46 UTC
-# Version: 2025.0926.1146.09
+# Last modified: 26 Sep 2025 23:04 UTC
+# Version: 2025.0926.2304.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 92987
+# Number of entries: 92980
 #
 local=/0-bdmbet.com/
 local=/0-casino.info/
@@ -13563,7 +13563,6 @@ local=/a3m3l9.com/
 local=/a3ufcasino.com/
 local=/a44slots.com/
 local=/a456bet.com/
-local=/a4k.co/
 local=/a5sbet.com/
 local=/a6.com/
 local=/a6128.com/
@@ -20267,7 +20266,6 @@ local=/betspindestek.com/
 local=/betspino.com/
 local=/betspino-nl1.com/
 local=/betspinocasinonl.com/
-local=/betspinos.nl/
 local=/betspinwin.vip/
 local=/betspios.top/
 local=/betsport.store/
@@ -23235,7 +23233,6 @@ local=/brandaktuell.at/
 local=/brandbets.xyz/
 local=/brandcasino.xyz/
 local=/brandharta.xyz/
-local=/brandlinkgolf.com/
 local=/brandnewonlinecasinosnodepositbonus.us/
 local=/brango-casino.top/
 local=/brango-casino.win/
@@ -52456,7 +52453,6 @@ local=/kickr.com/
 local=/kickrcasino.club/
 local=/kidscasino.xyz/
 local=/kierroscasino.com/
-local=/kijang888.net/
 local=/kijangwin.live/
 local=/kila77.com/
 local=/kilat77sultan.com/
@@ -68709,7 +68705,6 @@ local=/pionpanglima.xyz/
 local=/pip.dk/
 local=/pipa4d.co/
 local=/pipapg.com/
-local=/pipeguardusa.com/
 local=/piper-spin.casino/
 local=/pipsnetwork.com/
 local=/piramidsl0tcasino.live/
@@ -76374,7 +76369,6 @@ local=/sb99.online/
 local=/sbaffiliates.com/
 local=/sbattler.com/
 local=/sbbet.me/
-local=/sbccasino.com/
 local=/sberbankslots-plays.ru/
 local=/sbet.ph/
 local=/sbet0.com/
@@ -83494,7 +83488,6 @@ local=/tigerslotsgameu.com/
 local=/tigerslotsz.com/
 local=/tigerspin.de/
 local=/tigervip3.cc/
-local=/tiglobal.net/
 local=/tigre.bar/
 local=/tigre777casino.online/
 local=/tigre77bet.com/

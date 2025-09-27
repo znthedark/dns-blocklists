@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Sep 2025 23:15 UTC
-# Version: 2025.0905.2315.27
+# Last modified: 26 Sep 2025 23:07 UTC
+# Version: 2025.0926.2307.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 615
+# Number of entries: 620
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -108,6 +109,7 @@
 0.0.0.0 aax-us-pdx-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-us-pdx-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
+0.0.0.0 aax-us-west-2-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-us-west-dtb-mobile-events.amazon-adsystem.com
 0.0.0.0 aax-us-west-dtb-mobile.amazon-adsystem.com
 0.0.0.0 aax-us-west-ott-events.amazon-adsystem.com
@@ -258,6 +260,7 @@
 0.0.0.0 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -365,6 +368,7 @@
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 h4g3z1-native.amazon.web.app
+0.0.0.0 iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 identity.browserapps.amazon.de
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 insights.video.a2z.com
@@ -400,8 +404,10 @@
 0.0.0.0 maws-aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 maws-aax-us-east-test4.amazon-adsystem.com
 0.0.0.0 maws-aax-us-pdx-rtb.amazon-adsystem.com
+0.0.0.0 mdtb.ads.aps.amazon-adsystem.com
 0.0.0.0 metrics.media-amazon.com
 0.0.0.0 minerva.devices.a2z.com
+0.0.0.0 mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 mobile.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 mobile.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 mobile.us-west.aps.axp.amazon-adsystem.com

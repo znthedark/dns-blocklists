@@ -148,20 +148,6 @@
       }
     },
     {
-      "PK": "librex.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "librex.myroware.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "librex.nohost.network",
       "action": {
         "do": 0,
@@ -876,13 +862,6 @@
       }
     },
     {
-      "PK": "searx.louifox.house",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.lwhr.xyz",
       "action": {
         "do": 0,
@@ -1199,13 +1178,6 @@
     },
     {
       "PK": "websearch.excite.co.jp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wgl.frail.duckdns.org",
       "action": {
         "do": 0,
         "status": 1

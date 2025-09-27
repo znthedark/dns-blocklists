@@ -3,9 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Sep 2025 19:25 UTC
-# Version: 2025.0919.1925.41
+# Last modified: 26 Sep 2025 23:15 UTC
+# Version: 2025.0926.2315.01
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 30
 #
@@ -34,8 +35,8 @@
 0.0.0.0 kpu.samsungelectronics.com upu.samsungelectronics.com xpu.samsungelectronics.com ypu.samsungelectronics.com zpu.samsungelectronics.com shealth-analytics-api.samsunghealth.com shealth-analytics-stg-api.samsunghealth.com analytics-dev-api.test.samsunghealth.com analytics-api.samsunghealthcn.com
 0.0.0.0 invitation.samsungiotcloud.com analytics.samsungknox.com analytics-stg.samsungknox.com api-analytics.samsungknox.com api-analytics-qa.samsungknox.com b2banalytics.samsungknox.com nmetrics.samsungmobile.com gld.samsungosp.com stats.samsungpass.com
 0.0.0.0 osb.samsungqbe.com osb-krsvc.samsungqbe.com samsungr.com www.samsungr.com samsungrm.com test.samsungrm.net www.samsungrm.com sspapi-prd.samsungrs.com matomo.samsungsdibs.at
-0.0.0.0 lp.mkt-email.samsungsds.com tracking.mkt-email.samsungsds.com samsungtvads.com www.samsungtvads.com business.samsungusa.com app.business.samsungusa.com images.business.samsungusa.com mail01.business.samsungusa.com api-samsung.swypeconnect.com
-0.0.0.0 lbs-samsung.swypeconnect.com samsungau.api.useinsider.com samsungca.api.useinsider.com samsunghk.api.useinsider.com samsungid.api.useinsider.com samsungiraq.api.useinsider.com samsungjordan.api.useinsider.com samsungkr.api.useinsider.com samsungksa.api.useinsider.com
-0.0.0.0 samsungmalaysia.api.useinsider.com samsungpakistan.api.useinsider.com samsungph.api.useinsider.com samsungsamcol.api.useinsider.com samsungsamcolepp.api.useinsider.com samsungsavinaepp.api.useinsider.com samsungsebnbg.api.useinsider.com samsungsebnnl.api.useinsider.com samsungseda.api.useinsider.com
-0.0.0.0 samsungsem.api.useinsider.com samsungsemepp.api.useinsider.com samsungsepr.api.useinsider.com samsungseromro.api.useinsider.com samsungsesarepp.api.useinsider.com samsungsetkepp.api.useinsider.com samsungsingapore.api.useinsider.com samsungth.api.useinsider.com samsungtseepp.api.useinsider.com
-0.0.0.0 samsungturkey.api.useinsider.com samsunguk.api.useinsider.com samsungusa.api.useinsider.com samsungvn.api.useinsider.com h4g3z1-native.samsung.web.app 
+0.0.0.0 lp.mkt-email.samsungsds.com tracking.mkt-email.samsungsds.com samsungtvads.com www.samsungtvads.com business.samsungusa.com app.business.samsungusa.com images.business.samsungusa.com api-samsung.swypeconnect.com lbs-samsung.swypeconnect.com
+0.0.0.0 samsungau.api.useinsider.com samsungca.api.useinsider.com samsunghk.api.useinsider.com samsungid.api.useinsider.com samsungiraq.api.useinsider.com samsungjordan.api.useinsider.com samsungkr.api.useinsider.com samsungksa.api.useinsider.com samsungmalaysia.api.useinsider.com
+0.0.0.0 samsungpakistan.api.useinsider.com samsungph.api.useinsider.com samsungsamcol.api.useinsider.com samsungsamcolepp.api.useinsider.com samsungsavinaepp.api.useinsider.com samsungsebnbg.api.useinsider.com samsungsebnnl.api.useinsider.com samsungseda.api.useinsider.com samsungsem.api.useinsider.com
+0.0.0.0 samsungsemepp.api.useinsider.com samsungsepr.api.useinsider.com samsungseromro.api.useinsider.com samsungsesarepp.api.useinsider.com samsungsetkepp.api.useinsider.com samsungsingapore.api.useinsider.com samsungth.api.useinsider.com samsungtseepp.api.useinsider.com samsungturkey.api.useinsider.com
+0.0.0.0 samsunguk.api.useinsider.com samsungusa.api.useinsider.com samsungvn.api.useinsider.com h4g3z1-native.samsung.web.app 

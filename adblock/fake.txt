@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Sep 2025 10:25 UTC
-! Version: 2025.0926.1025.35
+! Last modified: 26 Sep 2025 23:16 UTC
+! Version: 2025.0926.2316.27
 ! Syntax: AdBlock
-! Number of entries: 13849
+! Number of entries: 13880
 !
 ||01broker.com^
 ||01crypto.com^
@@ -80,6 +80,7 @@
 ||abacas-versand.de^
 ||abadi-solar24.de^
 ||abbagirlz.com^
+||abbandemo.com^
 ||abbiattiuk.com^
 ||abbigliamentoscarpe.com^
 ||abcbinaire.com^
@@ -510,6 +511,7 @@
 ||angusz.com^
 ||anhaenger-von-thule.de^
 ||anhaengerfolkinger.de^
+||anhaengerkauf24.com^
 ||anhaengermarkt.com^
 ||anhaengers.online^
 ||anhaengerverleih-mania.de^
@@ -881,6 +883,7 @@
 ||autoteileonlinestore.com^
 ||autoteilepreisvergleich.org^
 ||autoteilerabatt.com^
+||autoteilewerkzeug.com^
 ||autotoolmaster24.com^
 ||autovignete.com^
 ||autozubehorde.com^
@@ -1246,6 +1249,7 @@
 ||bergmannhamburg.de^
 ||bergmannmode.de^
 ||bergner24.de^
+||bergwerkpunk.com^
 ||beriuty.com^
 ||berk-designs.de^
 ||berkemanndeutschland.de^
@@ -1362,6 +1366,7 @@
 ||bestwerkzeugeshop.com^
 ||besvip.top^
 ||betakom-tec.com^
+||betbuilt.sbs^
 ||betonruttler.com^
 ||betonspot.com^
 ||betrisecapitals.ltd^
@@ -2267,6 +2272,7 @@
 ||claracasperjuwelen.de^
 ||clarissaaquino.com^
 ||shop.clarissanails-schweiz.ch^
+||help.claritycheck.com^
 ||clarks-germany.com^
 ||clarks-osterreich.at^
 ||clarks-osterreich.com^
@@ -2368,6 +2374,7 @@
 ||prettylittlething.co.za^
 ||saucony.co.at^
 ||silvanass.co.uk^
+||soundcore.co.at^
 ||staud.co.at^
 ||stussyindiastore.co.in^
 ||superdry.co.at^
@@ -2539,6 +2546,7 @@
 ||comme-des-garcons.at^
 ||commencu.com^
 ||commercewealth.com^
+||commerzsci.com^
 ||commiodity.com^
 ||commodityk.com^
 ||commodityt.com^
@@ -2761,6 +2769,7 @@
 ||cummari-tech.de^
 ||cupliebe.com^
 ||curablity.com^
+||curosleep.com^
 ||curotoshop.com^
 ||currext.com^
 ||curriculumt.com^
@@ -3244,6 +3253,7 @@
 ||dmrdyedbro.com^
 ||dmsmax.com^
 ||dmsversand.de^
+||dnaen.shop^
 ||dno-handel23.de^
 ||dno-handel24.de^
 ||docjohnson-schritte.com^
@@ -5390,6 +5400,7 @@
 ||gzbiaogan.com^
 ||regina-hotel-vienna.h-rez.com^
 ||haareparfum.com^
+||haarpflegehaut.com^
 ||haarprofis.com^
 ||haberfasher.com^
 ||habitualn.com^
@@ -5834,6 +5845,7 @@
 ||hobbyjapanmodel.com^
 ||hobbymodelstore.shop^
 ||hochbeckenleitern.com^
+||hochcontainerrabatt.com^
 ||hochen-punkt.de^
 ||hochstift-garten.de^
 ||hochwertigesspielzeug.com^
@@ -5924,6 +5936,7 @@
 ||homes-page.com^
 ||homesandgardensdirect.com^
 ||homesupplybest.com^
+||homesupplymarket.com^
 ||homesurya.com^
 ||hometown-boys.com^
 ||homewarelimit.com^
@@ -6829,6 +6842,7 @@
 ||kitchenchef.club^
 ||kitchencuisinart.com^
 ||kitchendrop.de^
+||kitchenlifeculture.com^
 ||kitchenmasters.net^
 ||kitchenpeace.com^
 ||kitchenstar24.de^
@@ -7549,6 +7563,7 @@
 ||lowcostlode.com^
 ||lowela.de^
 ||lowhikingboots.com^
+||lowpriceloomhub.com^
 ||loxologyshop.com^
 ||lozenda.de^
 ||lpb-garten.de^
@@ -7677,6 +7692,8 @@
 ||magiemarkt.com^
 ||magisale.com^
 ||magischepfoten.de^
+||magisk.zip^
+||magiskapk.net^
 ||magliecalciocn.net^
 ||magmovebikes.com^
 ||magnafinanceholdings.com^
@@ -7863,6 +7880,7 @@
 ||mauseabwehr.at^
 ||mauserbau.de^
 ||maut-acfinag.com^
+||mautslowenien.at^
 ||mavicsale.com^
 ||maviele.com^
 ||homegenius.mavilyxo.monster^
@@ -8380,6 +8398,7 @@
 ||mosano.de^
 ||moscotberlin.de^
 ||mosedu.net^
+||moser-graz.at^
 ||moser-wien.com^
 ||mosersale.shop^
 ||mosessions.com^
@@ -9682,6 +9701,7 @@
 ||pixelsale.shop^
 ||pk.toys^
 ||planathandel.de^
+||planetebike24.de^
 ||planetoption.net^
 ||plantonsale.com^
 ||plantsch24.de^
@@ -9995,6 +10015,7 @@
 ||punkrave.ch^
 ||puntoblancoshop.com^
 ||puppenhauser.com^
+||puppenkleidungbillig.com^
 ||puppiestreat.com^
 ||de.puppylove.com^
 ||fr.puprime.net^
@@ -10013,6 +10034,7 @@
 ||apothekerezeptfrei-1.puzl.com^
 ||gartenmuster.pvnlvp.ink^
 ||pvqkcuin.shop^
+||pxctpkvu.shop^
 ||pyro-expression.com^
 ||pzinformatica.com^
 ||qartelshop.com^
@@ -10124,11 +10146,13 @@
 ||radzeit.com^
 ||radzenter.com^
 ||radzubehoerde.com^
+||radzyklen.de^
 ||raealed.club^
 ||raeuberundkomplizeneur.shop^
 ||ragwearaustria.com^
 ||ragwearoutlet.de^
 ||rahr-gesellschaft.de^
+||raiffeisen-osterreich.com^
 ||rainer-baumarkt.de^
 ||raisefx.com^
 ||rajputemporium.com^
@@ -10325,6 +10349,7 @@
 ||reservationstays.com^
 ||reshline.com^
 ||resid3ncy.com^
+||resiqo.com^
 ||resistoldeutschland.com^
 ||respeaonsct.com^
 ||restchess.com^
@@ -10475,6 +10500,7 @@
 ||rollandbois.com^
 ||rollangel.com^
 ||rollenspielgeschaft.com^
+||rollenzeit.de^
 ||rollerbladeskate.com^
 ||rollstuhlzubehor.com^
 ||romanticg.com^
@@ -10560,6 +10586,7 @@
 ||runaivete.com^
 ||runcloudshoe.com^
 ||rundfunkportal.de^
+||rundummobil.de^
 ||runge-energie.de^
 ||runons.club^
 ||russellnbromleycanada.com^
@@ -10955,6 +10982,7 @@
 ||seufert-garten.de^
 ||a.seven-st.com^
 ||sexicats.com^
+||sexpuppenkaufen.at^
 ||seydo-handel.de^
 ||seylab.shop^
 ||sezane-authorized.shop^
@@ -12016,6 +12044,7 @@
 ||teichfilterelektro.com^
 ||teichmann-fashion.de^
 ||teichwunder.com^
+||teilrad24.de^
 ||teknohaus.de^
 ||telapros.de^
 ||telefoonshop.net^
@@ -13080,6 +13109,7 @@
 ||viporama.com^
 ||vipprogrammer.com^
 ||vipsupport-eu.com^
+||viqra.shop^
 ||virgoexpress.com^
 ||viri-blue.de^
 ||viroset.store^
@@ -13261,6 +13291,7 @@
 ||wardglam.com^
 ||warehousestocks.com^
 ||warenhausdeutschland.com^
+||warenmax.com^
 ||warenwelt-eu.com^
 ||warevo.de^
 ||warmeholzhaus.com^

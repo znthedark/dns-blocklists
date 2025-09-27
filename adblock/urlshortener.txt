@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Sep 2025 22:27 UTC
-! Version: 2025.0925.2227.01
+! Last modified: 26 Sep 2025 23:01 UTC
+! Version: 2025.0926.2301.07
 ! Syntax: AdBlock
-! Number of entries: 6499
+! Number of entries: 6502
 !
 ||0.gp^
 ||00m.in^
@@ -332,6 +332,7 @@
 ||a360.co^
 ||a368.co^
 ||a38.fr^
+||a4k.co^
 ||a4r.at^
 ||a8s.app^
 ||aaa.moda^
@@ -2572,6 +2573,7 @@
 ||go.jc.fm^
 ||jcp.is^
 ||jdem.cz^
+||jdev.uk^
 ||jelink.id^
 ||jellyurl.com^
 ||jepebanget.xyz^
@@ -3375,6 +3377,7 @@
 ||mic.fr^
 ||michmed.org^
 ||microbakery.ca^
+||microlink.ro^
 ||microlinkfy.io^
 ||microlinks.io^
 ||microsoftaistories.com^

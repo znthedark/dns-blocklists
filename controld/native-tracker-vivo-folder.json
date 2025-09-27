@@ -330,7 +330,21 @@
       }
     },
     {
+      "PK": "cname-in-apport-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cname-in-bom01-nginxpool03.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cname-in-ctdbonrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
