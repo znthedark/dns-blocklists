@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 10:13 UTC
-# Version: 2025.0926.1013.08
+# Last modified: 27 Sep 2025 10:12 UTC
+# Version: 2025.0927.1012.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 1972
+# Number of entries: 1973
 #
 l.1mp.ru
 t.1und1.de
@@ -337,6 +337,7 @@ redirector.eservice.emarsys.net
 suite-dashboard.gservice.emarsys.net
 suite.emarsys.net
 suite0.emarsys.net
+suite1.emarsys.net
 suite10.emarsys.net
 suite10-cdnnet.emarsys.net
 suite11.emarsys.net
