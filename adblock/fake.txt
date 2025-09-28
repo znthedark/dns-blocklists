@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Sep 2025 22:25 UTC
-! Version: 2025.0927.2225.39
+! Last modified: 28 Sep 2025 10:25 UTC
+! Version: 2025.0928.1025.41
 ! Syntax: AdBlock
-! Number of entries: 13892
+! Number of entries: 13891
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1369,6 +1369,7 @@
 ||betbuilt.sbs^
 ||betonruttler.com^
 ||betonspot.com^
+||betontop.com^
 ||betrisecapitals.ltd^
 ||bettbezugrabatt.com^
 ||bettdeckenkissen.com^
@@ -2636,7 +2637,6 @@
 ||cooponline.de^
 ||copaibacare.com^
 ||copenhagen-schuhe.com^
-||coplimentues.com^
 ||coralcoveswim.com^
 ||corebespokebaby.com^
 ||corentinmaribro.shop^
@@ -4749,6 +4749,7 @@
 ||gamestopland.com^
 ||gamestp.de^
 ||gameverkauf.de^
+||gamifo.com^
 ||gaming-gorilla.de^
 ||gaming-king.de^
 ||gaming-monster.de^
@@ -5210,6 +5211,7 @@
 ||gotrixa.de^
 ||gourmandebusy.com^
 ||gourmetecke.com^
+||govern1.com^
 ||gp-photo.shop^
 ||gplate.de^
 ||gpslocatorphone.com^
@@ -5979,6 +5981,7 @@
 ||hot-shopping.com^
 ||hotchillies.shop^
 ||hotel-brand-promotion.com^
+||hotel-ds.com^
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
 ||hotelectronicshop.com^
@@ -6667,7 +6670,6 @@
 ||kanuonlineshop.com^
 ||kaotikofire.shop^
 ||kapackgmbh.com^
-||kapackgmbh.shop^
 ||kaperes.com^
 ||kapes-agency.com^
 ||kapitaalkern.com^
@@ -8694,7 +8696,6 @@
 ||nbynicole.com^
 ||ncases.com^
 ||nchen.de^
-||ndfinitee.com^
 ||near-on-chain.de^
 ||neary.de^
 ||nebula-witch-power.com^
@@ -9019,7 +9020,6 @@
 ||obroker.com^
 ||ocayo.de^
 ||occasionak.com^
-||occasionk.com^
 ||ochsner-agrarhandel.com^
 ||ocinboutique.de^
 ||octa-trade.com^
@@ -9991,7 +9991,6 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
-||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^

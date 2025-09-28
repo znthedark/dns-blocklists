@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Sep 2025 22:27 UTC
-# Version: 2025.0927.2227.37
+# Last modified: 28 Sep 2025 11:52 UTC
+# Version: 2025.0928.1152.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 6549
+# Number of entries: 6586
 #
 0.gp
 00m.in
@@ -76,6 +76,7 @@ a.189.cn
 1do.me
 1drv.ms
 1ea.ir
+1fashionable.xyz
 1i1.in
 1ink.info
 1ir.org
@@ -773,6 +774,7 @@ berde.bar
 beree.io
 bersatu.me
 links.berwick.fr
+bestbet1000.xyz
 bestshortlink.com
 betaloop.io
 beteshis.com
@@ -887,6 +889,7 @@ blinkbreeze.com
 blinko.me
 blip.tv
 blipnut.com
+bliqr.io
 bliter.link
 blizz.ly
 blltly.com
@@ -1059,6 +1062,7 @@ cardiox-care.com
 careem.me
 caridomainku.org
 carmoov.fr
+carnalflicks.online
 caro.sl
 cart.mn
 casashort.live
@@ -1110,6 +1114,8 @@ change-erp.com
 changelink.pro
 kutt.chatforma.com
 chatg.pt
+cheap-bitcoin.online
+cheap-stocks.biz
 checkshorturl.bio
 checkshorturl.com
 chekc.life
@@ -1131,10 +1137,12 @@ chng.it
 chogan.store
 chogoon.com
 chop.ad
+choply.co
 chort.me
 chts.tw
 chudaitrieuview.info
 chudaixxx.life
+chunkylinks.com
 chx.to
 chzb.gr
 ci8.de
@@ -1521,6 +1529,7 @@ directedurls.com
 dis.gd
 dis.tl
 disanspam.life
+discount-forex.biz
 discvr.co
 disq.us
 dive.pub
@@ -1655,6 +1664,7 @@ earthtoday.info
 easyuri.com
 easyurl.net
 easyurl.site
+easyurlshortener.com
 eazify.net
 ebay.to
 ebbco.ir
@@ -1771,6 +1781,7 @@ ewardme.co
 ewed.us
 exchangle.co
 exe.io
+exi.bio
 exi.link
 exit.si
 exitl.ag
@@ -2121,6 +2132,7 @@ golnk.eu
 goly.me
 gomomento.co
 gomyly.com
+gonephishing.me
 goninja.live
 goo.by
 goo.click
@@ -2224,6 +2236,8 @@ hcibh.com
 hdd6.com
 hdslink.com
 healthiermemphis.org
+heap-bitcoin.online
+heap-stocks.biz
 heartofthenorthtours.link
 hec.su
 st.hellogil.com
@@ -2785,6 +2799,7 @@ ku-li.de
 kua.lat
 kuc.cz
 kuhlinks.de
+kuic.io
 kuku.lu
 kulink.me
 kurl.ru
@@ -2876,6 +2891,7 @@ lien.li
 lienket.vn
 lifeandtime.charity
 liga.win
+lightbee.io
 lighthouse-scholarship.com
 lign.it
 lih.kg
@@ -3075,6 +3091,7 @@ linkshrink.org
 linksimple.io
 linkslice.io
 linksminify.com
+linksnip.me
 linksplit.io
 linksqr.co
 linksqueeze.io
@@ -3318,6 +3335,7 @@ masuk.to
 masuk-id.info
 masuksini.my
 masy.uk
+match-heaven.club
 matchurl.com
 mathmayr.com
 matmacakiem222.makeup
@@ -3421,6 +3439,7 @@ minifi.ca
 d.minifun.games
 direct.minifun.games
 minify.link
+minifyme.co
 minifyn.com
 minifyurl.co
 minilien.com
@@ -3666,6 +3685,7 @@ nefeli.live
 nefix.de
 neflixenomovies.com
 nej.md
+neonslug.com
 mylinks.net.br
 qrcode.primetecnologia.net.br
 neti.cc
@@ -3802,6 +3822,7 @@ og1.in
 ogms.co
 ogwa.me
 oh.pn
+ohmy.link
 ohw.tf
 oii.io
 oink.us
@@ -3835,6 +3856,7 @@ on9news.tv
 oncliq.co
 one9.one
 oneany.shop
+onecompile.com
 onelink.to
 onelinkly.com
 onepl.us
@@ -3934,6 +3956,7 @@ pa-ko.ir
 packt.link
 pag.la
 page.link
+pairedinparadise.live
 paksa.click
 panitech.us
 paperspeedy.com
@@ -3963,6 +3986,7 @@ payskip.org
 videos.pbi.tools
 pbs.ink
 to.pbs.org
+pc-helper.xyz
 pc24.app
 pchome.link
 pck.tv
@@ -4686,6 +4710,7 @@ shortclick.com
 shortclient.top
 shortcm.li
 shortcut.ac
+shortcuturl.com
 shorte.net
 shorte.pro
 shorte.st
@@ -4716,6 +4741,7 @@ shortenme.io
 shortenme.link
 shortenme.me
 shortenurl.app
+shortenurl.org
 shortenurls.eu
 shortenwe.com
 shortenworld.com
@@ -4778,6 +4804,7 @@ shortrl.com
 shortrr.xyz
 shortsfly.me
 shortshare.app
+shortslinks.com
 shortstat.com
 shortster.net
 shortswitch.com
@@ -4808,6 +4835,7 @@ shorturlapp.com
 shorturlbot.com
 shorturlss.com
 shorturlx.com
+shortx.me
 shortyearn.com
 shortylink.org
 shortyzone.com
@@ -4850,10 +4878,12 @@ shrten.us
 shrtfly.com
 shrtlk.click
 shrtlnk.com
+shrtly.net
 shrtm.nu
 shrtme.link
 shrtn.app
 shrtn.ee
+shrtnly.pro
 shrtq.link
 shrtr.cc
 shrtru.com
@@ -5530,7 +5560,9 @@ trim.one
 trim-url.com
 trimlink.ai
 trimlink.net
+trimlynk.com
 trims.me
+trimuly.com
 trimurl.co
 trimurls.com
 trisula88short.xyz
@@ -5711,6 +5743,7 @@ ur1.ca
 ur3.us
 ur4l.com
 ura.vn
+kutt.ural-agro.com
 urb.tf
 urbn.is
 newsletter.urcelia.com
@@ -5771,6 +5804,7 @@ urlday.com
 urldn.com
 urle.me
 urlenco.de
+urlers.com
 urlexpander.org
 urlf.cc
 urlfile.xyz
@@ -5785,6 +5819,7 @@ urlhawk.com
 urlhum.com
 urli.ai
 urli.info
+urlies.com
 urlify.cn
 urlify.link
 urlifypoint.com
@@ -5807,6 +5842,7 @@ urlli.com
 urllimit.com
 urllink.link
 urllinker.com
+urllix.com
 urlme.cc
 urlme.us
 urlmy.link
@@ -6108,6 +6144,7 @@ wdsh.rs
 we.co
 we.pe
 we.tl
+we-shop.xyz
 weall.vote
 weare.rs
 weaveen.com

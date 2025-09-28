@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Sep 2025 22:25 UTC
-# Version: 2025.0927.2225.39
+# Last modified: 28 Sep 2025 10:25 UTC
+# Version: 2025.0928.1025.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13892
+# Number of entries: 13891
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1368,6 +1368,7 @@ local=/betakom-tec.com/
 local=/betbuilt.sbs/
 local=/betonruttler.com/
 local=/betonspot.com/
+local=/betontop.com/
 local=/betrisecapitals.ltd/
 local=/bettbezugrabatt.com/
 local=/bettdeckenkissen.com/
@@ -2635,7 +2636,6 @@ local=/coolwaydeutschland.com/
 local=/cooponline.de/
 local=/copaibacare.com/
 local=/copenhagen-schuhe.com/
-local=/coplimentues.com/
 local=/coralcoveswim.com/
 local=/corebespokebaby.com/
 local=/corentinmaribro.shop/
@@ -4748,6 +4748,7 @@ local=/gamestopde.de/
 local=/gamestopland.com/
 local=/gamestp.de/
 local=/gameverkauf.de/
+local=/gamifo.com/
 local=/gaming-gorilla.de/
 local=/gaming-king.de/
 local=/gaming-monster.de/
@@ -5209,6 +5210,7 @@ local=/gotrax.store/
 local=/gotrixa.de/
 local=/gourmandebusy.com/
 local=/gourmetecke.com/
+local=/govern1.com/
 local=/gp-photo.shop/
 local=/gplate.de/
 local=/gpslocatorphone.com/
@@ -5978,6 +5980,7 @@ local=/hot-mystery-deals.xyz/
 local=/hot-shopping.com/
 local=/hotchillies.shop/
 local=/hotel-brand-promotion.com/
+local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
@@ -6666,7 +6669,6 @@ local=/kaniteo.com/
 local=/kanuonlineshop.com/
 local=/kaotikofire.shop/
 local=/kapackgmbh.com/
-local=/kapackgmbh.shop/
 local=/kaperes.com/
 local=/kapes-agency.com/
 local=/kapitaalkern.com/
@@ -8693,7 +8695,6 @@ local=/nazaone.com/
 local=/nbynicole.com/
 local=/ncases.com/
 local=/nchen.de/
-local=/ndfinitee.com/
 local=/near-on-chain.de/
 local=/neary.de/
 local=/nebula-witch-power.com/
@@ -9018,7 +9019,6 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -9990,7 +9990,6 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
-local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/

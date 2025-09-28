@@ -1,6 +1,10 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/7448
+i.emlfiles4.com
+i.cloudflare-dm-cmpimg.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7424
 sgimage.netmarble.com
 
