@@ -2766,6 +2766,13 @@
       }
     },
     {
+      "PK": "nature.house",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "neal.fun",
       "action": {
         "do": 1,
@@ -4300,6 +4307,13 @@
     },
     {
       "PK": "uma.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "umamusu.wiki",
       "action": {
         "do": 1,
         "status": 1

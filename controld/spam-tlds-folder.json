@@ -869,6 +869,13 @@
       }
     },
     {
+      "PK": "*.house",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.how",
       "action": {
         "do": 0,

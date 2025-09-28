@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Sep 2025 10:25 UTC
-# Version: 2025.0928.1025.41
+# Last modified: 28 Sep 2025 19:27 UTC
+# Version: 2025.0928.1927.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13891
+# Number of entries: 13893
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2298,6 +2298,7 @@ local=/cleancorner.store/
 local=/cleanserprada.com/
 local=/clearance-kitchen.com/
 local=/clearancebath.com/
+local=/clearancecurrent.com/
 local=/clearancegowns.com/
 local=/clearancesurfsale.com/
 local=/clearanceu.com/
@@ -8152,6 +8153,7 @@ local=/midikleider.com/
 local=/midino.de/
 local=/midnightchems.com/
 local=/midnighti.com/
+local=/midoga.com/
 local=/midrisetpants.com/
 local=/mieleoutlet.com/
 local=/mig-versand.de/

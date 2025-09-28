@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Sep 2025 11:54 UTC
-# Version: 2025.0928.1154.44
+# Last modified: 28 Sep 2025 21:00 UTC
+# Version: 2025.0928.2100.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 39911
+# Number of entries: 39910
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -34084,7 +34084,6 @@
 *.southpointcasino.club
 *.southpointcasino.com
 *.sovabetcasino.best
-*.sp-drive.net
 *.sp1-naro.com
 *.space77.co
 *.space9-casino.com

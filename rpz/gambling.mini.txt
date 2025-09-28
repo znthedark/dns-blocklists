@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759060440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759093200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Sep 2025 11:54 UTC
-; Version: 2025.0928.1154.44
+; Last modified: 28 Sep 2025 21:00 UTC
+; Version: 2025.0928.2100.48
 ; Syntax: RPZ
-; Number of entries: 79822
+; Number of entries: 79820
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -58108,8 +58108,6 @@ sohbetsayfam.net CNAME .
 *.sohbetsayfam.net CNAME .
 sorteesportiva.net CNAME .
 *.sorteesportiva.net CNAME .
-sp-drive.net CNAME .
-*.sp-drive.net CNAME .
 spartacasino.net CNAME .
 *.spartacasino.net CNAME .
 spellwin-casino.net CNAME .

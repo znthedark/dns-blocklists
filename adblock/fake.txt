@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Sep 2025 10:25 UTC
-! Version: 2025.0928.1025.41
+! Last modified: 28 Sep 2025 19:27 UTC
+! Version: 2025.0928.1927.55
 ! Syntax: AdBlock
-! Number of entries: 13891
+! Number of entries: 13893
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2299,6 +2299,7 @@
 ||cleanserprada.com^
 ||clearance-kitchen.com^
 ||clearancebath.com^
+||clearancecurrent.com^
 ||clearancegowns.com^
 ||clearancesurfsale.com^
 ||clearanceu.com^
@@ -8153,6 +8154,7 @@
 ||midino.de^
 ||midnightchems.com^
 ||midnighti.com^
+||midoga.com^
 ||midrisetpants.com^
 ||mieleoutlet.com^
 ||mig-versand.de^

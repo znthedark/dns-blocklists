@@ -2688,6 +2688,13 @@
       }
     },
     {
+      "PK": "*.house",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.how",
       "action": {
         "do": 0,
@@ -3900,6 +3907,13 @@
     },
     {
       "PK": "nation.africa",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "nature.house",
       "action": {
         "do": 1,
         "status": 1
@@ -6063,6 +6077,13 @@
     },
     {
       "PK": "uma.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "umamusu.wiki",
       "action": {
         "do": 1,
         "status": 1
