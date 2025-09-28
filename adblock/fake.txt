@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Sep 2025 10:25 UTC
-! Version: 2025.0927.1025.21
+! Last modified: 27 Sep 2025 22:25 UTC
+! Version: 2025.0927.2225.39
 ! Syntax: AdBlock
-! Number of entries: 13880
+! Number of entries: 13892
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2290,6 +2290,7 @@
 ||clarksshoesnz.net^
 ||clarksshopschweiz.com^
 ||classificaty.com^
+||claudia-schmuckatelier.com^
 ||clausrothe.de^
 ||clavedesolinstrumentosmusicais.com^
 ||clbgroup.com^
@@ -3954,6 +3955,7 @@
 ||europe-pimco.com^
 ||europeannewstoday.com^
 ||europeanpharm.net^
+||europellet.at^
 ||europharmacyonline.com^
 ||europharmsonline.com^
 ||europharmx.com^
@@ -5322,6 +5324,7 @@
 ||grund-markt.de^
 ||grundfosdistribution.com^
 ||grundstoffde.com^
+||grunekraft.shop^
 ||grunholz.com^
 ||grunsamen.de^
 ||gruntmuzicz.com^
@@ -5670,7 +5673,10 @@
 ||heizoelblitz.com^
 ||heizoelblitz.de^
 ||heizoelbp.de^
+||heizoelfit.de^
+||heizoelitx.de^
 ||heizoelix.de^
+||heizoeljet.de^
 ||heizoeljetzt.de^
 ||heizoellieferung.de^
 ||heizoelonline24.com^
@@ -6482,6 +6488,7 @@
 ||jggli26v.shop^
 ||jgregoryfineart.com^
 ||jiangekj.xyz^
+||jiaxin24.de^
 ||jieper.com^
 ||jieperava.shop^
 ||jillsglasses.com^
@@ -6659,6 +6666,8 @@
 ||kaniteo.com^
 ||kanuonlineshop.com^
 ||kaotikofire.shop^
+||kapackgmbh.com^
+||kapackgmbh.shop^
 ||kaperes.com^
 ||kapes-agency.com^
 ||kapitaalkern.com^
@@ -8941,6 +8950,7 @@
 ||nova-finance.net^
 ||nova-mia.de^
 ||nova-zurich.com^
+||web.novacryptmax.com^
 ||novadeal.de^
 ||novafinanz.de^
 ||novakgroup.online^
@@ -9773,6 +9783,7 @@
 ||polene-deutschland.com^
 ||polene-paris.at^
 ||polene-shop.com^
+||poleneoutlet.de^
 ||poleneoutletdeutschland.com^
 ||politze-bike.de^
 ||polsacs.com^
@@ -11155,6 +11166,7 @@
 ||sichersparen.com^
 ||sidelinejerseys.com^
 ||sideshoww.top^
+||sidiaustria.com^
 ||siegert-handel.de^
 ||sieker-versand.de^
 ||sierke24.de^

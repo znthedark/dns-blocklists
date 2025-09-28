@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Sep 2025 22:47 UTC
-! Version: 2025.0926.2247.17
+! Last modified: 28 Sep 2025 00:01 UTC
+! Version: 2025.0928.0001.11
 ! Syntax: uBlock
 ! Number of latin TLDs: 280 - non-latin TLDs: 151
 !
@@ -196,7 +196,7 @@
 ||pet^$doc,domain=~kickthespy.pet|~kuma.pet
 ||pharmacy^$doc,domain=~safe.pharmacy
 ||phd^$doc,domain=~rafael.phd
-||photo^$doc,domain=~faceapp.photo
+||photo^$doc,domain=~faceapp.photo|~glass.photo
 ||photos^$doc,domain=~picsum.photos
 ||pics^$doc,domain=~covet.pics|~pixers.pics|~sexhd.pics|~slow.pics|~twic.pics
 ||pictures^$doc,domain=~comick.pictures|~pornhoarder.pictures

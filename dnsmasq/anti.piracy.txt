@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Sep 2025 11:55 UTC
-# Version: 2025.0927.1155.20
+# Last modified: 27 Sep 2025 23:53 UTC
+# Version: 2025.0927.2353.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11006
+# Number of entries: 11016
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -490,6 +490,7 @@ local=/aiw.bz/
 local=/retracker.akado-ural.ru/
 local=/akiba-online.com/
 local=/aklivetv.com/
+local=/t.al.uy/
 local=/alabout.com/
 local=/tracker.alaskantf.com/
 local=/aletorrenty.pl/
@@ -2574,6 +2575,7 @@ local=/divxtotal3.net/
 local=/divyamodapk.com/
 local=/tracker.dix.tf/
 local=/dizcompany.ru/
+local=/dizipal22.plus/
 local=/djleak.com/
 local=/dl-more.eu/
 local=/bt.dl1234.com/
@@ -2623,6 +2625,7 @@ local=/docuwiki.net/
 local=/dodear.com/
 local=/dodi-repacks.site/
 local=/dognzb.cr/
+local=/doile378vtt.com/
 local=/tracker.doko.moe/
 local=/dokumen.pub/
 local=/dokumentalne.net/
@@ -3594,6 +3597,8 @@ local=/filmxy.pw/
 local=/filmxy.vip/
 local=/filmy-online.tv/
 local=/filmy4wap.de/
+local=/filmyfly.deals/
+local=/filmyfly.republican/
 local=/filmyhd.biz/
 local=/filmyone.com/
 local=/filmywap.help/
@@ -5371,6 +5376,7 @@ local=/limetorrents.asia/
 local=/limetorrents.at/
 local=/limetorrents.buzz/
 local=/limetorrents.cc/
+local=/limetorrents.fun/
 local=/limetorrents.info/
 local=/limetorrents.link/
 local=/limetorrents.lol/
@@ -5425,6 +5431,7 @@ local=/cdn.livetv808.me/
 local=/livetv813.me/
 local=/livetv814.me/
 local=/livetv815.me/
+local=/livetv863.me/
 local=/livingtorrents.com/
 local=/livrefilmeshd.net/
 local=/lizaonlinebd.com/
@@ -7959,6 +7966,7 @@ local=/siambt.com/
 local=/sidequestvr.com/
 local=/aus.sierules.com/
 local=/sifara.com/
+local=/sihoki51.xyz/
 local=/silentstress.wtf/
 local=/siliconguide.com/
 local=/siluhd.com/
@@ -8628,6 +8636,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -9002,7 +9011,6 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
-local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -10676,6 +10684,7 @@ local=/hd-hu.xn-s.eu/
 local=/xoomtv.xyz/
 local=/tterm.xorg.pl/
 local=/xpau.se/
+local=/xpdf4u.com/
 local=/xplorenetbd.com/
 local=/xpress.ltd/
 local=/xprime.tv/
@@ -10701,6 +10710,7 @@ local=/xtvi.com/
 local=/xubster.com/
 local=/xuyadong.sbs/
 local=/xwt-classics.net/
+local=/xx-xsx.top/
 local=/xx1.online/
 local=/open.xxtor.com/
 local=/xxx-torrent.net/

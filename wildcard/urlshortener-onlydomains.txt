@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 23:01 UTC
-# Version: 2025.0926.2301.07
+# Last modified: 27 Sep 2025 22:27 UTC
+# Version: 2025.0927.2227.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 6502
+# Number of entries: 6549
 #
 0.gp
 00m.in
@@ -45,6 +45,7 @@
 0xy.me
 101.gg
 101101.xyz
+10bt.app
 10i.in
 110.vg
 11ixcco.com
@@ -202,13 +203,16 @@ t.2merkato.com
 4.ly
 420.bio
 42jump.com
+42l.fr
 42url.com
 45h.it
 46.fi
 47.de
 49rs.co
 4d2.link
+4e.fi
 4eq.ir
+4ev.link
 4extra.info
 4fold.xyz
 4fun.tw
@@ -328,6 +332,7 @@ a.gg
 a.nf
 a0.fr
 a2a.me
+a2z.tools
 a360.co
 a368.co
 a38.fr
@@ -630,6 +635,7 @@ asus.click
 asusrog.de
 at0m.de
 ata.ink
+ateng.me
 atglinks.com
 atharori.net
 athe.re
@@ -737,6 +743,7 @@ bch.gg
 bchf.life
 bckr.club
 bcl.ink
+bcns.ai
 bcove.video
 bcsite.io
 bd-fw.com
@@ -744,6 +751,7 @@ bddy.me
 bdf.net
 be.horse
 be6.in
+beacons.ai
 beam.to
 beats.is
 beautyfitnesshealth.com
@@ -791,6 +799,7 @@ biggo.tw
 biibly.com
 biltiy.com
 bim.im
+s.bimoweb.com
 binancetransactionf077171f1gl1od17ro1asecure.life
 binbucks.com
 binged.it
@@ -1039,6 +1048,7 @@ calendrierbdp.info
 can.al
 candicegilmerauthor.com
 canon.us
+canva.com
 canyonstudent.net
 capital.one
 capitalfm.co
@@ -1085,6 +1095,7 @@ cdat.ca
 cdcp.io
 cden.co
 s.cdw.ro
+cebol.me
 ceittp.com
 ceklink.vip
 celfam.us
@@ -1353,6 +1364,7 @@ cut.sk
 cut-ly.com
 cut2.ir
 cutcut.uk
+cutdown.link
 cute.link
 cuterurlha.xyz
 cuteurl.co
@@ -1501,6 +1513,7 @@ digbig.com
 digg.com
 qr.digi.tips
 link.digipull.in
+digitalsnax.com
 digitize-umfrage.at
 dik.si
 direct.me
@@ -1573,6 +1586,7 @@ dronescapes.video
 drop.tf
 droplr.net
 dropmylinks.com
+kutt.droppii.vn
 drte.co
 kutt.druidry.org
 druuz.com
@@ -1900,6 +1914,7 @@ forsakenx.live
 found.ee
 fox.tv
 foxlyme.com
+frama.link
 frdm.mobi
 fre.to
 s.free.fr
@@ -1992,6 +2007,7 @@ geniuslink.com
 geniusqr.io
 genzurl.com
 georiot.co
+geotargetly.com
 geralink.net
 gesit.io
 gesn.it
@@ -2343,6 +2359,7 @@ hyperx.gg
 shar.i.ng
 i-ce.cm
 i-d.co
+i5o.io
 i7i.co
 i8.ae
 i99.cz
@@ -2593,6 +2610,7 @@ jjlco.net
 jkf.lv
 jktc.pro
 jmal.top
+jmp.sh
 jmp2.net
 jmpto.net
 jnfusa.org
@@ -2626,6 +2644,7 @@ jsl1.in
 jttfan.net
 ju.mp
 jug.im
+jumpshare.com
 jurl.io
 just.as
 justcut.io
@@ -2648,6 +2667,7 @@ kaas.gg
 kabuzzle.com
 kaitect.com
 kamo.es
+kannn.me
 kaos.link
 kas.pr
 kask.us
@@ -3010,6 +3030,7 @@ linkku-wt.com
 linklada.com
 linklyhq.com
 linkme.lol
+linkmngr.com
 linkmonet.com
 linkmpomax.live
 linkmu.cyou
@@ -3114,6 +3135,7 @@ llo.to
 llqwtrk.com
 lltxt.us
 llu.ch
+lmddgtfy.net
 lmg.gg
 lmt.co
 lmy.de
@@ -3395,6 +3417,7 @@ min.bz
 mineurl.top
 minggu.cfd
 mini-url.in
+minifi.ca
 d.minifun.games
 direct.minifun.games
 minify.link
@@ -3783,6 +3806,7 @@ ohw.tf
 oii.io
 oink.us
 oinla.com
+oisux.org
 ok.link
 ok.tc
 ok2.com
@@ -3814,6 +3838,7 @@ oneany.shop
 onelink.to
 onelinkly.com
 onepl.us
+oneshort.link
 goto.onestream.live
 onforb.es
 onion.com
@@ -4172,6 +4197,7 @@ qr-code.click
 qr-code-generator.com
 qr-codes.io
 qr-in.com
+qr-man.com
 qr1.jp
 qr123reg.click
 qr2.bz
@@ -4184,6 +4210,7 @@ qrco.de
 qrcode.pl
 qrcodedynamic.com
 qrcood.com
+qrcreator.link
 qrcs.io
 qrdb.co
 qrfy.com
@@ -4202,6 +4229,7 @@ qrsu.io
 qrtag.fr
 qrurl.cc
 qry.kr
+qrybaan.com
 qs1.it
 qsl.pw
 qt.ke
@@ -4289,6 +4317,7 @@ rebrand.lol
 rebrand.ly
 rebrand.pw
 rebrandly.com
+rebrandly.pro
 rec-law.us
 reco.yt
 reconis.co
@@ -4746,12 +4775,15 @@ shortpro.in
 shortq.link
 shortracz.com
 shortrl.com
+shortrr.xyz
 shortsfly.me
 shortshare.app
 shortstat.com
+shortster.net
 shortswitch.com
 shortturl.co
 shortu.be
+shortu.in
 shortuel.asia
 shorturl.ac
 shorturl.ae
@@ -4820,6 +4852,7 @@ shrtlk.click
 shrtlnk.com
 shrtm.nu
 shrtme.link
+shrtn.app
 shrtn.ee
 shrtq.link
 shrtr.cc
@@ -4922,6 +4955,7 @@ sly.be
 slynk.in
 sm-s.in
 sm4ll.in
+smaintenance.com
 smal.lu
 small.cat
 smallit.cc
@@ -4958,6 +4992,7 @@ sn.im
 sn.rs
 snap-url.pro
 snapadd.net
+snappyshort.com
 snappyurl.com
 snapt.io
 snapylink.com
@@ -4970,6 +5005,7 @@ snip.link
 snip.ly
 snip.ng
 snipi.io
+snipify.net
 snipit.in
 sniply.io
 sniplytics.com
@@ -5048,6 +5084,7 @@ sqzr.cz
 sr23.ru
 sresc.io
 sribu.in
+srink.in
 srnk.us
 srtl.io
 srturl.xyz
@@ -5082,6 +5119,7 @@ storagesch.com
 stormurl.com
 storycor.ps
 stpp.co
+str.ms
 strategosnet.com
 stratoplot.com
 strikersoftsolutions.com
@@ -5272,6 +5310,7 @@ kutt.this.team
 thls.co
 thn.news
 thoschi.com
+thpsn.org
 thr.cm
 thrdl.es
 thrill.to
@@ -5322,6 +5361,7 @@ tiny4t.com
 tinyarro.ws
 tinybit.cc
 tinybro.com
+tinycc.com
 tinycut.io
 tinyerz.com
 tinyfy.io
@@ -5357,6 +5397,7 @@ tinyurlwebsite.com
 tinyurlz.co
 tinyvid.io
 tinyvnn.com
+tinyy.link
 tinyy.me
 tinyy.xyz
 tipeos.com
@@ -5673,6 +5714,7 @@ ura.vn
 urb.tf
 urbn.is
 newsletter.urcelia.com
+urhb.in
 uri.im
 uri.to
 url.cn
@@ -5822,6 +5864,7 @@ urlsshares.cc
 urlstox.com
 urltamil.in
 urlth.me
+urltiger.com
 urltin.com
 urltools.com
 urltta.top
@@ -6154,6 +6197,7 @@ win7.life
 winlynk.com
 shortener.winplaybox.in
 wipp.me
+wisestamp.link
 wishct.live
 wispi.ly
 wit.to
@@ -6172,6 +6216,7 @@ wndt.nl
 wo.ws
 woah.top
 woflpackciye.com
+wojiech.com
 woki.me
 wolftravels.live
 wonderl.ink
@@ -6284,6 +6329,7 @@ xronia.com
 xrshort.eu
 xsin.it
 xsl.pt
+xsp.fi
 xsurl.eu
 xt3.me
 xtr.bz
@@ -6292,6 +6338,7 @@ xua.me
 xub.me
 xuc88.club
 xuo.us
+xurl.app
 xurl.at
 xurl.es
 xurl.jp

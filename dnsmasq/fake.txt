@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Sep 2025 10:25 UTC
-# Version: 2025.0927.1025.21
+# Last modified: 27 Sep 2025 22:25 UTC
+# Version: 2025.0927.2225.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13880
+# Number of entries: 13892
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2289,6 +2289,7 @@ local=/clarksshoesaustralia.net/
 local=/clarksshoesnz.net/
 local=/clarksshopschweiz.com/
 local=/classificaty.com/
+local=/claudia-schmuckatelier.com/
 local=/clausrothe.de/
 local=/clavedesolinstrumentosmusicais.com/
 local=/clbgroup.com/
@@ -3953,6 +3954,7 @@ local=/europe-pharm.net/
 local=/europe-pimco.com/
 local=/europeannewstoday.com/
 local=/europeanpharm.net/
+local=/europellet.at/
 local=/europharmacyonline.com/
 local=/europharmsonline.com/
 local=/europharmx.com/
@@ -5321,6 +5323,7 @@ local=/gruenland-shop.de/
 local=/grund-markt.de/
 local=/grundfosdistribution.com/
 local=/grundstoffde.com/
+local=/grunekraft.shop/
 local=/grunholz.com/
 local=/grunsamen.de/
 local=/gruntmuzicz.com/
@@ -5669,7 +5672,10 @@ local=/heizoel-versorgt.de/
 local=/heizoelblitz.com/
 local=/heizoelblitz.de/
 local=/heizoelbp.de/
+local=/heizoelfit.de/
+local=/heizoelitx.de/
 local=/heizoelix.de/
+local=/heizoeljet.de/
 local=/heizoeljetzt.de/
 local=/heizoellieferung.de/
 local=/heizoelonline24.com/
@@ -6481,6 +6487,7 @@ local=/jewelryclaire.com/
 local=/jggli26v.shop/
 local=/jgregoryfineart.com/
 local=/jiangekj.xyz/
+local=/jiaxin24.de/
 local=/jieper.com/
 local=/jieperava.shop/
 local=/jillsglasses.com/
@@ -6658,6 +6665,8 @@ local=/kanistyleshop.com/
 local=/kaniteo.com/
 local=/kanuonlineshop.com/
 local=/kaotikofire.shop/
+local=/kapackgmbh.com/
+local=/kapackgmbh.shop/
 local=/kaperes.com/
 local=/kapes-agency.com/
 local=/kapitaalkern.com/
@@ -8940,6 +8949,7 @@ local=/nova-dusseldorf.de/
 local=/nova-finance.net/
 local=/nova-mia.de/
 local=/nova-zurich.com/
+local=/web.novacryptmax.com/
 local=/novadeal.de/
 local=/novafinanz.de/
 local=/novakgroup.online/
@@ -9772,6 +9782,7 @@ local=/polene.at/
 local=/polene-deutschland.com/
 local=/polene-paris.at/
 local=/polene-shop.com/
+local=/poleneoutlet.de/
 local=/poleneoutletdeutschland.com/
 local=/politze-bike.de/
 local=/polsacs.com/
@@ -11154,6 +11165,7 @@ local=/zimmerpikk.sicherkamt.click/
 local=/sichersparen.com/
 local=/sidelinejerseys.com/
 local=/sideshoww.top/
+local=/sidiaustria.com/
 local=/siegert-handel.de/
 local=/sieker-versand.de/
 local=/sierke24.de/

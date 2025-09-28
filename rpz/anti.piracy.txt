@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758974100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759017180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Sep 2025 11:55 UTC
-; Version: 2025.0927.1155.20
+; Last modified: 27 Sep 2025 23:53 UTC
+; Version: 2025.0927.2353.33
 ; Syntax: RPZ
-; Number of entries: 22012
+; Number of entries: 22032
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3864,6 +3864,8 @@ documentari-streaming-da.com CNAME .
 *.documentari-streaming-da.com CNAME .
 dodear.com CNAME .
 *.dodear.com CNAME .
+doile378vtt.com CNAME .
+*.doile378vtt.com CNAME .
 domahatv.com CNAME .
 *.domahatv.com CNAME .
 domahi.com CNAME .
@@ -7804,6 +7806,8 @@ xn--80a4b.com CNAME .
 *.xn--80a4b.com CNAME .
 xn--950bz4kqroyzjblb.com CNAME .
 *.xn--950bz4kqroyzjblb.com CNAME .
+xpdf4u.com CNAME .
+*.xpdf4u.com CNAME .
 xplorenetbd.com CNAME .
 *.xplorenetbd.com CNAME .
 xrshellbooter.com CNAME .
@@ -8324,6 +8328,8 @@ static.54.161.216.95.clients.your-server.de CNAME .
 *.static.54.161.216.95.clients.your-server.de CNAME .
 vegamovies.deal CNAME .
 *.vegamovies.deal CNAME .
+filmyfly.deals CNAME .
+*.filmyfly.deals CNAME .
 kinox.deals CNAME .
 *.kinox.deals CNAME .
 vegamovies.degree CNAME .
@@ -9140,6 +9146,8 @@ kickass2.fun CNAME .
 *.kickass2.fun CNAME .
 kinox.fun CNAME .
 *.kinox.fun CNAME .
+limetorrents.fun CNAME .
+*.limetorrents.fun CNAME .
 lookmovie.fun CNAME .
 *.lookmovie.fun CNAME .
 losmovies.fun CNAME .
@@ -11666,6 +11674,8 @@ livetv814.me CNAME .
 *.livetv814.me CNAME .
 livetv815.me CNAME .
 *.livetv815.me CNAME .
+livetv863.me CNAME .
+*.livetv863.me CNAME .
 tracker.lztr.me CNAME .
 *.tracker.lztr.me CNAME .
 magnet2torrent.me CNAME .
@@ -11824,6 +11834,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -14564,8 +14576,6 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
-tracker.tnl.one CNAME .
-*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -16910,6 +16920,8 @@ guardaserie.place CNAME .
 *.guardaserie.place CNAME .
 altadefinizione01.plus CNAME .
 *.altadefinizione01.plus CNAME .
+dizipal22.plus CNAME .
+*.dizipal22.plus CNAME .
 dood.plus CNAME .
 *.dood.plus CNAME .
 megakino.plus CNAME .
@@ -17348,6 +17360,8 @@ streamingcommunity.report CNAME .
 *.streamingcommunity.report CNAME .
 vegamovies.report CNAME .
 *.vegamovies.report CNAME .
+filmyfly.republican CNAME .
+*.filmyfly.republican CNAME .
 cineblog01.rest CNAME .
 *.cineblog01.rest CNAME .
 filmpertutti.rest CNAME .
@@ -19944,6 +19958,8 @@ tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
 tracker.xn--djrq4gl4hvoi.top CNAME .
 *.tracker.xn--djrq4gl4hvoi.top CNAME .
+xx-xsx.top CNAME .
+*.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .
@@ -20834,6 +20850,8 @@ watchmoviesfree.us CNAME .
 *.watchmoviesfree.us CNAME .
 zipcomics.us CNAME .
 *.zipcomics.us CNAME .
+t.al.uy CNAME .
+*.t.al.uy CNAME .
 vegamovies.uy CNAME .
 *.vegamovies.uy CNAME .
 vegamovies.uz CNAME .
@@ -21876,6 +21894,8 @@ santost12.xyz CNAME .
 *.santost12.xyz CNAME .
 showflix.xyz CNAME .
 *.showflix.xyz CNAME .
+sihoki51.xyz CNAME .
+*.sihoki51.xyz CNAME .
 vibe.sleepyinternetfun.xyz CNAME .
 *.vibe.sleepyinternetfun.xyz CNAME .
 smashystream.xyz CNAME .
