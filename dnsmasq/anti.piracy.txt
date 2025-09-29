@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Sep 2025 11:52 UTC
-# Version: 2025.0929.1152.07
+# Last modified: 29 Sep 2025 23:48 UTC
+# Version: 2025.0929.2348.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10963
+# Number of entries: 10966
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2112,6 +2112,7 @@ local=/comicaso.space/
 local=/comicat.org/
 local=/comicbt.com/
 local=/comicextra.com/
+local=/comick.dev/
 local=/comick.io/
 local=/comicmafia.to/
 local=/comicpunch.net/
@@ -2584,6 +2585,7 @@ local=/tracker.dler.com/
 local=/tracker2.dler.com/
 local=/tracker3.dler.com/
 local=/dlhd.click/
+local=/dlhd.dad/
 local=/tracker.dm258.cn/
 local=/tracker.dmcomic.org/
 local=/dmfk.org/
@@ -5279,6 +5281,7 @@ local=/lekuluent.com/
 local=/lekuluent.et/
 local=/lelejoy.com/
 local=/lemigliorivpn.com/
+local=/lemon66.com/
 local=/tracker.lemonhd.com/
 local=/leninist.online/
 local=/tracker.leniter.org/
@@ -8591,6 +8594,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -8965,7 +8969,6 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
-local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/

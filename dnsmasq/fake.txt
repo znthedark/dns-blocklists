@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Sep 2025 10:25 UTC
-# Version: 2025.0929.1025.26
+# Last modified: 29 Sep 2025 22:25 UTC
+# Version: 2025.0929.2225.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13886
+# Number of entries: 13887
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -13289,6 +13289,7 @@ local=/wanderrucksackede.com/
 local=/wandleuchtende.com/
 local=/wanduhru.de/
 local=/wanfangmaier.com/
+local=/wannounce.com/
 local=/wanster.shop/
 local=/wantclothes.com/
 local=/wapo-shop.de/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759146720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759189680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Sep 2025 11:52 UTC
-; Version: 2025.0929.1152.07
+; Last modified: 29 Sep 2025 23:48 UTC
+; Version: 2025.0929.2348.42
 ; Syntax: RPZ
-; Number of entries: 21926
+; Number of entries: 21932
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5102,6 +5102,8 @@ lelejoy.com CNAME .
 *.lelejoy.com CNAME .
 lemigliorivpn.com CNAME .
 *.lemigliorivpn.com CNAME .
+lemon66.com CNAME .
+*.lemon66.com CNAME .
 tracker.lemonhd.com CNAME .
 *.tracker.lemonhd.com CNAME .
 les-freres-ainsworth.com CNAME .
@@ -8122,6 +8124,8 @@ vegamovies.cz CNAME .
 *.vegamovies.cz CNAME .
 warezforum.cz CNAME .
 *.warezforum.cz CNAME .
+dlhd.dad CNAME .
+*.dlhd.dad CNAME .
 thedaddy.dad CNAME .
 *.thedaddy.dad CNAME .
 rlsbb.unblockit.dad CNAME .
@@ -8320,6 +8324,8 @@ aerolite.dev CNAME .
 *.aerolite.dev CNAME .
 animexin.dev CNAME .
 *.animexin.dev CNAME .
+comick.dev CNAME .
+*.comick.dev CNAME .
 crackstreams.dev CNAME .
 *.crackstreams.dev CNAME .
 dood.dev CNAME .
@@ -11788,6 +11794,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -14512,8 +14520,6 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
-tracker.tnl.one CNAME .
-*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
