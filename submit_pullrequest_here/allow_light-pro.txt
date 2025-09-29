@@ -1,5 +1,23 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# There are reports that the SSO (AD) login of various Microsoft apps does not work on Android - could not be reproduced and confirmed so far: https://github.com/hagezi/dns-blocklists/issues/5118
+mobile.events.data.microsoft.com
+au-mobile.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
+eu-r-mobile.events.data.microsoft.com
+in-mobile.events.data.microsoft.com
+jp-mobile.events.data.microsoft.com
+uk-mobile.events.data.microsoft.com
+us-mobile.events.data.microsoft.com
+# CNAMES
+mobile.events.data.trafficmanager.net
+au.events.data.trafficmanager.net
+eu.events.data.trafficmanager.net
+in.events.data.trafficmanager.net
+jp.events.data.trafficmanager.net
+uk.events.data.trafficmanager.net
+us.events.data.trafficmanager.net
+
 # https://github.com/hagezi/dns-blocklists/issues/7357
 id.tinypass.com
 buy.tinypass.com

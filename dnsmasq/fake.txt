@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Sep 2025 19:27 UTC
-# Version: 2025.0928.1927.55
+# Last modified: 29 Sep 2025 10:25 UTC
+# Version: 2025.0929.1025.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13893
+# Number of entries: 13886
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2324,7 +2324,6 @@ local=/climbinglimit.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
-local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -2724,7 +2723,6 @@ local=/crxjik.shop/
 local=/cryotoxtrade.com/
 local=/cryptex-online.de/
 local=/cryptex-vip.com/
-local=/tax.crypto.com/
 local=/crypto-bulot.com/
 local=/crypto-institute.com/
 local=/crypto-invest-ai.de/
@@ -3066,7 +3064,6 @@ local=/deregresoalafuente.com/
 local=/derekoutlet.de/
 local=/derfairmieter.de/
 local=/derimoservices.com/
-local=/derivainasm.com/
 local=/derkaminofenhandel.de/
 local=/derkatzenshop.de/
 local=/dermao.com/
@@ -3407,7 +3404,6 @@ local=/dualtronnpower.de/
 local=/dualtronpower.shop/
 local=/duavital.com/
 local=/dubaifix.eu/
-local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duft-blumen.de/
 local=/duftbaum.store/
@@ -3615,7 +3611,6 @@ local=/elegantmobel.com/
 local=/elegantst.com/
 local=/eleganzamode.de/
 local=/elegare.de/
-local=/elegranitl.com/
 local=/elegsant.com/
 local=/elektora.de/
 local=/elektricworld24.de/
@@ -5060,7 +5055,6 @@ local=/glaciermart.de/
 local=/glaciva.net/
 local=/glaciva-de.com/
 local=/gladevelop.com/
-local=/gladfelt.com/
 local=/gladiatorzoo.com/
 local=/glam-bay.de/
 local=/glamantibeauty.com/
@@ -6258,7 +6252,6 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
-local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -11420,7 +11413,6 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
-local=/specializeg.com/
 local=/specialmenswear.com/
 local=/specialselling.com/
 local=/specialtytraderssale.shop/
@@ -13148,6 +13140,7 @@ local=/vitalvigoury.com/
 local=/viva-markets.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
+local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/

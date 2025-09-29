@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759093260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759146720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Sep 2025 21:01 UTC
-; Version: 2025.0928.2101.12
+; Last modified: 29 Sep 2025 11:52 UTC
+; Version: 2025.0929.1152.07
 ; Syntax: RPZ
-; Number of entries: 21928
+; Number of entries: 21926
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -11788,8 +11788,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .

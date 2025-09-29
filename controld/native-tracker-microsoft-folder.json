@@ -2276,6 +2276,13 @@
       }
     },
     {
+      "PK": "primeevents.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "prod-eh-v1-analytics.servicebus.windows.net",
       "action": {
         "do": 0,

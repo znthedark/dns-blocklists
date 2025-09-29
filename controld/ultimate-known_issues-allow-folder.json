@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "cn.find.api.micloud.xiaomi.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "conduit.redfast.com",
       "action": {
         "do": 1,
@@ -44,6 +51,13 @@
     },
     {
       "PK": "des.smartclip.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu.find.api.micloud.xiaomi.net",
       "action": {
         "do": 1,
         "status": 1
@@ -85,6 +99,13 @@
       }
     },
     {
+      "PK": "in.find.api.micloud.xiaomi.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "tags-eu.tiqcdn.com",
       "action": {
         "do": 1,
@@ -113,7 +134,21 @@
       }
     },
     {
+      "PK": "us2.find.api.micloud.xiaomi.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "userlocation.googleapis.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us.find.api.micloud.xiaomi.net",
       "action": {
         "do": 1,
         "status": 1

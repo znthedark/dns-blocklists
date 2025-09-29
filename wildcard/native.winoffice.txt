@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 23:08 UTC
-# Version: 2025.0926.2308.37
+# Last modified: 29 Sep 2025 07:11 UTC
+# Version: 2025.0929.0711.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 415
+# Number of entries: 416
 #
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -353,6 +353,7 @@
 *.oms-analytics.trafficmanager.net
 *.partnerfraudevents.trafficmanager.net
 *.pixel-sync.trafficmanager.net
+*.primeevents.trafficmanager.net
 *.rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 *.sconsentit9.trafficmanager.net
 *.self-events-data.trafficmanager.net

@@ -54,3 +54,11 @@ fscdn.eppo.cloud
 # NFL app iOS/Android gets stuck on the start screen
 # Related to tracking services.
 conduit.redfast.com
+
+# Required for Xioami Find Device
+# https://github.com/hagezi/dns-blocklists/issues/7309
+cn.find.api.micloud.xiaomi.net
+eu.find.api.micloud.xiaomi.net
+in.find.api.micloud.xiaomi.net
+us.find.api.micloud.xiaomi.net
+us2.find.api.micloud.xiaomi.net

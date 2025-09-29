@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 11:55 UTC
-# Version: 2025.0926.1155.09
+# Last modified: 29 Sep 2025 11:58 UTC
+# Version: 2025.0929.1158.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3703
+# Number of entries: 3702
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -756,7 +756,6 @@
 0.0.0.0 dns.comff.net
 0.0.0.0 commons.host
 0.0.0.0 comss.one
-0.0.0.0 comss.ru
 0.0.0.0 dns.comss.one
 0.0.0.0 dns.east.comss.one
 0.0.0.0 router.comss.one

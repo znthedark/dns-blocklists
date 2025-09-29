@@ -1,5 +1,13 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7309
+cn.find.api.micloud.xiaomi.net
+eu.find.api.micloud.xiaomi.net
+in.find.api.micloud.xiaomi.net
+us.find.api.micloud.xiaomi.net
+us2.find.api.micloud.xiaomi.net
+*.find.api.micloud.xiaomi.net
+
 # https://github.com/hagezi/dns-blocklists/issues/7389
 ipwho.is
 
