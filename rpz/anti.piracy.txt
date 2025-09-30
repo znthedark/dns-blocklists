@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759189680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759233360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Sep 2025 23:48 UTC
-; Version: 2025.0929.2348.42
+; Last modified: 30 Sep 2025 11:56 UTC
+; Version: 2025.0930.1156.51
 ; Syntax: RPZ
-; Number of entries: 21932
+; Number of entries: 21930
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -11794,8 +11794,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -14520,6 +14518,8 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
+tracker.tnl.one CNAME .
+*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -20760,8 +20760,6 @@ watchmoviesfree.us CNAME .
 *.watchmoviesfree.us CNAME .
 zipcomics.us CNAME .
 *.zipcomics.us CNAME .
-t.al.uy CNAME .
-*.t.al.uy CNAME .
 vegamovies.uy CNAME .
 *.vegamovies.uy CNAME .
 vegamovies.uz CNAME .

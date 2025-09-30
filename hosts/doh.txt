@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Sep 2025 11:58 UTC
-# Version: 2025.0929.1158.41
+# Last modified: 30 Sep 2025 12:03 UTC
+# Version: 2025.0930.1203.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3702
+# Number of entries: 3703
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -806,6 +806,7 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
+0.0.0.0 nanopi.cybergroove.net
 0.0.0.0 dns.cybertonic.tech
 0.0.0.0 dns2.cybrespace.net
 0.0.0.0 cynntex.fun

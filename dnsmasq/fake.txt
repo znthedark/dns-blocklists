@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Sep 2025 22:25 UTC
-# Version: 2025.0929.2225.15
+# Last modified: 30 Sep 2025 10:26 UTC
+# Version: 2025.0930.1026.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13887
+# Number of entries: 13898
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2324,6 +2324,7 @@ local=/climbinglimit.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
+local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -2642,6 +2643,7 @@ local=/corentinmaribro.shop/
 local=/coreoskredit.com/
 local=/corgiswap.org/
 local=/corkandoeu.shop/
+local=/corkandopop.shop/
 local=/corli-handel.de/
 local=/corona-testkit.shop/
 local=/corporationw.com/
@@ -3064,6 +3066,7 @@ local=/deregresoalafuente.com/
 local=/derekoutlet.de/
 local=/derfairmieter.de/
 local=/derimoservices.com/
+local=/derivainasm.com/
 local=/derkaminofenhandel.de/
 local=/derkatzenshop.de/
 local=/dermao.com/
@@ -3404,6 +3407,7 @@ local=/dualtronnpower.de/
 local=/dualtronpower.shop/
 local=/duavital.com/
 local=/dubaifix.eu/
+local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duft-blumen.de/
 local=/duftbaum.store/
@@ -5055,6 +5059,7 @@ local=/glaciermart.de/
 local=/glaciva.net/
 local=/glaciva-de.com/
 local=/gladevelop.com/
+local=/gladfelt.com/
 local=/gladiatorzoo.com/
 local=/glam-bay.de/
 local=/glamantibeauty.com/
@@ -6252,6 +6257,7 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
+local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -7982,6 +7988,7 @@ local=/megarabat.shop/
 local=/megasauger.shop/
 local=/megawire.de/
 local=/mege-tech.de/
+local=/mehiv.com/
 local=/mehsam-transport.com/
 local=/meier-boutique.ch/
 local=/meierfeld.com/
@@ -8146,7 +8153,6 @@ local=/midikleider.com/
 local=/midino.de/
 local=/midnightchems.com/
 local=/midnighti.com/
-local=/midoga.com/
 local=/midrisetpants.com/
 local=/mieleoutlet.com/
 local=/mig-versand.de/
@@ -9985,6 +9991,7 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
+local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/
@@ -11413,6 +11420,7 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
+local=/specializeg.com/
 local=/specialmenswear.com/
 local=/specialselling.com/
 local=/specialtytraderssale.shop/
@@ -11909,6 +11917,7 @@ local=/syniaty.com/
 local=/synthesizestylish.com/
 local=/syos-space.capital/
 local=/syrokan.com/
+local=/system-capital.org/
 local=/systemiy.com/
 local=/systv-racks.de/
 local=/the-garden-pavilions-of-sobranie-russian.eshop.t-online.de/
@@ -13103,6 +13112,7 @@ local=/vinsrougesboutique.com/
 local=/vintaro.de/
 local=/vintross.de/
 local=/vinylcollectordeeu.shop/
+local=/vinylcollectordepop.shop/
 local=/violetandrose.de/
 local=/vionicmexico.com/
 local=/vionicschuhe.de/
@@ -13519,6 +13529,7 @@ local=/wimpanistaeu.shop/
 local=/winandwine.com/
 local=/windelnschritte.de/
 local=/windelwissendeava.shop/
+local=/windelwissendepop.shop/
 local=/windendew.de/
 local=/windyys.com/
 local=/wine-investments.com/

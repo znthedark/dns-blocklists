@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Sep 2025 11:58 UTC
-# Version: 2025.0929.1158.41
+# Last modified: 30 Sep 2025 12:03 UTC
+# Version: 2025.0930.1203.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3251
+# Number of entries: 3252
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -675,6 +675,7 @@ local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
 local=/gc.cyberbeta.cn/
+local=/nanopi.cybergroove.net/
 local=/dns.cybertonic.tech/
 local=/dns2.cybrespace.net/
 local=/cynntex.fun/

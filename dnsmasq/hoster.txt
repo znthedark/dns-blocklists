@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Sep 2025 06:48 UTC
-# Version: 2025.0923.0648.06
+# Last modified: 30 Sep 2025 10:28 UTC
+# Version: 2025.0930.1028.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2171
+# Number of entries: 2170
 #
 local=/000a.de/
 local=/000free.us/
@@ -309,7 +309,6 @@ local=/bazefrost.ru/
 local=/bcbloggers.com/
 local=/bcz.com/
 local=/be.gp/
-local=/bearblog.dev/
 local=/bearsfanteamshop.com/
 local=/bebinmall.today/
 local=/bedava-sitem.com/

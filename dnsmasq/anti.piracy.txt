@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Sep 2025 23:48 UTC
-# Version: 2025.0929.2348.42
+# Last modified: 30 Sep 2025 11:56 UTC
+# Version: 2025.0930.1156.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10966
+# Number of entries: 10965
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -489,7 +489,6 @@ local=/aiw.bz/
 local=/retracker.akado-ural.ru/
 local=/akiba-online.com/
 local=/aklivetv.com/
-local=/t.al.uy/
 local=/alabout.com/
 local=/tracker.alaskantf.com/
 local=/aletorrenty.pl/
@@ -8594,7 +8593,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -8969,6 +8967,7 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
+local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/

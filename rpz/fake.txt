@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759184700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759227960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Sep 2025 22:25 UTC
-; Version: 2025.0929.2225.15
+; Last modified: 30 Sep 2025 10:26 UTC
+; Version: 2025.0930.1026.27
 ; Syntax: RPZ
-; Number of entries: 27774
+; Number of entries: 27796
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4320,6 +4320,8 @@ clisicerity.com CNAME .
 *.clisicerity.com CNAME .
 clivechristianuk.com CNAME .
 *.clivechristianuk.com CNAME .
+cllusatoam.com CNAME .
+*.cllusatoam.com CNAME .
 clockwisek.com CNAME .
 *.clockwisek.com CNAME .
 clorislife.com CNAME .
@@ -5044,6 +5046,8 @@ deregresoalafuente.com CNAME .
 *.deregresoalafuente.com CNAME .
 derimoservices.com CNAME .
 *.derimoservices.com CNAME .
+derivainasm.com CNAME .
+*.derivainasm.com CNAME .
 dermao.com CNAME .
 *.dermao.com CNAME .
 dersa-spedition.com CNAME .
@@ -5440,6 +5444,8 @@ dualsuns.com CNAME .
 *.dualsuns.com CNAME .
 duavital.com CNAME .
 *.duavital.com CNAME .
+dubaihoteluae.com CNAME .
+*.dubaihoteluae.com CNAME .
 duftefursie.com CNAME .
 *.duftefursie.com CNAME .
 duftspraysale.com CNAME .
@@ -7280,6 +7286,8 @@ glaciva-de.com CNAME .
 *.glaciva-de.com CNAME .
 gladevelop.com CNAME .
 *.gladevelop.com CNAME .
+gladfelt.com CNAME .
+*.gladfelt.com CNAME .
 gladiatorzoo.com CNAME .
 *.gladiatorzoo.com CNAME .
 glamantibeauty.com CNAME .
@@ -8534,6 +8542,8 @@ inexpensivy.com CNAME .
 *.inexpensivy.com CNAME .
 inferright.com CNAME .
 *.inferright.com CNAME .
+inferutmati.com CNAME .
+*.inferutmati.com CNAME .
 infineink.com CNAME .
 *.infineink.com CNAME .
 infinitediamond.com CNAME .
@@ -10340,6 +10350,8 @@ megapharmnorx.com CNAME .
 *.megapharmnorx.com CNAME .
 megapromo-electro.com CNAME .
 *.megapromo-electro.com CNAME .
+mehiv.com CNAME .
+*.mehiv.com CNAME .
 mehsam-transport.com CNAME .
 *.mehsam-transport.com CNAME .
 meierfeld.com CNAME .
@@ -10484,8 +10496,6 @@ midnightchems.com CNAME .
 *.midnightchems.com CNAME .
 midnighti.com CNAME .
 *.midnighti.com CNAME .
-midoga.com CNAME .
-*.midoga.com CNAME .
 midrisetpants.com CNAME .
 *.midrisetpants.com CNAME .
 mieleoutlet.com CNAME .
@@ -12668,6 +12678,8 @@ proupwholesale.com CNAME .
 *.proupwholesale.com CNAME .
 provenxperts.com CNAME .
 *.provenxperts.com CNAME .
+providedes.com CNAME .
+*.providedes.com CNAME .
 provise24.com CNAME .
 *.provise24.com CNAME .
 proximitye.com CNAME .
@@ -14226,6 +14238,8 @@ sparkgenesisai.com CNAME .
 *.sparkgenesisai.com CNAME .
 sparprime.com CNAME .
 *.sparprime.com CNAME .
+specializeg.com CNAME .
+*.specializeg.com CNAME .
 specialmenswear.com CNAME .
 *.specialmenswear.com CNAME .
 specialselling.com CNAME .
@@ -25282,6 +25296,8 @@ stoneislandsuomi.org CNAME .
 *.stoneislandsuomi.org CNAME .
 supportfortross.org CNAME .
 *.supportfortross.org CNAME .
+system-capital.org CNAME .
+*.system-capital.org CNAME .
 tablets-today.org CNAME .
 *.tablets-today.org CNAME .
 technologiesgroup.org CNAME .
@@ -25730,6 +25746,8 @@ corentinmaribro.shop CNAME .
 *.corentinmaribro.shop CNAME .
 corkandoeu.shop CNAME .
 *.corkandoeu.shop CNAME .
+corkandopop.shop CNAME .
+*.corkandopop.shop CNAME .
 corona-testkit.shop CNAME .
 *.corona-testkit.shop CNAME .
 cozygea.shop CNAME .
@@ -26922,6 +26940,8 @@ villeroyboch-eu.shop CNAME .
 *.villeroyboch-eu.shop CNAME .
 vinylcollectordeeu.shop CNAME .
 *.vinylcollectordeeu.shop CNAME .
+vinylcollectordepop.shop CNAME .
+*.vinylcollectordepop.shop CNAME .
 viqra.shop CNAME .
 *.viqra.shop CNAME .
 vividwinter.shop CNAME .
@@ -26978,6 +26998,8 @@ wimpanistaeu.shop CNAME .
 *.wimpanistaeu.shop CNAME .
 windelwissendeava.shop CNAME .
 *.windelwissendeava.shop CNAME .
+windelwissendepop.shop CNAME .
+*.windelwissendepop.shop CNAME .
 wizzers.shop CNAME .
 *.wizzers.shop CNAME .
 wodnationgearava.shop CNAME .
