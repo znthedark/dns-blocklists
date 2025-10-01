@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759227960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759271100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Sep 2025 10:26 UTC
-; Version: 2025.0930.1026.27
+; Last modified: 30 Sep 2025 22:25 UTC
+; Version: 2025.0930.2225.37
 ; Syntax: RPZ
-; Number of entries: 27796
+; Number of entries: 27830
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -212,6 +212,8 @@ diesel.co.at CNAME .
 *.diesel.co.at CNAME .
 fred-perry.co.at CNAME .
 *.fred-perry.co.at CNAME .
+merrells.co.at CNAME .
+*.merrells.co.at CNAME .
 owala.co.at CNAME .
 *.owala.co.at CNAME .
 pokemoncenter.co.at CNAME .
@@ -286,6 +288,8 @@ energiekick.at CNAME .
 *.energiekick.at CNAME .
 entruempelungsexperten.at CNAME .
 *.entruempelungsexperten.at CNAME .
+esprits.at CNAME .
+*.esprits.at CNAME .
 euro-markt.at CNAME .
 *.euro-markt.at CNAME .
 europellet.at CNAME .
@@ -298,6 +302,8 @@ falinas.at CNAME .
 *.falinas.at CNAME .
 fell-freund.at CNAME .
 *.fell-freund.at CNAME .
+festgeldsicher.at CNAME .
+*.festgeldsicher.at CNAME .
 fiat-transporter.at CNAME .
 *.fiat-transporter.at CNAME .
 firma-leitner.at CNAME .
@@ -9222,6 +9228,8 @@ kittypooll.com CNAME .
 *.kittypooll.com CNAME .
 kiwifunk.com CNAME .
 *.kiwifunk.com CNAME .
+kkrde-api.com CNAME .
+*.kkrde-api.com CNAME .
 klarako.com CNAME .
 *.klarako.com CNAME .
 klarsteinhaushaltspar.com CNAME .
@@ -11864,6 +11872,8 @@ osynca.com CNAME .
 *.osynca.com CNAME .
 otcantabuse.com CNAME .
 *.otcantabuse.com CNAME .
+otech-duesseldorf.com CNAME .
+*.otech-duesseldorf.com CNAME .
 ottowhale.com CNAME .
 *.ottowhale.com CNAME .
 outdoor-bekleidung.com CNAME .
@@ -15156,6 +15166,8 @@ thegiftone.com CNAME .
 *.thegiftone.com CNAME .
 thegoodpillsstore.com CNAME .
 *.thegoodpillsstore.com CNAME .
+thegrand-outlet.com CNAME .
+*.thegrand-outlet.com CNAME .
 thehikingshoe.com CNAME .
 *.thehikingshoe.com CNAME .
 thehughaven.com CNAME .
@@ -17114,6 +17126,8 @@ zytocapitalnew.com CNAME .
 *.zytocapitalnew.com CNAME .
 mein.consulting CNAME .
 *.mein.consulting CNAME .
+asfmagtollshop.cyou CNAME .
+*.asfmagtollshop.cyou CNAME .
 heimwuq.einfachykfe.cyou CNAME .
 *.heimwuq.einfachykfe.cyou CNAME .
 lebenlh.klaryqx.cyou CNAME .
@@ -18714,6 +18728,8 @@ elipolyse.de CNAME .
 *.elipolyse.de CNAME .
 elise-schmuck.de CNAME .
 *.elise-schmuck.de CNAME .
+ellabelle.de CNAME .
+*.ellabelle.de CNAME .
 ellameyer.de CNAME .
 *.ellameyer.de CNAME .
 elle-weber.de CNAME .
@@ -20566,6 +20582,8 @@ lemella.de CNAME .
 *.lemella.de CNAME .
 lemsschuhedeutschland.de CNAME .
 *.lemsschuhedeutschland.de CNAME .
+lena-boutique.de CNAME .
+*.lena-boutique.de CNAME .
 lena-leipzig.de CNAME .
 *.lena-leipzig.de CNAME .
 lennartkreutz.de CNAME .
@@ -23678,6 +23696,8 @@ exodermin.eu CNAME .
 *.exodermin.eu CNAME .
 expresstools.eu CNAME .
 *.expresstools.eu CNAME .
+fiammshop.eu CNAME .
+*.fiammshop.eu CNAME .
 flyturkmenistanairlines.eu CNAME .
 *.flyturkmenistanairlines.eu CNAME .
 forte-love.eu CNAME .
@@ -23948,6 +23968,8 @@ immediatemomentum.info CNAME .
 *.immediatemomentum.info CNAME .
 locmyparcel.info CNAME .
 *.locmyparcel.info CNAME .
+loneix.info CNAME .
+*.loneix.info CNAME .
 nuclearmap.info CNAME .
 *.nuclearmap.info CNAME .
 todayoffer.info CNAME .
@@ -24402,6 +24424,8 @@ dutchsport.net CNAME .
 *.dutchsport.net CNAME .
 easyoel.net CNAME .
 *.easyoel.net CNAME .
+ebooklyn.net CNAME .
+*.ebooklyn.net CNAME .
 ecs-solutions.net CNAME .
 *.ecs-solutions.net CNAME .
 edecon.net CNAME .
@@ -25802,6 +25826,8 @@ detoolmak.shop CNAME .
 *.detoolmak.shop CNAME .
 deutschegrammophoneu-outlets.shop CNAME .
 *.deutschegrammophoneu-outlets.shop CNAME .
+dfdge.shop CNAME .
+*.dfdge.shop CNAME .
 dickssportdeals.shop CNAME .
 *.dickssportdeals.shop CNAME .
 die-sattelgalerie.shop CNAME .
@@ -25812,6 +25838,8 @@ diestrumpfmacherava.shop CNAME .
 *.diestrumpfmacherava.shop CNAME .
 digiopdesign.shop CNAME .
 *.digiopdesign.shop CNAME .
+discountdlife.shop CNAME .
+*.discountdlife.shop CNAME .
 dlowiegfashion.shop CNAME .
 *.dlowiegfashion.shop CNAME .
 dnaen.shop CNAME .
@@ -26156,6 +26184,10 @@ jako-eu.shop CNAME .
 *.jako-eu.shop CNAME .
 jaytoys.shop CNAME .
 *.jaytoys.shop CNAME .
+jeapn.shop CNAME .
+*.jeapn.shop CNAME .
+jeffkelleher.shop CNAME .
+*.jeffkelleher.shop CNAME .
 jenniferbehr.shop CNAME .
 *.jenniferbehr.shop CNAME .
 jennychurchill.shop CNAME .
@@ -27446,6 +27478,8 @@ igotit.top CNAME .
 *.igotit.top CNAME .
 jb7img.top CNAME .
 *.jb7img.top CNAME .
+jenshoping.top CNAME .
+*.jenshoping.top CNAME .
 jrnpzf.top CNAME .
 *.jrnpzf.top CNAME .
 kapten-son-eu.top CNAME .

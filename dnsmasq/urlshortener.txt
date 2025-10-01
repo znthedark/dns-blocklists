@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Sep 2025 10:28 UTC
-# Version: 2025.0930.1028.39
+# Last modified: 30 Sep 2025 22:27 UTC
+# Version: 2025.0930.2227.39
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 6728
 #
@@ -139,7 +139,6 @@ local=/2i1i.cn/
 local=/2it.info/
 local=/2kgam.es/
 local=/2la.eu/
-local=/2la.fr/
 local=/2link.cc/
 local=/2link.in/
 local=/2ly.link/
@@ -5326,6 +5325,7 @@ local=/short.swurl.xyz/
 local=/sy.pe/
 local=/sy.to/
 local=/syb.la/
+local=/sydflames.com/
 local=/sydkings.com/
 local=/s.synapsis.id/
 local=/synd.co/

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Sep 2025 20:03 UTC
-! Version: 2025.0928.2003.46
+! Last modified: 01 Oct 2025 00:00 UTC
+! Version: 2025.1001.0000.35
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -248,7 +248,7 @@
 ||sport^$doc,domain=~dyn.sport
 ||srl^$doc
 ||store^$doc,domain=~adidashardware.store|~beyondagency.store|~bigtimerush.store|~bigtimerushuk.store|~cleanmasters.store|~ettoresoftware.store|~g-h.store|~glitchproductions.store|~hacksmith.store|~heavysaurus.store|~iqunix.store|~pbshop.store|~peugeot.store|~roble.store|~rokomari.store|~shoplazza.store|~stan.store|~tatemcraeeu.store|~tatemcrae.store|~timberjacks.store
-||studio^$doc,domain=~ai.studio|~flourish.studio|~starapps.studio|~zenn.studio
+||studio^$doc,domain=~ai.studio|~firebase.studio|~flourish.studio|~starapps.studio|~zenn.studio
 ||style^$doc,domain=~primer.style
 ||su^$doc,domain=~encode.su|~jpg4.su|~jpg5.su|~promportal.su|~saint2.su
 ||support^$doc,domain=~ada.support|~jitsi.support

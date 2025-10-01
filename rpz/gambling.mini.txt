@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759233360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759276320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Sep 2025 11:56 UTC
-; Version: 2025.0930.1156.30
+; Last modified: 30 Sep 2025 23:52 UTC
+; Version: 2025.0930.2352.41
 ; Syntax: RPZ
-; Number of entries: 77706
+; Number of entries: 77710
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -188,6 +188,8 @@ utopicasino.ai CNAME .
 *.utopicasino.ai CNAME .
 8gbet.am CNAME .
 *.8gbet.am CNAME .
+adjarabet.am CNAME .
+*.adjarabet.am CNAME .
 vavada.com.am CNAME .
 *.vavada.com.am CNAME .
 goodwin.am CNAME .
@@ -2748,6 +2750,8 @@ nbet.bot CNAME .
 *.nbet.bot CNAME .
 bet.br CNAME .
 *.bet.br CNAME .
+136bet.com.br CNAME .
+*.136bet.com.br CNAME .
 1win.com.br CNAME .
 *.1win.com.br CNAME .
 1winscasinos-brazil.com.br CNAME .
@@ -10670,8 +10674,6 @@ dewacasino168.club CNAME .
 *.dewacasino168.club CNAME .
 dewacasinolivechat.club CNAME .
 *.dewacasinolivechat.club CNAME .
-drip-casino.club CNAME .
-*.drip-casino.club CNAME .
 e-slots.club CNAME .
 *.e-slots.club CNAME .
 e-z-slots.club CNAME .
@@ -16946,6 +16948,8 @@ bankonbet4.com CNAME .
 *.bankonbet4.com CNAME .
 bankonbet877862.com CNAME .
 *.bankonbet877862.com CNAME .
+bankrolla.com CNAME .
+*.bankrolla.com CNAME .
 banktog3l.com CNAME .
 *.banktog3l.com CNAME .
 bantengemas77b.com CNAME .
@@ -32086,6 +32090,8 @@ luck66.com CNAME .
 *.luck66.com CNAME .
 luck8.com CNAME .
 *.luck8.com CNAME .
+luck88game.com CNAME .
+*.luck88game.com CNAME .
 luckbox.com CNAME .
 *.luckbox.com CNAME .
 luckcasinoro.com CNAME .
@@ -32164,6 +32170,8 @@ luckybirdcasino.com CNAME .
 *.luckybirdcasino.com CNAME .
 luckybirdcasinos.com CNAME .
 *.luckybirdcasinos.com CNAME .
+luckybitsvegas.com CNAME .
+*.luckybitsvegas.com CNAME .
 luckyblock.com CNAME .
 *.luckyblock.com CNAME .
 luckyblockmod.com CNAME .
@@ -42110,6 +42118,8 @@ sweepjunglecasino.com CNAME .
 *.sweepjunglecasino.com CNAME .
 sweepluxe.com CNAME .
 *.sweepluxe.com CNAME .
+sweepnext.com CNAME .
+*.sweepnext.com CNAME .
 sweeps-casino.com CNAME .
 *.sweeps-casino.com CNAME .
 sweepshark.com CNAME .
@@ -46502,8 +46512,6 @@ yourluckycasino.com CNAME .
 *.yourluckycasino.com CNAME .
 yourmanner.com CNAME .
 *.yourmanner.com CNAME .
-yourmediaservices.com CNAME .
-*.yourmediaservices.com CNAME .
 yourmkitchen.com CNAME .
 *.yourmkitchen.com CNAME .
 yourpokercash.com CNAME .
@@ -50632,8 +50640,6 @@ profit-market.info CNAME .
 *.profit-market.info CNAME .
 profitspath.info CNAME .
 *.profitspath.info CNAME .
-qq8821wonder.info CNAME .
-*.qq8821wonder.info CNAME .
 radio-dodo.info CNAME .
 *.radio-dodo.info CNAME .
 raipoker88g.info CNAME .
@@ -53536,6 +53542,8 @@ elephantbet.co.mz CNAME .
 *.elephantbet.co.mz CNAME .
 jogabets.co.mz CNAME .
 *.jogabets.co.mz CNAME .
+olabet.co.mz CNAME .
+*.olabet.co.mz CNAME .
 1xbet.co.na CNAME .
 *.1xbet.co.na CNAME .
 luckybet.com.na CNAME .
@@ -54426,6 +54434,8 @@ ewalletcasino.net CNAME .
 *.ewalletcasino.net CNAME .
 excelbet.net CNAME .
 *.excelbet.net CNAME .
+exchmarket.net CNAME .
+*.exchmarket.net CNAME .
 fabet77.net CNAME .
 *.fabet77.net CNAME .
 fafaslot88.net CNAME .
@@ -57192,8 +57202,6 @@ pokerok--club.online CNAME .
 *.pokerok--club.online CNAME .
 pokerpro.online CNAME .
 *.pokerpro.online CNAME .
-pokerstyle.online CNAME .
-*.pokerstyle.online CNAME .
 pokertexasholdemapi.online CNAME .
 *.pokertexasholdemapi.online CNAME .
 polagudang.online CNAME .
@@ -59626,8 +59634,6 @@ tikitakacasinos.org CNAME .
 *.tikitakacasinos.org CNAME .
 tiktakbet.org CNAME .
 *.tiktakbet.org CNAME .
-tipsandtrick.org CNAME .
-*.tipsandtrick.org CNAME .
 tipsport.org CNAME .
 *.tipsport.org CNAME .
 tiritomba.org CNAME .
@@ -62298,8 +62304,6 @@ getx-casino.ru CNAME .
 *.getx-casino.ru CNAME .
 getx-casino24-amp.ru CNAME .
 *.getx-casino24-amp.ru CNAME .
-gg-poker.ru CNAME .
-*.gg-poker.ru CNAME .
 ggbet.ru CNAME .
 *.ggbet.ru CNAME .
 ggbet-casino-kz.ru CNAME .

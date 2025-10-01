@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Sep 2025 10:28 UTC
-! Version: 2025.0930.1028.39
+! Last modified: 30 Sep 2025 22:27 UTC
+! Version: 2025.0930.2227.39
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -134,7 +134,6 @@
 @@||2it.info^
 @@||2kgam.es^
 @@||2la.eu^
-@@||2la.fr^
 @@||2link.cc^
 @@||2link.in^
 @@||2ly.link^
@@ -156,7 +155,6 @@
 @@||2vu.me^
 @@||2wo.ir^
 @@||2wsb.tv^
-@@||2ww.me^
 @@||2x0.net^
 @@||2x1.io^
 @@||2xo.net^
@@ -301,7 +299,6 @@
 @@||93.link^
 @@||98.to^
 @@||985.so^
-@@||98pro.cc^
 @@||999.sh^
 @@||99forward.com^
 @@||99fw.in^
@@ -619,7 +616,6 @@
 @@||asusrog.de^
 @@||at0m.de^
 @@||ata.ink^
-@@||ateng.me^
 @@||atglinks.com^
 @@||atharori.net^
 @@||athe.re^
@@ -1597,7 +1593,6 @@
 @@||duakale.me^
 @@||dub.co^
 @@||dub.link^
-@@||dub.sh^
 @@||due.im^
 @@||dukehealthwiki.com^
 @@||dulink.in^
@@ -1982,7 +1977,6 @@
 @@||gdanstum.net^
 @@||s.gdngs.de^
 @@||gdurl.com^
-@@||ge.tt^
 @@||geefi.me^
 @@||geetlink.com^
 @@||gef.me^
@@ -2603,7 +2597,6 @@
 @@||jomblo.org^
 @@||jonty.link^
 @@||u.joor.net^
-@@||jos.bio^
 @@||joshbut.llc^
 @@||joturl.com^
 @@||joy8.bond^
@@ -3385,7 +3378,6 @@
 @@||mineurl.top^
 @@||minggu.cfd^
 @@||mini-url.in^
-@@||minifi.ca^
 @@||d.minifun.games^
 @@||direct.minifun.games^
 @@||minify.link^
@@ -3480,7 +3472,6 @@
 @@||mpit.io^
 @@||mpl.pm^
 @@||mpo-link.com^
-@@||mq.gy^
 @@||mq3.net^
 @@||mrjj.uk^
 @@||mrkt.link^
@@ -4337,7 +4328,6 @@
 @@||resvoice.com^
 @@||rethinktw.cc^
 @@||retont.link^
-@@||reurl.cc^
 @@||reut.rs^
 @@||rev.cm^
 @@||revisit.work^
@@ -4652,7 +4642,6 @@
 @@||shorte.pro^
 @@||shorte.st^
 @@||shorten.asia^
-@@||shorten.ee^
 @@||shorten.gg^
 @@||shorten.rest^
 @@||shorten.so^
@@ -4823,7 +4812,6 @@
 @@||shrtnly.pro^
 @@||shrtq.link^
 @@||shrtr.cc^
-@@||shrtru.com^
 @@||shrturl.com^
 @@||shrturl.io^
 @@||shrturl.site^
@@ -4929,7 +4917,6 @@
 @@||sm-s.in^
 @@||sm4ll.eu^
 @@||sm4ll.in^
-@@||smaintenance.com^
 @@||smal.lu^
 @@||small.cat^
 @@||smallit.cc^
@@ -5155,6 +5142,7 @@
 @@||sy.pe^
 @@||sy.to^
 @@||syb.la^
+@@||sydflames.com^
 @@||sydkings.com^
 @@||s.synapsis.id^
 @@||synd.co^
@@ -5767,7 +5755,6 @@
 @@||urlin.it^
 @@||urlinkz.me^
 @@||urlino.net^
-@@||urlis.net^
 @@||urlist.net^
 @@||urlkai.com^
 @@||urlki.com^
@@ -6379,7 +6366,6 @@
 @@||yun.ir^
 @@||d.yunzhuyun.com^
 @@||yweb.com^
-@@||yww.uy^
 @@||yx.si^
 @@||yyv.co^
 @@||z-der.xyz^

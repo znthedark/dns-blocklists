@@ -1352,6 +1352,13 @@
       }
     },
     {
+      "PK": "firebase.studio",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "flexilead.online",
       "action": {
         "do": 1,

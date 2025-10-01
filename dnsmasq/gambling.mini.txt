@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Sep 2025 11:56 UTC
-# Version: 2025.0930.1156.30
+# Last modified: 30 Sep 2025 23:52 UTC
+# Version: 2025.0930.2352.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 38853
+# Number of entries: 38855
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -3606,6 +3606,7 @@ local=/adeasmk.com/
 local=/sc.adelement.com/
 local=/adeventspoker.com/
 local=/adhdbijkinderenbehandelen.online/
+local=/adjarabet.am/
 local=/adjarabet.com/
 local=/adlerslots.com/
 local=/admintoto.org/
@@ -5089,6 +5090,7 @@ local=/bankonbet.com/
 local=/bankonbet4.com/
 local=/bankonbet877862.com/
 local=/bankonbetcasinobonus.fr/
+local=/bankrolla.com/
 local=/banktog3l.com/
 local=/bansosbet.xyz/
 local=/bantengcobra.xyz/
@@ -12325,6 +12327,7 @@ local=/nyxbets1.co.uk/
 local=/nzdonlinecasinos.co.nz/
 local=/oeufkorea.co.kr/
 local=/offthespectrum.co.uk/
+local=/olabet.co.mz/
 local=/online-casino-games.co.uk/
 local=/online-casinos.co.uk/
 local=/online-slot.co.uk/
@@ -12595,6 +12598,7 @@ local=/columbuscasino-slot-enter.win/
 local=/columbuz-casino.com/
 local=/colvillecasinos.com/
 local=/colvuter.com/
+local=/136bet.com.br/
 local=/1win.com.br/
 local=/1win.com.ci/
 local=/1win.com.mx/
@@ -14168,7 +14172,6 @@ local=/driftzona.com/
 local=/drink-shop.ch/
 local=/drinkfanta.xyz/
 local=/drip.casino/
-local=/drip-casino.club/
 local=/drip-casino-224.ru/
 local=/drip-casino-fary4.ru/
 local=/drip-casino-likbez4.ru/
@@ -14948,6 +14951,7 @@ local=/excelentecasinos.com/
 local=/excelsior.com/
 local=/excelsiorcasino.com/
 local=/exchange.casino/
+local=/exchmarket.net/
 local=/exclusivebet.com/
 local=/exclusivebeteu.com/
 local=/exclusivecasino.com/
@@ -16630,7 +16634,6 @@ local=/gg.bet/
 local=/gg-bet.pro/
 local=/gg-bet-casino.com/
 local=/gg-bets.se/
-local=/gg-poker.ru/
 local=/gg113.bet/
 local=/gg117.bet/
 local=/gg123.bet/
@@ -22022,6 +22025,7 @@ local=/luck66.com/
 local=/luck8.com/
 local=/luck8.net/
 local=/luck88.world/
+local=/luck88game.com/
 local=/luck8vip.fun/
 local=/luckbetcasino.info/
 local=/luckbetcasino.net/
@@ -22125,6 +22129,7 @@ local=/luckybird.io/
 local=/luckybirdcasino.com/
 local=/luckybirdcasino.net/
 local=/luckybirdcasinos.com/
+local=/luckybitsvegas.com/
 local=/luckyblock.com/
 local=/luckyblock.top/
 local=/luckyblock-casino.ch/
@@ -29224,7 +29229,6 @@ local=/pokerstarslive.net/
 local=/pokerstarssports.eu/
 local=/pokerstarswq.com/
 local=/pokerstrategy.com/
-local=/pokerstyle.online/
 local=/pokersyte.com/
 local=/pokerteamnight.com/
 local=/pokertexasholdemapi.online/
@@ -29771,7 +29775,6 @@ local=/qq22.casino/
 local=/qq24jam.bet/
 local=/qq288.com/
 local=/qq5557.com/
-local=/qq8821wonder.info/
 local=/qq8827.com/
 local=/qq8876.com/
 local=/qq888bets.com/
@@ -34052,6 +34055,7 @@ local=/swedenslots.com/
 local=/sweepjungle.casino/
 local=/sweepjunglecasino.com/
 local=/sweepluxe.com/
+local=/sweepnext.com/
 local=/sweeps-casino.com/
 local=/sweeps-casinos.net/
 local=/sweepshark.com/
@@ -34716,7 +34720,6 @@ local=/tipply.pl/
 local=/tippmix.hu/
 local=/tippmixpro.hu/
 local=/tips4gambling.com/
-local=/tipsandtrick.org/
 local=/tipsmaxwin.info/
 local=/tipsocta.xyz/
 local=/tipsport.cz/
@@ -38601,7 +38604,6 @@ local=/your1x2.com/
 local=/yourccleaner.shop/
 local=/yourluckycasino.com/
 local=/yourmanner.com/
-local=/yourmediaservices.com/
 local=/yourmkitchen.com/
 local=/youronlinecasino.xyz/
 local=/youronlinepoker.xyz/
