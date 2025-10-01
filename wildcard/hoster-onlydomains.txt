@@ -5,22 +5,15 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Sep 2025 10:28 UTC
-# Version: 2025.0930.1028.08
+# Last modified: 01 Oct 2025 10:52 UTC
+# Version: 2025.1001.1052.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 2170
+# Number of entries: 2183
 #
 000a.de
-000free.us
-000nethost.com
 000space.com
-000webapp.com
 000webhost.com
-000webhost.fr
-000webhost.info
 000webhostapp.com
-000webhotapp.com
-000worldwide.com
 00author.com
 00band.com
 00books.com
@@ -45,7 +38,6 @@
 00sports.com
 00trek.com
 00video.com
-00web.net
 012webpages.com
 028426.com
 07080900.xyz
@@ -67,7 +59,6 @@ one4u.0lx.net
 10gbfreehost.com
 10h.us
 110mb.com
-111mb.de
 114.at
 115.at
 125mb.com
@@ -89,7 +80,6 @@ blog.163.com
 1colony.com
 1fr1.net
 1freewebspace.com
-1gb.ru
 1hwy.com
 1shop.de
 1sthost.org
@@ -118,7 +108,6 @@ blog.163.com
 24.nl
 24.tl
 258.at
-260mb.net
 270.at
 2all.de
 2fh.co
@@ -139,6 +128,7 @@ blog.163.com
 3ya.de
 4.je
 42t.com
+42web.io
 433.at
 4everland.app
 4kp.de
@@ -644,6 +634,7 @@ case-id-100029850.com
 cavandoragh.org
 cba.pl
 cbkgardens.com
+ispot.cc000webhost.com
 cellnovis.com
 center.tl
 centerblog.net
@@ -743,7 +734,14 @@ webnode.com.ve
 zzz.com.ua
 com-portal.de
 com0.de
+w3spaces.com000webapp.com
+ubpages.com000webhost.info
+bravesites.com000webhostapp.com
+wuaze.com000worldwide.com
+hyperphp.com0pe.kr
+jcmemoryscan.com1gb.ru
 com24.at
+hostingersite.com260mb.net
 comeze.com
 comhem.se
 cominbaxz.xyz
@@ -1032,6 +1030,7 @@ fotosdefrases.com
 fr.gp
 fr.nf
 framer.app
+framer.website
 free.bg
 free.cr
 free.lc
@@ -1107,6 +1106,7 @@ game.lc
 gaming.lc
 gamingadd.club
 gazmuri.cl
+rf.gd0hi.me
 gearhost.com
 gearhostpreview.com
 genblogger.com
@@ -1177,6 +1177,7 @@ hinerava.com
 hkearth.xyz
 hklevel.club
 home.lc
+home.pl
 homemarker.com
 homepage.cx
 homepage.lc
@@ -1414,6 +1415,8 @@ mdtwo.top
 mdwrite.net
 me.gp
 me.ly
+mybluehost.me000webhotapp.com
+hstn.me00web.net
 medianewsonline.com
 mee.nu
 megabyet.net
@@ -1431,6 +1434,7 @@ mindnmagick.com
 mit-wenig-geld.de
 mixh.jp
 mizum.site
+mmm.page
 mobi.ps
 mobinteg.com
 mochahost.com
@@ -1511,6 +1515,7 @@ newbigblog.com
 newmail.ru
 newsbloger.com
 nexgenelectricct.com
+free.nf22web.org
 ngontinh24.com
 nichesite.org
 nikoha.shop
@@ -1585,6 +1590,8 @@ p2blogs.com
 pacbell.net
 page.tl
 page-suspension.net
+start.page000nethost.com
+pineapple.page111mb.de
 page4.com
 page4.me
 pages10.com
@@ -1732,6 +1739,7 @@ server2.eu
 server3.eu
 server4free.de
 service.lc
+surge.sh000webhost.fr
 share.lc
 sharebyblog.com
 sharkserve.com
@@ -1750,6 +1758,7 @@ simdif.com
 simplesite.com
 simpsite.nl
 site.pro
+studio.site000free.us
 site123.me
 site90.net
 sitego.fr
@@ -1852,6 +1861,7 @@ tentbuildingservices.eu
 terapad.com
 test.lc
 testingnow.me
+tggame.xyz
 tgpropower.top
 th.gp
 the-finance-world.com
@@ -1880,6 +1890,7 @@ timeforchangecounselling.com
 tinyblogging.com
 tkzblog.com
 tld.cc
+tmweb.ru
 toastmastersclubs.org
 tokka-blog.com
 tokusi.shop
@@ -1964,6 +1975,7 @@ uz.gp
 uzblog.net
 v.gp
 v0r.org
+vastserve.com
 vblogetin.com
 vdxh.com
 ve.gp
@@ -2010,6 +2022,7 @@ web1337.net
 web4free.eu
 webaccess-alert.com
 webaccess-email.com
+webador.com
 webadorsite.com
 webatu.com
 webblog24.de

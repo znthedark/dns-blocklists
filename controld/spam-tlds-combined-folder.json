@@ -2590,6 +2590,13 @@
       }
     },
     {
+      "PK": "helium.computer",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "helloworld.foo",
       "action": {
         "do": 1,
@@ -4586,6 +4593,13 @@
     },
     {
       "PK": "pornhoarder.pictures",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "porsche.click",
       "action": {
         "do": 1,
         "status": 1

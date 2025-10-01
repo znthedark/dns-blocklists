@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Sep 2025 23:53 UTC
-! Version: 2025.0930.2353.02
+! Last modified: 01 Oct 2025 14:56 UTC
+! Version: 2025.1001.1456.58
 ! Syntax: AdBlock
-! Number of entries: 10966
+! Number of entries: 10963
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -115,7 +115,6 @@
 ||123moviesget.com^
 ||123moviesgo.su^
 ||123moviesgo.tv^
-||123movieshd.top^
 ||123movieshub.cloud^
 ||123movieshub.cyou^
 ||123movieshub.it^
@@ -133,7 +132,6 @@
 ||123moviess.se^
 ||123moviest.org^
 ||123moviestofree.com^
-||123moviestv.me^
 ||123moviestv.net^
 ||123movieswww.com^
 ||123movietheater.com^
@@ -8594,7 +8592,6 @@
 ||swteam.ws^
 ||syfiles.com^
 ||bestoflinks.synology.me^
-||ibksturm.synology.me^
 ||syria-live.us^
 ||sidewinderx.sytes.net^
 ||thebazaar.sytes.net^

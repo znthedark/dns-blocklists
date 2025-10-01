@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Sep 2025 12:03 UTC
-# Version: 2025.0930.1203.13
+# Last modified: 01 Oct 2025 15:03 UTC
+# Version: 2025.1001.1503.39
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3703
+# Number of entries: 3701
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -58,7 +58,6 @@
 0.0.0.0 www.20010114.xyz
 0.0.0.0 adhome.2011101.xyz
 0.0.0.0 220913.xyz
-0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
 0.0.0.0 t2c.240130034.xyz
 0.0.0.0 dns.240527.xyz
@@ -69,7 +68,6 @@
 0.0.0.0 dns.2t9.de
 0.0.0.0 doh.30x.me
 0.0.0.0 dns.320888.xyz
-0.0.0.0 dnsjp.3300000.xyz
 0.0.0.0 dnstr.3300000.xyz
 0.0.0.0 dnstw.3300000.xyz
 0.0.0.0 dnsyg.3300000.xyz

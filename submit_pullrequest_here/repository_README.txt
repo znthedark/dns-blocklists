@@ -307,6 +307,10 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
+> [!WARNING]
+> This blocklist is very large and may cause high memory usage depending on your ad blocker.          
+> For a more resource-friendly option, consider using the medium or mini versions.
+               
 **Entries:** tif_dh domains/hosts - tif_dhc compressed hosts - tif_cp compressed domains
 
 | Format | Links | Should be used for |
@@ -314,7 +318,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 | Domains<br>Subdomains | [Link](lnkgh_d/tif.txt) [M1](lnkgl_d/tif.txt) [M2](lnkjd_d/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](lnkgh_h/tif.txt) [M1](lnkgl_h/tif.txt) [M2](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/tif-compressed.txt) [M1](lnkgl_h/tif-compressed.txt) [M2](lnkjd_h/tif-compressed.txt) | Hostfile, Linux |
-| Adblock | [Link](lnkgh_a/tif.txt) [M1](lnkgl_a/tif.txt) [M2](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (only devices with >= 1GB RAM!), eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
+| Adblock | [Link](lnkgh_a/tif.txt) [M1](lnkgl_a/tif.txt) [M2](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (only devices with > 1GB RAM!), eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [Link](lnkgh_m/tif.txt) [M1](lnkgl_m/tif.txt) [M2](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/tif.txt) [M1](lnkgl_w/tif.txt) [M2](lnkjd_w/tif.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/tif-onlydomains.txt) [M1](lnkgl_w/tif-onlydomains.txt) [M2](lnkjd_w/tif-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |

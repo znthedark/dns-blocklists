@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Oct 2025 00:00 UTC
-! Version: 2025.1001.0000.35
+! Last modified: 01 Oct 2025 15:04 UTC
+! Version: 2025.1001.1504.46
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -64,11 +64,11 @@
 ||church^$doc,domain=~host.church|~life.church|~online.church
 ||city^$doc,domain=~bypass.city|~ops.city|~technical.city
 ||claims^$doc
-||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~qr-code.click|~ravelin.click|~wmg.click
+||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click
 ||clothing^$doc
 ||club^$doc,domain=~baby-beamup.club|~chinaq.club|~digipres.club|~hack.club|~hd-olimpo.club|~mbcherohub.club|~rwinfo.club|~skin.club|~thelemmy.club
 ||college^$doc
-||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
+||computer^$doc,domain=~helium.computer|~libre.computer|~neat.computer|~silly.computer
 ||consulting^$doc
 ||cool^$doc,domain=~cnyes.cool|~compromise.cool|~shirtz.cool|~upbitit.cool
 ||coupons^$doc

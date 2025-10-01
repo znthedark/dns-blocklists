@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759233780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759331040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Sep 2025 12:03 UTC
-; Version: 2025.0930.1203.37
+; Last modified: 01 Oct 2025 15:04 UTC
+; Version: 2025.1001.1504.06
 ; Syntax: RPZ
-; Number of entries: 17598
+; Number of entries: 17588
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -831,8 +831,6 @@ woodbridge.club CNAME .
 *.woodbridge.club CNAME .
 doh.18bit.cn CNAME .
 *.doh.18bit.cn CNAME .
-dns.23-4.cn CNAME .
-*.dns.23-4.cn CNAME .
 doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
@@ -10227,8 +10225,6 @@ mabuktogel.creditcard CNAME .
 *.mabuktogel.creditcard CNAME .
 polisitogel.cruises CNAME .
 *.polisitogel.cruises CNAME .
-liverpoolontop.1337.cx CNAME .
-*.liverpoolontop.1337.cx CNAME .
 vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 freedom.cx CNAME .
@@ -14437,10 +14433,6 @@ adguard.vape.ong CNAME .
 *.adguard.vape.ong CNAME .
 unblockit.onl CNAME .
 *.unblockit.onl CNAME .
-1010000.online CNAME .
-*.1010000.online CNAME .
-30t.online CNAME .
-*.30t.online CNAME .
 71745718.online CNAME .
 *.71745718.online CNAME .
 dns.abdullahabas.online CNAME .
@@ -17269,8 +17261,6 @@ when-sophie-gets-angry.26252526.xyz CNAME .
 *.when-sophie-gets-angry.26252526.xyz CNAME .
 dns.320888.xyz CNAME .
 *.dns.320888.xyz CNAME .
-dnsjp.3300000.xyz CNAME .
-*.dnsjp.3300000.xyz CNAME .
 dnstr.3300000.xyz CNAME .
 *.dnstr.3300000.xyz CNAME .
 dnstw.3300000.xyz CNAME .

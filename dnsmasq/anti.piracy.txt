@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Sep 2025 23:53 UTC
-# Version: 2025.0930.2353.02
+# Last modified: 01 Oct 2025 14:56 UTC
+# Version: 2025.1001.1456.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10966
+# Number of entries: 10963
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -114,7 +114,6 @@ local=/123moviesfull.pro/
 local=/123moviesget.com/
 local=/123moviesgo.su/
 local=/123moviesgo.tv/
-local=/123movieshd.top/
 local=/123movieshub.cloud/
 local=/123movieshub.cyou/
 local=/123movieshub.it/
@@ -132,7 +131,6 @@ local=/123moviess.ru/
 local=/123moviess.se/
 local=/123moviest.org/
 local=/123moviestofree.com/
-local=/123moviestv.me/
 local=/123moviestv.net/
 local=/123movieswww.com/
 local=/123movietheater.com/
@@ -8593,7 +8591,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

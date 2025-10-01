@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Sep 2025 12:03 UTC
-# Version: 2025.0930.1203.37
+# Last modified: 01 Oct 2025 15:04 UTC
+# Version: 2025.1001.1504.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8799
+# Number of entries: 8794
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -25,7 +25,6 @@ local=/2.0rz.space/
 local=/0x3d.lu/
 local=/dns.0x55.net/
 local=/hk.100992.xyz/
-local=/1010000.online/
 local=/jp2.101818.xyz/
 local=/seoul.101818.xyz/
 local=/sg.101818.xyz/
@@ -67,7 +66,6 @@ local=/123torr.com/
 local=/123ultraproxy.com/
 local=/123unblocked.com/
 local=/12vpx.com/
-local=/liverpoolontop.1337.cx/
 local=/dns.13evl.com/
 local=/dns1.13evl.com/
 local=/hk-nnss.150076.xyz/
@@ -91,7 +89,6 @@ local=/20010114.xyz/
 local=/adhome.2011101.xyz/
 local=/onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com/
 local=/220913.xyz/
-local=/dns.23-4.cn/
 local=/233py.com/
 local=/t2c.240130034.xyz/
 local=/dns.240527.xyz/
@@ -114,10 +111,8 @@ local=/2proxy.de/
 local=/2proxyweb.com/
 local=/dns.2t9.de/
 local=/2ub.top/
-local=/30t.online/
 local=/doh.30x.me/
 local=/dns.320888.xyz/
-local=/dnsjp.3300000.xyz/
 local=/dnstr.3300000.xyz/
 local=/dnstw.3300000.xyz/
 local=/dnsyg.3300000.xyz/
