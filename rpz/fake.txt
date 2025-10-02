@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759357560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759400760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Oct 2025 22:26 UTC
-; Version: 2025.1001.2226.26
+; Last modified: 02 Oct 2025 10:26 UTC
+; Version: 2025.1002.1026.13
 ; Syntax: RPZ
-; Number of entries: 27868
+; Number of entries: 27808
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -200,8 +200,6 @@ cecilewien.at CNAME .
 *.cecilewien.at CNAME .
 ceciliagraz.at CNAME .
 *.ceciliagraz.at CNAME .
-clarks-osterreich.at CNAME .
-*.clarks-osterreich.at CNAME .
 clarksaustria.at CNAME .
 *.clarksaustria.at CNAME .
 arketosterreich.co.at CNAME .
@@ -2708,8 +2706,6 @@ badgyalbrand.com CNAME .
 *.badgyalbrand.com CNAME .
 badhaushalt.com CNAME .
 *.badhaushalt.com CNAME .
-badspiegelonshop.com CNAME .
-*.badspiegelonshop.com CNAME .
 badspiegelstore.com CNAME .
 *.badspiegelstore.com CNAME .
 badzubehorbadmobel.com CNAME .
@@ -2848,8 +2844,6 @@ bathroomstylish.com CNAME .
 *.bathroomstylish.com CNAME .
 batteriesteckerrabatt.com CNAME .
 *.batteriesteckerrabatt.com CNAME .
-batzare.com CNAME .
-*.batzare.com CNAME .
 bauen-shop-de.com CNAME .
 *.bauen-shop-de.com CNAME .
 bauernhofspiele.com CNAME .
@@ -3050,12 +3044,8 @@ beste-motorrad.com CNAME .
 *.beste-motorrad.com CNAME .
 besteckstore.com CNAME .
 *.besteckstore.com CNAME .
-bestefahrrad.com CNAME .
-*.bestefahrrad.com CNAME .
 bestekaufhauser24.com CNAME .
 *.bestekaufhauser24.com CNAME .
-bestellenmedicament.com CNAME .
-*.bestellenmedicament.com CNAME .
 bestemed.com CNAME .
 *.bestemed.com CNAME .
 bestenkaufen.com CNAME .
@@ -3088,8 +3078,6 @@ besthomeship.com CNAME .
 *.besthomeship.com CNAME .
 bestkht.com CNAME .
 *.bestkht.com CNAME .
-bestkitchenonline.com CNAME .
-*.bestkitchenonline.com CNAME .
 bestknifeworld.com CNAME .
 *.bestknifeworld.com CNAME .
 bestkredits.com CNAME .
@@ -3100,8 +3088,6 @@ bestmarkt24.com CNAME .
 *.bestmarkt24.com CNAME .
 bestmedhealth.com CNAME .
 *.bestmedhealth.com CNAME .
-bestmotorbikeparts.com CNAME .
-*.bestmotorbikeparts.com CNAME .
 bestneckrelax.com CNAME .
 *.bestneckrelax.com CNAME .
 bestoutdoorsgearshop.com CNAME .
@@ -3208,8 +3194,6 @@ biifox-online.com CNAME .
 *.biifox-online.com CNAME .
 bike-blissful.com CNAME .
 *.bike-blissful.com CNAME .
-bike-handel.com CNAME .
-*.bike-handel.com CNAME .
 bike-shop-market.com CNAME .
 *.bike-shop-market.com CNAME .
 bikebabyseatde.com CNAME .
@@ -3524,8 +3508,6 @@ bolvahomeai.com CNAME .
 *.bolvahomeai.com CNAME .
 bonafita.com CNAME .
 *.bonafita.com CNAME .
-bonnieandbloom.com CNAME .
-*.bonnieandbloom.com CNAME .
 bonsaiexperte.com CNAME .
 *.bonsaiexperte.com CNAME .
 boohoo-shop.com CNAME .
@@ -3650,8 +3632,6 @@ brennholzdge.com CNAME .
 *.brennholzdge.com CNAME .
 brennholzdirekt.com CNAME .
 *.brennholzdirekt.com CNAME .
-brennholzhandelnahn.com CNAME .
-*.brennholzhandelnahn.com CNAME .
 brennholzmeister.com CNAME .
 *.brennholzmeister.com CNAME .
 brennholzpellets.com CNAME .
@@ -3802,8 +3782,6 @@ buystime.com CNAME .
 *.buystime.com CNAME .
 buytableware.com CNAME .
 *.buytableware.com CNAME .
-bw6mijgqj.com CNAME .
-*.bw6mijgqj.com CNAME .
 by-olana.com CNAME .
 *.by-olana.com CNAME .
 bydeia.com CNAME .
@@ -3908,8 +3886,6 @@ canbrace.com CNAME .
 *.canbrace.com CNAME .
 candlesselling.com CNAME .
 *.candlesselling.com CNAME .
-candriamsmarts.com CNAME .
-*.candriamsmarts.com CNAME .
 candykeysangebotes.com CNAME .
 *.candykeysangebotes.com CNAME .
 canillogermany.com CNAME .
@@ -4390,8 +4366,6 @@ coinboxtradeoption.com CNAME .
 *.coinboxtradeoption.com CNAME .
 coincorex.com CNAME .
 *.coincorex.com CNAME .
-coinhouse-fr.com CNAME .
-*.coinhouse-fr.com CNAME .
 coinmoh.com CNAME .
 *.coinmoh.com CNAME .
 coinspayworld.com CNAME .
@@ -9388,8 +9362,6 @@ kucheshop.com CNAME .
 *.kucheshop.com CNAME .
 kudurun.com CNAME .
 *.kudurun.com CNAME .
-kulako.com CNAME .
-*.kulako.com CNAME .
 kultur-bike.com CNAME .
 *.kultur-bike.com CNAME .
 kunstfurzuhause.com CNAME .
@@ -17546,12 +17518,8 @@ bachmann-handel.de CNAME .
 *.bachmann-handel.de CNAME .
 back-attack.de CNAME .
 *.back-attack.de CNAME .
-baco-rondeshagen.de CNAME .
-*.baco-rondeshagen.de CNAME .
 badeanzugtreff.de CNAME .
 *.badeanzugtreff.de CNAME .
-badezimmerbillig.de CNAME .
-*.badezimmerbillig.de CNAME .
 badundheizungshop.de CNAME .
 *.badundheizungshop.de CNAME .
 baerliner-apotheke-berlin-marzahn.de CNAME .
@@ -17562,8 +17530,6 @@ balancedecke.de CNAME .
 *.balancedecke.de CNAME .
 baleurs.de CNAME .
 *.baleurs.de CNAME .
-baleurshop.de CNAME .
-*.baleurshop.de CNAME .
 balitaberlin.de CNAME .
 *.balitaberlin.de CNAME .
 ballerns.de CNAME .
@@ -17682,8 +17648,6 @@ bergbk.de CNAME .
 *.bergbk.de CNAME .
 bergexperten.de CNAME .
 *.bergexperten.de CNAME .
-bergmann-mode.de CNAME .
-*.bergmann-mode.de CNAME .
 bergmannhamburg.de CNAME .
 *.bergmannhamburg.de CNAME .
 bergmannmode.de CNAME .
@@ -17894,8 +17858,6 @@ brennholz-haus.de CNAME .
 *.brennholz-haus.de CNAME .
 brennholz-hofmann.de CNAME .
 *.brennholz-hofmann.de CNAME .
-brennholz-saale.de CNAME .
-*.brennholz-saale.de CNAME .
 brennholz-zertifikats.de CNAME .
 *.brennholz-zertifikats.de CNAME .
 brennholz49.de CNAME .
@@ -17906,8 +17868,6 @@ brennholzhaus.de CNAME .
 *.brennholzhaus.de CNAME .
 brennholzkamin.de CNAME .
 *.brennholzkamin.de CNAME .
-brennholzknuth.de CNAME .
-*.brennholzknuth.de CNAME .
 brennholzruhl.de CNAME .
 *.brennholzruhl.de CNAME .
 brennholzschnell24.de CNAME .
@@ -18020,8 +17980,6 @@ candia-handel.de CNAME .
 *.candia-handel.de CNAME .
 cannexo-tech.de CNAME .
 *.cannexo-tech.de CNAME .
-captainboot.de CNAME .
-*.captainboot.de CNAME .
 carethy.de CNAME .
 *.carethy.de CNAME .
 cariuma-deutschland.de CNAME .
@@ -18094,8 +18052,6 @@ cklogi.de CNAME .
 *.cklogi.de CNAME .
 cklogistik.de CNAME .
 *.cklogistik.de CNAME .
-clairine.de CNAME .
-*.clairine.de CNAME .
 claracamila.de CNAME .
 *.claracamila.de CNAME .
 claracasperjuwelen.de CNAME .
@@ -24028,10 +23984,6 @@ arlequininvest.io CNAME .
 *.arlequininvest.io CNAME .
 besteuhren.io CNAME .
 *.besteuhren.io CNAME .
-bitalphaai.io CNAME .
-*.bitalphaai.io CNAME .
-bitcoin-up.io CNAME .
-*.bitcoin-up.io CNAME .
 bitcoindecode.io CNAME .
 *.bitcoindecode.io CNAME .
 bitcoineer.io CNAME .
@@ -24366,12 +24318,8 @@ basup.net CNAME .
 *.basup.net CNAME .
 bcseagles.net CNAME .
 *.bcseagles.net CNAME .
-bestdealtoday.net CNAME .
-*.bestdealtoday.net CNAME .
 bestoil24.net CNAME .
 *.bestoil24.net CNAME .
-bestshop-angebote.net CNAME .
-*.bestshop-angebote.net CNAME .
 billabongcanada.net CNAME .
 *.billabongcanada.net CNAME .
 bit-crypto.net CNAME .
@@ -25520,8 +25468,6 @@ velvezev.ru CNAME .
 *.velvezev.ru CNAME .
 wholesalefactory.ru CNAME .
 *.wholesalefactory.ru CNAME .
-betbuilt.sbs CNAME .
-*.betbuilt.sbs CNAME .
 okwave.taxenough.sbs CNAME .
 *.okwave.taxenough.sbs CNAME .
 celago.se CNAME .
@@ -25718,8 +25664,6 @@ blue-mart.shop CNAME .
 *.blue-mart.shop CNAME .
 bluebananabrandeu.shop CNAME .
 *.bluebananabrandeu.shop CNAME .
-boardgameaster.shop CNAME .
-*.boardgameaster.shop CNAME .
 boardlandia.shop CNAME .
 *.boardlandia.shop CNAME .
 boc24.shop CNAME .
@@ -25774,8 +25718,6 @@ cbddiscounteronline.shop CNAME .
 *.cbddiscounteronline.shop CNAME .
 celerity147.shop CNAME .
 *.celerity147.shop CNAME .
-chabgyu.shop CNAME .
-*.chabgyu.shop CNAME .
 chcdrcberts.shop CNAME .
 *.chcdrcberts.shop CNAME .
 chordmilk.shop CNAME .
@@ -27646,8 +27588,6 @@ birmingha.co.uk CNAME .
 *.birmingha.co.uk CNAME .
 bulksellmart.co.uk CNAME .
 *.bulksellmart.co.uk CNAME .
-fitnesstogether.co.uk CNAME .
-*.fitnesstogether.co.uk CNAME .
 hildathelabel.co.uk CNAME .
 *.hildathelabel.co.uk CNAME .
 homegymsupply.co.uk CNAME .

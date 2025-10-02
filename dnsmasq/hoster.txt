@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 22:28 UTC
-# Version: 2025.1001.2228.06
+# Last modified: 02 Oct 2025 10:27 UTC
+# Version: 2025.1002.1027.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2165
+# Number of entries: 2164
 #
 local=/000a.de/
 local=/000space.com/
@@ -518,7 +518,6 @@ local=/blogspot.nl/
 local=/blogspot.no/
 local=/blogspot.org/
 local=/blogspot.pe/
-local=/blogspot.pl/
 local=/blogspot.pt/
 local=/blogspot.qa/
 local=/blogspot.ro/

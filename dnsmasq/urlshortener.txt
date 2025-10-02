@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 22:28 UTC
-# Version: 2025.1001.2228.32
+# Last modified: 02 Oct 2025 10:28 UTC
+# Version: 2025.1002.1028.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6958
+# Number of entries: 6956
 #
 local=/0.gp/
 local=/00m.in/
@@ -854,7 +854,6 @@ local=/bit-ely.com/
 local=/bit24.live/
 local=/bitcoinshortener.top/
 local=/bitesli.com/
-local=/bitfy.cc/
 local=/bitgg.co/
 local=/bitigee.com/
 local=/bitl.to/
@@ -1028,7 +1027,6 @@ local=/s.bts-ev.de/
 local=/btty.in/
 local=/btwrdn.com/
 local=/go.btwrdn.co/
-local=/btyl.org/
 local=/bu66.com/
 local=/bubbleurl.com/
 local=/budur.li/
@@ -1234,6 +1232,7 @@ local=/clica.ai/
 local=/clicai.xyz/
 local=/click.ps/
 local=/click-goo.com/
+local=/click-myl.ink/
 local=/clickhub.cc/
 local=/clickmeter.com/
 local=/clicksfly.com/
@@ -1265,7 +1264,6 @@ local=/clockurl.com/
 local=/clotplaynews.live/
 local=/cloudku.click/
 local=/cloudradar.net/
-local=/cloudshrinker.com/
 local=/cloudtechlinks.com/
 local=/clourls.com/
 local=/clps.app/

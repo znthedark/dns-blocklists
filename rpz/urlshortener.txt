@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759357680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759400880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Oct 2025 22:28 UTC
-; Version: 2025.1001.2228.32
+; Last modified: 02 Oct 2025 10:28 UTC
+; Version: 2025.1002.1028.23
 ; Syntax: RPZ
-; Number of entries: 13916
+; Number of entries: 13912
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -913,8 +913,6 @@ azc.cc CNAME .
 *.azc.cc CNAME .
 bigcc.cc CNAME .
 *.bigcc.cc CNAME .
-bitfy.cc CNAME .
-*.bitfy.cc CNAME .
 bitlz.cc CNAME .
 *.bitlz.cc CNAME .
 bmai.cc CNAME .
@@ -2519,8 +2517,6 @@ clktrack.com CNAME .
 *.clktrack.com CNAME .
 clockurl.com CNAME .
 *.clockurl.com CNAME .
-cloudshrinker.com CNAME .
-*.cloudshrinker.com CNAME .
 cloudtechlinks.com CNAME .
 *.cloudtechlinks.com CNAME .
 clourls.com CNAME .
@@ -6815,6 +6811,8 @@ boost.ink CNAME .
 *.boost.ink CNAME .
 chl.ink CNAME .
 *.chl.ink CNAME .
+click-myl.ink CNAME .
+*.click-myl.ink CNAME .
 ctx.ink CNAME .
 *.ctx.ink CNAME .
 domlink.ink CNAME .
@@ -10953,8 +10951,6 @@ atqiv.org CNAME .
 *.atqiv.org CNAME .
 talk.bloomup.org CNAME .
 *.talk.bloomup.org CNAME .
-btyl.org CNAME .
-*.btyl.org CNAME .
 caridomainku.org CNAME .
 *.caridomainku.org CNAME .
 convertcase.org CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 23:57 UTC
-# Version: 2025.1001.2357.37
+# Last modified: 02 Oct 2025 11:56 UTC
+# Version: 2025.1002.1156.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3248
+# Number of entries: 3247
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -548,7 +548,6 @@ local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/
 local=/dns.cmrg.net/
 local=/adguard.cnbeining.com/
-local=/pope.cnblw.me/
 local=/doh.cnetwork.cloud/
 local=/adguard.aa4.co.uk/
 local=/adguard.cell.co.id/

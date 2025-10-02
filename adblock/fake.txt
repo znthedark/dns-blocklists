@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Oct 2025 22:26 UTC
-! Version: 2025.1001.2226.26
+! Last modified: 02 Oct 2025 10:26 UTC
+! Version: 2025.1002.1026.13
 ! Syntax: AdBlock
-! Number of entries: 13934
+! Number of entries: 13904
 !
 ||01broker.com^
 ||01crypto.com^
@@ -975,18 +975,15 @@
 ||backformensale.com^
 ||backontrackus.com^
 ||backpacksschritte.com^
-||baco-rondeshagen.de^
 ||badakzenteeu.shop^
 ||badduschkopf.com^
 ||badeanzugtreff.de^
 ||bademodeneu.com^
 ||bademodeschritte.com^
 ||badespielzeugstore.com^
-||badezimmerbillig.de^
 ||badezimmerfein.com^
 ||badgyalbrand.com^
 ||badhaushalt.com^
-||badspiegelonshop.com^
 ||badspiegelstore.com^
 ||badundheizungshop.de^
 ||badzubehorbadmobel.com^
@@ -1016,7 +1013,6 @@
 ||balenciagaireland.com^
 ||balennz.com^
 ||baleurs.de^
-||baleurshop.de^
 ||balfourcapitalgroup.com^
 ||balinvest-ch.com^
 ||balitaberlin.de^
@@ -1098,7 +1094,6 @@
 ||bathroomstylish.com^
 ||batroni.de^
 ||batteriesteckerrabatt.com^
-||batzare.com^
 ||bau-profis24.de^
 ||bauen-shop-de.com^
 ||bauer-parndorf.at^
@@ -1232,7 +1227,6 @@
 ||berglust.shop^
 ||bergmann.com^
 ||bergmann-mode.ch^
-||bergmann-mode.de^
 ||bergmannhamburg.de^
 ||bergmannmode.de^
 ||bergner24.de^
@@ -1289,7 +1283,6 @@
 ||bestcarpartdepot.com^
 ||teslertrading.bestchoice-investment.com^
 ||bestchoicepills.com^
-||bestdealtoday.net^
 ||bestdrugstore247.com^
 ||beste-gardinen.de^
 ||beste-motorrad.com^
@@ -1297,11 +1290,9 @@
 ||bestebike.de^
 ||besteckgeschirr.de^
 ||besteckstore.com^
-||bestefahrrad.com^
 ||besteholzlager.ch^
 ||bestekaufhauser24.com^
 ||bestelektronicshop.de^
-||bestellenmedicament.com^
 ||bestellrezeptfrei.de^
 ||bestellungapotheke.de^
 ||bestemed.com^
@@ -1329,13 +1320,11 @@
 ||bestgenericonline.com^
 ||besthomeship.com^
 ||bestkht.com^
-||bestkitchenonline.com^
 ||bestknifeworld.com^
 ||bestkredits.com^
 ||bestmaher.com^
 ||bestmarkt24.com^
 ||bestmedhealth.com^
-||bestmotorbikeparts.com^
 ||bestneckrelax.com^
 ||bestoil24.de^
 ||bestoil24.net^
@@ -1346,14 +1335,12 @@
 ||bestrelocate.com^
 ||bestremotehub.com^
 ||bestselectionforyou.com^
-||bestshop-angebote.net^
 ||bestslshop.com^
 ||bestspecifics.com^
 ||besttoyspielzeug.com^
 ||bestwerkzeugeshop.com^
 ||besvip.top^
 ||betakom-tec.com^
-||betbuilt.sbs^
 ||betonruttler.com^
 ||betonspot.com^
 ||betontop.com^
@@ -1405,7 +1392,6 @@
 ||bigsofasde.de^
 ||biifox-online.com^
 ||bike-blissful.com^
-||bike-handel.com^
 ||bike-shop-market.com^
 ||bikebabyseatde.com^
 ||bikebitsde.com^
@@ -1516,14 +1502,12 @@
 ||bitai-method.com^
 ||bitaiapp.pro^
 ||bitaimethod.com^
-||bitalphaai.io^
 ||h1.bitbuuy.cc^
 ||bitcodemethod.com^
 ||bitcodeprime.org^
 ||bitcoin-archon.com^
 ||bitcoin-prime.net^
 ||bitcoin-revolution.org^
-||bitcoin-up.io^
 ||bitcoin360ai.com^
 ||bitcoinarchon.com^
 ||bitcoinasystem.su^
@@ -1629,7 +1613,6 @@
 ||bnpotc.com^
 ||bo-bank.com^
 ||boanapromocoes.com^
-||boardgameaster.shop^
 ||boardlandia.shop^
 ||boardss.de^
 ||boatworkssupply.com^
@@ -1674,7 +1657,6 @@
 ||bonbozz.shop^
 ||bonfishop.store^
 ||bonluda.de^
-||bonnieandbloom.com^
 ||bonsaiexperte.com^
 ||bonvoue.de^
 ||boohoo-shop.com^
@@ -1772,7 +1754,6 @@
 ||brennholz-haus.de^
 ||brennholz-hofmann.de^
 ||brennholz-pelletspreise.com^
-||brennholz-saale.de^
 ||brennholz-world.at^
 ||brennholz-zertifikats.de^
 ||brennholz360.com^
@@ -1782,10 +1763,8 @@
 ||brennholzdge.com^
 ||brennholzdirekt.com^
 ||brennholzgo.de^
-||brennholzhandelnahn.com^
 ||brennholzhaus.de^
 ||brennholzkamin.de^
-||brennholzknuth.de^
 ||brennholzmeister.com^
 ||brennholzpellets.com^
 ||brennholzruhl.de^
@@ -1920,7 +1899,6 @@
 ||buystime.com^
 ||buytableware.com^
 ||raumform.buytrex.life^
-||bw6mijgqj.com^
 ||by-annameyer.de^
 ||by-emmamuller.de^
 ||by-olana.com^
@@ -2000,7 +1978,6 @@
 ||canbrace.com^
 ||candia-handel.de^
 ||candlesselling.com^
-||candriamsmarts.com^
 ||candykeysangebotes.com^
 ||canillogermany.com^
 ||canna420bis.shop^
@@ -2027,7 +2004,6 @@
 ||capitaltradefx.com^
 ||capofini.com^
 ||capstellar.com^
-||captainboot.de^
 ||carbon-vw.com^
 ||de.cardionv.com^
 ||cardvae.com^
@@ -2158,7 +2134,6 @@
 ||cfxmarkets.com^
 ||cfxshop.com^
 ||cgctv.com^
-||chabgyu.shop^
 ||chacosdeutschland.de^
 ||chain-reaction.app^
 ||chaitox.com^
@@ -2254,7 +2229,6 @@
 ||cklogi.de^
 ||cklogistik.de^
 ||claimshub.xyz^
-||clairine.de^
 ||clairyskin.com^
 ||clapopular.com^
 ||clara-zurich.com^
@@ -2264,7 +2238,6 @@
 ||shop.clarissanails-schweiz.ch^
 ||help.claritycheck.com^
 ||clarks-germany.com^
-||clarks-osterreich.at^
 ||clarks-osterreich.com^
 ||clarks-schweiz.com^
 ||clarksaustria.at^
@@ -2350,7 +2323,6 @@
 ||digitalinfo.co.kr^
 ||drscholls.co.za^
 ||duneshoesouthafrica.co.za^
-||fitnesstogether.co.uk^
 ||fred-perry.co.at^
 ||hildathelabel.co.uk^
 ||homegymsupply.co.uk^
@@ -2405,7 +2377,6 @@
 ||coinboxtradeoption.com^
 ||coincorex.com^
 ||web.coinhouse.top^
-||coinhouse-fr.com^
 ||coinmarketfeed.net^
 ||coinmoh.com^
 ||coinspayworld.com^
@@ -7058,7 +7029,6 @@
 ||kuechenblume.net^
 ||kuhlecke.de^
 ||kuhschelhof.de^
-||kulako.com^
 ||kulbit.lv^
 ||kultur-bike.com^
 ||kumiko-kauf.de^

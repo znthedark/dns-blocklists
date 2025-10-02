@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759362600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759405740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Oct 2025 23:50 UTC
-; Version: 2025.1001.2350.39
+; Last modified: 02 Oct 2025 11:49 UTC
+; Version: 2025.1002.1149.37
 ; Syntax: RPZ
-; Number of entries: 21926
+; Number of entries: 21922
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3270,8 +3270,6 @@ bravedown.com CNAME .
 *.bravedown.com CNAME .
 bravoapk.com CNAME .
 *.bravoapk.com CNAME .
-brocoflix.com CNAME .
-*.brocoflix.com CNAME .
 brothersitbd.com CNAME .
 *.brothersitbd.com CNAME .
 brrip720p.com CNAME .
@@ -11788,8 +11786,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -14516,6 +14512,8 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
+tracker.tnl.one CNAME .
+*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -14558,6 +14556,8 @@ vegamovies.onl CNAME .
 *.191954.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
+aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
+*.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -20058,8 +20058,6 @@ cinemitas.tv CNAME .
 *.cinemitas.tv CNAME .
 cinevid.tv CNAME .
 *.cinevid.tv CNAME .
-citysonic.tv CNAME .
-*.citysonic.tv CNAME .
 clientsportals.tv CNAME .
 *.clientsportals.tv CNAME .
 cloudvideo.tv CNAME .
@@ -21598,8 +21596,6 @@ tracker.blackunicorn.xyz CNAME .
 *.tracker.blackunicorn.xyz CNAME .
 blutopia.xyz CNAME .
 *.blutopia.xyz CNAME .
-booksrus.xyz CNAME .
-*.booksrus.xyz CNAME .
 t.btcland.xyz CNAME .
 *.t.btcland.xyz CNAME .
 btorrent.xyz CNAME .

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Oct 2025 22:28 UTC
-! Version: 2025.1001.2228.32
+! Last modified: 02 Oct 2025 10:28 UTC
+! Version: 2025.1002.1028.23
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -820,7 +820,6 @@
 @@||bit24.live^
 @@||bitcoinshortener.top^
 @@||bitesli.com^
-@@||bitfy.cc^
 @@||bitgg.co^
 @@||bitigee.com^
 @@||bitl.to^
@@ -984,7 +983,6 @@
 @@||btty.in^
 @@||btwrdn.com^
 @@||go.btwrdn.co^
-@@||btyl.org^
 @@||bu66.com^
 @@||bubbleurl.com^
 @@||budur.li^
@@ -1184,6 +1182,7 @@
 @@||clicai.xyz^
 @@||click.ps^
 @@||click-goo.com^
+@@||click-myl.ink^
 @@||clickhub.cc^
 @@||clickmeter.com^
 @@||clicksfly.com^
@@ -1215,7 +1214,6 @@
 @@||clotplaynews.live^
 @@||cloudku.click^
 @@||cloudradar.net^
-@@||cloudshrinker.com^
 @@||cloudtechlinks.com^
 @@||clourls.com^
 @@||clps.app^
