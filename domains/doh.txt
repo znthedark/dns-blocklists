@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 15:03 UTC
-# Version: 2025.1001.1503.39
+# Last modified: 01 Oct 2025 23:57 UTC
+# Version: 2025.1001.2357.37
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3701
+# Number of entries: 3699
 #
 ss.0001.xyz
 003153.xyz
@@ -234,8 +234,6 @@ dns.akbxr.com
 dns.alanpearce.eu
 dns.albony.xyz
 dnsnl.alekberg.net
-dnsnl-noads.alekberg.net
-dnsse-noads.alekberg.net
 agh.alematho.de
 ag.alexf.cc
 diskstation.alexpollard.net

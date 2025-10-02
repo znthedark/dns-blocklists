@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 15:04 UTC
-# Version: 2025.1001.1504.06
+# Last modified: 01 Oct 2025 23:58 UTC
+# Version: 2025.1001.2358.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8794
+# Number of entries: 8790
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -275,7 +275,6 @@ local=/adsocialmediamarketing.com/
 local=/adultproxy.men/
 local=/y3suyx0cg2lewi2dmn.advaitghaisas.in/
 local=/advanced.name/
-local=/builtlikearat.advanced-orchestra.site/
 local=/advancedvpn.com/
 local=/tetra.aeins.at/
 local=/dns2.afastserver.com/
@@ -305,8 +304,6 @@ local=/dns.alanpearce.eu/
 local=/dns.albony.xyz/
 local=/aldhaferi.store/
 local=/dnsnl.alekberg.net/
-local=/dnsnl-noads.alekberg.net/
-local=/dnsse-noads.alekberg.net/
 local=/agh.alematho.de/
 local=/ag.alexf.cc/
 local=/diskstation.alexpollard.net/
@@ -321,7 +318,6 @@ local=/dns.aliyun.com/
 local=/httpdns-api.aliyuncs.com/
 local=/httpdns-sc.aliyuncs.com/
 local=/alleesph.online/
-local=/huieurammarda.allez.la/
 local=/dns.alloxr.info/
 local=/micro.alloxr.info/
 local=/vps.alloxr.info/

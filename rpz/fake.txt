@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759324740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759357560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Oct 2025 13:19 UTC
-; Version: 2025.1001.1319.31
+; Last modified: 01 Oct 2025 22:26 UTC
+; Version: 2025.1001.2226.26
 ; Syntax: RPZ
-; Number of entries: 27858
+; Number of entries: 27868
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1264,8 +1264,6 @@ alfinanz.ch CNAME .
 *.alfinanz.ch CNAME .
 alpivogue.ch CNAME .
 *.alpivogue.ch CNAME .
-annamodehaus.ch CNAME .
-*.annamodehaus.ch CNAME .
 bergmann-mode.ch CNAME .
 *.bergmann-mode.ch CNAME .
 besteholzlager.ch CNAME .
@@ -2028,8 +2026,6 @@ aloyogadeutschlande.com CNAME .
 *.aloyogadeutschlande.com CNAME .
 aloyogasdeutschland.com CNAME .
 *.aloyogasdeutschland.com CNAME .
-alpbeat.com CNAME .
-*.alpbeat.com CNAME .
 alpenrose-mode.com CNAME .
 *.alpenrose-mode.com CNAME .
 alphabetk.com CNAME .
@@ -2158,8 +2154,6 @@ anclassic.com CNAME .
 *.anclassic.com CNAME .
 andersonihc.com CNAME .
 *.andersonihc.com CNAME .
-andrearebecca.com CNAME .
-*.andrearebecca.com CNAME .
 angebotshop.com CNAME .
 *.angebotshop.com CNAME .
 angebotstools.com CNAME .
@@ -2396,8 +2390,6 @@ aroxcapital.com CNAME .
 *.aroxcapital.com CNAME .
 artdupatrimoine.com CNAME .
 *.artdupatrimoine.com CNAME .
-artek-wien.com CNAME .
-*.artek-wien.com CNAME .
 artificialisens.com CNAME .
 *.artificialisens.com CNAME .
 artihorizonx.com CNAME .
@@ -2474,8 +2466,6 @@ atacadao-pneus.com CNAME .
 *.atacadao-pneus.com CNAME .
 learn.atdaslelabor.com CNAME .
 *.learn.atdaslelabor.com CNAME .
-ate-assetsmarkets.com CNAME .
-*.ate-assetsmarkets.com CNAME .
 atelierdudiamant.com CNAME .
 *.atelierdudiamant.com CNAME .
 athletadeutschland.com CNAME .
@@ -2484,8 +2474,6 @@ athletpharma.com CNAME .
 *.athletpharma.com CNAME .
 atikisoi.com CNAME .
 *.atikisoi.com CNAME .
-atol-finance.com CNAME .
-*.atol-finance.com CNAME .
 atologiesm.com CNAME .
 *.atologiesm.com CNAME .
 atpgoldenpass.com CNAME .
@@ -2496,8 +2484,6 @@ attentivek.com CNAME .
 *.attentivek.com CNAME .
 attraktivgarten.com CNAME .
 *.attraktivgarten.com CNAME .
-atvelektro.com CNAME .
-*.atvelektro.com CNAME .
 au-meds.com CNAME .
 *.au-meds.com CNAME .
 au-vex.com CNAME .
@@ -17382,8 +17368,6 @@ anneshop24.de CNAME .
 *.anneshop24.de CNAME .
 anpario.de CNAME .
 *.anpario.de CNAME .
-anthria.de CNAME .
-*.anthria.de CNAME .
 antobi-shop.de CNAME .
 *.antobi-shop.de CNAME .
 anyvibe.de CNAME .
@@ -17416,8 +17400,6 @@ aquarisonlineshop.de CNAME .
 *.aquarisonlineshop.de CNAME .
 arabues.de CNAME .
 *.arabues.de CNAME .
-aramusic-trantow.de CNAME .
-*.aramusic-trantow.de CNAME .
 arbitrage-solar.de CNAME .
 *.arbitrage-solar.de CNAME .
 arcaktuell.de CNAME .
@@ -17494,12 +17476,8 @@ auf-thuletour.de CNAME .
 *.auf-thuletour.de CNAME .
 aufladekarten24.de CNAME .
 *.aufladekarten24.de CNAME .
-aufstern.de CNAME .
-*.aufstern.de CNAME .
 auftrag-rezeptfrei.de CNAME .
 *.auftrag-rezeptfrei.de CNAME .
-augesterne.de CNAME .
-*.augesterne.de CNAME .
 aupair-mama.de CNAME .
 *.aupair-mama.de CNAME .
 aus-gelassen.de CNAME .
@@ -17508,8 +17486,6 @@ austrittausderkirche.de CNAME .
 *.austrittausderkirche.de CNAME .
 auszeit-seminar.de CNAME .
 *.auszeit-seminar.de CNAME .
-authentisch-tickets.de CNAME .
-*.authentisch-tickets.de CNAME .
 autodisco.de CNAME .
 *.autodisco.de CNAME .
 autohausberg-gmbh.de CNAME .
@@ -17944,6 +17920,8 @@ brennstoff-einfach.de CNAME .
 *.brennstoff-einfach.de CNAME .
 brennstoffe-wilke.de CNAME .
 *.brennstoffe-wilke.de CNAME .
+brenstoffe-versand.de CNAME .
+*.brenstoffe-versand.de CNAME .
 breuer-boutique.de CNAME .
 *.breuer-boutique.de CNAME .
 breuninger-berlin.de CNAME .
@@ -19736,6 +19714,8 @@ heimwerkende.de CNAME .
 *.heimwerkende.de CNAME .
 heisen-handel.de CNAME .
 *.heisen-handel.de CNAME .
+heiser-handel.de CNAME .
+*.heiser-handel.de CNAME .
 heissmanns.de CNAME .
 *.heissmanns.de CNAME .
 heiz-oil.de CNAME .
@@ -19792,8 +19772,14 @@ heizoelblitz.de CNAME .
 *.heizoelblitz.de CNAME .
 heizoelbp.de CNAME .
 *.heizoelbp.de CNAME .
+heizoelconnect.de CNAME .
+*.heizoelconnect.de CNAME .
 heizoelfit.de CNAME .
 *.heizoelfit.de CNAME .
+heizoelhilfe.de CNAME .
+*.heizoelhilfe.de CNAME .
+heizoelikone.de CNAME .
+*.heizoelikone.de CNAME .
 heizoelitx.de CNAME .
 *.heizoelitx.de CNAME .
 heizoelix.de CNAME .
@@ -19804,24 +19790,42 @@ heizoeljetzt.de CNAME .
 *.heizoeljetzt.de CNAME .
 heizoellieferung.de CNAME .
 *.heizoellieferung.de CNAME .
+heizoelmax.de CNAME .
+*.heizoelmax.de CNAME .
+heizoelnow.de CNAME .
+*.heizoelnow.de CNAME .
+heizoelport.de CNAME .
+*.heizoelport.de CNAME .
 heizoelpro.de CNAME .
 *.heizoelpro.de CNAME .
 heizoelprofi.de CNAME .
 *.heizoelprofi.de CNAME .
+heizoelprofit.de CNAME .
+*.heizoelprofit.de CNAME .
 heizoelpunkt.de CNAME .
 *.heizoelpunkt.de CNAME .
 heizoelsofort.de CNAME .
 *.heizoelsofort.de CNAME .
+heizoelteam.de CNAME .
+*.heizoelteam.de CNAME .
+heizoelversand.de CNAME .
+*.heizoelversand.de CNAME .
+heizoelwerk.de CNAME .
+*.heizoelwerk.de CNAME .
 heizoil-24.de CNAME .
 *.heizoil-24.de CNAME .
 heizoil-vergleich.de CNAME .
 *.heizoil-vergleich.de CNAME .
 heizoil24.de CNAME .
 *.heizoil24.de CNAME .
+heizone.de CNAME .
+*.heizone.de CNAME .
 heizparadies.de CNAME .
 *.heizparadies.de CNAME .
 heizpellets247.de CNAME .
 *.heizpellets247.de CNAME .
+heizport.de CNAME .
+*.heizport.de CNAME .
 heizstrahlerprada.de CNAME .
 *.heizstrahlerprada.de CNAME .
 heiztankstelle.de CNAME .
@@ -19834,6 +19838,8 @@ heizungsinsel.de CNAME .
 *.heizungsinsel.de CNAME .
 heizungstechnik-online.de CNAME .
 *.heizungstechnik-online.de CNAME .
+heizup24.de CNAME .
+*.heizup24.de CNAME .
 hellersommer.de CNAME .
 *.hellersommer.de CNAME .
 hellertag.de CNAME .
@@ -21504,10 +21510,16 @@ octeno.de CNAME .
 *.octeno.de CNAME .
 oel-direkt.de CNAME .
 *.oel-direkt.de CNAME .
+oelbest.de CNAME .
+*.oelbest.de CNAME .
 oelgo.de CNAME .
 *.oelgo.de CNAME .
 oelguru.de CNAME .
 *.oelguru.de CNAME .
+oelheizprofi.de CNAME .
+*.oelheizprofi.de CNAME .
+oelheizpunkt.de CNAME .
+*.oelheizpunkt.de CNAME .
 oelheizung24.de CNAME .
 *.oelheizung24.de CNAME .
 oelhome.de CNAME .
@@ -21556,6 +21568,8 @@ oil-direkt.de CNAME .
 *.oil-direkt.de CNAME .
 oildirekt24.de CNAME .
 *.oildirekt24.de CNAME .
+oilheizung.de CNAME .
+*.oilheizung.de CNAME .
 oilparadies.de CNAME .
 *.oilparadies.de CNAME .
 okbon.de CNAME .
@@ -22148,6 +22162,8 @@ ruhrmove.de CNAME .
 *.ruhrmove.de CNAME .
 rundfunkportal.de CNAME .
 *.rundfunkportal.de CNAME .
+rundumheizoel.de CNAME .
+*.rundumheizoel.de CNAME .
 rundummobil.de CNAME .
 *.rundummobil.de CNAME .
 runge-energie.de CNAME .
@@ -25054,8 +25070,6 @@ winkeltjevananouk.nl CNAME .
 *.winkeltjevananouk.nl CNAME .
 online-apotek.no CNAME .
 *.online-apotek.no CNAME .
-advantage-career.online CNAME .
-*.advantage-career.online CNAME .
 ahealthcare.online CNAME .
 *.ahealthcare.online CNAME .
 anhaengers.online CNAME .
@@ -25168,10 +25182,6 @@ amf-cloudmail.org CNAME .
 *.amf-cloudmail.org CNAME .
 asset-ace.org CNAME .
 *.asset-ace.org CNAME .
-shop15630.associazionechien.org CNAME .
-*.shop15630.associazionechien.org CNAME .
-shop16330.associazionechien.org CNAME .
-*.shop16330.associazionechien.org CNAME .
 ataspec.org CNAME .
 *.ataspec.org CNAME .
 autoteilepreisvergleich.org CNAME .
@@ -25616,8 +25626,6 @@ aromatreasuresava.shop CNAME .
 *.aromatreasuresava.shop CNAME .
 artidomo.shop CNAME .
 *.artidomo.shop CNAME .
-asda-career.shop CNAME .
-*.asda-career.shop CNAME .
 aspacommerce.shop CNAME .
 *.aspacommerce.shop CNAME .
 assoulinesales.shop CNAME .
@@ -27418,6 +27426,8 @@ click-earn.to CNAME .
 *.click-earn.to CNAME .
 degussa.to CNAME .
 *.degussa.to CNAME .
+degussa-goldhandel-de.to CNAME .
+*.degussa-goldhandel-de.to CNAME .
 drugeo.to CNAME .
 *.drugeo.to CNAME .
 farmacia-italia24.to CNAME .

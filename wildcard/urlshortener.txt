@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 13:21 UTC
-# Version: 2025.1001.1321.32
+# Last modified: 01 Oct 2025 22:28 UTC
+# Version: 2025.1001.2228.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6919
+# Number of entries: 6958
 #
 *.0.gp
 *.00m.in
@@ -92,6 +92,7 @@
 *.1ly.ru
 *.1mm.kr
 *.1nk.co
+*.1nom.org
 *.1o.pl
 *.1o2.ir
 *.1oe9.one
@@ -285,6 +286,7 @@
 *.7a.ink
 *.7c34.com
 *.7g7.ir
+*.7i.nu
 *.7i.se
 *.7kts.com
 *.7li.in
@@ -301,7 +303,6 @@
 *.8.ly
 *.8591.tw
 *.888df.com
-*.88link.me
 *.88nb.cc
 *.88win.link
 *.89bet69.cc
@@ -351,7 +352,6 @@
 *.aarp.info
 *.aawsat.news
 *.ab.co
-*.abacaxii.com
 *.abar.in
 *.abbrr.com
 *.abc.li
@@ -386,11 +386,11 @@
 *.accessmy.tax
 *.go.acciojob.com
 *.accntu.re
-*.accommodatingly.xyz
 *.acconpit.com
 *.accorcio.it
 *.accu.ps
 *.s.accupass.com
+*.acekrem.com
 *.acer.co
 *.acer.link
 *.aces.mp
@@ -545,6 +545,7 @@
 *.amos.io
 *.amoz.onl
 *.ampafy.com
+*.ampifire.media
 *.shortener.amplittlegiant.com
 *.amplt.de
 *.ampr.gs
@@ -643,6 +644,7 @@
 *.ashiap.me
 *.asics.tv
 *.asin.cc
+*.asmoah.com
 *.aspen.li
 *.asq.kr
 *.assinar.io
@@ -977,6 +979,7 @@
 *.br4.in
 *.brad.blue
 *.bradley-parker.social
+*.bragimov.com
 *.bravo.ly
 *.bravos.life
 *.bre.is
@@ -1270,6 +1273,7 @@
 *.clvr.rocks
 *.cml.lol
 *.cmon.co
+*.cmpct.xyz
 *.cms.ms
 *.cmu.is
 *.cmu.to
@@ -1313,6 +1317,7 @@
 *.url.co.uk
 *.urlshortener.co.uk
 *.wapurl.co.uk
+*.w.webicon.co.za
 *.wowly.co.in
 *.xx.co.nz
 *.yop.co.za
@@ -1477,6 +1482,7 @@
 *.cutxly.com
 *.cuty.io
 *.cutyurl.com
+*.cutzlnk.cloud
 *.cvcpl.us
 *.cvent.me
 *.cvfmiij.wiki
@@ -1818,6 +1824,7 @@
 *.eohelp.link
 *.epicureanrecipevault.one
 *.epochtim.es
+*.eprofil.eu
 *.ept.ms
 *.eqix.it
 *.eqrco.de
@@ -2146,6 +2153,7 @@
 *.ghkp.us
 *.ghntinyurl.com
 *.gi.lt
+*.gibi.link
 *.gigaz.in
 *.gil.re
 *.giris724.link
@@ -2168,6 +2176,7 @@
 *.glblctzn.co
 *.glblctzn.me
 *.gldr.co
+*.glincker.com
 *.glmr.co
 *.glnk.io
 *.glo.bo
@@ -2268,6 +2277,7 @@
 *.gourl.us
 *.go.vic.gov.au
 *.gowat.ch
+*.gowedia.link
 *.gowes.in
 *.gph.to
 *.gq.mn
@@ -2342,6 +2352,7 @@
 *.hepsipay.eu
 *.her.is
 *.hereoo.com
+*.hereyouare.link
 *.herff.ly
 *.hero.link
 *.shorrtener.herokuapp.com
@@ -2402,6 +2413,7 @@
 *.hokie.co
 *.hola2.me
 *.homes.jp
+*.honeyurl.com
 *.hoo.be
 *.hooturl.com
 *.hop2.page
@@ -3065,6 +3077,7 @@
 *.link.ac
 *.link.cc
 *.link.gy
+*.link.sk
 *.link.so
 *.link.space
 *.link-cut.com
@@ -3192,6 +3205,7 @@
 *.linkopeners.com
 *.linkoqr.com
 *.linkotw.live
+*.linkpara.bio
 *.linkpays.in
 *.linkpool.us
 *.linkpop.com
@@ -3338,6 +3352,7 @@
 *.lnv.gy
 *.lo.ge
 *.loaynwfv2.live
+*.localiser.cloud
 *.lockn.link
 *.s.locus.cards
 *.logincuan1.com
@@ -3362,6 +3377,7 @@
 *.low.es
 *.lowrihouston.pro
 *.lowx.de
+*.loy.ro
 *.r.lp2.me
 *.lph.la
 *.lprk.co
@@ -3582,6 +3598,7 @@
 *.mii.pm
 *.mikale.me
 *.mikgr.si
+*.milc.io
 *.millerreception.com
 *.min.bz
 *.min-url.com
@@ -3616,6 +3633,7 @@
 *.minurl.fr
 *.minzap.com
 *.miol4.me
+*.mipon.xyz
 *.mis4.me
 *.mitsha.re
 *.miurl.do
@@ -3733,10 +3751,12 @@
 *.mumy.me
 *.munbyn.biz
 *.murl.com
+*.murl.gg
 *.t.musixmatch.com
 *.mut.lu
 *.mute-fill-mood.life
 *.muth.io
+*.mutual-office.com
 *.mv88.lat
 *.mvmtwatch.co
 *.mxa.us
@@ -3902,6 +3922,7 @@
 *.nkbp.jp
 *.nkf.re
 *.nks.li
+*.nlab.cg
 *.nlc.mobi
 *.nmrk.re
 *.nmw.news
@@ -3978,6 +3999,7 @@
 *.occ.li
 *.ock.cn
 *.ocul.us
+*.ocurto.com
 *.odinurl.com
 *.oe.cd
 *.oerk.at
@@ -4036,6 +4058,7 @@
 *.onforb.es
 *.onion.com
 *.only.li
+*.only-fans.click
 *.onlyads.space
 *.onlyfansclub.live
 *.onon.in
@@ -4327,6 +4350,7 @@
 *.pros.si
 *.proshare.ir
 *.protected.cx
+*.protogen.live
 *.proxyug.com
 *.prt.nu
 *.prvt.mobi
@@ -4455,6 +4479,7 @@
 *.quee.link
 *.quick.lt
 *.quicklinkpro.io
+*.quickshrink.ovh
 *.quicurl.com
 *.quik.im
 *.quip-art.com
@@ -4588,6 +4613,7 @@
 *.repackert.com
 *.repcandelora.com
 *.link.repithwin.com
+*.tempurl.replit.app
 *.replug.io
 *.replug.link
 *.reppiscopo.com
@@ -4614,6 +4640,7 @@
 *.rh1.eu
 *.rhub.in
 *.rickroll.it
+*.ricn.cc
 *.lk.riki.team
 *.ringcentr.al
 *.riot.com
@@ -4871,6 +4898,7 @@
 *.shkurto.com
 *.shlink.in
 *.shlink.io
+*.shln.io
 *.shln.me
 *.shlom.in
 *.shly.ink
@@ -4930,6 +4958,7 @@
 *.shorte.net
 *.shorte.pro
 *.shorte.st
+*.shorteasily.com
 *.shorten.asia
 *.shorten.ee
 *.shorten.gg
@@ -4967,6 +4996,7 @@
 *.shorter.me
 *.shorterall.com
 *.shorterflix.com
+*.shorterin.com
 *.shorterit.com
 *.shorterurl.net
 *.shortest.link
@@ -4974,6 +5004,7 @@
 *.shortfy.pro
 *.shortgo.me
 *.shorti.me
+*.shorti.uk
 *.shortie.io
 *.shortify.pro
 *.shortifyapi.com
@@ -5017,6 +5048,7 @@
 *.shortner.us
 *.shortnermaxi.com
 *.shortnerurl.org
+*.shortng.com
 *.shortntrack.com
 *.shortolink.com
 *.shortonly.com
@@ -5433,6 +5465,7 @@
 *.supurlman.com
 *.sur.ly
 *.sura.pw
+*.surkali.me
 *.surl.be
 *.surl.fo
 *.surl.li
@@ -5837,7 +5870,9 @@
 *.trimlink.ai
 *.trimlink.net
 *.trimlynk.com
+*.trimm.link
 *.trimrly.com
+*.trimrr.link
 *.trims.me
 *.trimuly.com
 *.trimurl.co
@@ -5910,7 +5945,8 @@
 *.twi.im
 *.twi.kz
 *.twirl.at
-*.www.twishx.com
+*.twishx.com
+*.twishx.io
 *.twitterpan.com
 *.twitthis.com
 *.twixar.com
@@ -5986,6 +6022,7 @@
 *.umuly.com
 *.unand.net
 *.unc.live
+*.unclic.info
 *.underswo.de
 *.undrarmr.co
 *.unelma.io
@@ -6675,6 +6712,7 @@
 *.xn--s7y86k.jp
 *.xn--ugt.cc
 *.xn--ul-ksa.eu
+*.xo.sd
 *.xoe.cz
 *.xor.tw
 *.xortly.com
@@ -6728,6 +6766,7 @@
 *.s.yam.com
 *.yamantap.me
 *.yamechanic.com
+*.link.yammbo.com
 *.yan.ua
 *.yap.im
 *.yas.fyi

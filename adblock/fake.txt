@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Oct 2025 13:19 UTC
-! Version: 2025.1001.1319.31
+! Last modified: 01 Oct 2025 22:26 UTC
+! Version: 2025.1001.2226.26
 ! Syntax: AdBlock
-! Number of entries: 13929
+! Number of entries: 13934
 !
 ||01broker.com^
 ||01crypto.com^
@@ -191,7 +191,6 @@
 ||adrienne.top^
 ||advancedglobalsystems41.cc^
 ||advancesecurity.de^
-||advantage-career.online^
 ||advantagewalldecor.com^
 ||advatgeous.com^
 ||adventamour.at^
@@ -389,7 +388,6 @@
 ||aloyogasdeutschland.com^
 ||aloyogasuomi.net^
 ||alpakafreunde.de^
-||alpbeat.com^
 ||alpenfaser.de^
 ||alpenlinie.at^
 ||alpenrose-mode.com^
@@ -501,7 +499,6 @@
 ||anclassic.com^
 ||andeking.de^
 ||andersonihc.com^
-||andrearebecca.com^
 ||andreaskehrer.de^
 ||andrewsstore.shop^
 ||angebotshop.com^
@@ -542,7 +539,6 @@
 ||annafieldonlineshop.de^
 ||annafieldshop.fr^
 ||annafieldwien.at^
-||annamodehaus.ch^
 ||annawelpen.de^
 ||annebarot.com^
 ||annelore.shop^
@@ -559,7 +555,6 @@
 ||answerafor.com^
 ||antcarry.com^
 ||antenaschile.cl^
-||anthria.de^
 ||anticipatei.com^
 ||antmineroutlet.com^
 ||antobi-shop.de^
@@ -652,7 +647,6 @@
 ||aquinoexpress.com^
 ||arabues.de^
 ||arachnoworldeur.shop^
-||aramusic-trantow.de^
 ||araujopecas.online^
 ||arbeit-zuhause.com^
 ||arbeiten.store^
@@ -716,7 +710,6 @@
 ||art-portrait.de^
 ||artcollectibles.xyz^
 ||artdupatrimoine.com^
-||artek-wien.com^
 ||artemondo.eu^
 ||artevive.de^
 ||arti-ava.de^
@@ -737,7 +730,6 @@
 ||asaldo-consultings.de^
 ||ascelteria.com^
 ||ascreationdecor.com^
-||asda-career.shop^
 ||asdvance.com^
 ||aseauto-rasentraktor.de^
 ||asela-handel.de^
@@ -771,8 +763,6 @@
 ||assetimperial.com^
 ||aspoma.assetmanagement-interface.com^
 ||assignmenty.com^
-||shop15630.associazionechien.org^
-||shop16330.associazionechien.org^
 ||assoulinesales.shop^
 ||asta-barka.com^
 ||astaattacco.com^
@@ -788,7 +778,6 @@
 ||atacadao-pneus.com^
 ||ataspec.org^
 ||learn.atdaslelabor.com^
-||ate-assetsmarkets.com^
 ||atelierdudiamant.com^
 ||atelierkitzbuehel.at^
 ||athletadeutschland.com^
@@ -796,7 +785,6 @@
 ||atikisoi.com^
 ||atinvesting212.co^
 ||atlantictrikot.de^
-||atol-finance.com^
 ||atologiesm.com^
 ||atossy.de^
 ||atpgoldenpass.com^
@@ -808,7 +796,6 @@
 ||attraktivgarten.com^
 ||atuiomane.de^
 ||atusale.shop^
-||atvelektro.com^
 ||au-meds.com^
 ||au-vex.com^
 ||audazza.com^
@@ -827,11 +814,9 @@
 ||aufsperrdienst-hilfe.at^
 ||aufsperrdienst-service.at^
 ||aufsperrhilfe.at^
-||aufstern.de^
 ||auftrag-rezeptfrei.de^
 ||augenbrauenlidschatten.com^
 ||augennstern.com^
-||augesterne.de^
 ||auggener-wein.shop^
 ||aupair-mama.de^
 ||aurainfusions.com^
@@ -852,7 +837,6 @@
 ||austriaroad.shop^
 ||austrittausderkirche.de^
 ||auszeit-seminar.de^
-||authentisch-tickets.de^
 ||authorityo.com^
 ||autmaxx.com^
 ||autoabdeckungsfabrik.com^
@@ -1817,6 +1801,7 @@
 ||brennstoff-einfach.de^
 ||brennstoffe-wilke.de^
 ||brennzgutes.com^
+||brenstoffe-versand.de^
 ||brettspielerwholesale.shop^
 ||brettsportde.com^
 ||breuer-boutique.de^
@@ -2972,6 +2957,7 @@
 ||degussa.to^
 ||degussa-goldhandel.ac^
 ||degussa-goldhandel.click^
+||degussa-goldhandel-de.to^
 ||dehaag-tech.de^
 ||deharaldsoldieava.shop^
 ||dehaushaltswaren.com^
@@ -5646,6 +5632,7 @@
 ||heira-shop.com^
 ||heisen-handel.de^
 ||heisenberg24.com^
+||heiser-handel.de^
 ||heissmanns.de^
 ||heiz-oel24.com^
 ||heiz-oel24.net^
@@ -5690,24 +5677,36 @@
 ||heizoelblitz.com^
 ||heizoelblitz.de^
 ||heizoelbp.de^
+||heizoelconnect.de^
 ||heizoelfit.de^
+||heizoelhilfe.de^
+||heizoelikone.de^
 ||heizoelitx.de^
 ||heizoelix.de^
 ||heizoeljet.de^
 ||heizoeljetzt.de^
 ||heizoellieferung.de^
+||heizoelmax.de^
+||heizoelnow.de^
 ||heizoelonline24.com^
+||heizoelport.de^
 ||heizoelpro.de^
 ||heizoelprofi.de^
+||heizoelprofit.de^
 ||heizoelpunkt.de^
 ||heizoelsofort.de^
 ||heizoelsolutions.com^
 ||heizoelsolutions.net^
+||heizoelteam.de^
+||heizoelversand.de^
+||heizoelwerk.de^
 ||heizoil-24.de^
 ||heizoil-vergleich.de^
 ||heizoil24.de^
+||heizone.de^
 ||heizparadies.de^
 ||heizpellets247.de^
+||heizport.de^
 ||heizpro.com^
 ||heizstrahlerprada.de^
 ||heiztankstelle.de^
@@ -5720,6 +5719,7 @@
 ||heizungselement.com^
 ||heizungsinsel.de^
 ||heizungstechnik-online.de^
+||heizup24.de^
 ||heldholz.com^
 ||helestyle.com^
 ||helganieblershop.com^
@@ -9058,8 +9058,11 @@
 ||odlorabatt.com^
 ||odmorvila.com^
 ||oel-direkt.de^
+||oelbest.de^
 ||oelgo.de^
 ||oelguru.de^
+||oelheizprofi.de^
+||oelheizpunkt.de^
 ||oelheizung24.de^
 ||oelhome.de^
 ||oelhub.de^
@@ -9121,6 +9124,7 @@
 ||oil-profits.com^
 ||oilbold.com^
 ||oildirekt24.de^
+||oilheizung.de^
 ||oilparadies.de^
 ||oilprofit.io^
 ||oins.shop^
@@ -10626,6 +10630,7 @@
 ||runaivete.com^
 ||runcloudshoe.com^
 ||rundfunkportal.de^
+||rundumheizoel.de^
 ||rundummobil.de^
 ||runge-energie.de^
 ||runons.club^

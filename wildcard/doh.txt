@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 15:03 UTC
-# Version: 2025.1001.1503.39
+# Last modified: 01 Oct 2025 23:57 UTC
+# Version: 2025.1001.2357.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3250
+# Number of entries: 3248
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -200,8 +200,6 @@
 *.dns.alanpearce.eu
 *.dns.albony.xyz
 *.dnsnl.alekberg.net
-*.dnsnl-noads.alekberg.net
-*.dnsse-noads.alekberg.net
 *.agh.alematho.de
 *.ag.alexf.cc
 *.diskstation.alexpollard.net

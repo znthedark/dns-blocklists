@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759315920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759357680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Oct 2025 10:52 UTC
-; Version: 2025.1001.1052.50
+; Last modified: 01 Oct 2025 22:28 UTC
+; Version: 2025.1001.2228.06
 ; Syntax: RPZ
-; Number of entries: 4366
+; Number of entries: 4330
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -458,8 +458,6 @@ blog.163.com CNAME .
 *.9k.com CNAME .
 aboutyoublog.com CNAME .
 *.aboutyoublog.com CNAME .
-account-disney-subscription.com CNAME .
-*.account-disney-subscription.com CNAME .
 actifforum.com CNAME .
 *.actifforum.com CNAME .
 activablog.com CNAME .
@@ -896,8 +894,6 @@ case-id-100029850.com CNAME .
 *.case-id-100029850.com CNAME .
 cbkgardens.com CNAME .
 *.cbkgardens.com CNAME .
-ispot.cc000webhost.com CNAME .
-*.ispot.cc000webhost.com CNAME .
 cellnovis.com CNAME .
 *.cellnovis.com CNAME .
 chamberecommerce.com CNAME .
@@ -916,12 +912,6 @@ collectblogs.com CNAME .
 *.collectblogs.com CNAME .
 blogspot.com.com CNAME .
 *.blogspot.com.com CNAME .
-w3spaces.com000webapp.com CNAME .
-*.w3spaces.com000webapp.com CNAME .
-bravesites.com000webhostapp.com CNAME .
-*.bravesites.com000webhostapp.com CNAME .
-wuaze.com000worldwide.com CNAME .
-*.wuaze.com000worldwide.com CNAME .
 comeze.com CNAME .
 *.comeze.com CNAME .
 comule.com CNAME .
@@ -1464,8 +1454,6 @@ master.com CNAME .
 *.master.com CNAME .
 mdkblog.com CNAME .
 *.mdkblog.com CNAME .
-mybluehost.me000webhotapp.com CNAME .
-*.mybluehost.me000webhotapp.com CNAME .
 medianewsonline.com CNAME .
 *.medianewsonline.com CNAME .
 meilleurforum.com CNAME .
@@ -1582,8 +1570,6 @@ own-free-website.com CNAME .
 *.own-free-website.com CNAME .
 p2blogs.com CNAME .
 *.p2blogs.com CNAME .
-start.page000nethost.com CNAME .
-*.start.page000nethost.com CNAME .
 page4.com CNAME .
 *.page4.com CNAME .
 pages10.com CNAME .
@@ -2314,8 +2300,6 @@ online-net.de CNAME .
 *.online-net.de CNAME .
 ozq.de CNAME .
 *.ozq.de CNAME .
-pineapple.page111mb.de CNAME .
-*.pineapple.page111mb.de CNAME .
 panel-1.de CNAME .
 *.panel-1.de CNAME .
 perfektionieren.de CNAME .
@@ -2522,8 +2506,6 @@ onlc.fr CNAME .
 *.onlc.fr CNAME .
 over-blog.fr CNAME .
 *.over-blog.fr CNAME .
-surge.sh000webhost.fr CNAME .
-*.surge.sh000webhost.fr CNAME .
 sitego.fr CNAME .
 *.sitego.fr CNAME .
 sitew.fr CNAME .
@@ -2836,8 +2818,6 @@ xblog.in CNAME .
 *.xblog.in CNAME .
 xml.in CNAME .
 *.xml.in CNAME .
-ubpages.com000webhost.info CNAME .
-*.ubpages.com000webhost.info CNAME .
 flirten.info CNAME .
 *.flirten.info CNAME .
 humorme.info CNAME .
@@ -2876,8 +2856,6 @@ asblog.ir CNAME .
 *.asblog.ir CNAME .
 asrblog.ir CNAME .
 *.asrblog.ir CNAME .
-atrinblog.ir CNAME .
-*.atrinblog.ir CNAME .
 avablog.ir CNAME .
 *.avablog.ir CNAME .
 blog.ir CNAME .
@@ -3004,8 +2982,6 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 dothome.co.kr CNAME .
 *.dothome.co.kr CNAME .
-hyperphp.com0pe.kr CNAME .
-*.hyperphp.com0pe.kr CNAME .
 webnode.kr CNAME .
 *.webnode.kr CNAME .
 c.la CNAME .
@@ -3156,8 +3132,6 @@ cfw.me CNAME .
 *.cfw.me CNAME .
 freeweb.me CNAME .
 *.freeweb.me CNAME .
-rf.gd0hi.me CNAME .
-*.rf.gd0hi.me CNAME .
 glitch.me CNAME .
 *.glitch.me CNAME .
 healthyemployee.me CNAME .
@@ -3290,8 +3264,6 @@ buttobi.net CNAME .
 *.buttobi.net CNAME .
 centerblog.net CNAME .
 *.centerblog.net CNAME .
-hostingersite.com260mb.net CNAME .
-*.hostingersite.com260mb.net CNAME .
 comunidades.net CNAME .
 *.comunidades.net CNAME .
 creatorlink.net CNAME .
@@ -3376,8 +3348,6 @@ mastertopforum.net CNAME .
 *.mastertopforum.net CNAME .
 mdwrite.net CNAME .
 *.mdwrite.net CNAME .
-hstn.me00web.net CNAME .
-*.hstn.me00web.net CNAME .
 megabyet.net CNAME .
 *.megabyet.net CNAME .
 mydiscussion.net CNAME .
@@ -3654,8 +3624,6 @@ neocities.org CNAME .
 *.neocities.org CNAME .
 netfast.org CNAME .
 *.netfast.org CNAME .
-free.nf22web.org CNAME .
-*.free.nf22web.org CNAME .
 nichesite.org CNAME .
 *.nichesite.org CNAME .
 noblogs.org CNAME .
@@ -3826,8 +3794,6 @@ blog.ru CNAME .
 *.blog.ru CNAME .
 blogspot.ru CNAME .
 *.blogspot.ru CNAME .
-jcmemoryscan.com1gb.ru CNAME .
-*.jcmemoryscan.com1gb.ru CNAME .
 corolain.ru CNAME .
 *.corolain.ru CNAME .
 d3.ru CNAME .
@@ -4314,8 +4280,6 @@ my-place.us CNAME .
 *.my-place.us CNAME .
 phpnet.us CNAME .
 *.phpnet.us CNAME .
-studio.site000free.us CNAME .
-*.studio.site000free.us CNAME .
 weblogs.us CNAME .
 *.weblogs.us CNAME .
 blogspot.com.uy CNAME .

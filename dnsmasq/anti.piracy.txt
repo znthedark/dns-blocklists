@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 14:56 UTC
-# Version: 2025.1001.1456.58
+# Last modified: 01 Oct 2025 23:50 UTC
+# Version: 2025.1001.2350.39
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10963
 #
@@ -759,7 +759,6 @@ local=/animeheaven.ru/
 local=/animeholics.org/
 local=/animehub.ac/
 local=/animeid.cc/
-local=/animekai.bz/
 local=/animekai.to/
 local=/animekaizoku.com/
 local=/animekayo.com/
@@ -876,7 +875,6 @@ local=/apkbigs.com/
 local=/apkcap.org/
 local=/apkcunk.com/
 local=/apkdone.com/
-local=/apkfolks.io/
 local=/apkfuture.com/
 local=/apkgod.net/
 local=/apkgw.com/
@@ -8591,6 +8589,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -8965,7 +8964,6 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
-local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -10465,6 +10463,7 @@ local=/webtorrent.io/
 local=/tracker.webtorrent.dev/
 local=/webtorrents.com/
 local=/wecat.help/
+local=/wecima.now/
 local=/weeabooter.com/
 local=/weebcentral.com/
 local=/dragonballsuperenvf.weebly.com/
@@ -10511,6 +10510,7 @@ local=/windowsby.ru/
 local=/windowspro.ru/
 local=/windowstool.net/
 local=/windowsx64.com/
+local=/windytrail24.online/
 local=/winghd.com/
 local=/winitpro.ru/
 local=/winneritbd.com/

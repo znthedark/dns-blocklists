@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 10:52 UTC
-# Version: 2025.1001.1052.50
+# Last modified: 01 Oct 2025 22:28 UTC
+# Version: 2025.1001.2228.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2183
+# Number of entries: 2165
 #
 local=/000a.de/
 local=/000space.com/
@@ -194,7 +194,6 @@ local=/abwechslungsreiches.de/
 local=/myblog.arts.ac.uk/
 local=/blogs.lincoln.ac.uk/
 local=/ac6.de/
-local=/account-disney-subscription.com/
 local=/aceblog.fr/
 local=/acidblog.net/
 local=/actifforum.com/
@@ -265,7 +264,6 @@ local=/asiaal.shop/
 local=/asrblog.ir/
 local=/at.cr/
 local=/at.st/
-local=/atrinblog.ir/
 local=/atsnx.com/
 local=/atspace.biz/
 local=/atspace.com/
@@ -634,7 +632,6 @@ local=/case-id-100029850.com/
 local=/cavandoragh.org/
 local=/cba.pl/
 local=/cbkgardens.com/
-local=/ispot.cc000webhost.com/
 local=/cellnovis.com/
 local=/center.tl/
 local=/centerblog.net/
@@ -734,14 +731,7 @@ local=/webnode.com.ve/
 local=/zzz.com.ua/
 local=/com-portal.de/
 local=/com0.de/
-local=/w3spaces.com000webapp.com/
-local=/ubpages.com000webhost.info/
-local=/bravesites.com000webhostapp.com/
-local=/wuaze.com000worldwide.com/
-local=/hyperphp.com0pe.kr/
-local=/jcmemoryscan.com1gb.ru/
 local=/com24.at/
-local=/hostingersite.com260mb.net/
 local=/comeze.com/
 local=/comhem.se/
 local=/cominbaxz.xyz/
@@ -1106,7 +1096,6 @@ local=/game.lc/
 local=/gaming.lc/
 local=/gamingadd.club/
 local=/gazmuri.cl/
-local=/rf.gd0hi.me/
 local=/gearhost.com/
 local=/gearhostpreview.com/
 local=/genblogger.com/
@@ -1415,8 +1404,6 @@ local=/mdtwo.top/
 local=/mdwrite.net/
 local=/me.gp/
 local=/me.ly/
-local=/mybluehost.me000webhotapp.com/
-local=/hstn.me00web.net/
 local=/medianewsonline.com/
 local=/mee.nu/
 local=/megabyet.net/
@@ -1515,7 +1502,6 @@ local=/newbigblog.com/
 local=/newmail.ru/
 local=/newsbloger.com/
 local=/nexgenelectricct.com/
-local=/free.nf22web.org/
 local=/ngontinh24.com/
 local=/nichesite.org/
 local=/nikoha.shop/
@@ -1590,8 +1576,6 @@ local=/p2blogs.com/
 local=/pacbell.net/
 local=/page.tl/
 local=/page-suspension.net/
-local=/start.page000nethost.com/
-local=/pineapple.page111mb.de/
 local=/page4.com/
 local=/page4.me/
 local=/pages10.com/
@@ -1739,7 +1723,6 @@ local=/server2.eu/
 local=/server3.eu/
 local=/server4free.de/
 local=/service.lc/
-local=/surge.sh000webhost.fr/
 local=/share.lc/
 local=/sharebyblog.com/
 local=/sharkserve.com/
@@ -1758,7 +1741,6 @@ local=/simdif.com/
 local=/simplesite.com/
 local=/simpsite.nl/
 local=/site.pro/
-local=/studio.site000free.us/
 local=/site123.me/
 local=/site90.net/
 local=/sitego.fr/

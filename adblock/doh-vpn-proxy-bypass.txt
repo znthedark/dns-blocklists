@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Oct 2025 15:04 UTC
-! Version: 2025.1001.1504.06
+! Last modified: 01 Oct 2025 23:58 UTC
+! Version: 2025.1001.2358.02
 ! Syntax: AdBlock
-! Number of entries: 8794
+! Number of entries: 8790
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -276,7 +276,6 @@
 ||adultproxy.men^
 ||y3suyx0cg2lewi2dmn.advaitghaisas.in^
 ||advanced.name^
-||builtlikearat.advanced-orchestra.site^
 ||advancedvpn.com^
 ||tetra.aeins.at^
 ||dns2.afastserver.com^
@@ -306,8 +305,6 @@
 ||dns.albony.xyz^
 ||aldhaferi.store^
 ||dnsnl.alekberg.net^
-||dnsnl-noads.alekberg.net^
-||dnsse-noads.alekberg.net^
 ||agh.alematho.de^
 ||ag.alexf.cc^
 ||diskstation.alexpollard.net^
@@ -322,7 +319,6 @@
 ||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
 ||alleesph.online^
-||huieurammarda.allez.la^
 ||dns.alloxr.info^
 ||micro.alloxr.info^
 ||vps.alloxr.info^

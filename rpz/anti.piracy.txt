@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759330560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759362600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Oct 2025 14:56 UTC
-; Version: 2025.1001.1456.58
+; Last modified: 01 Oct 2025 23:50 UTC
+; Version: 2025.1001.2350.39
 ; Syntax: RPZ
 ; Number of entries: 21926
 ;
@@ -968,8 +968,6 @@ vegamovies.by CNAME .
 *.vegamovies.by CNAME .
 aiw.bz CNAME .
 *.aiw.bz CNAME .
-animekai.bz CNAME .
-*.animekai.bz CNAME .
 beatz.bz CNAME .
 *.beatz.bz CNAME .
 bflix.bz CNAME .
@@ -10114,8 +10112,6 @@ animeflix.io CNAME .
 *.animeflix.io CNAME .
 animesuge.io CNAME .
 *.animesuge.io CNAME .
-apkfolks.io CNAME .
-*.apkfolks.io CNAME .
 apkhome.io CNAME .
 *.apkhome.io CNAME .
 apkloo.io CNAME .
@@ -11792,6 +11788,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -14408,6 +14406,8 @@ kinox.now CNAME .
 *.kinox.now CNAME .
 megakino.now CNAME .
 *.megakino.now CNAME .
+wecima.now CNAME .
+*.wecima.now CNAME .
 justpaid.co.nr CNAME .
 *.justpaid.co.nr CNAME .
 720pstream.nu CNAME .
@@ -14516,8 +14516,6 @@ streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
-tracker.tnl.one CNAME .
-*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -14730,6 +14728,8 @@ vostfree.online CNAME .
 *.vostfree.online CNAME .
 wassermann.online CNAME .
 *.wassermann.online CNAME .
+windytrail24.online CNAME .
+*.windytrail24.online CNAME .
 xcine.online CNAME .
 *.xcine.online CNAME .
 xx1.online CNAME .

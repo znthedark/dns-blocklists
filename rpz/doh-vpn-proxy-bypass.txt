@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759331040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759363080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Oct 2025 15:04 UTC
-; Version: 2025.1001.1504.06
+; Last modified: 01 Oct 2025 23:58 UTC
+; Version: 2025.1001.2358.02
 ; Syntax: RPZ
-; Number of entries: 17588
+; Number of entries: 17580
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -12239,8 +12239,6 @@ adblock.leenit.kr CNAME .
 *.adblock.leenit.kr CNAME .
 dns.nako.kr CNAME .
 *.dns.nako.kr CNAME .
-huieurammarda.allez.la CNAME .
-*.huieurammarda.allez.la CNAME .
 njal.la CNAME .
 *.njal.la CNAME .
 proxify.la CNAME .
@@ -12859,10 +12857,6 @@ akunssh.net CNAME .
 *.akunssh.net CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
-dnsnl-noads.alekberg.net CNAME .
-*.dnsnl-noads.alekberg.net CNAME .
-dnsse-noads.alekberg.net CNAME .
-*.dnsse-noads.alekberg.net CNAME .
 diskstation.alexpollard.net CNAME .
 *.diskstation.alexpollard.net CNAME .
 management.alexpollard.net CNAME .
@@ -16209,8 +16203,6 @@ adguard.marto.si CNAME .
 *.adguard.marto.si CNAME .
 hk2.1833015459.site CNAME .
 *.hk2.1833015459.site CNAME .
-builtlikearat.advanced-orchestra.site CNAME .
-*.builtlikearat.advanced-orchestra.site CNAME .
 adb.amishkaz.site CNAME .
 *.adb.amishkaz.site CNAME .
 artclass.site CNAME .
