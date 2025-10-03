@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 23:57 UTC
-# Version: 2025.1002.2357.02
+# Last modified: 03 Oct 2025 11:57 UTC
+# Version: 2025.1003.1157.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3664
+# Number of entries: 3660
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1434,7 +1434,6 @@
 0.0.0.0 dns.fgbk.net
 0.0.0.0 fidelius.top
 0.0.0.0 dns.fifux.be
-0.0.0.0 vps.filatov.link
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 filipinoray.com
 0.0.0.0 adg.fiyaajans.com
@@ -1631,7 +1630,6 @@
 0.0.0.0 dns.hee.ink
 0.0.0.0 carolinareaper.heeremans.net
 0.0.0.0 office.heimtec.com
-0.0.0.0 us-ny-alula.heliumcloud.cc
 0.0.0.0 dns.hellozhao.com
 0.0.0.0 dns.henek.ru
 0.0.0.0 dns.herkhof.nl
@@ -1656,7 +1654,6 @@
 0.0.0.0 ns2.hjk.kr
 0.0.0.0 ns2.hjk.me
 0.0.0.0 jpdns.hker.me
-0.0.0.0 dns.hnsfwlkj.com
 0.0.0.0 dns.ho.al
 0.0.0.0 adguard.hoangcongchuc.com
 0.0.0.0 pihole1.hoerli.net
@@ -1813,7 +1810,6 @@
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 ilinhy.com
 0.0.0.0 dns.imaicool.com
-0.0.0.0 doh.imaletion.de
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
 0.0.0.0 dns1.imkvq.com

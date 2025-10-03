@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 23:57 UTC
-# Version: 2025.1002.2357.02
+# Last modified: 03 Oct 2025 11:57 UTC
+# Version: 2025.1003.1157.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3213
+# Number of entries: 3209
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1213,7 +1213,6 @@ local=/dns.ffnw.de/
 local=/dns.fgbk.net/
 local=/fidelius.top/
 local=/dns.fifux.be/
-local=/vps.filatov.link/
 local=/dns.filipccz.eu/
 local=/filipinoray.com/
 local=/adg.fiyaajans.com/
@@ -1400,7 +1399,6 @@ local=/heavenorhell.ru/
 local=/dns.hee.ink/
 local=/carolinareaper.heeremans.net/
 local=/office.heimtec.com/
-local=/us-ny-alula.heliumcloud.cc/
 local=/dns.hellozhao.com/
 local=/dns.henek.ru/
 local=/dns.herkhof.nl/
@@ -1424,7 +1422,6 @@ local=/ns1.hjk.me/
 local=/ns2.hjk.kr/
 local=/ns2.hjk.me/
 local=/jpdns.hker.me/
-local=/dns.hnsfwlkj.com/
 local=/dns.ho.al/
 local=/adguard.hoangcongchuc.com/
 local=/pihole1.hoerli.net/
@@ -1521,7 +1518,6 @@ local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
 local=/ilinhy.com/
 local=/dns.imaicool.com/
-local=/doh.imaletion.de/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
 local=/dns1.imkvq.com/

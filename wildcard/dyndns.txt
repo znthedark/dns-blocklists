@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Sep 2025 08:11 UTC
-# Version: 2025.0923.0811.59
+# Last modified: 03 Oct 2025 11:56 UTC
+# Version: 2025.1003.1156.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1470
+# Number of entries: 1469
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -699,7 +699,6 @@
 *.iamallama.com
 *.ics.tw
 *.ideasciviles.com
-*.idigo.org
 *.idleplay.net
 *.4040.idv.tw
 *.ieserver.net

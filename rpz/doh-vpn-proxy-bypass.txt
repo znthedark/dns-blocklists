@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759449420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759492620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Oct 2025 23:57 UTC
-; Version: 2025.1002.2357.26
+; Last modified: 03 Oct 2025 11:57 UTC
+; Version: 2025.1003.1157.26
 ; Syntax: RPZ
-; Number of entries: 17506
+; Number of entries: 17482
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -239,8 +239,6 @@ digitallink.be CNAME .
 *.digitallink.be CNAME .
 dns.fifux.be CNAME .
 *.dns.fifux.be CNAME .
-intertravel.guillaumevanstrydonck.be CNAME .
-*.intertravel.guillaumevanstrydonck.be CNAME .
 dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
@@ -511,8 +509,6 @@ h0w.cc CNAME .
 *.h0w.cc CNAME .
 d.hansj.cc CNAME .
 *.d.hansj.cc CNAME .
-us-ny-alula.heliumcloud.cc CNAME .
-*.us-ny-alula.heliumcloud.cc CNAME .
 dns.huanmave.cc CNAME .
 *.dns.huanmave.cc CNAME .
 d.hxhd.cc CNAME .
@@ -861,8 +857,6 @@ dns.tuna.tsinghua.edu.cn CNAME .
 *.dns.tuna.tsinghua.edu.cn CNAME .
 free-vpn.cn CNAME .
 *.free-vpn.cn CNAME .
-domain.guojinloong.cn CNAME .
-*.domain.guojinloong.cn CNAME .
 nas.guyifei.cn CNAME .
 *.nas.guyifei.cn CNAME .
 doh.hugang8.cn CNAME .
@@ -2225,8 +2219,6 @@ adguard.grantbruneau.com CNAME .
 *.adguard.grantbruneau.com CNAME .
 gratisvpn.com CNAME .
 *.gratisvpn.com CNAME .
-greatestfreeproxy.com CNAME .
-*.greatestfreeproxy.com CNAME .
 adguard.green1052.com CNAME .
 *.adguard.green1052.com CNAME .
 greenssh.com CNAME .
@@ -2261,8 +2253,6 @@ adguard.h4nt3r.com CNAME .
 *.adguard.h4nt3r.com CNAME .
 furnandoistrans.hackquest.com CNAME .
 *.furnandoistrans.hackquest.com CNAME .
-gopeople.hackquest.com CNAME .
-*.gopeople.hackquest.com CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 dns.hannielzhang.com CNAME .
@@ -2349,8 +2339,6 @@ hit-proxy.com CNAME .
 *.hit-proxy.com CNAME .
 hmavpn.com CNAME .
 *.hmavpn.com CNAME .
-dns.hnsfwlkj.com CNAME .
-*.dns.hnsfwlkj.com CNAME .
 adguard.hoangcongchuc.com CNAME .
 *.adguard.hoangcongchuc.com CNAME .
 hola-vpn.com CNAME .
@@ -10469,8 +10457,6 @@ i2p-projekt.de CNAME .
 *.i2p-projekt.de CNAME .
 webproxy.ich-war-hier.de CNAME .
 *.webproxy.ich-war-hier.de CNAME .
-doh.imaletion.de CNAME .
-*.doh.imaletion.de CNAME .
 dns.imchristian.de CNAME .
 *.dns.imchristian.de CNAME .
 dns.immanuelschaffer.de CNAME .
@@ -11353,8 +11339,6 @@ dns.invent.hr CNAME .
 *.dns.invent.hr CNAME .
 vpn.ht CNAME .
 *.vpn.ht CNAME .
-fractioncaculator.govt.hu CNAME .
-*.fractioncaculator.govt.hu CNAME .
 dns.0ooo.icu CNAME .
 *.dns.0ooo.icu CNAME .
 datatech.icu CNAME .
@@ -12291,8 +12275,6 @@ dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
-vps.filatov.link CNAME .
-*.vps.filatov.link CNAME .
 freeconnect.link CNAME .
 *.freeconnect.link CNAME .
 guidetoworld.link CNAME .
@@ -12343,8 +12325,6 @@ browser.lol CNAME .
 *.browser.lol CNAME .
 crazyfastrace.lol CNAME .
 *.crazyfastrace.lol CNAME .
-geoguessr.lol CNAME .
-*.geoguessr.lol CNAME .
 dns.green-ping.lol CNAME .
 *.dns.green-ping.lol CNAME .
 ilysk.lol CNAME .
@@ -13391,8 +13371,6 @@ ns2.flodns.net CNAME .
 *.ns2.flodns.net CNAME .
 resolv.flokinet.net CNAME .
 *.resolv.flokinet.net CNAME .
-schoolnotes.followork.net CNAME .
-*.schoolnotes.followork.net CNAME .
 for-privacy.net CNAME .
 *.for-privacy.net CNAME .
 free-proxy-list.net CNAME .
@@ -16837,8 +16815,6 @@ granules.us CNAME .
 *.granules.us CNAME .
 guestappearance.us CNAME .
 *.guestappearance.us CNAME .
-schoolnotes.h0rst.us CNAME .
-*.schoolnotes.h0rst.us CNAME .
 hidebuzz.us CNAME .
 *.hidebuzz.us CNAME .
 dns.jhangy.us CNAME .

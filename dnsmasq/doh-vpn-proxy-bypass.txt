@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 23:57 UTC
-# Version: 2025.1002.2357.26
+# Last modified: 03 Oct 2025 11:57 UTC
+# Version: 2025.1003.1157.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8753
+# Number of entries: 8741
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1926,7 +1926,6 @@ local=/fiberproxy.net/
 local=/fiberproxy.us/
 local=/fidelius.top/
 local=/dns.fifux.be/
-local=/vps.filatov.link/
 local=/filesdownloader.com/
 local=/dns.filipccz.eu/
 local=/filipinoray.com/
@@ -1971,7 +1970,6 @@ local=/flyvpn.com/
 local=/hk154.flyzhouyc.win/
 local=/jp193.flyzhouyc.win/
 local=/st.flyzhouyc.win/
-local=/schoolnotes.followork.net/
 local=/gateway.fomichev.cloud/
 local=/for-privacy.net/
 local=/rf4.forestberrypi.com/
@@ -2128,7 +2126,6 @@ local=/adg.geili.me/
 local=/nodes.gen4.ninja/
 local=/genmirror.com/
 local=/genscorp.es/
-local=/geoguessr.lol/
 local=/adfree-games-at.geometry-games.online/
 local=/browser.geometry-games.online/
 local=/play-games-at.geometry-games.online/
@@ -2248,7 +2245,6 @@ local=/gostarlight.xyz/
 local=/gotoproxy.com/
 local=/fisdinstructure.gotroot.pw/
 local=/gotrusted.com/
-local=/fractioncaculator.govt.hu/
 local=/gowork.info/
 local=/gpreport.us/
 local=/gracarno.com/
@@ -2260,7 +2256,6 @@ local=/cloud.graphicpoint.pl/
 local=/gratisproxy.nl/
 local=/gratisvpn.com/
 local=/graveofhope.ru/
-local=/greatestfreeproxy.com/
 local=/dns.green-ping.lol/
 local=/adguard.green1052.com/
 local=/greenproxy.net/
@@ -2289,10 +2284,8 @@ local=/guavi.com/
 local=/guestappearance.us/
 local=/guidetoworld.link/
 local=/dns2.guidocioni.it/
-local=/intertravel.guillaumevanstrydonck.be/
 local=/homedns.gumeniuk.com/
 local=/gumm.org/
-local=/domain.guojinloong.cn/
 local=/dns.gupthabrothers.in/
 local=/guruproxy.net/
 local=/dns.gussguss.ovh/
@@ -2302,7 +2295,6 @@ local=/gvirabi.com/
 local=/gwopboyded.com/
 local=/gztech.me/
 local=/h-vpn.org/
-local=/schoolnotes.h0rst.us/
 local=/dns.h0schi.cloud/
 local=/dns2.h0schi.cloud/
 local=/potatojuice.h0stname.net/
@@ -2312,7 +2304,6 @@ local=/adg-nl.h4nt3r.com/
 local=/adg-swe.h4nt3r.com/
 local=/adguard.h4nt3r.com/
 local=/furnandoistrans.hackquest.com/
-local=/gopeople.hackquest.com/
 local=/ns1.hadan-dns.de/
 local=/dns.hahnjo.de/
 local=/dns.haka.se/
@@ -2347,7 +2338,6 @@ local=/heavenorhell.ru/
 local=/dns.hee.ink/
 local=/carolinareaper.heeremans.net/
 local=/office.heimtec.com/
-local=/us-ny-alula.heliumcloud.cc/
 local=/sdfergrdewdwdawdwdszdsadsadas.helixarcade.space/
 local=/dns.hellozhao.com/
 local=/helphideme.com/
@@ -2428,7 +2418,6 @@ local=/ns2.hjk.kr/
 local=/ns2.hjk.me/
 local=/jpdns.hker.me/
 local=/hmavpn.com/
-local=/dns.hnsfwlkj.com/
 local=/dns.ho.al/
 local=/adguard.hoangcongchuc.com/
 local=/pihole1.hoerli.net/
@@ -2578,7 +2567,6 @@ local=/rhp.ilove4ndan.com/
 local=/ilumu.com/
 local=/ilysk.lol/
 local=/dns.imaicool.com/
-local=/doh.imaletion.de/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
 local=/dns1.imkvq.com/

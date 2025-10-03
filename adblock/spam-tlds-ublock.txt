@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Oct 2025 17:30 UTC
-! Version: 2025.1002.1730.36
+! Last modified: 03 Oct 2025 11:10 UTC
+! Version: 2025.1003.1110.27
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -52,7 +52,7 @@
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc,domain=~doe.cash
 ||casino^$doc
-||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
+||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~ultra.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
 ||center^$doc,domain=~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
 ||ceo^$doc
 ||cf^$doc,domain=~google.cf
@@ -200,7 +200,7 @@
 ||photo^$doc,domain=~faceapp.photo|~glass.photo
 ||photos^$doc,domain=~picsum.photos
 ||pics^$doc,domain=~covet.pics|~pixers.pics|~sexhd.pics|~slow.pics|~twic.pics
-||pictures^$doc,domain=~comick.pictures|~pornhoarder.pictures
+||pictures^$doc,domain=~cleanup.pictures|~comick.pictures|~pornhoarder.pictures
 ||pink^$doc
 ||pizza^$doc,domain=~tux.pizza
 ||place^$doc,domain=~gamedev.place
@@ -210,7 +210,7 @@
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
 ||pub^$doc,domain=~arc.pub|~infosec.pub|~leaflet.pub|~static.pub|~wapo.pub
-||pw^$doc,domain=~buttercup.pw|~core.pw|~darkcrystal.pw|~dpc.pw|~gopass.pw|~palaugov.pw|~petridish.pw|~plutonium.pw|~xor.pw|~zok.pw
+||pw^$doc,domain=~buttercup.pw|~core.pw|~darkcrystal.pw|~dpc.pw|~gopass.pw|~palaugov.pw|~petridish.pw|~plutonium.pw|~tabula-rasa.pw|~xor.pw|~zok.pw
 ||qpon^$doc
 ||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest
 ||qzz.io^$doc
@@ -249,7 +249,7 @@
 ||srl^$doc
 ||store^$doc,domain=~adidashardware.store|~beyondagency.store|~bigtimerush.store|~bigtimerushuk.store|~cleanmasters.store|~ettoresoftware.store|~g-h.store|~glitchproductions.store|~hacksmith.store|~heavysaurus.store|~iqunix.store|~pbshop.store|~peugeot.store|~roble.store|~rokomari.store|~shoplazza.store|~stan.store|~tatemcraeeu.store|~tatemcrae.store|~timberjacks.store
 ||studio^$doc,domain=~ai.studio|~firebase.studio|~flourish.studio|~starapps.studio|~zenn.studio
-||style^$doc,domain=~primer.style
+||style^$doc,domain=~primer.style|~shiki.style
 ||su^$doc,domain=~encode.su|~jpg4.su|~jpg5.su|~promportal.su|~saint2.su
 ||support^$doc,domain=~ada.support|~jitsi.support
 ||surf^$doc,domain=~s-wings.surf

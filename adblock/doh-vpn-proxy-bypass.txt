@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Oct 2025 23:57 UTC
-! Version: 2025.1002.2357.26
+! Last modified: 03 Oct 2025 11:57 UTC
+! Version: 2025.1003.1157.26
 ! Syntax: AdBlock
-! Number of entries: 8753
+! Number of entries: 8741
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1927,7 +1927,6 @@
 ||fiberproxy.us^
 ||fidelius.top^
 ||dns.fifux.be^
-||vps.filatov.link^
 ||filesdownloader.com^
 ||dns.filipccz.eu^
 ||filipinoray.com^
@@ -1972,7 +1971,6 @@
 ||hk154.flyzhouyc.win^
 ||jp193.flyzhouyc.win^
 ||st.flyzhouyc.win^
-||schoolnotes.followork.net^
 ||gateway.fomichev.cloud^
 ||for-privacy.net^
 ||rf4.forestberrypi.com^
@@ -2129,7 +2127,6 @@
 ||nodes.gen4.ninja^
 ||genmirror.com^
 ||genscorp.es^
-||geoguessr.lol^
 ||adfree-games-at.geometry-games.online^
 ||browser.geometry-games.online^
 ||play-games-at.geometry-games.online^
@@ -2249,7 +2246,6 @@
 ||gotoproxy.com^
 ||fisdinstructure.gotroot.pw^
 ||gotrusted.com^
-||fractioncaculator.govt.hu^
 ||gowork.info^
 ||gpreport.us^
 ||gracarno.com^
@@ -2261,7 +2257,6 @@
 ||gratisproxy.nl^
 ||gratisvpn.com^
 ||graveofhope.ru^
-||greatestfreeproxy.com^
 ||dns.green-ping.lol^
 ||adguard.green1052.com^
 ||greenproxy.net^
@@ -2290,10 +2285,8 @@
 ||guestappearance.us^
 ||guidetoworld.link^
 ||dns2.guidocioni.it^
-||intertravel.guillaumevanstrydonck.be^
 ||homedns.gumeniuk.com^
 ||gumm.org^
-||domain.guojinloong.cn^
 ||dns.gupthabrothers.in^
 ||guruproxy.net^
 ||dns.gussguss.ovh^
@@ -2303,7 +2296,6 @@
 ||gwopboyded.com^
 ||gztech.me^
 ||h-vpn.org^
-||schoolnotes.h0rst.us^
 ||dns.h0schi.cloud^
 ||dns2.h0schi.cloud^
 ||potatojuice.h0stname.net^
@@ -2313,7 +2305,6 @@
 ||adg-swe.h4nt3r.com^
 ||adguard.h4nt3r.com^
 ||furnandoistrans.hackquest.com^
-||gopeople.hackquest.com^
 ||ns1.hadan-dns.de^
 ||dns.hahnjo.de^
 ||dns.haka.se^
@@ -2348,7 +2339,6 @@
 ||dns.hee.ink^
 ||carolinareaper.heeremans.net^
 ||office.heimtec.com^
-||us-ny-alula.heliumcloud.cc^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
 ||dns.hellozhao.com^
 ||helphideme.com^
@@ -2429,7 +2419,6 @@
 ||ns2.hjk.me^
 ||jpdns.hker.me^
 ||hmavpn.com^
-||dns.hnsfwlkj.com^
 ||dns.ho.al^
 ||adguard.hoangcongchuc.com^
 ||pihole1.hoerli.net^
@@ -2579,7 +2568,6 @@
 ||ilumu.com^
 ||ilysk.lol^
 ||dns.imaicool.com^
-||doh.imaletion.de^
 ||noads.imbuffering.com^
 ||dns.imchristian.de^
 ||dns1.imkvq.com^

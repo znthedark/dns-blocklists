@@ -673,6 +673,13 @@
       }
     },
     {
+      "PK": "cleanup.pictures",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cloudcdn.monster",
       "action": {
         "do": 1,
@@ -3767,6 +3774,13 @@
       }
     },
     {
+      "PK": "shiki.style",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "shirtz.cool",
       "action": {
         "do": 1,
@@ -4103,6 +4117,13 @@
       }
     },
     {
+      "PK": "tabula-rasa.pw",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "tajrobe.wiki",
       "action": {
         "do": 1,
@@ -4328,6 +4349,13 @@
     },
     {
       "PK": "uexcorp.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ultra.cc",
       "action": {
         "do": 1,
         "status": 1

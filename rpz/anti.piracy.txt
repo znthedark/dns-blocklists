@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759449000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759492200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Oct 2025 23:50 UTC
-; Version: 2025.1002.2350.41
+; Last modified: 03 Oct 2025 11:50 UTC
+; Version: 2025.1003.1150.21
 ; Syntax: RPZ
-; Number of entries: 22042
+; Number of entries: 22022
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -634,8 +634,6 @@ tantifilm.bet CNAME .
 *.tantifilm.bet CNAME .
 newalbumreleases.unblockit.bet CNAME .
 *.newalbumreleases.unblockit.bet CNAME .
-vegamovies.bible CNAME .
-*.vegamovies.bible CNAME .
 cineblog01.bid CNAME .
 *.cineblog01.bid CNAME .
 dunia21.bid CNAME .
@@ -1264,8 +1262,6 @@ gktorrents.cc CNAME .
 *.gktorrents.cc CNAME .
 gload.cc CNAME .
 *.gload.cc CNAME .
-gmovies.cc CNAME .
-*.gmovies.cc CNAME .
 gogoanime3.cc CNAME .
 *.gogoanime3.cc CNAME .
 gomovieshub.cc CNAME .
@@ -2058,8 +2054,6 @@ filmlicious.co CNAME .
 *.filmlicious.co CNAME .
 filmpertutti.co CNAME .
 *.filmpertutti.co CNAME .
-filmsenzalimiti.co CNAME .
-*.filmsenzalimiti.co CNAME .
 filmstreaming.co CNAME .
 *.filmstreaming.co CNAME .
 filmstreaming1.co CNAME .
@@ -4244,8 +4238,6 @@ flextorrents.com CNAME .
 *.flextorrents.com CNAME .
 flibustier64.com CNAME .
 *.flibustier64.com CNAME .
-flickystream.com CNAME .
-*.flickystream.com CNAME .
 flixdump.com CNAME .
 *.flixdump.com CNAME .
 flixjar.com CNAME .
@@ -5036,8 +5028,6 @@ kinoukr.com CNAME .
 *.kinoukr.com CNAME .
 kinovezha.com CNAME .
 *.kinovezha.com CNAME .
-kinovods.com CNAME .
-*.kinovods.com CNAME .
 kitsrun.com CNAME .
 *.kitsrun.com CNAME .
 kkooralives.com CNAME .
@@ -8764,8 +8754,6 @@ streamingcommunity.expert CNAME .
 *.streamingcommunity.expert CNAME .
 streamingcommunity.exposed CNAME .
 *.streamingcommunity.exposed CNAME .
-vegamovies.exposed CNAME .
-*.vegamovies.exposed CNAME .
 streamingcommunity.express CNAME .
 *.streamingcommunity.express CNAME .
 thepiratebay.fail CNAME .
@@ -9402,8 +9390,6 @@ wecat.help CNAME .
 *.wecat.help CNAME .
 streamingcommunity.hiphop CNAME .
 *.streamingcommunity.hiphop CNAME .
-vegamovies.hiphop CNAME .
-*.vegamovies.hiphop CNAME .
 fmovies.hn CNAME .
 *.fmovies.hn CNAME .
 vegamovies.hn CNAME .
@@ -11914,8 +11900,6 @@ yugenani.me CNAME .
 *.yugenani.me CNAME .
 zone-telechargement.me CNAME .
 *.zone-telechargement.me CNAME .
-vegamovies.med CNAME .
-*.vegamovies.med CNAME .
 casacinema.media CNAME .
 *.casacinema.media CNAME .
 cybercloud.media CNAME .
@@ -14644,8 +14628,6 @@ foggycrest91.online CNAME .
 *.foggycrest91.online CNAME .
 gidonlinehd.online CNAME .
 *.gidonlinehd.online CNAME .
-guardaserie.online CNAME .
-*.guardaserie.online CNAME .
 guardaserietv.online CNAME .
 *.guardaserietv.online CNAME .
 iboxbd.online CNAME .
@@ -18738,8 +18720,6 @@ unblockproject.space CNAME .
 *.unblockproject.space CNAME .
 vdiiy.space CNAME .
 *.vdiiy.space CNAME .
-vegamovies.space CNAME .
-*.vegamovies.space CNAME .
 vegamovies.spot CNAME .
 *.vegamovies.spot CNAME .
 vegamovies.srl CNAME .
@@ -19984,6 +19964,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tracker.xn--djrq4gl4hvoi.top CNAME .
+*.tracker.xn--djrq4gl4hvoi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .
@@ -19998,8 +19980,6 @@ zlibi.top CNAME .
 *.zlibi.top CNAME .
 altadefinizione.tours CNAME .
 *.altadefinizione.tours CNAME .
-vegamovies.tours CNAME .
-*.vegamovies.tours CNAME .
 cineblog01.town CNAME .
 *.cineblog01.town CNAME .
 eurostreaming.town CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759444080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759487280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Oct 2025 22:28 UTC
-; Version: 2025.1002.2228.17
+; Last modified: 03 Oct 2025 10:28 UTC
+; Version: 2025.1003.1028.51
 ; Syntax: RPZ
-; Number of entries: 13960
+; Number of entries: 13946
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2463,8 +2463,6 @@ cactusskyonline.com CNAME .
 *.cactusskyonline.com CNAME .
 candicegilmerauthor.com CNAME .
 *.candicegilmerauthor.com CNAME .
-canva.com CNAME .
-*.canva.com CNAME .
 capdisk.com CNAME .
 *.capdisk.com CNAME .
 capsulink.com CNAME .
@@ -2887,8 +2885,6 @@ h2apz.com CNAME .
 *.h2apz.com CNAME .
 hadsucma.com CNAME .
 *.hadsucma.com CNAME .
-hammerthoritaly.com CNAME .
-*.hammerthoritaly.com CNAME .
 hangeulplay.com CNAME .
 *.hangeulplay.com CNAME .
 hcibh.com CNAME .
@@ -2919,8 +2915,6 @@ highwayproapp.com CNAME .
 *.highwayproapp.com CNAME .
 hiroqr.com CNAME .
 *.hiroqr.com CNAME .
-hitlap.com CNAME .
-*.hitlap.com CNAME .
 dl.hitxgh.com CNAME .
 *.dl.hitxgh.com CNAME .
 ly.hkfture.com CNAME .
@@ -6719,8 +6713,6 @@ hostcafe.info CNAME .
 *.hostcafe.info CNAME .
 hotlinkto.info CNAME .
 *.hotlinkto.info CNAME .
-hqstreams7.info CNAME .
-*.hqstreams7.info CNAME .
 hsrw.info CNAME .
 *.hsrw.info CNAME .
 ild.info CNAME .
@@ -10373,8 +10365,6 @@ fgurl.net CNAME .
 *.fgurl.net CNAME .
 firsturl.net CNAME .
 *.firsturl.net CNAME .
-flyurl.net CNAME .
-*.flyurl.net CNAME .
 url-shortener.freebusinessapps.net CNAME .
 *.url-shortener.freebusinessapps.net CNAME .
 ftnt.net CNAME .
@@ -11733,8 +11723,6 @@ curl.ro CNAME .
 *.curl.ro CNAME .
 damoro.ro CNAME .
 *.damoro.ro CNAME .
-fi.ro CNAME .
-*.fi.ro CNAME .
 fsu.ro CNAME .
 *.fsu.ro CNAME .
 icks.ro CNAME .
@@ -12673,8 +12661,6 @@ gurl.to CNAME .
 *.gurl.to CNAME .
 hif.to CNAME .
 *.hif.to CNAME .
-hopla.to CNAME .
-*.hopla.to CNAME .
 hpe.to CNAME .
 *.hpe.to CNAME .
 htn.to CNAME .

@@ -5,8 +5,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Oct 2025 10:13 UTC
-! Version: 2025.1002.1013.25
+! Last modified: 03 Oct 2025 10:13 UTC
+! Version: 2025.1003.1013.32
 ! Syntax: AdBlock
 ! Number of entries: 1976
 !
@@ -289,6 +289,7 @@
 ||m-gks.custobar.com^
 ||m-gzmk5.custobar.com^
 ||m-swjb2.custobar.com^
+||m-tmsif.custobar.com^
 ||track.customer.io^
 ||track-eu.customer.io^
 ||track-sdk.customer.io^
@@ -479,7 +480,6 @@
 ||gate-ag.first-id.fr^
 ||track.flexlinkspro.com^
 ||ue.flipboard.com^
-||go.flx1.com^
 ||eultech.fnac.com^
 ||fr135.net^
 ||monitor.fraudblocker.com^

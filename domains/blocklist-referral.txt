@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 10:13 UTC
-# Version: 2025.1002.1013.25
+# Last modified: 03 Oct 2025 10:13 UTC
+# Version: 2025.1003.1013.32
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2438
+# Number of entries: 2440
 #
 l.1mp.ru
 t.1und1.de
@@ -307,6 +307,7 @@ seu2.cleverreach.com
 356539.seu2.cleverreach.com
 357839.seu2.cleverreach.com
 359314.seu2.cleverreach.com
+361290.seu2.cleverreach.com
 365213.seu2.cleverreach.com
 380038.seu2.cleverreach.com
 382058.seu2.cleverreach.com
@@ -459,6 +460,7 @@ m-fwa3o.custobar.com
 m-gks.custobar.com
 m-gzmk5.custobar.com
 m-swjb2.custobar.com
+m-tmsif.custobar.com
 track.customer.io
 track-eu.customer.io
 track-sdk.customer.io
@@ -789,7 +791,6 @@ click.fidelityinvestments.com
 gate-ag.first-id.fr
 track.flexlinkspro.com
 ue.flipboard.com
-go.flx1.com
 eultech.fnac.com
 fr135.net
 monitor.fraudblocker.com
@@ -930,6 +931,7 @@ group0.sites.hscoscdn-eu1.net
 143969174.group0.sites.hscoscdn-eu1.net
 145094632.group0.sites.hscoscdn-eu1.net
 25662839.group0.sites.hscoscdn-eu1.net
+26716552.group0.sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 group0.sites.hscoscdn-na2.net
 241933515.group0.sites.hscoscdn-na2.net

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 22:28 UTC
-# Version: 2025.1002.2228.17
+# Last modified: 03 Oct 2025 10:28 UTC
+# Version: 2025.1003.1028.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6980
+# Number of entries: 6973
 #
 local=/0.gp/
 local=/00m.in/
@@ -1090,7 +1090,6 @@ local=/calendrierbdp.info/
 local=/can.al/
 local=/candicegilmerauthor.com/
 local=/canon.us/
-local=/canva.com/
 local=/canyonstudent.net/
 local=/capdisk.com/
 local=/capital.one/
@@ -1936,7 +1935,6 @@ local=/ffm.to/
 local=/ffxiv.link/
 local=/fgurl.net/
 local=/fhurl.com/
-local=/fi.ro/
 local=/fiatconnect.app/
 local=/fibr.ai/
 local=/ficken.ws/
@@ -1986,7 +1984,6 @@ local=/fly.yt/
 local=/fly2.ws/
 local=/flyra.link/
 local=/flys.pw/
-local=/flyurl.net/
 local=/flyurls.com/
 local=/fmurl.cc/
 local=/fn.gg/
@@ -2322,7 +2319,6 @@ local=/hab.cx/
 local=/hadsucma.com/
 local=/hala.li/
 local=/d.halent.cn/
-local=/hammerthoritaly.com/
 local=/han.gl/
 local=/hanaco.jp/
 local=/hangeulplay.com/
@@ -2378,7 +2374,6 @@ local=/hil.ink/
 local=/hill.cm/
 local=/hiroqr.com/
 local=/histori.ca/
-local=/hitlap.com/
 local=/analytics.hitsmedia.org/
 local=/dl.hitxgh.com/
 local=/hivy.net/
@@ -2419,7 +2414,6 @@ local=/hoo.be/
 local=/hooturl.com/
 local=/hop2.page/
 local=/hopework.link/
-local=/hopla.to/
 local=/hopp.co/
 local=/hops.me/
 local=/hopth.ru/
@@ -2436,7 +2430,6 @@ local=/hoy.kr/
 local=/hp.care/
 local=/hpe.to/
 local=/hpvk.com/
-local=/hqstreams7.info/
 local=/hqxxx.bar/
 local=/hrbl.me/
 local=/hrbrg.co/

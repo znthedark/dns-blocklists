@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Oct 2025 22:28 UTC
-! Version: 2025.1002.2228.17
+! Last modified: 03 Oct 2025 10:28 UTC
+! Version: 2025.1003.1028.51
 ! Syntax: AdBlock
-! Number of entries: 6980
+! Number of entries: 6973
 !
 ||0.gp^
 ||00m.in^
@@ -1091,7 +1091,6 @@
 ||can.al^
 ||candicegilmerauthor.com^
 ||canon.us^
-||canva.com^
 ||canyonstudent.net^
 ||capdisk.com^
 ||capital.one^
@@ -1937,7 +1936,6 @@
 ||ffxiv.link^
 ||fgurl.net^
 ||fhurl.com^
-||fi.ro^
 ||fiatconnect.app^
 ||fibr.ai^
 ||ficken.ws^
@@ -1987,7 +1985,6 @@
 ||fly2.ws^
 ||flyra.link^
 ||flys.pw^
-||flyurl.net^
 ||flyurls.com^
 ||fmurl.cc^
 ||fn.gg^
@@ -2323,7 +2320,6 @@
 ||hadsucma.com^
 ||hala.li^
 ||d.halent.cn^
-||hammerthoritaly.com^
 ||han.gl^
 ||hanaco.jp^
 ||hangeulplay.com^
@@ -2379,7 +2375,6 @@
 ||hill.cm^
 ||hiroqr.com^
 ||histori.ca^
-||hitlap.com^
 ||analytics.hitsmedia.org^
 ||dl.hitxgh.com^
 ||hivy.net^
@@ -2420,7 +2415,6 @@
 ||hooturl.com^
 ||hop2.page^
 ||hopework.link^
-||hopla.to^
 ||hopp.co^
 ||hops.me^
 ||hopth.ru^
@@ -2437,7 +2431,6 @@
 ||hp.care^
 ||hpe.to^
 ||hpvk.com^
-||hqstreams7.info^
 ||hqxxx.bar^
 ||hrbl.me^
 ||hrbrg.co^

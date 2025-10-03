@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 23:50 UTC
-# Version: 2025.1002.2350.41
+# Last modified: 03 Oct 2025 11:50 UTC
+# Version: 2025.1003.1150.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11021
+# Number of entries: 11011
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3497,7 +3497,6 @@ local=/films-iphone.com/
 local=/filmsenzalimiti.best/
 local=/filmsenzalimiti.biz/
 local=/filmsenzalimiti.blog/
-local=/filmsenzalimiti.co/
 local=/filmsenzalimiti.com/
 local=/filmsenzalimiti.cool/
 local=/filmsenzalimiti.eu/
@@ -3624,7 +3623,6 @@ local=/flemmix.sbs/
 local=/flenix.net/
 local=/flextorrents.com/
 local=/flibustier64.com/
-local=/flickystream.com/
 local=/flixanity.site/
 local=/flixanity.xyz/
 local=/flixdump.com/
@@ -4104,7 +4102,6 @@ local=/glorybits.org/
 local=/glotorrents.pw/
 local=/gm-realm.net/
 local=/tracker.gmi.gd/
-local=/gmovies.cc/
 local=/gmt-max.org/
 local=/gnetworkbd.com/
 local=/gnula.life/
@@ -4258,7 +4255,6 @@ local=/guardaserie.media/
 local=/guardaserie.men/
 local=/guardaserie.money/
 local=/guardaserie.one/
-local=/guardaserie.online/
 local=/guardaserie.org/
 local=/guardaserie.parts/
 local=/guardaserie.pink/
@@ -5118,7 +5114,6 @@ local=/kinovod281025.pro/
 local=/kinovod291025.pro/
 local=/kinovod301025.pro/
 local=/kinovod311025.pro/
-local=/kinovods.com/
 local=/kinox.actor/
 local=/kinox.ae/
 local=/kinox.bet/
@@ -9877,7 +9872,6 @@ local=/vegamovies.auction/
 local=/vegamovies.ax/
 local=/vegamovies.ba/
 local=/vegamovies.bayern/
-local=/vegamovies.bible/
 local=/vegamovies.bike/
 local=/vegamovies.bio/
 local=/vegamovies.bj/
@@ -9929,7 +9923,6 @@ local=/vegamovies.ee/
 local=/vegamovies.energy/
 local=/vegamovies.engineering/
 local=/vegamovies.esq/
-local=/vegamovies.exposed/
 local=/vegamovies.fail/
 local=/vegamovies.faith/
 local=/vegamovies.family/
@@ -9963,7 +9956,6 @@ local=/vegamovies.group/
 local=/vegamovies.gy/
 local=/vegamovies.haus/
 local=/vegamovies.help/
-local=/vegamovies.hiphop/
 local=/vegamovies.hn/
 local=/vegamovies.hockey/
 local=/vegamovies.host/
@@ -9998,7 +9990,6 @@ local=/vegamovies.luxury/
 local=/vegamovies.maison/
 local=/vegamovies.makeup/
 local=/vegamovies.md/
-local=/vegamovies.med/
 local=/vegamovies.menu/
 local=/vegamovies.mg/
 local=/vegamovies.miami/
@@ -10070,7 +10061,6 @@ local=/vegamovies.skin/
 local=/vegamovies.sl/
 local=/vegamovies.sm/
 local=/vegamovies.spa/
-local=/vegamovies.space/
 local=/vegamovies.spot/
 local=/vegamovies.srl/
 local=/vegamovies.ss/
@@ -10092,7 +10082,6 @@ local=/vegamovies.to/
 local=/vegamovies.today/
 local=/vegamovies.tokyo/
 local=/vegamovies.tools/
-local=/vegamovies.tours/
 local=/vegamovies.town/
 local=/vegamovies.tr/
 local=/vegamovies.travel/
@@ -10684,6 +10673,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

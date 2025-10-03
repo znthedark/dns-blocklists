@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Oct 2025 22:26 UTC
-! Version: 2025.1002.2226.12
+! Last modified: 03 Oct 2025 10:26 UTC
+! Version: 2025.1003.1026.49
 ! Syntax: AdBlock
-! Number of entries: 13896
+! Number of entries: 13858
 !
 ||01broker.com^
 ||01crypto.com^
@@ -3780,6 +3780,7 @@
 ||ergeb-nisse.de^
 ||ergobackpacks.com^
 ||erika-taschen.de^
+||erinnersegel.com^
 ||erleseneweine24.com^
 ||erodisfashion.com^
 ||ersatzteil-land-mengeler.de^
@@ -4242,7 +4243,6 @@
 ||fiammshop.eu^
 ||fiat-transporter.at^
 ||fibovest.com^
-||fibusgewerblicherbuchhalter.com^
 ||lpm.fid-shop.de^
 ||fideligencia.com^
 ||fidinanzen.com^
@@ -4342,7 +4342,6 @@
 ||fixtaxi.at^
 ||fjallbris.com^
 ||fjallbris.de^
-||fjallravensale.de^
 ||fjallravensoutlet.com^
 ||fk-coincarp.com^
 ||flagshipmodels.com^
@@ -4377,7 +4376,6 @@
 ||flipperzero.at^
 ||fliptfeets.net^
 ||flixway.de^
-||flolyea.com^
 ||floorprada.com^
 ||florian-mentoring.com^
 ||floriansteiner.net^
@@ -4412,7 +4410,6 @@
 ||foldingboxesstore.com^
 ||foldingsbikedk.com^
 ||folioflare.com^
-||followeron.com^
 ||followintg.com^
 ||followjetzt.at^
 ||followslow.com^
@@ -4485,7 +4482,6 @@
 ||frachtaglogistics.com^
 ||fractionu.com^
 ||fraezenbikes.com^
-||frafondi.de^
 ||fragrance-proben.com^
 ||fragranceproben.com^
 ||fragrantanal.com^
@@ -4548,7 +4544,6 @@
 ||friesholz.com^
 ||friluftsbillig.com^
 ||friluftsde.com^
-||friluftsguru.com^
 ||friluftsrabatt.com^
 ||friluftsshopde.com^
 ||friluftswear.com^
@@ -4565,7 +4560,6 @@
 ||frohe-herzen.de^
 ||frontaley.com^
 ||frontrunningbot.net^
-||frostedlane.com^
 ||frovity.store^
 ||frtendance.com^
 ||fruchtbarleben.com^
@@ -4665,7 +4659,6 @@
 ||gadgetgalaxybox.com^
 ||gadgetgrids.com^
 ||gadgetladen.shop^
-||gadishop.com^
 ||gaffelshopava.shop^
 ||gahas24.de^
 ||gaiaboutique.de^
@@ -4680,7 +4673,6 @@
 ||galaxy-handel.de^
 ||galaxyfox.io^
 ||galeme.com^
-||galerie-kaufhaus.de^
 ||galeriemodehaus.com^
 ||galerieoswald.de^
 ||galeryfile.com^
@@ -4712,7 +4704,6 @@
 ||ganti-mode.de^
 ||gantvogueus.com^
 ||gapde.de^
-||garageabtcar.com^
 ||garantiertefinanzierung.com^
 ||garborine.com^
 ||garden-machines-shop.com^
@@ -4734,7 +4725,6 @@
 ||garduru.de^
 ||garmin-online.com^
 ||garmin-shop.net^
-||garminshop.at^
 ||garten-clemens.de^
 ||shop.garten-forst-technik-demmel.de^
 ||garten-freunde24.de^
@@ -4763,12 +4753,10 @@
 ||gartenflamme24.de^
 ||gartenfreunde-murrhardt.de^
 ||gartengeraete-shop.de^
-||gartengreifer.de^
 ||gartenguenter.de^
 ||gartenhandel-marsmann.de^
 ||gartenil.com^
 ||gartenira.com^
-||gartenladende.com^
 ||gartenland-martens.de^
 ||gartenlands.com^
 ||gartenlandschaftladen.com^
@@ -4809,7 +4797,6 @@
 ||gawude.shop^
 ||gazkuch.shop^
 ||gbgroup.ee^
-||gbviu-vip.shop^
 ||gcitrading.com^
 ||geappliances-shop.com^
 ||gear-outdoors.com^
@@ -4858,7 +4845,6 @@
 ||geoption.com^
 ||georgiou-athens.com^
 ||georgkipper.com^
-||georworker.shop^
 ||geoworld.mobi^
 ||geoxargentina.net^
 ||geoxbelgique.com^
@@ -4904,7 +4890,6 @@
 ||germanyremote.co^
 ||germanytool.com^
 ||gertakura.shop^
-||gerworkfind.com^
 ||gesamtgarten.de^
 ||geschaft-orka.com^
 ||geschaftgarten.com^
@@ -4922,7 +4907,6 @@
 ||gesund.world^
 ||gesund-wachsen.com^
 ||gesunde-lebensweise.com^
-||gesundeswelpenhaus.de^
 ||gesundheitapotheke.de^
 ||gesundheits-apo.com^
 ||gesundheitsbucher.com^
@@ -5029,7 +5013,6 @@
 ||glemory.com^
 ||gletta.com^
 ||glindo.de^
-||global-grupoinnovation.com^
 ||globalcim.com^
 ||globalcommercehub.online^
 ||globalcryptorcv.co^
@@ -5065,7 +5048,6 @@
 ||gluschwein.de^
 ||sec.gmgeurope.online^
 ||gmiglfx.com^
-||gmm-holzgmbh.com^
 ||gmzglobal.net^
 ||gninvest-ag.com^
 ||gninvestag.com^
@@ -5122,7 +5104,6 @@
 ||golflikeapro1.com^
 ||golfmegamart.com^
 ||golfstravismathew.com^
-||golz-motorgerate.de^
 ||golzmaschinen.com^
 ||gomehut.shop^
 ||gometim.com^
@@ -5156,7 +5137,6 @@
 ||gorgeousn.com^
 ||gorgeousshop.org^
 ||gorobo.de^
-||gosmartwatch.de^
 ||gothictot.com^
 ||gothimmes.com^
 ||gotrax.store^
@@ -5169,7 +5149,6 @@
 ||gpslocatorphone.com^
 ||gpt-definity.com^
 ||gpt-immediate.com^
-||gpt-investor.de^
 ||gpt-trader.de^
 ||gpt55x.io^
 ||grablee.store^
@@ -5227,7 +5206,6 @@
 ||grillfuerstde.com^
 ||grillfuerstshop.com^
 ||grillmeisterde.com^
-||grillprove.top^
 ||grillscloud.com^
 ||grillspro.shop^
 ||grillstore-krefeld.com^
@@ -5300,7 +5278,6 @@
 ||guenstig-heizoel.com^
 ||guenstig-pillen.de^
 ||guenstig-rezeptfrei.de^
-||guenstiger-rasenmaeher.com^
 ||guessfinland.com^
 ||guesso.com^
 ||gugeunk.de^
@@ -5337,7 +5314,6 @@
 ||gym-beast.de^
 ||gym-nation.de^
 ||gym-shark-india.com^
-||gym2goshop.de^
 ||gymiva.com^
 ||gymnasiumk.com^
 ||gymnastik-schuhe.de^
@@ -5425,7 +5401,6 @@
 ||hannahgshinn.shop^
 ||hannahvasey.com^
 ||hannelore.shop^
-||hannibalvajilla.com^
 ||hannover-mode.de^
 ||hannoverebike.de^
 ||hans-fahrradhaus.de^
@@ -5459,7 +5434,6 @@
 ||harmoniouy.com^
 ||harpercollins.shop^
 ||harrystammholz.com^
-||hartmannmode.de^
 ||harvestga.net^
 ||harz-welt.de^
 ||hasegawamodel.com^
@@ -5471,7 +5445,6 @@
 ||haus-elektro.de^
 ||haus-naturholz.com^
 ||haus-stmartin.de^
-||hausbulle.de^
 ||hauselektro.shop^
 ||hausermodehaus.de^
 ||hausgeek.com^
@@ -5590,18 +5563,13 @@
 ||heiz-oil.de^
 ||heiz-pellets24.com^
 ||heiz-traum.com^
-||heizenbillig.com^
 ||heizendirekt.de^
 ||heizenkleidung.com^
 ||heizensmart.de^
 ||heizensofort.de^
-||heizfit.de^
 ||heizfreude.de^
-||heizgo.de^
 ||heizhaus-kohle.de^
 ||heizinsel.de^
-||heizix.de^
-||heizjet.de^
 ||heizkessel-sale.com^
 ||heizmeister-24.com^
 ||heizoase.de^
@@ -5673,7 +5641,6 @@
 ||heizup24.de^
 ||heldholz.com^
 ||helestyle.com^
-||helganieblershop.com^
 ||helgawelpenhaus.com^
 ||helikontexoutdoor.com^
 ||helinoxlife.com^
@@ -5750,7 +5717,6 @@
 ||heydudeschuhereduziert.com^
 ||heydudeschuheschweiz.com^
 ||hfbyy.shop^
-||hgoobtimio.cc^
 ||hhb-garten.de^
 ||hi-goeedoo.com^
 ||hibote.de^
@@ -5821,7 +5787,6 @@
 ||hochbeckenleitern.com^
 ||hochcontainerrabatt.com^
 ||hochen-punkt.de^
-||hochstift-garten.de^
 ||hochwertigesspielzeug.com^
 ||hockeylagern.com^
 ||hockeysalesus.com^
@@ -5865,7 +5830,6 @@
 ||holzbrenn.de^
 ||holzbriketts-kaufen.com^
 ||holzcreff.de^
-||holzelektronikmarket.com^
 ||holzerneblocke.com^
 ||holzfursfeuer.de^
 ||holzhandler.com^
@@ -6099,7 +6063,6 @@
 ||idealonsahlwg.shop^
 ||idealonsahlwg.top^
 ||idealonsahlwi.top^
-||idealonsahwu.xyz^
 ||idealstoreonline.com^
 ||de.identitashoes.com^
 ||idetifcaton.com^
@@ -6189,7 +6152,6 @@
 ||immobilien24.online^
 ||immunepharma.com^
 ||imo-energie.com^
-||imoonbeam.com^
 ||impecspalm.pro^
 ||impeller-sales.com^
 ||imperial-musicstore.de^
@@ -7009,6 +6971,7 @@
 ||kuechenblume.net^
 ||kuhlecke.de^
 ||kuhschelhof.de^
+||kulako.com^
 ||kulbit.lv^
 ||kultur-bike.com^
 ||kumiko-kauf.de^
@@ -8914,7 +8877,6 @@
 ||northwaveoff.com^
 ||northwavestore.com^
 ||norvatix.io^
-||norwayhotel.net^
 ||not-bad.shop^
 ||not-schlosser.at^
 ||notationi.com^
@@ -9000,6 +8962,7 @@
 ||obroker.com^
 ||ocayo.de^
 ||occasionak.com^
+||occasionk.com^
 ||ochsner-agrarhandel.com^
 ||ocinboutique.de^
 ||octa-trade.com^
@@ -9979,7 +9942,6 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
-||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -13106,7 +13068,6 @@
 ||vincet-tech.de^
 ||vinero.at^
 ||vinissage.de^
-||vinospiritus.com^
 ||vinsimo.com^
 ||vinsrougesboutique.com^
 ||vintaro.de^
@@ -13136,6 +13097,7 @@
 ||vision-fs.com^
 ||visionfancyclothing.com^
 ||visionfx.me^
+||visitaserbia.com^
 ||vistaelegora.com^
 ||visualframe.de^
 ||visualizem.com^
