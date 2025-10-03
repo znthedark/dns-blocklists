@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Oct 2025 10:26 UTC
-! Version: 2025.1002.1026.13
+! Last modified: 02 Oct 2025 22:26 UTC
+! Version: 2025.1002.2226.12
 ! Syntax: AdBlock
-! Number of entries: 13904
+! Number of entries: 13896
 !
 ||01broker.com^
 ||01crypto.com^
@@ -224,6 +224,7 @@
 ||afsinag-shop.com^
 ||aftermarket-part.com^
 ||ag-reparaturservice.at^
+||agadishop.com^
 ||agbois.com^
 ||agf-placement.com^
 ||agfbio-chauffage.com^
@@ -914,6 +915,7 @@
 ||axetradecapital.com^
 ||axilmbient.com^
 ||axiogenesis.com^
+||axioswatches.com^
 ||axismakup.com^
 ||axl-staking.de^
 ||axnam.com^
@@ -1292,6 +1294,7 @@
 ||besteckstore.com^
 ||besteholzlager.ch^
 ||bestekaufhauser24.com^
+||bestekreditvergabe.ltd^
 ||bestelektronicshop.de^
 ||bestellrezeptfrei.de^
 ||bestellungapotheke.de^
@@ -1749,6 +1752,7 @@
 ||brenn-holzde.com^
 ||brennholz-angebot.com^
 ||brennholz-deckarm.de^
+||brennholz-deutsch.com^
 ||brennholz-goignerog.at^
 ||brennholz-granulat.com^
 ||brennholz-haus.de^
@@ -2337,6 +2341,7 @@
 ||pokemoncenter.co.at^
 ||polene.co.at^
 ||prettylittlething.co.za^
+||ripcurl.co.at^
 ||saucony.co.at^
 ||silvanass.co.uk^
 ||soundcore.co.at^
@@ -2528,7 +2533,6 @@
 ||comparisonp.com^
 ||compensair.com^
 ||competitiog.com^
-||compixa.de^
 ||compixa-shop.de^
 ||complemeny.com^
 ||completelamps.com^
@@ -2564,7 +2568,6 @@
 ||constanip.com^
 ||constantunion.com^
 ||consulius.de^
-||consultist-germany.com^
 ||consumptione.com^
 ||container-sodex.com^
 ||containercompany.shop^
@@ -2582,7 +2585,6 @@
 ||conversesuomi.com^
 ||convertquick.net^
 ||convresesuomi.com^
-||conywelpen.de^
 ||coodec.com^
 ||cooffee.de^
 ||coogle.at^
@@ -2601,7 +2603,6 @@
 ||coralcoveswim.com^
 ||corebespokebaby.com^
 ||corentinmaribro.shop^
-||coreoskredit.com^
 ||corgiswap.org^
 ||corkandoeu.shop^
 ||corkandopop.shop^
@@ -2616,12 +2617,10 @@
 ||cosmicclothing.us^
 ||cosmopoint.de^
 ||cosmoscrisp.com^
-||cotex-kredit.com^
 ||cottline.com^
 ||cottonshoesshop.com^
 ||cottonwears.com^
 ||couchtischeschranke.com^
-||countach-research.com^
 ||counterpain.net^
 ||counterpartw.com^
 ||countryparcel.com^
@@ -2717,7 +2716,6 @@
 ||crystal-inter.com^
 ||crystalli.de^
 ||crytomerge.com^
-||cs-bikes.de^
 ||cs-pharmacy.net^
 ||cside-karriere.de^
 ||csm-maker.com^
@@ -2767,7 +2765,6 @@
 ||cz-parts.de^
 ||cz-parts.eu^
 ||cz-parts.fi^
-||czv-vertrieb.de^
 ||d-apotheke.de^
 ||d-ortelle.eu^
 ||d-ticket.su^
@@ -2794,7 +2791,6 @@
 ||dalmory.com^
 ||dalnicka.cz^
 ||dalsari.com^
-||damaikjhhh.com^
 ||damemotebutikk.com^
 ||damenmode-1.de^
 ||damenmode-quelle.de^
@@ -2829,7 +2825,6 @@
 ||dasbatteries.com^
 ||dasbuchdeslebens.at^
 ||daschachten.de^
-||dashausderjuwelenosterreich.com^
 ||dashausimgarten.de^
 ||dashdeals.de^
 ||daskarnevalkostuem.de^
@@ -2927,7 +2922,6 @@
 ||degroceriesshop.com^
 ||degussa.to^
 ||degussa-goldhandel.ac^
-||degussa-goldhandel.click^
 ||degussa-goldhandel-de.to^
 ||dehaag-tech.de^
 ||deharaldsoldieava.shop^
@@ -2978,7 +2972,6 @@
 ||delson.de^
 ||delta-stock.com^
 ||deltabigai.net^
-||deltaprofit24.com^
 ||deluxepallets.com^
 ||deluxeskin.de^
 ||deluxio.de^
@@ -3141,7 +3134,6 @@
 ||diffusoriacusticisorgenti.com^
 ||digi-markets.de^
 ||digiopdesign.shop^
-||digipoint.org^
 ||digipulse.online^
 ||digisingl.ru^
 ||digital-research.net^
@@ -3166,7 +3158,6 @@
 ||diotrange.com^
 ||dirctychop.com^
 ||directepargne.com^
-||directkredite.com^
 ||direktbike.store^
 ||direkte-verarbeitung.site^
 ||dirkelektro.com^
@@ -3203,6 +3194,7 @@
 ||distrilyy.net^
 ||ditac-tech.de^
 ||dithclerk.com^
+||cfd.divine-group.io^
 ||divingshop.nl^
 ||divisaautopecas.com^
 ||divorion.com^
@@ -3323,14 +3315,12 @@
 ||dresdnererlebniswelteu.shop^
 ||dresschicholland.com^
 ||dressedandblessed.nl^
-||dressfat.com^
 ||dressshirtsblouses.com^
 ||drezia.com^
 ||drgillmaier.de^
 ||drheimer.com^
 ||drift-store.com^
 ||drinkevolution.shop^
-||drinkkunst.com^
 ||drivegoodwheels.com^
 ||drmartens-eu.com^
 ||drmartens-outlets.com^
@@ -3342,10 +3332,8 @@
 ||drmartensportugaloutlet.com^
 ||drmartenssalg.com^
 ||drmartensskroutz.com^
-||drogariahadama.com^
 ||drogen-kaufen.com^
 ||drogeriearenaoutlet.shop^
-||drohnen4you.de^
 ||drohnenhero.de^
 ||dronityshow.com^
 ||dronni-de.net^
@@ -3358,7 +3346,6 @@
 ||drugeo.to^
 ||drugs247.net^
 ||drumcovere.com^
-||drypulse.de^
 ||dryredwineshop.com^
 ||drywall-kauf.de^
 ||dshpartners.com^
@@ -3384,7 +3371,6 @@
 ||dunedale.com^
 ||dunklerkleidung.com^
 ||dunndavid.com^
-||duolaimi-handel.de^
 ||duplicaty.com^
 ||durona.de^
 ||duros.de^
@@ -3478,7 +3464,6 @@
 ||econoessence.com^
 ||economicp.com^
 ||economicq.com^
-||economie-horizon.com^
 ||economix.io^
 ||economizesses.xyz^
 ||econopartsmasy.com^
@@ -3733,7 +3718,6 @@
 ||engerer-handel.de^
 ||engineeringh.com^
 ||engwe-ebike.com^
-||engwe-ebike.de^
 ||engweebike.de^
 ||eniam.com^
 ||enjify.com^
@@ -3804,7 +3788,6 @@
 ||ersause.com^
 ||erschwinglichwerkzeug.com^
 ||erstmal-kaffee.com^
-||ertops2021.com^
 ||ervain.shop^
 ||esalesson.de^
 ||esblle.com^
@@ -3880,7 +3863,6 @@
 ||eufootwear.com^
 ||eugadneu.de^
 ||euisabelmarant.de^
-||eukram.com^
 ||eukrypto.site^
 ||eulaufrader.de^
 ||eumarketstores.com^
@@ -3973,7 +3955,6 @@
 ||ewighair.com^
 ||exango.nl^
 ||exango.org^
-||excelia.net^
 ||exceptionalg.com^
 ||excitingmarkets.com^
 ||exclusejacket.com^
@@ -4018,7 +3999,6 @@
 ||ezbuyremedieshere24.com^
 ||ezelgalabau.de^
 ||ezmarkets.io^
-||f-versand.de^
 ||f1authentics.shop^
 ||faastpharmacy.com^
 ||fabelin.de^
@@ -4070,7 +4050,6 @@
 ||fahrradrabatt.com^
 ||fahrradrabattdeneu.com^
 ||fahrradradde.com^
-||fahrradspab.com^
 ||fahrradstromkreis.com^
 ||fahrradteileladen.com^
 ||fahrradteilesoldes.com^
@@ -4686,6 +4665,7 @@
 ||gadgetgalaxybox.com^
 ||gadgetgrids.com^
 ||gadgetladen.shop^
+||gadishop.com^
 ||gaffelshopava.shop^
 ||gahas24.de^
 ||gaiaboutique.de^
@@ -8069,6 +8049,7 @@
 ||menily.com^
 ||menilyshop.com^
 ||mennal.top^
+||mensbestbasics.at^
 ||mensheaven.shop^
 ||mensluxuryboutique.com^
 ||menspower.online^
@@ -8437,6 +8418,7 @@
 ||moveislar.com^
 ||movelariavaz.com^
 ||movilatino.com^
+||mowaconcept.com^
 ||moxonline.de^
 ||mrhaushalt.de^
 ||mrmarkits.de^
@@ -9686,6 +9668,7 @@
 ||pillstock.net^
 ||pillz888.org^
 ||pilule-france.com^
+||pimdy.com^
 ||pincmcrelli.shop^
 ||pinewoodsell.com^
 ||pingpong-sale.com^
@@ -9972,6 +9955,7 @@
 ||prolebenklinik-igls.at^
 ||promised.cc^
 ||promomarkt.store^
+||promoprism.com^
 ||promotoybase.com^
 ||promusicgearstore.com^
 ||pronutrition.de^
@@ -10188,6 +10172,7 @@
 ||rarinoo.com^
 ||wohnlicht.rarnsn.top^
 ||rasen-profis.de^
+||rasen-traktor.com^
 ||rasen24.com^
 ||rasen24h.com^
 ||rasengerate.com^
@@ -10645,6 +10630,7 @@
 ||sabine-becker.de^
 ||sabirtasi-logistik.de^
 ||sachsen-pellet.de^
+||sacsparisoutlet.com^
 ||sadela.de^
 ||sadiluxe.de^
 ||safe-it-phshop.com^
@@ -11893,6 +11879,7 @@
 ||swimweararea.com^
 ||swimwearbrand.com^
 ||swimwearnew.com^
+||swiss-funding.com^
 ||swiss-vests.com^
 ||swiss29.com^
 ||swissassetsmanagement.ch^
@@ -12406,6 +12393,7 @@
 ||topbrennstoffe.de^
 ||topcollectibleshop.com^
 ||topdrap.com^
+||topfahrradzubehor.com^
 ||topflexibility.com^
 ||topgood.xyz^
 ||topheizlosungen.com^
@@ -12582,6 +12570,7 @@
 ||trikoa.com^
 ||trikotarena.com^
 ||trikotfachshop.com^
+||trikotrabatt.de^
 ||trikots-onshop.com^
 ||trikotsale.de^
 ||trillant.com^
@@ -12792,6 +12781,7 @@
 ||urbanized.shop^
 ||stylenest.urbanmart.top^
 ||urbanoutletstores.com^
+||urbanstepzone.cfd^
 ||urdotx.com^
 ||urnsey.shop^
 ||urzadomzone.com^
@@ -13084,6 +13074,7 @@
 ||viddsey.pro^
 ||videforex.com^
 ||videospiel-markt.de^
+||vider.fun^
 ||vidmason.com^
 ||vidxe.pro^
 ||vienna-modehaus.at^
@@ -13115,6 +13106,7 @@
 ||vincet-tech.de^
 ||vinero.at^
 ||vinissage.de^
+||vinospiritus.com^
 ||vinsimo.com^
 ||vinsrougesboutique.com^
 ||vintaro.de^

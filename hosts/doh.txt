@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 11:56 UTC
-# Version: 2025.1002.1156.10
+# Last modified: 02 Oct 2025 23:57 UTC
+# Version: 2025.1002.2357.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3698
+# Number of entries: 3664
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -729,7 +729,6 @@
 0.0.0.0 blackhole.gugainfo.com.br
 0.0.0.0 dns.hub.com.de
 0.0.0.0 adguardcloud.iasm.com.ar
-0.0.0.0 dns.joaofidelix.com.br
 0.0.0.0 dnssp.koretech.com.br
 0.0.0.0 arrakis.korolyzer.com.br
 0.0.0.0 lothuscorp.com.br
@@ -804,7 +803,6 @@
 0.0.0.0 nanopi.cybergroove.net
 0.0.0.0 dns.cybertonic.tech
 0.0.0.0 dns2.cybrespace.net
-0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 s2.d3mik.ru
@@ -827,7 +825,6 @@
 0.0.0.0 pi.daryllswer.net
 0.0.0.0 mail.data.haus
 0.0.0.0 ns.data.haus
-0.0.0.0 doh.datacore.ch
 0.0.0.0 doh.datahata.by
 0.0.0.0 dns.datenquark.de
 0.0.0.0 doh.datt.pw
@@ -887,7 +884,6 @@
 0.0.0.0 frank-web.dedyn.io
 0.0.0.0 k03.dedyn.io
 0.0.0.0 dns.deekshith.in
-0.0.0.0 deep-henchman-excuse.cfd
 0.0.0.0 doh.defaultroutes.de
 0.0.0.0 defendfrienddns.fyi
 0.0.0.0 de.deghy.ir
@@ -1107,7 +1103,6 @@
 0.0.0.0 sof01.dnscry.pt
 0.0.0.0 sto01.dnscry.pt
 0.0.0.0 sto02.dnscry.pt
-0.0.0.0 syd01.dnscry.pt
 0.0.0.0 syd02.dnscry.pt
 0.0.0.0 tbs01.dnscry.pt
 0.0.0.0 tia01.dnscry.pt
@@ -1265,40 +1260,16 @@
 0.0.0.0 www.dstruis.nl
 0.0.0.0 dns.dualhosting.eu
 0.0.0.0 yukito.duanzx.top
-0.0.0.0 ad1guard.duckdns.org
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
-0.0.0.0 aduma15.duckdns.org
-0.0.0.0 armm.duckdns.org
-0.0.0.0 cdzopi.duckdns.org
-0.0.0.0 derekcastle.duckdns.org
-0.0.0.0 dorkanddoodle.duckdns.org
-0.0.0.0 eweyo.duckdns.org
-0.0.0.0 genielee.duckdns.org
-0.0.0.0 jfeoks.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
-0.0.0.0 kalwat.duckdns.org
 0.0.0.0 kiwifunke.duckdns.org
-0.0.0.0 kolobok2.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
-0.0.0.0 ldaman.duckdns.org
-0.0.0.0 leoadguard.duckdns.org
 0.0.0.0 morgenegg.duckdns.org
-0.0.0.0 nas1403.duckdns.org
-0.0.0.0 nqh-dns.duckdns.org
-0.0.0.0 o--o.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
-0.0.0.0 pitchforkwaydns.duckdns.org
 0.0.0.0 punono.duckdns.org
-0.0.0.0 quanmeme.duckdns.org
-0.0.0.0 salvadoserver.duckdns.org
-0.0.0.0 site-2.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
-0.0.0.0 wisehomeguard.duckdns.org
-0.0.0.0 workcavestl.duckdns.org
-0.0.0.0 x-o-x.duckdns.org
-0.0.0.0 x861g.duckdns.org
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
 0.0.0.0 dns.dumk.in
@@ -1331,8 +1302,6 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.edgeworkssystems.ca
-0.0.0.0 dns.edgy.network
-0.0.0.0 dns.edison42.dev
 0.0.0.0 agh.amber.edu.vn
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
@@ -1346,7 +1315,6 @@
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
 0.0.0.0 dns.eliv.kr
-0.0.0.0 dns.ellichua.com
 0.0.0.0 nas.embraced.co
 0.0.0.0 emmmmm.me
 0.0.0.0 enclosr.co
@@ -1393,8 +1361,6 @@
 0.0.0.0 clic.eu.org
 0.0.0.0 resolver.dns.eban.eu.org
 0.0.0.0 doh.excdn.eu.org
-0.0.0.0 dns.de.futuredns.eu.org
-0.0.0.0 dns.us.futuredns.eu.org
 0.0.0.0 doh.greenwood.eu.org
 0.0.0.0 sweethome.in.eu.org
 0.0.0.0 fullaccesstointernet.jp.eu.org

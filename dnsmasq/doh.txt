@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Oct 2025 11:56 UTC
-# Version: 2025.1002.1156.10
+# Last modified: 02 Oct 2025 23:57 UTC
+# Version: 2025.1002.2357.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3247
+# Number of entries: 3213
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -617,7 +617,6 @@ local=/dns2.gregoret.com.ar/
 local=/blackhole.gugainfo.com.br/
 local=/dns.hub.com.de/
 local=/adguardcloud.iasm.com.ar/
-local=/dns.joaofidelix.com.br/
 local=/dnssp.koretech.com.br/
 local=/arrakis.korolyzer.com.br/
 local=/lothuscorp.com.br/
@@ -673,7 +672,6 @@ local=/gc.cyberbeta.cn/
 local=/nanopi.cybergroove.net/
 local=/dns.cybertonic.tech/
 local=/dns2.cybrespace.net/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/s2.d3mik.ru/
@@ -696,7 +694,6 @@ local=/dns-mum.daryllswer.net/
 local=/pi.daryllswer.net/
 local=/mail.data.haus/
 local=/ns.data.haus/
-local=/doh.datacore.ch/
 local=/doh.datahata.by/
 local=/dns.datenquark.de/
 local=/doh.datt.pw/
@@ -756,7 +753,6 @@ local=/dns.dedsuts.com/
 local=/frank-web.dedyn.io/
 local=/k03.dedyn.io/
 local=/dns.deekshith.in/
-local=/deep-henchman-excuse.cfd/
 local=/doh.defaultroutes.de/
 local=/defendfrienddns.fyi/
 local=/de.deghy.ir/
@@ -941,7 +937,6 @@ local=/slc01.dnscry.pt/
 local=/sof01.dnscry.pt/
 local=/sto01.dnscry.pt/
 local=/sto02.dnscry.pt/
-local=/syd01.dnscry.pt/
 local=/syd02.dnscry.pt/
 local=/tbs01.dnscry.pt/
 local=/tia01.dnscry.pt/
@@ -1053,40 +1048,16 @@ local=/adguard2.dsns.cloud/
 local=/dstruis.nl/
 local=/dns.dualhosting.eu/
 local=/yukito.duanzx.top/
-local=/ad1guard.duckdns.org/
 local=/adgrm.duckdns.org/
 local=/adguardpi.duckdns.org/
-local=/aduma15.duckdns.org/
-local=/armm.duckdns.org/
-local=/cdzopi.duckdns.org/
-local=/derekcastle.duckdns.org/
-local=/dorkanddoodle.duckdns.org/
-local=/eweyo.duckdns.org/
-local=/genielee.duckdns.org/
-local=/jfeoks.duckdns.org/
 local=/jurre-home.duckdns.org/
-local=/kalwat.duckdns.org/
 local=/kiwifunke.duckdns.org/
-local=/kolobok2.duckdns.org/
 local=/krtekvpn.duckdns.org/
-local=/ldaman.duckdns.org/
-local=/leoadguard.duckdns.org/
 local=/morgenegg.duckdns.org/
-local=/nas1403.duckdns.org/
-local=/nqh-dns.duckdns.org/
-local=/o--o.duckdns.org/
 local=/osefcorp.duckdns.org/
-local=/pitchforkwaydns.duckdns.org/
 local=/punono.duckdns.org/
-local=/quanmeme.duckdns.org/
-local=/salvadoserver.duckdns.org/
-local=/site-2.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
-local=/wisehomeguard.duckdns.org/
-local=/workcavestl.duckdns.org/
-local=/x-o-x.duckdns.org/
-local=/x861g.duckdns.org/
 local=/duii.de/
 local=/dukun.de/
 local=/dns.dumk.in/
@@ -1118,8 +1089,6 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.edgeworkssystems.ca/
-local=/dns.edgy.network/
-local=/dns.edison42.dev/
 local=/agh.amber.edu.vn/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
@@ -1133,7 +1102,6 @@ local=/pdns.elecura.net/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
 local=/dns.eliv.kr/
-local=/dns.ellichua.com/
 local=/nas.embraced.co/
 local=/emmmmm.me/
 local=/enclosr.co/
@@ -1175,8 +1143,6 @@ local=/jp.dns.bliod.eu.org/
 local=/clic.eu.org/
 local=/resolver.dns.eban.eu.org/
 local=/doh.excdn.eu.org/
-local=/dns.de.futuredns.eu.org/
-local=/dns.us.futuredns.eu.org/
 local=/doh.greenwood.eu.org/
 local=/sweethome.in.eu.org/
 local=/fullaccesstointernet.jp.eu.org/

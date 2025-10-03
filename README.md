@@ -53,11 +53,11 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 89096<br>45521     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
-| :blue_book:[Normal](#normal)       | 242645<br>126103     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | 406702<br>211038         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 452420<br>236121 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 563916<br>317705 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
+| :green_book:[Light](#light)             | 89037<br>45496     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
+| :blue_book:[Normal](#normal)       | 242248<br>125907     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
+| :ledger:[Pro](#pro)              | 405464<br>210438         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 449678<br>234804 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 561216<br>316457 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -88,7 +88,7 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 > [!IMPORTANT]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 89096 domains/hosts - 9900 compressed hosts - 45521 compressed domains
+**Entries:** 89037 domains/hosts - 9893 compressed hosts - 45496 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -113,7 +113,7 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 > [!IMPORTANT]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 242645 domains/hosts - 26961 compressed hosts - 126103 compressed domains
+**Entries:** 242248 domains/hosts - 26917 compressed hosts - 125907 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -134,7 +134,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 > **Blocking type:** Balanced            
 > This list version should only very rarely lead to restrictions. It is suitable for environments where there is an admin nearby who can unblock something. My personal recommendation for mostly problem-free adblocking with good privacy protection.
 
-**Entries:** 406702 domains/hosts - 45190 compressed hosts - 211038 compressed domains
+**Entries:** 405464 domains/hosts - 45052 compressed hosts - 210438 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -151,7 +151,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 57732 compressed domains
+**Entries:** 57573 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -173,7 +173,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 > **Referral domains (affiliate and tracking links):**           
 > A few referral domains that also function as normal trackers are blocked. For further details see: [Referral domains](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
 
-**Entries:** 452420 domains/hosts - 50269 compressed hosts - 236121 compressed domains
+**Entries:** 449678 domains/hosts - 49965 compressed hosts - 234804 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -190,7 +190,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro++ full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 68730 compressed domains
+**Entries:** 68023 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -224,7 +224,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 >**Miscellaneous:**          
 > Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
                    
-**Entries:** 563916 domains/hosts - 62658 compressed hosts - 317705 compressed domains
+**Entries:** 561216 domains/hosts - 62358 compressed hosts - 316457 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -241,7 +241,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Ultimate full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 74718 compressed domains
+**Entries:** 74111 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -263,7 +263,7 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 13904 compressed domains
+**Entries:** 13896 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -285,7 +285,7 @@ A blocklist for annoying and malicious pop-up ads.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 107316 compressed domains
+**Entries:** 107101 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -311,7 +311,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 > This blocklist is very large and may cause high memory usage depending on your ad blocker.          
 > For a more resource-friendly option, consider using the medium or mini versions.
                
-**Entries:** 902235 domains/hosts - 100249 compressed hosts - 777080 compressed domains
+**Entries:** 897472 domains/hosts - 99720 compressed hosts - 772318 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -334,7 +334,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 329994 compressed domains
+**Entries:** 327843 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -354,7 +354,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 155361 compressed domains
+**Entries:** 154238 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -434,7 +434,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 8791 compressed domains
+**Entries:** 8753 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -452,7 +452,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 3698 domains/hosts - 411 compressed hosts - 3247 compressed domains
+**Entries:** 3664 domains/hosts - 408 compressed hosts - 3213 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -565,7 +565,7 @@ A blocklist for blocking all known URL/link shortener.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 6956 compressed domains
+**Entries:** 6980 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -634,7 +634,7 @@ Blocks websites and services that are mainly used for the illegal distribution o
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 10961 compressed domains
+**Entries:** 11021 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -656,7 +656,7 @@ Blocks gambling content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 189313 compressed domains
+**Entries:** 189134 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -676,7 +676,7 @@ A medium version of the Gambling list. Designed for Adblockers that have problem
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 97713 compressed domains
+**Entries:** 97585 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -696,7 +696,7 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 36634 compressed domains
+**Entries:** 36565 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -718,7 +718,7 @@ Blocks adult content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 130113 compressed domains
+**Entries:** 129954 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
