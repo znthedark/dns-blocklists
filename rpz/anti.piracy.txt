@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759532580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759578240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Oct 2025 23:03 UTC
-; Version: 2025.1003.2303.46
+; Last modified: 04 Oct 2025 11:44 UTC
+; Version: 2025.1004.1144.19
 ; Syntax: RPZ
-; Number of entries: 22006
+; Number of entries: 22024
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -338,8 +338,6 @@ bollyflix.army CNAME .
 *.bollyflix.army CNAME .
 guardaserie.army CNAME .
 *.guardaserie.army CNAME .
-piratebay.army CNAME .
-*.piratebay.army CNAME .
 skymovieshd.army CNAME .
 *.skymovieshd.army CNAME .
 streamingcommunity.army CNAME .
@@ -580,6 +578,12 @@ eurostreaming.beauty CNAME .
 *.eurostreaming.beauty CNAME .
 privatemoviez.beauty CNAME .
 *.privatemoviez.beauty CNAME .
+bemusk.beer CNAME .
+*.bemusk.beer CNAME .
+bodger.beer CNAME .
+*.bodger.beer CNAME .
+coalyf.beer CNAME .
+*.coalyf.beer CNAME .
 netmirror.beer CNAME .
 *.netmirror.beer CNAME .
 123moviesfree.best CNAME .
@@ -1404,6 +1408,8 @@ piratebay.cc CNAME .
 *.piratebay.cc CNAME .
 pirateproxy.cc CNAME .
 *.pirateproxy.cc CNAME .
+piratexplay.cc CNAME .
+*.piratexplay.cc CNAME .
 popcorntimeonline.cc CNAME .
 *.popcorntimeonline.cc CNAME .
 region.nl1.privex.cc CNAME .
@@ -2170,8 +2176,6 @@ piratebays.co CNAME .
 *.piratebays.co CNAME .
 pirates-zone.co CNAME .
 *.pirates-zone.co CNAME .
-planet-series.co CNAME .
-*.planet-series.co CNAME .
 playmods.co CNAME .
 *.playmods.co CNAME .
 putlockergo.co CNAME .
@@ -4416,6 +4420,8 @@ gadget-vault.com CNAME .
 *.gadget-vault.com CNAME .
 yuptracker.gaijinent.com CNAME .
 *.yuptracker.gaijinent.com CNAME .
+galaxsys-gamesalt10-54rg78cw.com CNAME .
+*.galaxsys-gamesalt10-54rg78cw.com CNAME .
 galaxyaudiobook.com CNAME .
 *.galaxyaudiobook.com CNAME .
 game-2u.com CNAME .
@@ -6722,6 +6728,8 @@ steptodown.com CNAME .
 *.steptodown.com CNAME .
 stigstream.com CNAME .
 *.stigstream.com CNAME .
+stnolaneupowell.com CNAME .
+*.stnolaneupowell.com CNAME .
 storeplayapk.com CNAME .
 *.storeplayapk.com CNAME .
 streamboox.com CNAME .
@@ -9360,8 +9368,6 @@ doodstream.hair CNAME .
 *.doodstream.hair CNAME .
 ilgeniodellostreaming.hair CNAME .
 *.ilgeniodellostreaming.hair CNAME .
-olamovies.hair CNAME .
-*.olamovies.hair CNAME .
 123movies.haus CNAME .
 *.123movies.haus CNAME .
 altadefinizione.haus CNAME .
@@ -9372,6 +9378,8 @@ eurostreaming.haus CNAME .
 *.eurostreaming.haus CNAME .
 ilgeniodellostreaming.haus CNAME .
 *.ilgeniodellostreaming.haus CNAME .
+mkvcinemas.haus CNAME .
+*.mkvcinemas.haus CNAME .
 streamingcommunity.haus CNAME .
 *.streamingcommunity.haus CNAME .
 vegamovies.haus CNAME .
@@ -9904,8 +9912,6 @@ mults.info CNAME .
 *.mults.info CNAME .
 newcomic.info CNAME .
 *.newcomic.info CNAME .
-newtorrents.info CNAME .
-*.newtorrents.info CNAME .
 nnm-club.info CNAME .
 *.nnm-club.info CNAME .
 bangbangtorrents.no-ip.info CNAME .
@@ -10756,6 +10762,8 @@ readcomiconline.li CNAME .
 *.readcomiconline.li CNAME .
 streamingcommunity.li CNAME .
 *.streamingcommunity.li CNAME .
+streamingcommunityz.li CNAME .
+*.streamingcommunityz.li CNAME .
 torrent411.li CNAME .
 *.torrent411.li CNAME .
 torrentdb.li CNAME .
@@ -11440,6 +11448,8 @@ eurostreaming.mba CNAME .
 *.eurostreaming.mba CNAME .
 megakino.mba CNAME .
 *.megakino.mba CNAME .
+skymovieshd.mba CNAME .
+*.skymovieshd.mba CNAME .
 tantifilm.mba CNAME .
 *.tantifilm.mba CNAME .
 vegamovies.md CNAME .
@@ -13702,6 +13712,8 @@ serialnews.net CNAME .
 *.serialnews.net CNAME .
 serie-streaming.net CNAME .
 *.serie-streaming.net CNAME .
+series2watch.net CNAME .
+*.series2watch.net CNAME .
 seriesfilmestorrent.net CNAME .
 *.seriesfilmestorrent.net CNAME .
 serieson.net CNAME .
@@ -16970,6 +16982,8 @@ guardaserietv.pro CNAME .
 *.guardaserietv.pro CNAME .
 haildrop77.pro CNAME .
 *.haildrop77.pro CNAME .
+hailmist36.pro CNAME .
+*.hailmist36.pro CNAME .
 happymod.pro CNAME .
 *.happymod.pro CNAME .
 hd-rezka.pro CNAME .
@@ -17152,6 +17166,8 @@ vegamovies.promo CNAME .
 *.vegamovies.promo CNAME .
 vegamovies.properties CNAME .
 *.vegamovies.properties CNAME .
+sflix.ps CNAME .
+*.sflix.ps CNAME .
 streameast.ps CNAME .
 *.streameast.ps CNAME .
 vegamovies.ps CNAME .
@@ -18528,6 +18544,8 @@ spacemov.site CNAME .
 *.spacemov.site CNAME .
 stormcurve61.site CNAME .
 *.stormcurve61.site CNAME .
+stormwhirl73.site CNAME .
+*.stormwhirl73.site CNAME .
 streamkiste.site CNAME .
 *.streamkiste.site CNAME .
 sunhaze44.site CNAME .
@@ -18828,6 +18846,8 @@ streamingcommunity.stream CNAME .
 *.streamingcommunity.stream CNAME .
 tennis.stream CNAME .
 *.tennis.stream CNAME .
+videyy.stream CNAME .
+*.videyy.stream CNAME .
 vostfr.stream CNAME .
 *.vostfr.stream CNAME .
 yesmovies.stream CNAME .
@@ -19952,8 +19972,6 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tracker.xn--djrq4gl4hvoi.top CNAME .
-*.tracker.xn--djrq4gl4hvoi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .
@@ -20330,8 +20348,6 @@ myp2p.tv CNAME .
 *.myp2p.tv CNAME .
 myvi.tv CNAME .
 *.myvi.tv CNAME .
-nbahd.tv CNAME .
-*.nbahd.tv CNAME .
 nbastream.tv CNAME .
 *.nbastream.tv CNAME .
 necroip.tv CNAME .
@@ -20344,8 +20360,6 @@ netu.tv CNAME .
 *.netu.tv CNAME .
 newstudio.tv CNAME .
 *.newstudio.tv CNAME .
-nhlhd.tv CNAME .
-*.nhlhd.tv CNAME .
 nites.tv CNAME .
 *.nites.tv CNAME .
 nobodyhome.tv CNAME .
@@ -21186,6 +21200,8 @@ dood.wiki CNAME .
 *.dood.wiki CNAME .
 filmpertutti.wiki CNAME .
 *.filmpertutti.wiki CNAME .
+frostshine12.wiki CNAME .
+*.frostshine12.wiki CNAME .
 icemist80.wiki CNAME .
 *.icemist80.wiki CNAME .
 ilgeniodellostreaming.wiki CNAME .
@@ -21730,6 +21746,8 @@ free-boot.xyz CNAME .
 *.free-boot.xyz CNAME .
 free-telecharger.xyz CNAME .
 *.free-telecharger.xyz CNAME .
+frostglimmer59.xyz CNAME .
+*.frostglimmer59.xyz CNAME .
 frostwave30.xyz CNAME .
 *.frostwave30.xyz CNAME .
 fsapi.xyz CNAME .

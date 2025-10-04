@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Oct 2025 04:58 UTC
-# Version: 2025.1004.0458.33
+# Last modified: 04 Oct 2025 10:51 UTC
+# Version: 2025.1004.1051.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 7041
+# Number of entries: 7075
 #
 *.0.gp
 *.00m.in
@@ -98,6 +98,7 @@
 *.1oe9.one
 *.1p.io
 *.1pt.co
+*.1px.li
 *.1ql.ca
 *.1r2.in
 *.1s.is
@@ -356,6 +357,7 @@
 *.aawsat.news
 *.ab.co
 *.abar.in
+*.abbreurl.com
 *.abbrr.com
 *.abc.li
 *.abc11.tv
@@ -520,11 +522,13 @@
 *.alishort.com
 *.alisys.it
 *.allamericanpatriots.com
+*.allbio.link
 *.alli.pub
 *.alllinks.in
 *.alllinksinbio.com
 *.allytab.com
 *.alnk.to
+*.alol.io
 *.alolink.com
 *.alongno1.live
 *.alpha.camp
@@ -756,6 +760,7 @@
 *.barz.it
 *.bayarcuan.com
 *.bayareane.ws
+*.bio.bayoli.com
 *.bb.vg
 *.bb8.mn
 *.bbb.bz
@@ -790,6 +795,7 @@
 *.bee1s.com
 *.bee4.biz
 *.beeb.us
+*.beelnk.com
 *.beepurl.com
 *.beif.us
 *.beingtek.com
@@ -848,6 +854,7 @@
 *.bioqr.me
 *.bioqrs.com
 *.bioreling.com
+*.biosite.info
 *.biotap.click
 *.biotap.io
 *.biourl.link
@@ -890,6 +897,7 @@
 *.bitlz.cc
 *.bitnew.us
 *.bitq.link
+*.bitri.link
 *.bitshort.vip
 *.bitshrt.com
 *.bitstackhub.com
@@ -913,6 +921,7 @@
 *.bixurl.com
 *.url.nafi.biz.id
 *.biz15.co
+*.bizlinks.info
 *.bj88php.fun
 *.bjl.ink
 *.bjli.in
@@ -1336,6 +1345,7 @@
 *.s.coccoc.com
 *.cockroa.ch
 *.cocn.in
+*.codewithcode.com
 *.codimenu.com
 *.slug.codingcodax.dev
 *.codly.com
@@ -1549,6 +1559,7 @@
 *.davisonbarker.pro
 *.track3.davydovlaw.com
 *.db.tt
+*.dbolink.com
 *.dbricks.co
 *.go.dbs.com
 *.dcbspage.org
@@ -1620,6 +1631,7 @@
 *.disanspam.life
 *.discount-forex.biz
 *.discvr.co
+*.disini.link
 *.disq.us
 *.dive.pub
 *.divsly.com
@@ -1831,6 +1843,7 @@
 *.emojied.net
 *.emp.onl
 *.empukjeru.site
+*.emu.li
 *.enbl.tech
 *.encurtador.net
 *.l.enes.tech
@@ -2825,6 +2838,8 @@
 *.io.kanopus.org
 *.kaos.link
 *.kas.pr
+*.kash.ly
+*.kashly.net
 *.kask.us
 *.shortly.kata.ai
 *.katespadesneakpeek.com
@@ -2972,6 +2987,7 @@
 *.l138.co
 *.l1k.ir
 *.l1nx.ai
+*.l1tw.com
 *.l24.im
 *.l2f.ca
 *.l2g.hu
@@ -3077,6 +3093,7 @@
 *.lillink.xyz
 *.lilllil.ru
 *.lilnk.to
+*.lilurl.uk
 *.lilyfreeonlyfans.live
 *.limiteds.live
 *.lin.ee
@@ -3140,12 +3157,14 @@
 *.linkbun.com
 *.linkc.co
 *.linkcepat.my
+*.linkchop.com
 *.linkclickcounter.com
 *.linkcrypter.com
 *.linkcut.io
 *.linkcut.net
 *.linkcutt.com
 *.linkd.in
+*.linkdom.co
 *.linkdrip.com
 *.linke.to
 *.linkedin-jobmkt.com
@@ -3585,6 +3604,7 @@
 *.menangjp.pro
 *.meraihcuan.com
 *.merky.de
+*.mero.page
 *.merzcity.link
 *.mesej.la
 *.met.bz
@@ -3809,10 +3829,12 @@
 *.myfonts.us
 *.myglamm.in
 *.myikoniq.info
+*.mylinkbio.com
 *.mylinkinb.io
 *.mylinks.top
 *.mylinks.tr
 *.mylinksentry.com
+*.mylnk.bio
 *.mylnks.xyz
 *.mylt.tv
 *.mylx.io
@@ -3860,6 +3882,7 @@
 *.nah.uy
 *.naik-terus.com
 *.nakama420.xyz
+*.nakdetail.com
 *.nal.la
 *.name.ly
 *.nanourl.in
@@ -4006,7 +4029,6 @@
 *.nxturl.com
 *.nxy.in
 *.on.ny.gov
-*.nyan.co
 *.on.nyc.gov
 *.nycu.to
 *.nydn.us
@@ -4037,8 +4059,8 @@
 *.offf.to
 *.offlink.us
 *.offs.ec
+*.oft.ovh
 *.og1.in
-*.ogms.co
 *.ogwa.me
 *.oh.pn
 *.ohmy.link
@@ -4053,7 +4075,6 @@
 *.okdc.me
 *.oke.io
 *.okebio.com
-*.okeegas.win
 *.okniu.com
 *.okshort.net
 *.okt.to
@@ -4079,6 +4100,7 @@
 *.onecompile.com
 *.onelink.to
 *.onelinkly.com
+*.onepixel.link
 *.onepl.us
 *.oneshort.link
 *.goto.onestream.live
@@ -4150,7 +4172,6 @@
 *.outschooler.me
 *.ouuo.link
 *.ouvaton.link
-*.ov9.cn
 *.ovh.to
 *.ovmro.uk
 *.ovo99sports.life
@@ -4383,7 +4404,6 @@
 *.proxyug.com
 *.prt.nu
 *.prvt.mobi
-*.prz.pw
 *.psafe.ly
 *.psce.pw
 *.pse.is
@@ -4403,7 +4423,6 @@
 *.publicearn.online
 *.publiclinks.net
 *.puext.in
-*.puhli.icu
 *.punylinks.com
 *.purdue.university
 *.purefla.sh
@@ -4470,6 +4489,7 @@
 *.qraus.com
 *.qrb.us
 *.qrbee.net
+*.qrcaard.com
 *.qrcc.me
 *.qrcd.org
 *.qrco.de
@@ -4700,6 +4720,7 @@
 *.roids.top
 *.roketlink.bio
 *.rol.st
+*.rolink.bio
 *.rollwithpaul.com
 *.romw.co
 *.rool.ink
@@ -4776,6 +4797,7 @@
 *.saerly.com
 *.saf.li
 *.safe.mn
+*.safeelink.com
 *.safelinking.net
 *.safelinku.com
 *.saferurl.net
@@ -4867,6 +4889,7 @@
 *.sedap.me
 *.seedsta.rs
 *.seemless.link
+*.seer.to
 *.seez.bio
 *.seiu.co
 *.925.seiu.org
@@ -4913,6 +4936,7 @@
 *.sh-rt.link
 *.sh7.ch
 *.shadyurl.com
+*.shahiurl.com
 *.shakelchat.net
 *.shar.as
 *.share2.io
@@ -4970,6 +4994,7 @@
 *.short.pk
 *.short.re
 *.short.to
+*.short-gg.org
 *.short-link.co
 *.short-link.me
 *.short-ly.co
@@ -5298,6 +5323,7 @@
 *.slidesha.re
 *.slimeteam.live
 *.slims.us
+*.slimu.in
 *.slink.lat
 *.slinkurl.com
 *.slitcy.com
@@ -5510,6 +5536,7 @@
 *.suo.su
 *.suoc.me
 *.suolink.cn
+*.superboltz.com
 *.vip.superpopdrop.com
 *.supportsae.com
 *.supr.cl
@@ -5596,6 +5623,7 @@
 *.tao.mba
 *.tapetco.vn
 *.taplink.cc
+*.tapm.ee
 *.tapme.ink
 *.tapmy.app
 *.tapto.bio
@@ -5668,6 +5696,7 @@
 *.sexy.jill.survive.from.the.monster
 *.the360tools.com
 *.thebindaas.com
+*.thebiolinks.com
 *.thedigitalstreamline.com
 *.thedo.do
 *.thefood2.com
@@ -5941,6 +5970,7 @@
 *.trkr.ws
 *.trks.ca
 *.trl.ca
+*.trnqify.com
 *.troasters.com
 *.troy.hn
 *.a.trp.red
@@ -6027,6 +6057,7 @@
 *.typit.in
 *.tyrano-shortener.in
 *.tzu.to
+*.tzv.my
 *.u.nu
 *.u.to
 *.u-link.asia
@@ -6525,6 +6556,7 @@
 *.vypij.bar
 *.vz.to
 *.w.wiki
+*.w0o.de
 *.w1p.fr
 *.w2u.io
 *.w3dv.com
@@ -6973,12 +7005,14 @@
 *.zimy.pw
 *.zip.net
 *.zip.pe
+*.zip1.io
 *.zipbio.co
 *.ziphly.com
 *.zipmyurl.com
 *.zipth.at
 *.zipurl.fr
 *.zipurl.link
+*.zipurl.net
 *.zipzy.in
 *.zisoj.cyou
 *.ziturl.com

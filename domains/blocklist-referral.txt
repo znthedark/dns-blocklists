@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 10:13 UTC
-# Version: 2025.1003.1013.32
+# Last modified: 04 Oct 2025 10:13 UTC
+# Version: 2025.1004.1013.33
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2440
+# Number of entries: 2442
 #
 l.1mp.ru
 t.1und1.de
@@ -894,6 +894,7 @@ click.instantink.hpsmart.com
 href.li
 sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
+139610379.sites.hscoscdn-eu1.net
 139733074.sites.hscoscdn-eu1.net
 139754362.sites.hscoscdn-eu1.net
 139856112.sites.hscoscdn-eu1.net
@@ -2429,6 +2430,7 @@ redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 10267.redirect.appmetrica.yandex.com
 1164705.redirect.appmetrica.yandex.com
+1645778.redirect.appmetrica.yandex.com
 18895.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 2721989.redirect.appmetrica.yandex.com

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Oct 2025 04:56 UTC
-! Version: 2025.1004.0456.26
+! Last modified: 04 Oct 2025 10:26 UTC
+! Version: 2025.1004.1026.19
 ! Syntax: AdBlock
-! Number of entries: 13812
+! Number of entries: 13775
 !
 ||01broker.com^
 ||01crypto.com^
@@ -262,6 +262,7 @@
 ||airyclub.com^
 ||aisope.at^
 ||aix-investments.com^
+||ajfm.org^
 ||ajmaltours.com^
 ||ak-army.com^
 ||akarevents.com^
@@ -3840,7 +3841,6 @@
 ||eton-homehifi.de^
 ||etrade-securities.com^
 ||etrona.shop^
-||etrooppisode.com^
 ||etropo.com^
 ||etsbois-de-chaufage.com^
 ||jordanofficial.eu.com^
@@ -8878,7 +8878,6 @@
 ||nsw-handel.de^
 ||nsxcapital.com^
 ||ntaior.com^
-||nte-logistics.com^
 ||ntischoolpune.org^
 ||ntonio.de^
 ||ntvnewsnet.com^
@@ -8900,7 +8899,6 @@
 ||nze.com^
 ||oakdalerotary.org^
 ||oakprimefinance.com^
-||oasis-handel.de^
 ||obaspa.store^
 ||obdclick.com^
 ||ober-sicherheit.com^
@@ -8929,25 +8927,13 @@
 ||oel-direkt.de^
 ||oelbest.de^
 ||oelgo.de^
-||oelguru.de^
 ||oelheizprofi.de^
 ||oelheizpunkt.de^
 ||oelheizung24.de^
-||oelhome.de^
-||oelhub.de^
 ||oelit.de^
-||oelixx.de^
 ||oeljetzt.de^
-||oelnet.de^
-||oelone.de^
 ||oelonlineshop.de^
-||oelpanda.de^
-||oelport.de^
 ||oelpreisfinder.de^
-||oelsmart.de^
-||oelspeed.de^
-||oeltop.de^
-||oelup.de^
 ||oelzone.de^
 ||oesterreichischeapotheke.com^
 ||ofendeutschland.com^
@@ -8969,7 +8955,6 @@
 ||slimvitaxdietgummies.officialdealsite.com^
 ||officialnursery.com^
 ||officialrebrand.shop^
-||officialyamato.co^
 ||officialyeti.com^
 ||offihubstore.com^
 ||offizielleprodukte.shop^
@@ -8998,7 +8983,6 @@
 ||oilprofit.io^
 ||oins.shop^
 ||okbon.de^
-||okboptions.com^
 ||okelektropooleur.shop^
 ||okjordans.com^
 ||okun.shop^
@@ -9018,7 +9002,6 @@
 ||oliviamoreau.de^
 ||olley.ch^
 ||olukaiosterreich.at^
-||olympicsvipshop.com^
 ||olympis.de^
 ||omecyer.com^
 ||omega-technik.de^
@@ -9122,7 +9105,6 @@
 ||onschuhe.shop^
 ||onschuhefabrikverkaufschweiz.com^
 ||onschuhen.shop^
-||onschuheoutlet.at^
 ||onschuheoutletstore.at^
 ||onschuheschweiz.com^
 ||onschuheschweizoutlet.com^
@@ -9139,9 +9121,7 @@
 ||opabitcoin.com^
 ||opcte.com^
 ||openai-trips-reserve.com^
-||opengers.com^
 ||openmedicine-online.com^
-||openmile.de^
 ||openuplife.com^
 ||operatork.com^
 ||opholzimpexgmbh.shop^
@@ -9155,7 +9135,6 @@
 ||optimalattire.com^
 ||optimarkets.com^
 ||optimgmbh.com^
-||optimum-agentur.com^
 ||option-bank.com^
 ||optionbanking.com^
 ||optionbinaireamf.com^
@@ -9252,7 +9231,6 @@
 ||outdooressentialsshop.com^
 ||outdoorflow-gmbh.de^
 ||outdoorfurnitureuk.com^
-||outdoorgear-outlet.com^
 ||outdoorhosensalestore.com^
 ||outdoorit.club^
 ||outdoorkleidungs.com^
@@ -9263,7 +9241,6 @@
 ||outdoorresearchjacke.de^
 ||outdoorscooks.com^
 ||outdoorsdeals.com^
-||outdoorsfine.com^
 ||outdoorshirtde.com^
 ||outdoorspetzl.com^
 ||outdoorsportsequip.com^
@@ -9324,7 +9301,6 @@
 ||owkrhql.com^
 ||oxfordall.shop^
 ||oxfordmarkets.com^
-||oxikredit.com^
 ||oxlora.shop^
 ||oxtrades.com^
 ||oyemas.com^
@@ -9355,7 +9331,6 @@
 ||panamajackdeutschland.de^
 ||panamajackonline.sk^
 ||panamajackosterreich.at^
-||panamajackschweiz.net^
 ||panamajackwien.at^
 ||panbrennholz.de^
 ||pandabrokersvip.com^
@@ -9410,7 +9385,6 @@
 ||patrickvetter.de^
 ||patrimoine-partenaires.com^
 ||patrimoinefacile.com^
-||patrimoinesolution.com^
 ||patrioticy.com^
 ||patrisor.com^
 ||paulinasinger.com^
@@ -9460,9 +9434,7 @@
 ||pehkonenbrennholz.de^
 ||pehl-gartenbau.de^
 ||pelagiot.cc^
-||pellelily.com^
 ||pellethaus.shop^
-||pelletholz24.com^
 ||pelletnaturale.com^
 ||pelletopia.de^
 ||pelletsgeschaft.com^
@@ -9483,7 +9455,6 @@
 ||perfumestylish.com^
 ||pergolarabatt.com^
 ||perimtharty.com^
-||peristainnovations.com^
 ||peritacionjudicialoficial.com^
 ||perlatoschuhe.com^
 ||perlatoshoe.com^
@@ -9589,7 +9560,6 @@
 ||pincmcrelli.shop^
 ||pinewoodsell.com^
 ||pingpong-sale.com^
-||pingpongprous.com^
 ||pinguid.xyz^
 ||pinkkola.com^
 ||pinkofcloud.com^
@@ -9628,7 +9598,6 @@
 ||plasticshor.com^
 ||platincoin.com^
 ||platinwerk.de^
-||plattengeschaft.de^
 ||plattenopaneele.de^
 ||plattenspielerde.de^
 ||platztellershop.com^
@@ -9655,7 +9624,6 @@
 ||plexiglass.nl^
 ||trade.plf-tchb.com^
 ||pliken.com^
-||ploryday.com^
 ||platform.pltf-tchg.io^
 ||pluralsilk.com^
 ||pluschennici.com^
@@ -9669,7 +9637,6 @@
 ||png-group.net^
 ||pnladvanced.com^
 ||poascontrst.com^
-||pociath.com^
 ||pocketoption.fr^
 ||pocofficial.com^
 ||pocofficial.shop^
@@ -9706,7 +9673,6 @@
 ||popbosch.com^
 ||popcartruck.com^
 ||popflex-austria.com^
-||popkitchen-ware.com^
 ||popland-berlin.de^
 ||popmartgreece.com^
 ||popmarts.pro^
@@ -9801,7 +9767,6 @@
 ||previdialkredit.com^
 ||priceslash.shop^
 ||primada.de^
-||primaprofi-reinigung.at^
 ||primatop.de^
 ||prime-analytics.de^
 ||prime-deutschland.com^
@@ -9853,7 +9818,6 @@
 ||produktretter.at^
 ||produtosachados.digital^
 ||proevery.com^
-||profi-rasenmaher.com^
 ||profibikes.de^
 ||proficienct.com^
 ||profindit.pro^
@@ -9896,6 +9860,7 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
+||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -9938,7 +9903,6 @@
 ||purawerk-gmbh.de^
 ||pure-chaleur.com^
 ||pureglowde.com^
-||purekicks.de^
 ||purelywhitedeluxe.com^
 ||pureprefer.com^
 ||purprints.com^
@@ -9949,7 +9913,6 @@
 ||apothekerezeptfrei-1.puzl.com^
 ||gartenmuster.pvnlvp.ink^
 ||pvqkcuin.shop^
-||pxctpkvu.shop^
 ||pyro-expression.com^
 ||pzinformatica.com^
 ||qartelshop.com^
