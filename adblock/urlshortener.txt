@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Oct 2025 10:51 UTC
-! Version: 2025.1004.1051.23
+! Last modified: 04 Oct 2025 16:31 UTC
+! Version: 2025.1004.1631.09
 ! Syntax: AdBlock
-! Number of entries: 7075
+! Number of entries: 7070
 !
 ||0.gp^
 ||00m.in^
@@ -4547,7 +4547,6 @@
 ||qxa.me^
 ||qxp.cz^
 ||qxp.sk^
-||qxxxp.org^
 ||qzr2.com^
 ||r-7.co^
 ||r-txt.co^
@@ -4556,8 +4555,6 @@
 ||r0m.me^
 ||r2c.one^
 ||r4u.in^
-||r8z.cn^
-||r9f.cn^
 ||raceclip.com^
 ||racun.in^
 ||radiances.beauty^
@@ -4580,7 +4577,6 @@
 ||short.razinj.com^
 ||rb.gy^
 ||rb-story.com^
-||rb6.co^
 ||rb6.me^
 ||rbl.ms^
 ||rblx.co^
@@ -4673,7 +4669,6 @@
 ||replug.link^
 ||reppiscopo.com^
 ||repyaccarino.com^
-||req.biz^
 ||reqlick.com^
 ||reshareme.com^
 ||reshort.com^

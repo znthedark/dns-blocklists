@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759575060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759595460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Oct 2025 10:51 UTC
-; Version: 2025.1004.1051.23
+; Last modified: 04 Oct 2025 16:31 UTC
+; Version: 2025.1004.1631.09
 ; Syntax: RPZ
-; Number of entries: 14150
+; Number of entries: 14140
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -639,8 +639,6 @@ lihi.biz CNAME .
 *.lihi.biz CNAME .
 munbyn.biz CNAME .
 *.munbyn.biz CNAME .
-req.biz CNAME .
-*.req.biz CNAME .
 sbms.biz CNAME .
 *.sbms.biz CNAME .
 shorturl.biz CNAME .
@@ -1425,10 +1423,6 @@ ock.cn CNAME .
 *.ock.cn CNAME .
 ooa.cn CNAME .
 *.ooa.cn CNAME .
-r8z.cn CNAME .
-*.r8z.cn CNAME .
-r9f.cn CNAME .
-*.r9f.cn CNAME .
 shortio.cn CNAME .
 *.shortio.cn CNAME .
 so0o.cn CNAME .
@@ -1887,8 +1881,6 @@ r-txt.co CNAME .
 *.r-txt.co CNAME .
 ranvz.co CNAME .
 *.ranvz.co CNAME .
-rb6.co CNAME .
-*.rb6.co CNAME .
 rblx.co CNAME .
 *.rblx.co CNAME .
 rdbl.co CNAME .
@@ -11293,8 +11285,6 @@ qrcd.org CNAME .
 *.qrcd.org CNAME .
 qrgenerator.org CNAME .
 *.qrgenerator.org CNAME .
-qxxxp.org CNAME .
-*.qxxxp.org CNAME .
 r-txt.org CNAME .
 *.r-txt.org CNAME .
 links.rbsoft.org CNAME .

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Oct 2025 10:26 UTC
-! Version: 2025.1004.1026.19
+! Last modified: 04 Oct 2025 16:28 UTC
+! Version: 2025.1004.1628.58
 ! Syntax: AdBlock
-! Number of entries: 13775
+! Number of entries: 13778
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1582,6 +1582,7 @@
 ||bloombergnewstoday.com^
 ||bloombex-options.com^
 ||bloomplot.com^
+||blsyconcept.com^
 ||blue-mart.shop^
 ||bluebananabrandeu.shop^
 ||bluebellalingerie.com^
@@ -2980,6 +2981,7 @@
 ||delyanshop.com^
 ||demababy.de^
 ||demays.cc^
+||demeaningfulbrands.com^
 ||demediz.com^
 ||demeindlshop.com^
 ||demonia-finland.com^
@@ -3166,6 +3168,7 @@
 ||dirlabass.com^
 ||dirndlzeit.de^
 ||disciplineh.com^
+||discocho.com^
 ||discount-audio-equipment.com^
 ||discount-baustoff.de^
 ||discount-kobalt.com^
@@ -3195,7 +3198,7 @@
 ||distrilyy.net^
 ||ditac-tech.de^
 ||dithclerk.com^
-||cfd.divine-group.io^
+||divine-group.io^
 ||divingshop.nl^
 ||divisaautopecas.com^
 ||divorion.com^
@@ -3783,6 +3786,7 @@
 ||erika-taschen.de^
 ||erinnersegel.com^
 ||erleseneweine24.com^
+||eroadstore.com^
 ||erodisfashion.com^
 ||ersatzteil-land-mengeler.de^
 ||ersatzteilegeschaft.com^
@@ -4967,6 +4971,7 @@
 ||giftedlux.com^
 ||gifthomegoods.com^
 ||giftigbin.com^
+||eldraw.giftleft.baby^
 ||giftsgalore.net^
 ||giftspeach.com^
 ||giftwarehome.com^
@@ -5245,6 +5250,7 @@
 ||growingcat.com^
 ||grraciously.com^
 ||grs-capital.com^
+||gruavl.com^
 ||gruber-graz.at^
 ||gruber-wien.com^
 ||grubergraz.at^
@@ -6524,6 +6530,7 @@
 ||juwelenpalastdeutschland.com^
 ||installateur.jvb24.at^
 ||jwc-handel.de^
+||aodlchangwangyj.jxckd.shop^
 ||jyaashop.com^
 ||jysk-sale.com^
 ||jyxliness.com^
@@ -6573,6 +6580,7 @@
 ||kamagraeu.de^
 ||kamagraeu.net^
 ||kamagraeu.to^
+||kamagrakaufen24.net^
 ||reviews.kamagraoriginal.to^
 ||kamagrashop.online^
 ||kamagrastore24.org^
@@ -7939,6 +7947,7 @@
 ||meinetiermarken.at^
 ||meingartenhimmel.de^
 ||meinholzz.de^
+||meinkleinerhuhnerstall-at.com^
 ||meinmoda.de^
 ||meinmodellshop.com^
 ||meinsmartshop.com^
@@ -10019,7 +10028,6 @@
 ||radsturm.de^
 ||radtourmitthule.de^
 ||raduniversum.de^
-||radverkauf.com^
 ||radwunder.de^
 ||radzeit.com^
 ||radzenter.com^
@@ -10149,6 +10157,7 @@
 ||rehdergmbh.com^
 ||rehearsalk.com^
 ||reichwahl.de^
+||reifemode.com^
 ||reifen-dreyer.com^
 ||reifen-teile-discount.de^
 ||reifencheck.net^
@@ -10168,7 +10177,6 @@
 ||reishungers.com^
 ||reiterholz.de^
 ||reits-handel.de^
-||rekrutierungszentrum.com^
 ||rekten.com^
 ||relationshipi.com^
 ||relativitye.com^
@@ -10197,13 +10205,11 @@
 ||remstone.eu^
 ||renado.de^
 ||renatainformatica.com^
-||renew-cstmrs.com^
 ||rennkurbelde.com^
 ||rennradergravel.com^
 ||rennraderprada.com^
 ||rennradgeschaft.com^
 ||rentals-flatio.com^
-||rentshoplk.shop^
 ||renzandfriends.shop^
 ||repairbase.eu^
 ||reparatur-service.me^
@@ -10246,7 +10252,6 @@
 ||reubenco.com^
 ||reviewpunt.nl^
 ||revitaprost.eu^
-||revnuhelter.com^
 ||revolutionracecam.com^
 ||revolutionraceinc.com^
 ||revolutionraceshop.com^
@@ -10255,7 +10260,6 @@
 ||revomarkt.com^
 ||revorro.com^
 ||rewards.app^
-||rewebichladen.com^
 ||rextrade.de^
 ||rexzap.com^
 ||reyfinances.com^
@@ -10317,7 +10321,6 @@
 ||ritter-mode.com^
 ||ritteroutlet.de^
 ||rituals-outlet.shop^
-||rituals-prize.com^
 ||rivano.de^
 ||riverfront.at^
 ||rivonza.de^
@@ -10334,7 +10337,6 @@
 ||robelshoes.at^
 ||robertoserafini.store^
 ||robertosthelabel.com^
-||app.robex-ai.com^
 ||robinlipari.shop^
 ||robo-center.com^
 ||robo-fx.co^
@@ -13517,6 +13519,7 @@
 ||wricar.com^
 ||wristbandpin.com^
 ||wrlovesk.life^
+||wrtcmme.com^
 ||wtass.com^
 ||wtidesign.com^
 ||wuffyhunde.de^

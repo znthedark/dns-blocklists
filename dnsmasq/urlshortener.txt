@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Oct 2025 10:51 UTC
-# Version: 2025.1004.1051.23
+# Last modified: 04 Oct 2025 16:31 UTC
+# Version: 2025.1004.1631.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7075
+# Number of entries: 7070
 #
 local=/0.gp/
 local=/00m.in/
@@ -4546,7 +4546,6 @@ local=/qwli.pro/
 local=/qxa.me/
 local=/qxp.cz/
 local=/qxp.sk/
-local=/qxxxp.org/
 local=/qzr2.com/
 local=/r-7.co/
 local=/r-txt.co/
@@ -4555,8 +4554,6 @@ local=/r-txt.org/
 local=/r0m.me/
 local=/r2c.one/
 local=/r4u.in/
-local=/r8z.cn/
-local=/r9f.cn/
 local=/raceclip.com/
 local=/racun.in/
 local=/radiances.beauty/
@@ -4579,7 +4576,6 @@ local=/razi-link.ir/
 local=/short.razinj.com/
 local=/rb.gy/
 local=/rb-story.com/
-local=/rb6.co/
 local=/rb6.me/
 local=/rbl.ms/
 local=/rblx.co/
@@ -4672,7 +4668,6 @@ local=/replug.io/
 local=/replug.link/
 local=/reppiscopo.com/
 local=/repyaccarino.com/
-local=/req.biz/
 local=/reqlick.com/
 local=/reshareme.com/
 local=/reshort.com/
