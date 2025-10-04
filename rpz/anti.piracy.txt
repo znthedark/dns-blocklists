@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759492200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759532580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Oct 2025 11:50 UTC
-; Version: 2025.1003.1150.21
+; Last modified: 03 Oct 2025 23:03 UTC
+; Version: 2025.1003.2303.46
 ; Syntax: RPZ
-; Number of entries: 22022
+; Number of entries: 22006
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2090,8 +2090,6 @@ illimitestreaming.co CNAME .
 *.illimitestreaming.co CNAME .
 instamp3.co CNAME .
 *.instamp3.co CNAME .
-ipstresser.co CNAME .
-*.ipstresser.co CNAME .
 italia-film.co CNAME .
 *.italia-film.co CNAME .
 jpmangas.co CNAME .
@@ -13138,8 +13136,6 @@ isrbx.net CNAME .
 *.isrbx.net CNAME .
 itorrents-igruha.net CNAME .
 *.itorrents-igruha.net CNAME .
-javccdd.net CNAME .
-*.javccdd.net CNAME .
 jetload.net CNAME .
 *.jetload.net CNAME .
 jkanime.net CNAME .
@@ -13300,8 +13296,6 @@ trackers.mlsub.net CNAME .
 *.trackers.mlsub.net CNAME .
 mma-tracker.net CNAME .
 *.mma-tracker.net CNAME .
-mo9999.net CNAME .
-*.mo9999.net CNAME .
 mobilestan.net CNAME .
 *.mobilestan.net CNAME .
 mobtvseries.net CNAME .
@@ -13338,8 +13332,6 @@ moviesjoy.net CNAME .
 *.moviesjoy.net CNAME .
 moviesm4u.net CNAME .
 *.moviesm4u.net CNAME .
-moviesmobile.net CNAME .
-*.moviesmobile.net CNAME .
 moviestape.net CNAME .
 *.moviestape.net CNAME .
 moviesub.net CNAME .
@@ -18498,8 +18490,6 @@ mobiletvshows.site CNAME .
 *.mobiletvshows.site CNAME .
 modestme.site CNAME .
 *.modestme.site CNAME .
-mokmobi.site CNAME .
-*.mokmobi.site CNAME .
 moviego.site CNAME .
 *.moviego.site CNAME .
 mp3flac.site CNAME .
@@ -18952,8 +18942,6 @@ hianime.sx CNAME .
 *.hianime.sx CNAME .
 himovies.sx CNAME .
 *.himovies.sx CNAME .
-ivesoccer.sx CNAME .
-*.ivesoccer.sx CNAME .
 kinox.sx CNAME .
 *.kinox.sx CNAME .
 liveru.sx CNAME .
@@ -20330,8 +20318,6 @@ movie-blog.tv CNAME .
 *.movie-blog.tv CNAME .
 movie4k.tv CNAME .
 *.movie4k.tv CNAME .
-moviekids.tv CNAME .
-*.moviekids.tv CNAME .
 movies2watch.tv CNAME .
 *.movies2watch.tv CNAME .
 mp3juice.tv CNAME .
@@ -21456,8 +21442,6 @@ labaia.ws CNAME .
 *.labaia.ws CNAME .
 limetorrent.ws CNAME .
 *.limetorrent.ws CNAME .
-losmovies.ws CNAME .
-*.losmovies.ws CNAME .
 macx.ws CNAME .
 *.macx.ws CNAME .
 mamahd.ws CNAME .

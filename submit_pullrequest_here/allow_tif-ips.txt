@@ -1,5 +1,8 @@
 # IPs to be removed from the tif IP list.
 
+# https://github.com/hagezi/dns-blocklists/issues/7517
+216.150.1.1
+
 # https://github.com/hagezi/dns-blocklists/issues/7379
 77.88.8.1
 77.88.8.2

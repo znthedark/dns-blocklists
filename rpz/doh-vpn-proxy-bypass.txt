@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759492620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759532460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Oct 2025 11:57 UTC
-; Version: 2025.1003.1157.26
+; Last modified: 03 Oct 2025 23:01 UTC
+; Version: 2025.1003.2301.52
 ; Syntax: RPZ
-; Number of entries: 17482
+; Number of entries: 17456
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2621,8 +2621,6 @@ kellerbier-home.com CNAME .
 *.kellerbier-home.com CNAME .
 kennethhuang.com CNAME .
 *.kennethhuang.com CNAME .
-kepard.com CNAME .
-*.kepard.com CNAME .
 dns.keskinnetwork.com CNAME .
 *.dns.keskinnetwork.com CNAME .
 dns.keskonet.com CNAME .
@@ -2649,8 +2647,6 @@ kproxy.com CNAME .
 *.kproxy.com CNAME .
 kproxysite.com CNAME .
 *.kproxysite.com CNAME .
-dns.kremzein.com CNAME .
-*.dns.kremzein.com CNAME .
 kstdownload.com CNAME .
 *.kstdownload.com CNAME .
 hdns.ksyun.com CNAME .
@@ -2801,8 +2797,6 @@ httpdns.meituan.com CNAME .
 *.httpdns.meituan.com CNAME .
 httpdnsvip.meituan.com CNAME .
 *.httpdnsvip.meituan.com CNAME .
-mendozasdelivery.com CNAME .
-*.mendozasdelivery.com CNAME .
 ss.microbaidu.com CNAME .
 *.ss.microbaidu.com CNAME .
 microvpn.com CNAME .
@@ -2813,8 +2807,6 @@ mikewaddick.com CNAME .
 *.mikewaddick.com CNAME .
 hihihi.minecraftnoob.com CNAME .
 *.hihihi.minecraftnoob.com CNAME .
-nibba.minecraftnoob.com CNAME .
-*.nibba.minecraftnoob.com CNAME .
 miniprox.com CNAME .
 *.miniprox.com CNAME .
 httpdns.browser.miui.com CNAME .
@@ -12195,8 +12187,6 @@ pleaseworkughhfd.dob.jp CNAME .
 *.pleaseworkughhfd.dob.jp CNAME .
 iij.jp CNAME .
 *.iij.jp CNAME .
-lumes.jp CNAME .
-*.lumes.jp CNAME .
 tngch.mydns.jp CNAME .
 *.tngch.mydns.jp CNAME .
 kyotocatholicchurch.myogaya.jp CNAME .
@@ -12545,8 +12535,6 @@ www.pleaseinput.html-5.me CNAME .
 *.www.pleaseinput.html-5.me CNAME .
 dns.huas.me CNAME .
 *.dns.huas.me CNAME .
-dns.indust.me CNAME .
-*.dns.indust.me CNAME .
 iportal.me CNAME .
 *.iportal.me CNAME .
 jkdns.me CNAME .
@@ -14875,8 +14863,6 @@ dns.mikeliu.org CNAME .
 *.dns.mikeliu.org CNAME .
 mitmproxy.org CNAME .
 *.mitmproxy.org CNAME .
-only-shooting-stars-breakthe.moldeo.org CNAME .
-*.only-shooting-stars-breakthe.moldeo.org CNAME .
 later.monkxy.org CNAME .
 *.later.monkxy.org CNAME .
 vpn.mozilla.org CNAME .
@@ -16145,8 +16131,6 @@ hiddendragon.site CNAME .
 *.hiddendragon.site CNAME .
 dns.jcdn.site CNAME .
 *.dns.jcdn.site CNAME .
-joker81fansbase.site CNAME .
-*.joker81fansbase.site CNAME .
 khome.site CNAME .
 *.khome.site CNAME .
 dns.l337.site CNAME .
@@ -16201,16 +16185,12 @@ dns.p3k.sk CNAME .
 *.dns.p3k.sk CNAME .
 surfshark.sk CNAME .
 *.surfshark.sk CNAME .
-dns.ios.so CNAME .
-*.dns.ios.so CNAME .
 dns.elemental.software CNAME .
 *.dns.elemental.software CNAME .
 arashi.solutions CNAME .
 *.arashi.solutions CNAME .
 dns.cloudtrust.solutions CNAME .
 *.dns.cloudtrust.solutions CNAME .
-dns.insigne.solutions CNAME .
-*.dns.insigne.solutions CNAME .
 dns.lupine.solutions CNAME .
 *.dns.lupine.solutions CNAME .
 mabuktogel.solutions CNAME .
@@ -16459,8 +16439,6 @@ hk.jason666.top CNAME .
 *.hk.jason666.top CNAME .
 jimmyshjj.top CNAME .
 *.jimmyshjj.top CNAME .
-adguard.johanliebert.top CNAME .
-*.adguard.johanliebert.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
 2024.laijy.top CNAME .
@@ -16971,8 +16949,6 @@ kids.vietdns.vn CNAME .
 *.kids.vietdns.vn CNAME .
 adsl.viettel.vn CNAME .
 *.adsl.viettel.vn CNAME .
-gcpsk12.k.vu CNAME .
-*.gcpsk12.k.vu CNAME .
 uto1.k.vu CNAME .
 *.uto1.k.vu CNAME .
 larkin.wang CNAME .
@@ -17315,8 +17291,6 @@ ko-18948-tr.xyz CNAME .
 *.ko-18948-tr.xyz CNAME .
 www-proxy.konstl01.xyz CNAME .
 *.www-proxy.konstl01.xyz CNAME .
-kx-97795-tr.xyz CNAME .
-*.kx-97795-tr.xyz CNAME .
 tr.league1.xyz CNAME .
 *.tr.league1.xyz CNAME .
 ledfordmiddleschool.xyz CNAME .

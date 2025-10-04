@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 23:07 UTC
-# Version: 2025.0926.2307.56
+# Last modified: 03 Oct 2025 23:10 UTC
+# Version: 2025.1003.2310.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 620
+# Number of entries: 623
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -67,6 +67,9 @@
 0.0.0.0 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
@@ -92,6 +95,7 @@
 0.0.0.0 aax-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott.amazon-adsystem.com
 0.0.0.0 aax-us-cpm.amazon-adsystem.amazon.com
+0.0.0.0 aax-us-east-1-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-us-east-dtb-mobile.amazon-adsystem.com
 0.0.0.0 aax-us-east-dtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-ott.amazon-adsystem.com
@@ -368,7 +372,6 @@
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 h4g3z1-native.amazon.web.app
-0.0.0.0 iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 identity.browserapps.amazon.de
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 insights.video.a2z.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 11:57 UTC
-# Version: 2025.1003.1157.26
+# Last modified: 03 Oct 2025 23:01 UTC
+# Version: 2025.1003.2301.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8741
+# Number of entries: 8728
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2589,7 +2589,6 @@ local=/incog.works/
 local=/adblock.indianets.net/
 local=/indiaproxy.win/
 local=/indo-ssh.com/
-local=/dns.indust.me/
 local=/dns.indybanipal.com/
 local=/dns.inforlogia.com/
 local=/doh.infracell.net/
@@ -2609,7 +2608,6 @@ local=/inpssh.online/
 local=/qlf-doh.inria.fr/
 local=/d1.insec.link/
 local=/srv.insec.link/
-local=/dns.insigne.solutions/
 local=/premiumtier-network.instadart.net/
 local=/instant-vpn.com/
 local=/instantunblock.com/
@@ -2625,7 +2623,6 @@ local=/dns.invent.hr/
 local=/invisv.com/
 local=/ion.pm/
 local=/dns.cloud.ionutl.ro/
-local=/dns.ios.so/
 local=/ioxy.de/
 local=/iozoi.cn/
 local=/ipbuzz.net/
@@ -2753,7 +2750,6 @@ local=/vps2.jnraptor.net/
 local=/home.jobytan.com/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
-local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
 local=/johneldenring.lol/
 local=/child.joindns4.eu/
@@ -2761,7 +2757,6 @@ local=/child-noads.joindns4.eu/
 local=/noads.joindns4.eu/
 local=/protective.joindns4.eu/
 local=/unfiltered.joindns4.eu/
-local=/joker81fansbase.site/
 local=/opencdn.jomodns.com/
 local=/joouddo.ru/
 local=/josephfamily.org/
@@ -2791,7 +2786,6 @@ local=/justahotm3ss.xyz/
 local=/ad.justincounts.com/
 local=/dns.justinnetworkingsolutions.com/
 local=/sciencerocks.justlearning.net/
-local=/gcpsk12.k.vu/
 local=/uto1.k.vu/
 local=/adguard.k-likhachev.ru/
 local=/kind-fox-975.k12biology.com/
@@ -2830,7 +2824,6 @@ local=/doh.kel.pe/
 local=/kellerbier-home.com/
 local=/dns.kellys.pw/
 local=/kennethhuang.com/
-local=/kepard.com/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
 local=/dns.kescher.at/
@@ -2893,7 +2886,6 @@ local=/dart.kpsn.org/
 local=/dns.kpsn.dev/
 local=/pips.kpsn.org/
 local=/adblock.krctech.dev/
-local=/dns.kremzein.com/
 local=/dns.kriswerry.nl/
 local=/xray.krnl.eu/
 local=/dns.krol.cloud/
@@ -2907,7 +2899,6 @@ local=/dns.kukal.cz/
 local=/agh.kul-lippek.de/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
-local=/kx-97795-tr.xyz/
 local=/dns.kxy.ink/
 local=/dn.kyay006.cn/
 local=/joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org/
@@ -3047,7 +3038,6 @@ local=/doh.lujiacai.top/
 local=/lukscasino-542-tr.xyz/
 local=/dns.lululu.dev/
 local=/dns.luma-medien.com/
-local=/lumes.jp/
 local=/luminati.io/
 local=/luminatinet.com/
 local=/pure.lunetra.online/
@@ -3164,7 +3154,6 @@ local=/httpdns.meituan.com/
 local=/httpdnsvip.meituan.com/
 local=/dns.melvin2204.nl/
 local=/membean.cf/
-local=/mendozasdelivery.com/
 local=/meowless.club/
 local=/researchedu.mesaayuda.net/
 local=/testaghome.meshkov.info/
@@ -3197,7 +3186,6 @@ local=/rwkdwpwsyv48.mikopono.nl/
 local=/ukns.milangas2.top/
 local=/dns.milkpie.one/
 local=/hihihi.minecraftnoob.com/
-local=/nibba.minecraftnoob.com/
 local=/aitkcrev.minhduc.pw/
 local=/minilla.store/
 local=/miniprox.com/
@@ -3226,7 +3214,6 @@ local=/dot.modsh.top/
 local=/doh.us.moe.tips/
 local=/www-nsc.moebh.me/
 local=/adguard.mokocup.dev/
-local=/only-shooting-stars-breakthe.moldeo.org/
 local=/dns.molinero.dev/
 local=/naganohara-yoimiya.momokko.moe/
 local=/dns.momou.ch/

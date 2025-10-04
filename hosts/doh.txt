@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 11:57 UTC
-# Version: 2025.1003.1157.01
+# Last modified: 03 Oct 2025 23:02 UTC
+# Version: 2025.1003.2302.26
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3660
+# Number of entries: 3653
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1827,7 +1827,6 @@
 0.0.0.0 www.incaseineeditoneday.com
 0.0.0.0 dns.inclusioproject.com
 0.0.0.0 adblock.indianets.net
-0.0.0.0 dns.indust.me
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
 0.0.0.0 doh.infracell.net
@@ -1847,14 +1846,12 @@
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 d1.insec.link
 0.0.0.0 srv.insec.link
-0.0.0.0 dns.insigne.solutions
 0.0.0.0 premiumtier-network.instadart.net
 0.0.0.0 dns.interhub.cc
 0.0.0.0 intertop.link
 0.0.0.0 dns.invent.hr
 0.0.0.0 ion.pm
 0.0.0.0 dns.cloud.ionutl.ro
-0.0.0.0 dns.ios.so
 0.0.0.0 iozoi.cn
 0.0.0.0 dns.ipoac.nl
 0.0.0.0 dns.iqiyi.com
@@ -1930,7 +1927,6 @@
 0.0.0.0 home.jobytan.com
 0.0.0.0 dns.joey01245.nl
 0.0.0.0 samsung.dns.joey01245.nl
-0.0.0.0 adguard.johanliebert.top
 0.0.0.0 dns.johndave.me
 0.0.0.0 johneldenring.lol
 0.0.0.0 child.joindns4.eu
@@ -2046,7 +2042,6 @@
 0.0.0.0 dns.kpsn.dev
 0.0.0.0 pips.kpsn.org
 0.0.0.0 adblock.krctech.dev
-0.0.0.0 dns.kremzein.com
 0.0.0.0 dns.kriswerry.nl
 0.0.0.0 xray.krnl.eu
 0.0.0.0 dns.krol.cloud
@@ -2059,7 +2054,6 @@
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
 0.0.0.0 dns.kuuhaku.moe
-0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 dns.kxy.ink
 0.0.0.0 dn.kyay006.cn
 0.0.0.0 agh.kyusang.win
@@ -2239,7 +2233,6 @@
 0.0.0.0 httpdns.meituan.com
 0.0.0.0 httpdnsvip.meituan.com
 0.0.0.0 dns.melvin2204.nl
-0.0.0.0 mendozasdelivery.com
 0.0.0.0 meowless.club
 0.0.0.0 testaghome.meshkov.info
 0.0.0.0 dns.mestdag.fr

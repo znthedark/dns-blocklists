@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 11:50 UTC
-# Version: 2025.1003.1150.21
+# Last modified: 03 Oct 2025 23:03 UTC
+# Version: 2025.1003.2303.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11011
+# Number of entries: 11003
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4768,7 +4768,6 @@ local=/iplive.club/
 local=/iplusfree.org/
 local=/ipmart-forum.com/
 local=/ipstress.in/
-local=/ipstresser.co/
 local=/ipstresser.com/
 local=/ipstresser.wtf/
 local=/iptorrents.com/
@@ -4846,7 +4845,6 @@ local=/tracker1.itzmx.com/
 local=/tracker2.itzmx.com/
 local=/tracker3.itzmx.com/
 local=/tracker4.itzmx.com/
-local=/ivesoccer.sx/
 local=/iwannawatch.is/
 local=/iwatchfreestreams.to/
 local=/ixinews.com/
@@ -4866,7 +4864,6 @@ local=/jannatmirinternetservice.com/
 local=/japscan.ws/
 local=/javafooty.com/
 local=/javbus.com/
-local=/javccdd.net/
 local=/javfeed.com/
 local=/javjunkies.com/
 local=/javlibrary.com/
@@ -5469,7 +5466,6 @@ local=/losmovies.fun/
 local=/losmovies.live/
 local=/losmovies.sh/
 local=/losmovies.us/
-local=/losmovies.ws/
 local=/lossless.cd/
 local=/losslessclub.com/
 local=/lostfilm.tv/
@@ -5838,7 +5834,6 @@ local=/mmosite.com/
 local=/mmoviesjoy.com/
 local=/mmult.ru/
 local=/mmvh01.com/
-local=/mo9999.net/
 local=/mob.org/
 local=/mobdro.to/
 local=/mobilesites.org/
@@ -5892,7 +5887,6 @@ local=/mojaloss.stream/
 local=/mojblink.com/
 local=/mojobb.com/
 local=/mokmobi.ovh/
-local=/mokmobi.site/
 local=/moneybag.me/
 local=/monflix.rip/
 local=/tracker.monikadesign.uk/
@@ -5965,7 +5959,6 @@ local=/moviehdfree.net/
 local=/movieheaven.org/
 local=/moviehunterz.cc/
 local=/moviejesus.com/
-local=/moviekids.tv/
 local=/movieking.cc/
 local=/movielabor.com/
 local=/movielair.cc/
@@ -6022,7 +6015,6 @@ local=/moviesjoy.to/
 local=/moviesjoytv.to/
 local=/moviesm4u.net/
 local=/moviesmania.info/
-local=/moviesmobile.net/
 local=/moviesmod.dev/
 local=/moviesmod.email/
 local=/moviesmod.plus/

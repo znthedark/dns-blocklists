@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 11:57 UTC
-# Version: 2025.1003.1157.01
+# Last modified: 03 Oct 2025 23:02 UTC
+# Version: 2025.1003.2302.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3209
+# Number of entries: 3202
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1533,7 +1533,6 @@ local=/dns2.in-berlin.de/
 local=/incaseineeditoneday.com/
 local=/dns.inclusioproject.com/
 local=/adblock.indianets.net/
-local=/dns.indust.me/
 local=/dns.indybanipal.com/
 local=/dns.inforlogia.com/
 local=/doh.infracell.net/
@@ -1551,14 +1550,12 @@ local=/inpssh.online/
 local=/qlf-doh.inria.fr/
 local=/d1.insec.link/
 local=/srv.insec.link/
-local=/dns.insigne.solutions/
 local=/premiumtier-network.instadart.net/
 local=/dns.interhub.cc/
 local=/intertop.link/
 local=/dns.invent.hr/
 local=/ion.pm/
 local=/dns.cloud.ionutl.ro/
-local=/dns.ios.so/
 local=/iozoi.cn/
 local=/dns.ipoac.nl/
 local=/dns.iqiyi.com/
@@ -1628,7 +1625,6 @@ local=/layer1.jnraptor.net/
 local=/pi4.jnraptor.net/
 local=/home.jobytan.com/
 local=/dns.joey01245.nl/
-local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
 local=/johneldenring.lol/
 local=/child.joindns4.eu/
@@ -1736,7 +1732,6 @@ local=/dart.kpsn.org/
 local=/dns.kpsn.dev/
 local=/pips.kpsn.org/
 local=/adblock.krctech.dev/
-local=/dns.kremzein.com/
 local=/dns.kriswerry.nl/
 local=/xray.krnl.eu/
 local=/dns.krol.cloud/
@@ -1749,7 +1744,6 @@ local=/dns.kukal.cz/
 local=/agh.kul-lippek.de/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
-local=/kx-97795-tr.xyz/
 local=/dns.kxy.ink/
 local=/dn.kyay006.cn/
 local=/agh.kyusang.win/
@@ -1923,7 +1917,6 @@ local=/ovhcloud.mehmetarikan.tech/
 local=/httpdns.meituan.com/
 local=/httpdnsvip.meituan.com/
 local=/dns.melvin2204.nl/
-local=/mendozasdelivery.com/
 local=/meowless.club/
 local=/testaghome.meshkov.info/
 local=/dns.mestdag.fr/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Oct 2025 10:26 UTC
-! Version: 2025.1003.1026.49
+! Last modified: 03 Oct 2025 23:19 UTC
+! Version: 2025.1003.2319.17
 ! Syntax: AdBlock
-! Number of entries: 13858
+! Number of entries: 13819
 !
 ||01broker.com^
 ||01crypto.com^
@@ -6281,7 +6281,6 @@
 ||inventorypromotion.com^
 ||inventoryretailer.com^
 ||investbook.fr^
-||investcapitalmarkets.com^
 ||investfw.com^
 ||investi-ray.com^
 ||investify-global.com^
@@ -6334,7 +6333,6 @@
 ||teufel.discounts.it.com^
 ||euvivosale.it.com^
 ||jlindebergseu.it.com^
-||shopsasfinag.it.com^
 ||it-con.org^
 ||itagprotracker.com^
 ||itapellets.de^
@@ -6451,7 +6449,6 @@
 ||jochen-finanzen.de^
 ||jodoma-agentur.org^
 ||jodybertness.shop^
-||joeai.shop^
 ||jogosrcg.com^
 ||johannabruecknerkeramik.shop^
 ||johannisstein.eu^
@@ -6504,7 +6501,6 @@
 ||juliakrakowiak.shop^
 ||juliastil.de^
 ||julielektronik.de^
-||julischnetzer.at^
 ||juma-finanzen.de^
 ||jumbokicks.com^
 ||jumigoods.com^
@@ -6587,7 +6583,6 @@
 ||kamineo24.de^
 ||kamingmbh.de^
 ||kaminholz-briketts-holzpellets.eu^
-||kaminholzbeumer.de^
 ||kaminholzrhein.shop^
 ||kaminmarket.de^
 ||kammerjaeger-notruf.at^
@@ -6626,7 +6621,6 @@
 ||karlena.de^
 ||karleykahlo.com^
 ||karlfashions.com^
-||karlgarten.com^
 ||karlkani.shop^
 ||karmavana.de^
 ||karpfenrutenneu.com^
@@ -6668,7 +6662,6 @@
 ||kaufhauswerkzeuge.com^
 ||kaufica.de^
 ||kaufkomet24.de^
-||kauflaand.shop^
 ||kaufmann-modehaus.com^
 ||kaufmannshop.de^
 ||kaufspiel.de^
@@ -6733,7 +6726,6 @@
 ||kickswelt.de^
 ||kidebro.com^
 ||kidgames.life^
-||kids-craft.de^
 ||kidsstylehub.com^
 ||kiks-de.shop^
 ||killenclinical.com^
@@ -6760,7 +6752,6 @@
 ||kindundkrebs.eu^
 ||kingequipshop.com^
 ||kingofbuy.com^
-||kingofcosmetic.com^
 ||kingrack.com^
 ||kingseven-shop.com^
 ||kingsevenshop.de^
@@ -6777,7 +6768,7 @@
 ||kircheaustreten.de^
 ||kirmes-rueckers.de^
 ||kirost.com^
-||kisforstundholz.de^
+||kisforstholz.de^
 ||kisholz.com^
 ||kissen-sales.com^
 ||kita-much.de^
@@ -7074,7 +7065,6 @@
 ||langguthdeava.shop^
 ||langlebigwerkzeug.com^
 ||lantana24.de^
-||lanvin.at^
 ||lanzonia.com^
 ||laptop-akkus.de^
 ||laptop-akkus.eu^
@@ -7082,7 +7072,6 @@
 ||laptopbatterie.ch^
 ||laptopdiscount.net^
 ||larahegedal.de^
-||laranora.de^
 ||lareziholz.com^
 ||larrobe.com^
 ||lasenzagermany.de^
@@ -7121,7 +7110,6 @@
 ||lauradiva.shop^
 ||lauramunchen.com^
 ||laurenwebers.com^
-||lautenberg-mode.de^
 ||lautsprecherkko.de^
 ||lavera-zurich.com^
 ||lavers.de^
@@ -7134,7 +7122,6 @@
 ||lazvik.de^
 ||lazys-marketing.de^
 ||lbccnet.com^
-||lc-markt.co^
 ||lcg.com^
 ||le-cartier.com^
 ||leadershipk.com^
@@ -7217,9 +7204,7 @@
 ||lennartkreutz.de^
 ||leoapotheke-detmold.de^
 ||leobabysoutlet.shop^
-||leohandel24.de^
 ||leohome.shop^
-||leolia-tech.de^
 ||leonie-fashion.at^
 ||leonie-mode.de^
 ||leopold-mode.com^
@@ -7242,7 +7227,6 @@
 ||levonis.de^
 ||lexingtonplus.com^
 ||leyna-moda.de^
-||lezido.de^
 ||lfnyxy.com^
 ||lh-broker.com^
 ||lh-crypto.com^
@@ -7354,14 +7338,12 @@
 ||litise.com^
 ||litroux.nl^
 ||litroux-de.com^
-||littledreamersshop.com^
 ||littledutchev.shop^
 ||littoncapitalgroup.com^
 ||liujoukshop.com^
 ||livaxxen.com^
 ||invest.livaxxen.org^
 ||market.livaxxen.org^
-||ledger.live-transactions-check.com^
 ||livelyberlin.com^
 ||livemintnewstoday.com^
 ||livetrader.eu^
@@ -7439,7 +7421,6 @@
 ||lontl-fx.com^
 ||lookberg.de^
 ||loomzo.com^
-||lopgedstian.com^
 ||lora-zurich.com^
 ||loradea.de^
 ||loramode.de^
@@ -7459,7 +7440,6 @@
 ||losungdirekte.com^
 ||losungschnell.com^
 ||lotfittinge.com^
-||web.lotradecoin.net^
 ||lottoargentina.net^
 ||lottoaustralia.org^
 ||lottobulgaria.org^
@@ -7512,7 +7492,6 @@
 ||lowcostlode.com^
 ||lowela.de^
 ||lowhikingboots.com^
-||lowpriceloomhub.com^
 ||loxologyshop.com^
 ||lozenda.de^
 ||lpb-garten.de^
@@ -7580,7 +7559,6 @@
 ||luxedore.com^
 ||de4.luxedressshop.com^
 ||luxefetch.com^
-||luxemall.link^
 ||luxhause.de^
 ||luxmaher.at^
 ||luxnoo.de^
@@ -7612,7 +7590,6 @@
 ||ma-kaminholz.de^
 ||maaapsale.shop^
 ||mabanco.com^
-||machershop.net^
 ||machicshop.com^
 ||machineland.de^
 ||machinerypartsmarket.com^
@@ -7681,7 +7658,6 @@
 ||makitabillig.de^
 ||makitaoffiziell.com^
 ||mako-gmbh.de^
-||makoenergie.de^
 ||malaccastraitdaily.com^
 ||malawitreff.de^
 ||maldano.com^
@@ -7691,7 +7667,6 @@
 ||malen-und-reisen.de^
 ||malerbedarf-sales.com^
 ||maliseandeve.com^
-||malisen.de^
 ||mall-outdoors.com^
 ||mallof.shop^
 ||malls-12.top^
@@ -7754,7 +7729,6 @@
 ||mariett-mode.de^
 ||marimekko-hots.com^
 ||marinepartdepots.com^
-||marioautopecas.com^
 ||marionmaurer.com^
 ||marivaro.com^
 ||markeair.com^
@@ -7765,7 +7739,6 @@
 ||marketgiants.com^
 ||marketinghouse.at^
 ||marketoptions.com^
-||marketplacetopshop.com^
 ||markets-capital.com^
 ||markets24.shop^
 ||markets365.net^
@@ -7785,11 +7758,9 @@
 ||marmot-outlet.com^
 ||marpure.shop^
 ||marrbudm.top^
-||marshallaudio-eu.top^
 ||marsilius-tech.de^
 ||marta-paul.shop^
 ||marta-paulbuy.shop^
-||martialarts-plus.com^
 ||martincouture.ch^
 ||martinvince.com^
 ||martizz.store^
@@ -7833,8 +7804,6 @@
 ||mavicsale.com^
 ||maviele.com^
 ||homegenius.mavilyxo.monster^
-||mavyella.com^
-||max-steroids.com^
 ||maxi-markt.com^
 ||maximuml.com^
 ||maxmedi.de^
@@ -7931,7 +7900,6 @@
 ||mehsam-transport.com^
 ||meier-boutique.ch^
 ||meierfeld.com^
-||meiergartenbau.de^
 ||meiers.eu^
 ||meierschweiz.de^
 ||meierwien.at^
@@ -8068,7 +8036,6 @@
 ||mh63trans.de^
 ||mhv-vertrieb.de^
 ||mi-tische.de^
-||mia-modehaus.ch^
 ||mialea.de^
 ||miamarket.de^
 ||micaraaeu.shop^
@@ -8096,7 +8063,6 @@
 ||midrisetpants.com^
 ||mieleoutlet.com^
 ||mig-versand.de^
-||mihovorwyv.shop^
 ||miioshop.com^
 ||mikewatch2.com^
 ||mikiscardshop.shop^
@@ -8134,8 +8100,6 @@
 ||mirainvestments.ltd^
 ||miraiweb.org^
 ||mirajankowska.com^
-||miravastore.shop^
-||mireillehauck.com^
 ||misioletras.com^
 ||eu.misscosy.com^
 ||missharris.com^
@@ -8191,7 +8155,6 @@
 ||mobilihomedecor.com^
 ||mobilizex.com^
 ||mobilmitkids.de^
-||mobilstock-container.de^
 ||mocvienhomestay.com^
 ||moda-monica.de^
 ||moda-villa.com^
@@ -8217,7 +8180,6 @@
 ||modehaus-beckers.de^
 ||modehaus-dresden.com^
 ||modehaus-dusseldorf.de^
-||modehaus-meyer.de^
 ||modehaus-wagner.de^
 ||modehaus-wolfsburg.de^
 ||modehausessen.de^
@@ -8297,7 +8259,6 @@
 ||monopolyclothing.com^
 ||monostarscope.com^
 ||monovia.de^
-||monparis-mall.shop^
 ||monpatrimoineavenir.com^
 ||monpetit-kinderzimmer.de^
 ||monplantfraise.fr^
