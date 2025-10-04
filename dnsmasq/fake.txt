@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 23:19 UTC
-# Version: 2025.1003.2319.17
+# Last modified: 04 Oct 2025 04:56 UTC
+# Version: 2025.1004.0456.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13819
+# Number of entries: 13812
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -8402,7 +8402,6 @@ local=/muzam.de/
 local=/muzenaudio.com/
 local=/mvfahrrad.de/
 local=/mvfurs.com/
-local=/mvhulvrd.shop/
 local=/my-pawly.com/
 local=/my-pills.biz/
 local=/my-schaschlik.shop/
@@ -8421,7 +8420,6 @@ local=/myfunnysocks.de/
 local=/mygames-at.de/
 local=/mygamesstore.com/
 local=/myhallo.de/
-local=/myhanna.de/
 local=/myhannaeu.shop/
 local=/myhauswelt.de/
 local=/myhermes-at.vip/
@@ -8574,7 +8572,6 @@ local=/naturalcosmeticssales.com/
 local=/naturallyh.com/
 local=/naturallyk.com/
 local=/naturalzuda.de/
-local=/naturbrenner.de/
 local=/naturcontact.de/
 local=/nature-loveoutlet.shop/
 local=/naturebeautyhealth.com/
@@ -8614,7 +8611,6 @@ local=/neinfpsl.com/
 local=/nekan-handel.de/
 local=/nellura.com/
 local=/neluren.com/
-local=/nelyz.com/
 local=/nemanex.at/
 local=/nemino.net/
 local=/neo-electro.com/
@@ -8701,7 +8697,6 @@ local=/newlivingroomchairs.com/
 local=/newmissstylish.com/
 local=/newmold.store/
 local=/newoutdoorpatio.com/
-local=/newsfinas.de/
 local=/newshopmarket.com/
 local=/newton-invest.com/
 local=/newtoolstore.com/
@@ -8737,7 +8732,6 @@ local=/nidworkers.com/
 local=/niebowgebie.com/
 local=/niederlandeshop.de/
 local=/niekewu-tech.de/
-local=/nieparis-work.top/
 local=/nifyanifest.com/
 local=/nig.com/
 local=/nightoperators.com/
@@ -8754,7 +8748,6 @@ local=/nikesuomishop.com/
 local=/niknfactory.com/
 local=/nilamiwelp.com/
 local=/nilnook.de/
-local=/nime24.de/
 local=/nina-nicole.de/
 local=/ninamodehaus.de/
 local=/ninelife.at/
