@@ -12146,13 +12146,6 @@
       }
     },
     {
-      "PK": "some-trade.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "somee.com",
       "action": {
         "do": 0,
@@ -14576,13 +14569,6 @@
     },
     {
       "PK": "worldblogged.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "worldsoffinance.com",
       "action": {
         "do": 0,
         "status": 1

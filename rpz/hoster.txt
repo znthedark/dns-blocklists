@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759573620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759660020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Oct 2025 10:27 UTC
-; Version: 2025.1004.1027.59
+; Last modified: 05 Oct 2025 10:27 UTC
+; Version: 2025.1005.1027.53
 ; Syntax: RPZ
-; Number of entries: 4324
+; Number of entries: 4320
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1696,8 +1696,6 @@ socialsmp.com CNAME .
 *.socialsmp.com CNAME .
 solidwebhost.com CNAME .
 *.solidwebhost.com CNAME .
-some-trade.com CNAME .
-*.some-trade.com CNAME .
 somee.com CNAME .
 *.somee.com CNAME .
 sophiashantidaniel.com CNAME .
@@ -1920,8 +1918,6 @@ wopop.com CNAME .
 *.wopop.com CNAME .
 worldblogged.com CNAME .
 *.worldblogged.com CNAME .
-worldsoffinance.com CNAME .
-*.worldsoffinance.com CNAME .
 wpsuo.com CNAME .
 *.wpsuo.com CNAME .
 wssblogs.com CNAME .

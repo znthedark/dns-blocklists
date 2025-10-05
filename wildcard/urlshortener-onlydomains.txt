@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Oct 2025 16:31 UTC
-# Version: 2025.1004.1631.09
+# Last modified: 05 Oct 2025 10:28 UTC
+# Version: 2025.1005.1028.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 7070
+# Number of entries: 7072
 #
 0.gp
 00m.in
@@ -142,6 +142,7 @@ a.189.cn
 2i1i.cn
 2it.info
 2kgam.es
+2l2.me
 2la.eu
 2link.cc
 2link.in
@@ -436,6 +437,7 @@ adlinkcash.com
 adlinkpay.com
 adlinksumo.com
 adlvy.com
+adlyshort.com
 adm.to
 adobe.ly
 adobefiles.com
@@ -526,6 +528,7 @@ allbio.link
 alli.pub
 alllinks.in
 alllinksinbio.com
+allmylinksinoneplace.com
 allytab.com
 alnk.to
 alol.io
@@ -1097,6 +1100,7 @@ c2c.fm
 c2d.in
 c2mc.link
 c4u.ovh
+c4x.ir
 c6.rip
 c80.us
 c87.to
@@ -1403,6 +1407,7 @@ cpbr.link
 cph.bz
 cplay.top
 cplink.co
+cplink.me
 cpmlink.net
 cpn.mobi
 cptl.me
@@ -1774,6 +1779,7 @@ earthtoday.info
 easybio.info
 easylinkref.com
 easyuri.com
+easyurl.me
 easyurl.net
 easyurl.site
 easyurlshortener.com
@@ -1979,6 +1985,7 @@ fig.page
 fighter234.best
 filmygallery1.my
 filz.fr
+fincrif.com
 find-url.co
 fire.to
 firsturl.de
@@ -2620,6 +2627,7 @@ infy.com
 ingatdomainku.org
 inicio.link
 inkristal777.motorcycles
+inlnk.co
 inlnk.ru
 inmusic.to
 inreply.to
@@ -3064,6 +3072,7 @@ lih.kg
 lihat.info
 lihi.biz
 lihi.cc
+lihi.io
 lihi.one
 lihi.pro
 lihi.tv
@@ -3229,6 +3238,7 @@ linklift.in
 linkloom.link
 linklyhq.com
 linkme.lol
+linkmeow.com
 linkmngr.com
 linkmonet.com
 linkmpomax.live
@@ -3560,6 +3570,7 @@ maxwin.top
 mayaediciones.com
 mayedu.ec
 mayocl.in
+mb4.com
 mbapp.io
 mbayaq.co
 mbdns.uk
@@ -3944,6 +3955,7 @@ ng.je
 nglink.id
 ngnbrand.com
 ngrid.com
+ngshortx.com
 nhbvi.com
 nicou.ch
 nie.ge
@@ -4182,6 +4194,7 @@ owlti.ng
 owy.mn
 oxelt.gl
 oxf.am
+oxo.us
 oyn.at
 oyo.net
 oyz.io
@@ -4391,6 +4404,7 @@ prodd.co
 profeelo.com
 short.profi.lv
 profile.to
+profile-link.net
 projects.id
 prolinks.me
 promo-visits.site
@@ -4783,7 +4797,6 @@ s3w.net
 s4.is
 s4w.in
 s7y.us
-sa-link.cc
 saasmaster.link
 s.sachiniyer.com
 sactiny.com
@@ -4987,13 +5000,11 @@ short.ms
 short.ovh
 short.pe
 short.pk
-short.re
 short.to
 short-gg.org
 short-link.co
 short-link.me
 short-ly.co
-short-url.co
 short-url.dk
 short-url.link
 short-url.org
@@ -5028,7 +5039,6 @@ shorten.tv
 shorten.world
 shorten-url.com
 shortened.website
-shortenedlinks.com
 shortenedurl.me
 shortener.live
 shortener.net
@@ -5083,7 +5093,6 @@ shortit.me
 shortlinc.com
 shortlink.cz
 shortlink.gr
-shortlink.is
 shortlink.sbs
 shortlink.uk
 shortlink88.xyz
@@ -5092,6 +5101,7 @@ shortlinkpanel.com
 shortlinkurl.id
 shortll.com
 shortlurl.com
+shortly.at
 shortly.cc
 shortly.click
 shortly.cyou
@@ -5105,11 +5115,11 @@ shortme.me
 shortme.work
 shortme.xyz
 shortmenu.com
+shortmylink.co
 shortna.me
 shortner.app
 shortner.cc
 shortner.us
-shortnermaxi.com
 shortnerurl.org
 shortng.com
 shortntrack.com
@@ -5118,6 +5128,7 @@ shortonly.com
 shortorigin.so
 shortpals.online
 shortpro.in
+shortprofile.me
 shortq.link
 shortracz.com
 shortrl.com
@@ -5229,7 +5240,6 @@ shrtxb4d.live
 shrtxtus.wiki
 shrtyo.site
 shrunken.com
-shrunkin.com
 sht.moe
 sht.wf
 shtlink.eu
@@ -5524,7 +5534,6 @@ suakhoacamlam.com
 sub.direct
 sub2unlock.net
 sujo.io
-sukatobrut.xyz
 sumal.ly
 suo.fyi
 suo.im
@@ -5605,6 +5614,7 @@ ta.co
 taap.it
 tabsoft.co
 tabzi.com
+taggpro.me
 taiwangov.com
 takenlink.eu
 taklo.me
@@ -5652,10 +5662,8 @@ tecn.in
 teeny.in
 teenyfy.com
 teeplantage.de
-teil.cc
 tek.io
 teknut.com
-telegramviral.com
 teleko.me
 tellurl.com
 www.temporary-url.com
@@ -5905,6 +5913,7 @@ toss.is
 toto.pe
 totopecah.site
 toui.cc
+tourefly.com
 tourl.in
 tov1.net
 tovgo.cc
@@ -5943,7 +5952,6 @@ tri.ps
 trib.al
 trib.in
 tribn.ir
-trick.ly
 trieuview.life
 trim.cx
 trim.one
@@ -5993,6 +6001,7 @@ tsp.pm
 tst.page
 tsta.rs
 tsz4.me
+tt.gt
 tt.vg
 ttad.me
 ttbad.com
@@ -6026,7 +6035,6 @@ tvurl.cn
 tw.sv
 tw.uy
 twb.nz
-tweetable.link
 tweetburner.com
 twi.im
 twi.kz
@@ -6139,7 +6147,6 @@ upfull.fr
 upld.in
 uplinks.co
 upmchp.us
-upriserz.link
 upt.sh
 upyun.online
 upzat.com
@@ -6169,7 +6176,6 @@ url.reisen
 url.rw
 url.sg
 url.td
-url.vet
 url-qr.tk
 url-s.xyz
 url-shortener.info
@@ -6184,7 +6190,6 @@ url2s.com
 url302x.icu
 url302x.top
 url4.eu
-url4.org
 url4.uk
 url5.eu
 url5.org
@@ -6208,10 +6213,8 @@ urlbit.co
 urlbox.cc
 urlc.net
 urlcentre.com
-urlchecker.info
 urlcort.com
 urlcover.com
-urlcrop.com
 urlcut.at
 urlcut.ch
 urlcut.com
@@ -6239,6 +6242,7 @@ urlhum.com
 urli.ai
 urli.info
 urlies.com
+urlified.com
 urlify.cn
 urlify.link
 urlifypoint.com
@@ -6272,7 +6276,6 @@ urlner.com
 urlnova.com
 urlo.in
 urlot.com
-urlplus.link
 urlplus.net
 urlpoints.com
 urlq.com
@@ -6297,7 +6300,6 @@ urlshor.com
 urlshort.ca
 urlshort.click
 urlshort.dev
-urlshort.host
 urlshort.rest
 urlshort.xyz
 urlshort3x.com
@@ -6333,6 +6335,7 @@ urlth.me
 urltiger.com
 urltiger.li
 urltin.com
+urltiny.one
 urltools.com
 urltta.top
 urlttb.top
@@ -6431,6 +6434,7 @@ vcgo.to
 vd55.com
 vdio.pro
 vea.link
+belink.vebto.com
 vedem.fr
 vegalinks.net
 vehi.co
@@ -6642,7 +6646,6 @@ go.weplayholding.com
 wes.la
 go.westco.mobi
 weworkers.io
-wez.info
 wf0.xin
 wfly.co
 wfryer.me
@@ -6771,7 +6774,6 @@ x.nu
 x-i.me
 x10.mx
 x11.pw
-x2c.eu
 x2t.com
 x2y.me
 x3.cx

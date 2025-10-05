@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Oct 2025 10:27 UTC
-# Version: 2025.1004.1027.59
+# Last modified: 05 Oct 2025 10:27 UTC
+# Version: 2025.1005.1027.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 2162
+# Number of entries: 2160
 #
 000a.de
 000space.com
@@ -1763,7 +1763,6 @@ snn.gr
 social-networking.me
 socialsmp.com
 solidwebhost.com
-some-trade.com
 somee.com
 sophiashantidaniel.com
 sosblog.com
@@ -2094,7 +2093,6 @@ world.mu
 world-blog.de
 world-store.de
 worldblogged.com
-worldsoffinance.com
 wox.cc
 wpmudev.org
 wpsuo.com
